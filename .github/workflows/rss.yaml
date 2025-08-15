@@ -1,0 +1,34 @@
+name: Build & Publish RSS (scheduled)
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate RSS
+        run: |
+          python scripts/fetch_to_rss.py \
+            --api "https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&olderThanEventId=&excludeDemotedProjects=true" \
+            --out "dist/gamefound_spotlight.xml"
+
+      - name: Publish to GitHub Pages (gh-pages)
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: gh-pages
+          force_orphan: true
