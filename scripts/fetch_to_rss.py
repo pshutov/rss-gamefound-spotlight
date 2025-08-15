@@ -11,13 +11,6 @@ import mimetypes
 API_DEFAULT = "https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&olderThanEventId=&excludeDemotedProjects=true"
 BASE_URL = "https://gamefound.com"
 
-TYPE_MAP = {
-    0: "Launch date",
-    1: "Campaign start",
-    3: "New project",
-    6: "24 hours left",
-}
-
 def iso_to_rfc2822(s):
     if s.endswith("Z"):
         s = s.replace("Z", "+00:00")
@@ -40,13 +33,11 @@ def build_rss(data, feed_title, feed_link, feed_desc):
     ET.SubElement(channel, "ttl").text = "15"
 
     for it in data:
-        title_bits = []
-        if it.get("displayTitle"):
-            title_bits.append(it["displayTitle"])
-        tname = TYPE_MAP.get(it.get("type"))
-        if tname:
-            title_bits.append(f"[{tname}]")
-        title = " ".join(title_bits) or (it.get("displayText") or "Update")
+        typ = (it.get("displayTitle") or "").strip()
+        name = (it.get("displayText") or "").strip()
+
+        title = f"[{typ}] {name}".strip() if (typ or name) else "Update"
+        desc = typ or ""
 
         link = urljoin(BASE_URL, it.get("targetUrl","/"))
         guid = str(it.get("platformEventID") or it.get("projectID") or link)
@@ -58,8 +49,6 @@ def build_rss(data, feed_title, feed_link, feed_desc):
         g = ET.SubElement(item, "guid", attrib={"isPermaLink": "false"})
         g.text = guid
         ET.SubElement(item, "pubDate").text = pub_date
-        
-        desc = it.get("displayText") or ""
         ET.SubElement(item, "description").text = desc
 
         img = it.get("displayImageUrl")
