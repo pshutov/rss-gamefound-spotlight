@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 04 Oct 2025 08:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 10:10:53 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Playing With The Big Boys</title>
