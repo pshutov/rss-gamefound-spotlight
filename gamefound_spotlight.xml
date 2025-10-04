@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 04 Oct 2025 17:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 18:14:28 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Los Banditos: The Train Heist Card Game</title>
@@ -28,7 +28,7 @@
       <guid isPermaLink="false">43973</guid>
       <pubDate>Fri, 03 Oct 2025 18:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6139/ca927978-a6f1-4a4c-99d4-2dc372418294.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6139/0995a67e-9030-4e56-9ad9-8387a907b0b1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[New project] Dusk Runners</title>
