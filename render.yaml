@@ -1,0 +1,23 @@
+services:
+  - type: cron
+    name: rss-generator
+    env: docker
+    plan: free
+    schedule: "*/15 * * * *"
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: CODE_BRANCH
+        value: main
+      - key: REPO_SLUG
+        value: pshutov/rss-gamefound-spotlight
+      - key: GIT_USER_NAME
+        value: "Render Bot"
+      - key: GIT_USER_EMAIL
+        value: "bot.noreply@render.com"
+      - key: RSS_OUTPUT_PATH
+        value: "gamefound_spotlight.xml"
+      - key: USE_DB
+        value: "false"
+      # Add these manually in Render dashboard as secrets:
+      # - GH_PAT  (GitHub Personal Access Token with repo access)
+      # - GF_API  (optional custom Gamefound API URL)
