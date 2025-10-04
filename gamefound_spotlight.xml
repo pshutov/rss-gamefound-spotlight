@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 04 Oct 2025 16:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 17:08:40 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Los Banditos: The Train Heist Card Game</title>
+      <link>https://gamefound.com:443/en/projects/seriouslyboardgames/los-banditos-the-train-heist-card-game?ref=</link>
+      <guid isPermaLink="false">43975</guid>
+      <pubDate>Sat, 04 Oct 2025 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6184/b9d18df8-da92-46d6-8183-f91e2db8fdf8.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Playing With The Big Boys</title>
       <link>https://gamefound.com:443/en/projects/creator2000/playing-with-the-big-boys?ref=</link>
