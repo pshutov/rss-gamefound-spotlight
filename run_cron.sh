@@ -3,9 +3,9 @@ set -euo pipefail
 
 : "${REPO_SLUG:?REPO_SLUG is required, e.g. yourname/yourrepo}"
 : "${CODE_BRANCH:=main}"
-: "${RSS_OUTPUT_PATH:=dist/gamefound_spotlight.xml}"
-: "${GIT_USER_NAME:=CI Bot}"
-: "${GIT_USER_EMAIL:=ci@example.com}"
+: "${RSS_OUTPUT_PATH:=gamefound_spotlight.xml}"
+: "${GIT_USER_NAME:=Render Bot}"
+: "${GIT_USER_EMAIL:=noreplay@renderbot.com}"
 : "${USE_DB:=false}"
 : "${GH_PAT:?GH_PAT (GitHub token) is required}"
 
@@ -21,7 +21,6 @@ mkdir -p "$OUTPUT_DIR" "$DB_DIR"
 git config --global user.name "$GIT_USER_NAME"
 git config --global user.email "$GIT_USER_EMAIL"
 
-# Clone the main code branch
 git clone --depth 1 --branch "$CODE_BRANCH" "https://github.com/${REPO_SLUG}.git" "$CODE_DIR"
 cd "$CODE_DIR"
 
@@ -30,11 +29,9 @@ if [[ -n "${GF_API:-}" ]]; then
   API_ARG=(--api "$GF_API")
 fi
 
-# Run Python script to generate RSS
 python3 -V
 python3 fetch_to_rss.py "${API_ARG[@]}" --out "$OUTPUT_DIR/$(basename "$RSS_OUTPUT_PATH")"
 
-# Publish RSS to gh-pages
 GH_PAGES_DIR="${WORKDIR}/gh-pages"
 git clone --no-checkout "$REPO_HTTPS" "$GH_PAGES_DIR"
 cd "$GH_PAGES_DIR"
@@ -58,7 +55,6 @@ else
   git push origin gh-pages
 fi
 
-# Optionally publish DB to runtime-db branch
 if [[ "$USE_DB" == "true" ]]; then
   DB_SOURCE="${CODE_DIR}/data/runtime.sqlite"
   if [[ -f "$DB_SOURCE" ]]; then
