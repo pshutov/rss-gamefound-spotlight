@@ -4,167 +4,182 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 30 Sep 2025 11:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 08:25:38 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
-      <title>[Launch date] The Elder Scrolls: Heroes of Tamriel has a starting date.</title>
-      <link>https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel</link>
-      <guid isPermaLink="false">43920</guid>
-      <pubDate>Tue, 30 Sep 2025 10:00:10 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6096/3ff0a602-84cc-42e3-bb78-3af37f72ccac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Get F***d in the Wild West has a starting date.</title>
-      <link>https://gamefound.com/en/projects/deadwood-games/get-fd-in-the-wild-west</link>
-      <guid isPermaLink="false">43919</guid>
-      <pubDate>Tue, 30 Sep 2025 06:56:20 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5994/a9aa770c-fca0-46bd-bed3-a4379d18620d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Zakazane Ziemie</title>
-      <link>https://gamefound.com/en/projects/kensumi/zakazaneziemie</link>
-      <guid isPermaLink="false">43918</guid>
-      <pubDate>Tue, 30 Sep 2025 05:34:31 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5629/9c759af4-a9ff-4146-ab42-b1430f9a39f9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Mud N Blood: Magnetic Trench Terrain</title>
-      <link>https://gamefound.com/en/projects/print-legends-studio/mud-n-blood-magnetic-trench-terrain</link>
-      <guid isPermaLink="false">43917</guid>
-      <pubDate>Mon, 29 Sep 2025 22:00:00 +0000</pubDate>
+      <title>[24 hours left] Playing With The Big Boys</title>
+      <link>https://gamefound.com:443/en/projects/creator2000/playing-with-the-big-boys?ref=</link>
+      <guid isPermaLink="false">43974</guid>
+      <pubDate>Fri, 03 Oct 2025 21:00:00 +0000</pubDate>
       <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5984/df84ef3f-f703-4508-9b40-4551d98aa797.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5942/fce30714-b808-4f89-86ad-22b8d8fba35f.png" type="image/png" />
     </item>
     <item>
-      <title>[24 hours left] Mojito Trio | Sinister Institute + Lords of Worlds + Tropicalia</title>
-      <link>https://gamefound.com/en/projects/mojito-studios/sinister-institute</link>
-      <guid isPermaLink="false">43916</guid>
-      <pubDate>Mon, 29 Sep 2025 22:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3897/694e64d2-a2a9-485b-8558-51e0a71c7186.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Trade &amp; Turmoil</title>
-      <link>https://gamefound.com/en/projects/awa-board-games/trade--turmoil</link>
-      <guid isPermaLink="false">43915</guid>
-      <pubDate>Mon, 29 Sep 2025 20:58:47 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6458/3095c481-9114-4704-90c2-7031d99b833e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Zakazane Ziemie</title>
-      <link>https://gamefound.com/en/projects/kensumi/zakazaneziemie</link>
-      <guid isPermaLink="false">43914</guid>
-      <pubDate>Mon, 29 Sep 2025 18:00:00 +0000</pubDate>
+      <title>[Campaign start] Joust: The King's Tournament</title>
+      <link>https://gamefound.com:443/en/projects/rogue-pioneer-games/joust-the-kings-tournament?ref=</link>
+      <guid isPermaLink="false">43973</guid>
+      <pubDate>Fri, 03 Oct 2025 18:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5629/9c759af4-a9ff-4146-ab42-b1430f9a39f9.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6139/ca927978-a6f1-4a4c-99d4-2dc372418294.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[24 hours left] True 28mm Fantasy Miniatures</title>
-      <link>https://gamefound.com/en/projects/scibor/true-28mm-fantasy-miniatures</link>
-      <guid isPermaLink="false">43913</guid>
-      <pubDate>Mon, 29 Sep 2025 16:30:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6076/a67cb513-d964-41c2-b891-fecf237c4f84.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] SkIIkS</title>
-      <link>https://gamefound.com/en/projects/skiiks/skiiks</link>
-      <guid isPermaLink="false">43912</guid>
-      <pubDate>Mon, 29 Sep 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6374/30870e40-e6f2-47d0-aa7f-79fc5a1b4b54.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Gilded Realms: International Print &amp; Expansion</title>
-      <link>https://gamefound.com/en/projects/sandtime/the-gilded-realms-international-print--expansion</link>
-      <guid isPermaLink="false">43911</guid>
-      <pubDate>Mon, 29 Sep 2025 16:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5422/9232bfba-fb51-4612-b3df-611c0dbc4f34.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Oriental mythic creatures dice series 1：Four Celestial Guardians Dice</title>
-      <link>https://gamefound.com/en/projects/4-sets-of-dice-with-the-theme-of-oriental-fantastic-beasts/oriental-creatures-1</link>
-      <guid isPermaLink="false">43910</guid>
-      <pubDate>Mon, 29 Sep 2025 15:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5737/c01d643b-6020-4808-9843-c32e4e82eea5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Arrival</title>
-      <link>https://gamefound.com/en/projects/ionsmg/arrival</link>
-      <guid isPermaLink="false">43909</guid>
-      <pubDate>Mon, 29 Sep 2025 14:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6278/4bae9b78-15dd-4f23-9ea4-7edc3b25cd3b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Tasuo World: Draconian Rise: Volume: 1: Wyvern Ways</title>
-      <link>https://gamefound.com/en/projects/tasuo-showdown/wyvern-ways</link>
-      <guid isPermaLink="false">43908</guid>
-      <pubDate>Mon, 29 Sep 2025 13:50:33 +0000</pubDate>
+      <title>[New project] Dusk Runners</title>
+      <link>https://gamefound.com:443/en/projects/dragonmount-press/duskrunners?ref=</link>
+      <guid isPermaLink="false">43972</guid>
+      <pubDate>Fri, 03 Oct 2025 17:29:25 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2726/81bb86db-9c0a-43d7-8c00-8c05ff6ccb99.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6419/26aa6f64-7fab-4749-955e-6cfdcff974f4.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] Mamma Mia! Syndicate</title>
-      <link>https://gamefound.com/en/projects/mrfranz/mamma-mia-syndicate</link>
-      <guid isPermaLink="false">43907</guid>
-      <pubDate>Mon, 29 Sep 2025 12:54:03 +0000</pubDate>
+      <title>[New project] Your turn to play !</title>
+      <link>https://gamefound.com:443/en/projects/rpg-board-game/herobook?ref=</link>
+      <guid isPermaLink="false">43971</guid>
+      <pubDate>Fri, 03 Oct 2025 16:17:25 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6473/7274b149-1c1d-412b-a86d-7c76bb126bdb.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6450/d808c1cf-6625-44e5-9807-7e532267a80b.png" type="image/png" />
     </item>
     <item>
-      <title>[Launch date] Hellbringer - Bestiary &amp; Forbidden Spells has a starting date.</title>
-      <link>https://gamefound.com/en/projects/maxime-gauthier/hellbringer</link>
-      <guid isPermaLink="false">43906</guid>
-      <pubDate>Mon, 29 Sep 2025 12:43:17 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5034/b62e1531-1518-43de-b933-9ff4d9bbfb70.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Mojito Trio | Sinister Institute + Lords of Worlds + Tropicalia</title>
-      <link>https://gamefound.com/en/projects/mojito-studios/sinister-institute</link>
-      <guid isPermaLink="false">43905</guid>
-      <pubDate>Mon, 29 Sep 2025 10:16:15 +0000</pubDate>
+      <title>[Campaign is funded] Lost Games 2025</title>
+      <link>https://gamefound.com:443/en/projects/carlos-michan/lost-games-2025?ref=</link>
+      <guid isPermaLink="false">43970</guid>
+      <pubDate>Fri, 03 Oct 2025 15:58:31 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3897/694e64d2-a2a9-485b-8558-51e0a71c7186.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5097/ab0eff19-7fa7-4b23-b0bc-6f92ed8f41d5.png" type="image/png" />
     </item>
     <item>
-      <title>[Launch date] Los Banditos: The Train Heist Card Game has a starting date.</title>
-      <link>https://gamefound.com/en/projects/seriouslyboardgames/los-banditos-the-train-heist-card-game</link>
-      <guid isPermaLink="false">43904</guid>
-      <pubDate>Mon, 29 Sep 2025 09:23:10 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6184/b9d18df8-da92-46d6-8183-f91e2db8fdf8.png" type="image/png" />
+      <title>[New blog post] [Special] RPG Party Campaigns Launch October 14th!</title>
+      <link>https://gamefound.com/blog/post/special-rpg-party-campaigns-launch-october-14th</link>
+      <guid isPermaLink="false">43969</guid>
+      <pubDate>Fri, 03 Oct 2025 13:30:20 +0000</pubDate>
+      <description>New blog post</description>
     </item>
     <item>
-      <title>[Launch date] Laužas has a starting date.</title>
-      <link>https://gamefound.com/en/projects/amblys/lauzas</link>
-      <guid isPermaLink="false">43903</guid>
-      <pubDate>Mon, 29 Sep 2025 09:10:20 +0000</pubDate>
+      <title>[Launch date] Restless has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/restless-designs/restless?ref=</link>
+      <guid isPermaLink="false">43968</guid>
+      <pubDate>Fri, 03 Oct 2025 10:27:12 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6387/62ea1d16-d725-4230-8390-47212fcad5ae.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4629/063541a9-04dd-497f-bf2d-f48aa6bf61f6.png" type="image/png" />
     </item>
     <item>
-      <title>[Launch date] PRIMAL HEX has a starting date.</title>
-      <link>https://gamefound.com/en/projects/smart-flamingo/primal-hex</link>
-      <guid isPermaLink="false">43902</guid>
-      <pubDate>Mon, 29 Sep 2025 07:36:25 +0000</pubDate>
+      <title>[Launch date] Saving the City has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/darkkena/saving-the-city?ref=</link>
+      <guid isPermaLink="false">43967</guid>
+      <pubDate>Fri, 03 Oct 2025 07:11:50 +0000</pubDate>
       <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5118/25de51c5-e2ac-406a-ba0b-142cc74fa6b5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] PRIMAL HEX</title>
+      <link>https://gamefound.com:443/en/projects/smart-flamingo/primal-hex?ref=</link>
+      <guid isPermaLink="false">43966</guid>
+      <pubDate>Thu, 02 Oct 2025 20:53:18 +0000</pubDate>
+      <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4287/dbb750e9-1f52-42d0-9699-17638e66a2f5.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] CyberSiege // Strategy and Skill for aspiring IT professionals</title>
-      <link>https://gamefound.com/en/projects/codepalm-games/cybersiege</link>
-      <guid isPermaLink="false">43901</guid>
-      <pubDate>Mon, 29 Sep 2025 05:58:57 +0000</pubDate>
+      <title>[24 hours left] Mobile Arms - Mecha Wargaming in the Worlds of Tomorrow</title>
+      <link>https://gamefound.com:443/en/projects/black-site-studios/mobile-arms?ref=</link>
+      <guid isPermaLink="false">43965</guid>
+      <pubDate>Thu, 02 Oct 2025 17:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6120/271e0141-1942-48f2-accd-76da185db705.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Detectives Vs Criminals</title>
+      <link>https://gamefound.com:443/en/projects/dam-things/detectives-vs-criminals?ref=</link>
+      <guid isPermaLink="false">43964</guid>
+      <pubDate>Thu, 02 Oct 2025 16:22:51 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4952/aa67ff49-11a7-4ee6-a7d3-067f784f7ca3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Brandywine 1777 - A Time for Heroes has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
+      <guid isPermaLink="false">43963</guid>
+      <pubDate>Thu, 02 Oct 2025 16:13:52 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5802/db07b019-84dc-4136-a8c4-4080e0b3645e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] PRIMAL HEX</title>
+      <link>https://gamefound.com:443/en/projects/smart-flamingo/primal-hex?ref=</link>
+      <guid isPermaLink="false">43962</guid>
+      <pubDate>Thu, 02 Oct 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4287/dbb750e9-1f52-42d0-9699-17638e66a2f5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] No More Dead: New York</title>
+      <link>https://gamefound.com:443/en/projects/pendragon-game-studio-srl/no-more-dead---new-york?ref=</link>
+      <guid isPermaLink="false">43961</guid>
+      <pubDate>Thu, 02 Oct 2025 15:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5468/22054b98-7518-4ef8-9178-2ac81eb98ed9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Dark Rituals: Veins of Neemoss has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/maki-games/dark-rituals-malleus-maleficarum-reprint?ref=</link>
+      <guid isPermaLink="false">43960</guid>
+      <pubDate>Thu, 02 Oct 2025 14:40:16 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5050/03ba1188-9476-44c5-b815-c25933b4a26d.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] SCP The Boardgame: Confidential Crisis</title>
+      <link>https://gamefound.com:443/en/projects/digdeep_gaming/scp-the-boardgame-confidential-crisis?ref=</link>
+      <guid isPermaLink="false">43959</guid>
+      <pubDate>Thu, 02 Oct 2025 14:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5537/83622d38-2a23-4e18-aa83-0417470fa436.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Laužas</title>
+      <link>https://gamefound.com:443/en/projects/amblys/lauzas?ref=</link>
+      <guid isPermaLink="false">43958</guid>
+      <pubDate>Thu, 02 Oct 2025 13:50:08 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6387/62ea1d16-d725-4230-8390-47212fcad5ae.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Rampage Miniatures: Goblin Frenzy has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/rampage-miniatures/rampage-miniatures-goblin-frenzy?ref=</link>
+      <guid isPermaLink="false">43957</guid>
+      <pubDate>Thu, 02 Oct 2025 11:01:29 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6463/f32798c9-95ae-4740-a64f-49e045710658.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] 1100+ Sci-fi Battlemaps for TTRPG and VTT</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/1100-sci-fi-battlemaps-for-ttrpg-and-vttrpg?ref=</link>
+      <guid isPermaLink="false">43956</guid>
+      <pubDate>Thu, 02 Oct 2025 10:10:50 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6366/c6c95949-1e70-4048-a4b4-7fb2bd4c2556.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] 1100+ Sci-fi Battlemaps for TTRPG and VTT</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/1100-sci-fi-battlemaps-for-ttrpg-and-vttrpg?ref=</link>
+      <guid isPermaLink="false">43955</guid>
+      <pubDate>Thu, 02 Oct 2025 10:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6366/c6c95949-1e70-4048-a4b4-7fb2bd4c2556.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New Pledge Manager] Nemesis Retaliation: Mystery Box</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/nemesis-retaliation-mystery-box?ref=</link>
+      <guid isPermaLink="false">43954</guid>
+      <pubDate>Thu, 02 Oct 2025 09:31:03 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6413/68285fea-5aa9-472d-b84c-f34a6f569490.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] The Realm of Silvanus</title>
+      <link>https://gamefound.com:443/en/projects/silvanus-metaverse/the-realm-of-silvanus?ref=</link>
+      <guid isPermaLink="false">43953</guid>
+      <pubDate>Thu, 02 Oct 2025 06:22:34 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5821/a4d7c202-7893-403c-9dad-cc4d4c3e8be0.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6480/a192ca38-4037-499a-86a8-ac048d908473.png" type="image/png" />
     </item>
   </channel>
 </rss>
