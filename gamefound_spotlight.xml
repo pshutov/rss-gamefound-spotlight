@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 04 Oct 2025 19:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 20:11:42 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Europa Universalis Deluxe Deutsche Version</title>
+      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/europa-universalis-deutsche-version?ref=</link>
+      <guid isPermaLink="false">43976</guid>
+      <pubDate>Sat, 04 Oct 2025 20:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5450/0c7e32e6-9609-4dce-bd70-c20e85be4036.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Los Banditos: The Train Heist Card Game</title>
       <link>https://gamefound.com:443/en/projects/seriouslyboardgames/los-banditos-the-train-heist-card-game?ref=</link>
