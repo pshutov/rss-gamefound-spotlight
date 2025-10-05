@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 05 Oct 2025 18:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 19:08:36 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Europa Universalis Deluxe Deutsche Version</title>
@@ -102,7 +102,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6120/271e0141-1942-48f2-accd-76da185db705.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[Campaign is funded] Detectives Vs Criminals</title>
+      <title>[Campaign is funded]</title>
       <link>https://gamefound.com:443/en/projects/dam-things/detectives-vs-criminals?ref=</link>
       <guid isPermaLink="false">43964</guid>
       <pubDate>Thu, 02 Oct 2025 16:22:51 +0000</pubDate>
