@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 06 Oct 2025 19:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 20:12:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Eternitium - Race through time !</title>
+      <link>https://gamefound.com:443/en/projects/haumea-games/eternitium?ref=</link>
+      <guid isPermaLink="false">43984</guid>
+      <pubDate>Mon, 06 Oct 2025 20:04:17 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/f8f37595-9549-4821-b360-6e989c951a7b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Snorkeling</title>
+      <link>https://gamefound.com:443/en/projects/haumea-games/snorkeling?ref=</link>
+      <guid isPermaLink="false">43983</guid>
+      <pubDate>Mon, 06 Oct 2025 20:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6176/bff89f59-69a5-4d55-9686-7d34a79ec8a6.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Button Shy Reprint Campaign - Late 2025</title>
       <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
