@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 06 Oct 2025 12:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 13:03:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Elemental Dominion has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/norlys-tabletop-studio/elemental-dominion?ref=</link>
+      <guid isPermaLink="false">43980</guid>
+      <pubDate>Mon, 06 Oct 2025 12:48:20 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6277/e8188c87-1796-4c1b-a22b-b4df2d73a65a.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Saving the City</title>
       <link>https://gamefound.com:443/en/projects/darkkena/saving-the-city?ref=</link>
