@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 06 Oct 2025 17:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 18:17:09 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Button Shy Reprint Campaign - Late 2025</title>
+      <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
+      <guid isPermaLink="false">43982</guid>
+      <pubDate>Mon, 06 Oct 2025 17:53:21 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6528/1add6da6-158c-4f31-81ab-ec44527b2443.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] KeyForge: Draconian Measures</title>
       <link>https://gamefound.com:443/en/projects/ghost-galaxy-games/keyforge-draconian-measures?ref=</link>
