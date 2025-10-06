@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 06 Oct 2025 04:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 05:12:33 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Akhedena  - Destiny of The Throne</title>
+      <link>https://gamefound.com:443/en/projects/akhedena/akhedena?ref=</link>
+      <guid isPermaLink="false">43978</guid>
+      <pubDate>Mon, 06 Oct 2025 05:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3828/db042ae4-b15e-459e-90cc-56030a68bc6a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Regents - A Tile-Based TableTop Journeys Original</title>
       <link>https://gamefound.com:443/en/projects/tabletop-journeys/regents?ref=</link>
@@ -55,7 +63,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6419/26aa6f64-7fab-4749-955e-6cfdcff974f4.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] À VOUS DE JOUER!</title>
+      <title>[New project] Your turn to play !</title>
       <link>https://gamefound.com:443/en/projects/rpg-board-game/herobook?ref=</link>
       <guid isPermaLink="false">43971</guid>
       <pubDate>Fri, 03 Oct 2025 16:17:25 +0000</pubDate>
