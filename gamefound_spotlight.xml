@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 06 Oct 2025 14:40:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 15:12:07 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] KeyForge: Draconian Measures</title>
+      <link>https://gamefound.com:443/en/projects/ghost-galaxy-games/keyforge-draconian-measures?ref=</link>
+      <guid isPermaLink="false">43981</guid>
+      <pubDate>Mon, 06 Oct 2025 15:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6110/8b199f38-e085-4e77-969e-38528d9de9b5.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Elemental Dominion has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/norlys-tabletop-studio/elemental-dominion?ref=</link>
@@ -116,118 +124,6 @@
       <pubDate>Fri, 03 Oct 2025 07:11:50 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5118/25de51c5-e2ac-406a-ba0b-142cc74fa6b5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] PRIMAL HEX</title>
-      <link>https://gamefound.com:443/en/projects/smart-flamingo/primal-hex?ref=</link>
-      <guid isPermaLink="false">43966</guid>
-      <pubDate>Thu, 02 Oct 2025 20:53:18 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4287/dbb750e9-1f52-42d0-9699-17638e66a2f5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Mobile Arms - Mecha Wargaming in the Worlds of Tomorrow</title>
-      <link>https://gamefound.com:443/en/projects/black-site-studios/mobile-arms?ref=</link>
-      <guid isPermaLink="false">43965</guid>
-      <pubDate>Thu, 02 Oct 2025 17:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6120/271e0141-1942-48f2-accd-76da185db705.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Detectives Vs Criminals</title>
-      <link>https://gamefound.com:443/en/projects/dam-things/detectives-vs-criminals?ref=</link>
-      <guid isPermaLink="false">43964</guid>
-      <pubDate>Thu, 02 Oct 2025 16:22:51 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4952/aa67ff49-11a7-4ee6-a7d3-067f784f7ca3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Brandywine 1777 - A Time for Heroes has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
-      <guid isPermaLink="false">43963</guid>
-      <pubDate>Thu, 02 Oct 2025 16:13:52 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5802/db07b019-84dc-4136-a8c4-4080e0b3645e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] PRIMAL HEX</title>
-      <link>https://gamefound.com:443/en/projects/smart-flamingo/primal-hex?ref=</link>
-      <guid isPermaLink="false">43962</guid>
-      <pubDate>Thu, 02 Oct 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4287/dbb750e9-1f52-42d0-9699-17638e66a2f5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] No More Dead: New York</title>
-      <link>https://gamefound.com:443/en/projects/pendragon-game-studio-srl/no-more-dead---new-york?ref=</link>
-      <guid isPermaLink="false">43961</guid>
-      <pubDate>Thu, 02 Oct 2025 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5468/22054b98-7518-4ef8-9178-2ac81eb98ed9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Dark Rituals: Veins of Neemoss has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/maki-games/dark-rituals-malleus-maleficarum-reprint?ref=</link>
-      <guid isPermaLink="false">43960</guid>
-      <pubDate>Thu, 02 Oct 2025 14:40:16 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5050/03ba1188-9476-44c5-b815-c25933b4a26d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] SCP The Boardgame: Confidential Crisis</title>
-      <link>https://gamefound.com:443/en/projects/digdeep_gaming/scp-the-boardgame-confidential-crisis?ref=</link>
-      <guid isPermaLink="false">43959</guid>
-      <pubDate>Thu, 02 Oct 2025 14:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5537/83622d38-2a23-4e18-aa83-0417470fa436.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Laužas</title>
-      <link>https://gamefound.com:443/en/projects/amblys/lauzas?ref=</link>
-      <guid isPermaLink="false">43958</guid>
-      <pubDate>Thu, 02 Oct 2025 13:50:08 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6387/62ea1d16-d725-4230-8390-47212fcad5ae.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Rampage Miniatures: Goblin Frenzy has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/rampage-miniatures-goblin-frenzy?ref=</link>
-      <guid isPermaLink="false">43957</guid>
-      <pubDate>Thu, 02 Oct 2025 11:01:29 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6463/f32798c9-95ae-4740-a64f-49e045710658.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] 1100+ Sci-fi Battlemaps for TTRPG and VTT</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/1100-sci-fi-battlemaps-for-ttrpg-and-vttrpg?ref=</link>
-      <guid isPermaLink="false">43956</guid>
-      <pubDate>Thu, 02 Oct 2025 10:10:50 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6366/c6c95949-1e70-4048-a4b4-7fb2bd4c2556.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] 1100+ Sci-fi Battlemaps for TTRPG and VTT</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/1100-sci-fi-battlemaps-for-ttrpg-and-vttrpg?ref=</link>
-      <guid isPermaLink="false">43955</guid>
-      <pubDate>Thu, 02 Oct 2025 10:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6366/c6c95949-1e70-4048-a4b4-7fb2bd4c2556.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Nemesis Retaliation: Mystery Box</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/nemesis-retaliation-mystery-box?ref=</link>
-      <guid isPermaLink="false">43954</guid>
-      <pubDate>Thu, 02 Oct 2025 09:31:03 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6413/68285fea-5aa9-472d-b84c-f34a6f569490.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] The Realm of Silvanus</title>
-      <link>https://gamefound.com:443/en/projects/silvanus-metaverse/the-realm-of-silvanus?ref=</link>
-      <guid isPermaLink="false">43953</guid>
-      <pubDate>Thu, 02 Oct 2025 06:22:34 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6480/a192ca38-4037-499a-86a8-ac048d908473.png" type="image/png" />
     </item>
   </channel>
 </rss>
