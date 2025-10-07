@@ -4,8 +4,48 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 14:41:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 15:12:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Berserk: The Board Game</title>
+      <link>https://gamefound.com:443/en/projects/monolith-board-games-sarl/berserk-the-board-game?ref=</link>
+      <guid isPermaLink="false">43996</guid>
+      <pubDate>Tue, 07 Oct 2025 15:10:22 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5313/8dd6d1fa-90f7-4d37-b7e6-2c069b6744de.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] UPRISING | LEGENDARY BIG BOX &amp; TRUE SOLO MODE</title>
+      <link>https://gamefound.com:443/en/projects/nemesisgames/uprising-big-box-true-solo?ref=</link>
+      <guid isPermaLink="false">43995</guid>
+      <pubDate>Tue, 07 Oct 2025 15:08:08 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5836/d0debe33-1c0b-4924-a988-a6e102d72bf4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] UPRISING | LEGENDARY BIG BOX &amp; TRUE SOLO MODE</title>
+      <link>https://gamefound.com:443/en/projects/nemesisgames/uprising-big-box-true-solo?ref=</link>
+      <guid isPermaLink="false">43994</guid>
+      <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5836/d0debe33-1c0b-4924-a988-a6e102d72bf4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] BattleForge: Berserker</title>
+      <link>https://gamefound.com:443/en/projects/wearecgs/battleforge-berserker?ref=</link>
+      <guid isPermaLink="false">43993</guid>
+      <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5768/9566a42f-ab6b-46b3-90cf-8bb0b0c6fa97.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Berserk: The Board Game</title>
+      <link>https://gamefound.com:443/en/projects/monolith-board-games-sarl/berserk-the-board-game?ref=</link>
+      <guid isPermaLink="false">43992</guid>
+      <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5313/8dd6d1fa-90f7-4d37-b7e6-2c069b6744de.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Lost Games 2025</title>
       <link>https://gamefound.com:443/en/projects/carlos-michan/lost-games-2025?ref=</link>
@@ -117,14 +157,6 @@
       <pubDate>Mon, 06 Oct 2025 05:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3828/db042ae4-b15e-459e-90cc-56030a68bc6a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Regents - A Tile-Based TableTop Journeys Original</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-journeys/regents?ref=</link>
-      <guid isPermaLink="false">43977</guid>
-      <pubDate>Sun, 05 Oct 2025 22:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5958/bdc5601c-1c33-4bc8-b48c-daac4a830ef2.png" type="image/png" />
     </item>
   </channel>
 </rss>
