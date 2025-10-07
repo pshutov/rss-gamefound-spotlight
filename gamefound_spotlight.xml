@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 06:46:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 07:12:24 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Brandywine 1777 - A Time for Heroes</title>
+      <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
+      <guid isPermaLink="false">43987</guid>
+      <pubDate>Tue, 07 Oct 2025 07:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5802/db07b019-84dc-4136-a8c4-4080e0b3645e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Mission Amazonia</title>
       <link>https://gamefound.com:443/en/projects/verein-spielen-lernen/mission-amazonia?ref=</link>
