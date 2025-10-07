@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 08:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 08:43:24 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Drôles de Bibittes</title>
+      <link>https://gamefound.com:443/en/projects/3dlightgames/droles-de-bibittes?ref=</link>
+      <guid isPermaLink="false">43988</guid>
+      <pubDate>Tue, 07 Oct 2025 08:15:48 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6259/21b6dac6-5e89-4b20-9a2a-d3436d023e32.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Brandywine 1777 - A Time for Heroes</title>
       <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
