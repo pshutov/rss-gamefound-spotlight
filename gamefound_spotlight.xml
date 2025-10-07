@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 13:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 14:12:55 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Lost Games 2025</title>
+      <link>https://gamefound.com:443/en/projects/carlos-michan/lost-games-2025?ref=</link>
+      <guid isPermaLink="false">43991</guid>
+      <pubDate>Tue, 07 Oct 2025 14:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5097/ab0eff19-7fa7-4b23-b0bc-6f92ed8f41d5.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] HeXXen 1733 - Jäger des Ewigen Eises has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/ulisses-spiele/ewigeseis?ref=</link>
@@ -117,22 +125,6 @@
       <pubDate>Sun, 05 Oct 2025 22:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5958/bdc5601c-1c33-4bc8-b48c-daac4a830ef2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Europa Universalis Deluxe Deutsche Version</title>
-      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/europa-universalis-deutsche-version?ref=</link>
-      <guid isPermaLink="false">43976</guid>
-      <pubDate>Sat, 04 Oct 2025 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5450/319da7c5-d373-42fd-bce8-7f6d22538ab9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Los Banditos: The Train Heist Card Game</title>
-      <link>https://gamefound.com:443/en/projects/seriouslyboardgames/los-banditos-the-train-heist-card-game?ref=</link>
-      <guid isPermaLink="false">43975</guid>
-      <pubDate>Sat, 04 Oct 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6184/b9d18df8-da92-46d6-8183-f91e2db8fdf8.png" type="image/png" />
     </item>
   </channel>
 </rss>
