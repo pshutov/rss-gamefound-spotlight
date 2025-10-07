@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 08:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 09:12:58 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Song of Silveranth has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/red-raven-games/song-of-silveranth?ref=</link>
+      <guid isPermaLink="false">43989</guid>
+      <pubDate>Tue, 07 Oct 2025 08:49:48 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5930/b6903e92-a232-4c0b-a1c7-ae3852cb2ff1.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Drôles de Bibittes</title>
       <link>https://gamefound.com:443/en/projects/3dlightgames/droles-de-bibittes?ref=</link>
@@ -117,69 +125,6 @@
       <pubDate>Sat, 04 Oct 2025 17:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6184/b9d18df8-da92-46d6-8183-f91e2db8fdf8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Playing With The Big Boys</title>
-      <link>https://gamefound.com:443/en/projects/creator2000/playing-with-the-big-boys?ref=</link>
-      <guid isPermaLink="false">43974</guid>
-      <pubDate>Fri, 03 Oct 2025 21:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5942/fce30714-b808-4f89-86ad-22b8d8fba35f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Joust: The King's Tournament</title>
-      <link>https://gamefound.com:443/en/projects/rogue-pioneer-games/joust-the-kings-tournament?ref=</link>
-      <guid isPermaLink="false">43973</guid>
-      <pubDate>Fri, 03 Oct 2025 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6139/0995a67e-9030-4e56-9ad9-8387a907b0b1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Dusk Runners</title>
-      <link>https://gamefound.com:443/en/projects/dragonmount-press/duskrunners?ref=</link>
-      <guid isPermaLink="false">43972</guid>
-      <pubDate>Fri, 03 Oct 2025 17:29:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6419/26aa6f64-7fab-4749-955e-6cfdcff974f4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Your turn to play !</title>
-      <link>https://gamefound.com:443/en/projects/rpg-board-game/herobook?ref=</link>
-      <guid isPermaLink="false">43971</guid>
-      <pubDate>Fri, 03 Oct 2025 16:17:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6450/d808c1cf-6625-44e5-9807-7e532267a80b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Lost Games 2025</title>
-      <link>https://gamefound.com:443/en/projects/carlos-michan/lost-games-2025?ref=</link>
-      <guid isPermaLink="false">43970</guid>
-      <pubDate>Fri, 03 Oct 2025 15:58:31 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5097/ab0eff19-7fa7-4b23-b0bc-6f92ed8f41d5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New blog post] [Special] RPG Party Campaigns Launch October 14th!</title>
-      <link>https://gamefound.com/blog/post/special-rpg-party-campaigns-launch-october-14th</link>
-      <guid isPermaLink="false">43969</guid>
-      <pubDate>Fri, 03 Oct 2025 13:30:20 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[Launch date] Restless has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/restless-designs/restless?ref=</link>
-      <guid isPermaLink="false">43968</guid>
-      <pubDate>Fri, 03 Oct 2025 10:27:12 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4629/063541a9-04dd-497f-bf2d-f48aa6bf61f6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Saving the City has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/darkkena/saving-the-city?ref=</link>
-      <guid isPermaLink="false">43967</guid>
-      <pubDate>Fri, 03 Oct 2025 07:11:50 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5118/25de51c5-e2ac-406a-ba0b-142cc74fa6b5.png" type="image/png" />
     </item>
   </channel>
 </rss>
