@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 11:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 12:23:30 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] HeXXen 1733 - Jäger des Ewigen Eises has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ewigeseis?ref=</link>
+      <guid isPermaLink="false">43990</guid>
+      <pubDate>Tue, 07 Oct 2025 12:07:23 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6060/f60d435f-2b11-4dc9-88d3-5053c185e117.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Song of Silveranth has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/red-raven-games/song-of-silveranth?ref=</link>
