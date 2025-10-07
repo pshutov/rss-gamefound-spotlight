@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 05:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 06:17:53 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Mission Amazonia</title>
+      <link>https://gamefound.com:443/en/projects/verein-spielen-lernen/mission-amazonia?ref=</link>
+      <guid isPermaLink="false">43986</guid>
+      <pubDate>Tue, 07 Oct 2025 06:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6428/69b52958-2971-43a8-a2f2-7d0ef09f210b.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Totenstadt - Schöne neue Welt</title>
       <link>https://gamefound.com:443/en/projects/blood-n-brain/totenstadt?ref=</link>
