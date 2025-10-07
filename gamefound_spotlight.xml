@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 19:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 19:33:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Brandywine 1777 - A Time for Heroes</title>
+      <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
+      <guid isPermaLink="false">44000</guid>
+      <pubDate>Tue, 07 Oct 2025 19:30:25 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5802/db07b019-84dc-4136-a8c4-4080e0b3645e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Marcher: Empires at War First Edition</title>
       <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
@@ -117,70 +125,6 @@
       <pubDate>Tue, 07 Oct 2025 06:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6428/69b52958-2971-43a8-a2f2-7d0ef09f210b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Totenstadt - Schöne neue Welt</title>
-      <link>https://gamefound.com:443/en/projects/blood-n-brain/totenstadt?ref=</link>
-      <guid isPermaLink="false">43985</guid>
-      <pubDate>Mon, 06 Oct 2025 22:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4017/4579537f-d760-4936-80c4-76fb199f92a2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Eternitium - Race through time !</title>
-      <link>https://gamefound.com:443/en/projects/haumea-games/eternitium?ref=</link>
-      <guid isPermaLink="false">43984</guid>
-      <pubDate>Mon, 06 Oct 2025 20:04:17 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/4a5593f1-be9c-4b88-9d55-8e303ea01f7e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Snorkeling</title>
-      <link>https://gamefound.com:443/en/projects/haumea-games/snorkeling?ref=</link>
-      <guid isPermaLink="false">43983</guid>
-      <pubDate>Mon, 06 Oct 2025 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6176/bff89f59-69a5-4d55-9686-7d34a79ec8a6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Button Shy Reprint Campaign - Late 2025</title>
-      <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
-      <guid isPermaLink="false">43982</guid>
-      <pubDate>Mon, 06 Oct 2025 17:53:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6528/1add6da6-158c-4f31-81ab-ec44527b2443.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] KeyForge: Draconian Measures</title>
-      <link>https://gamefound.com:443/en/projects/ghost-galaxy-games/keyforge-draconian-measures?ref=</link>
-      <guid isPermaLink="false">43981</guid>
-      <pubDate>Mon, 06 Oct 2025 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6110/8b199f38-e085-4e77-969e-38528d9de9b5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Elemental Dominion has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/norlys-tabletop-studio/elemental-dominion?ref=</link>
-      <guid isPermaLink="false">43980</guid>
-      <pubDate>Mon, 06 Oct 2025 12:48:20 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6277/e8188c87-1796-4c1b-a22b-b4df2d73a65a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Saving the City</title>
-      <link>https://gamefound.com:443/en/projects/darkkena/saving-the-city?ref=</link>
-      <guid isPermaLink="false">43979</guid>
-      <pubDate>Mon, 06 Oct 2025 06:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5118/25de51c5-e2ac-406a-ba0b-142cc74fa6b5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Akhedena  - Destiny of The Throne</title>
-      <link>https://gamefound.com:443/en/projects/akhedena/akhedena?ref=</link>
-      <guid isPermaLink="false">43978</guid>
-      <pubDate>Mon, 06 Oct 2025 05:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3828/db042ae4-b15e-459e-90cc-56030a68bc6a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
