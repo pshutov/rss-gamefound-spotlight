@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 15:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 15:39:29 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Berserk: The Board Game</title>
@@ -36,7 +36,7 @@
       <guid isPermaLink="false">43993</guid>
       <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5768/9566a42f-ab6b-46b3-90cf-8bb0b0c6fa97.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5768/e0581b0f-9237-406d-992c-7db07d92f7c3.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Berserk: The Board Game</title>
