@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 18:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 19:09:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Marcher: Empires at War First Edition</title>
+      <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
+      <guid isPermaLink="false">43999</guid>
+      <pubDate>Tue, 07 Oct 2025 18:56:00 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6282/ea09bc84-d22e-4ef2-8d7d-39f2aa2f7e8a.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] BattleForge: Berserker</title>
       <link>https://gamefound.com:443/en/projects/wearecgs/battleforge-berserker?ref=</link>
