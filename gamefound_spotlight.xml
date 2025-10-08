@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 08 Oct 2025 13:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 13:43:43 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Turn It Off: An Eldritch Horror Adventure has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/cloud-press-publishing/turn-it-off-an-eldritch-horror-adventure?ref=</link>
+      <guid isPermaLink="false">44011</guid>
+      <pubDate>Wed, 08 Oct 2025 13:19:34 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5975/11208375-4893-4666-9974-8b5da4b2f5e5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Rook &amp; Ruin has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/rookruin?ref=</link>
+      <guid isPermaLink="false">44010</guid>
+      <pubDate>Wed, 08 Oct 2025 13:10:19 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6444/7ed8acc4-750f-4dda-bd53-5c488d054ac5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Essence - A Grim PnP RPG has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/essence-the-grim-expeditions?ref=</link>
+      <guid isPermaLink="false">44009</guid>
+      <pubDate>Wed, 08 Oct 2025 13:10:15 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5923/0bda7439-4691-4a66-9bc1-b9dbdd4083a8.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Lies By Omission: A Tabletop RPG Inspired by Gothic Italian Horror has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/chain-assembly/lxo?ref=</link>
