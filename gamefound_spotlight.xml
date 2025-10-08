@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 08 Oct 2025 17:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 18:17:44 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Radiance [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/radiance-solo-game-of-the-month?ref=</link>
+      <guid isPermaLink="false">44016</guid>
+      <pubDate>Wed, 08 Oct 2025 18:11:36 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6513/fb798390-12f4-4300-93e0-2c58330ab3ef.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New Pledge Manager] Bonnie and Clyde, a Roadmap Through History</title>
+      <link>https://gamefound.com:443/en/projects/yeast-games/bonnie-and-clyde-a-roadmap-through-history?ref=</link>
+      <guid isPermaLink="false">44015</guid>
+      <pubDate>Wed, 08 Oct 2025 17:44:21 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6451/42f9a5b7-b43d-4e2e-a38e-0039bdcbcdb4.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Dukes Of Nukes V2 - The Party Game Of Nuclear Thievery</title>
       <link>https://gamefound.com:443/en/projects/dukes-of-nukes-gaming/dukes-of-nukes-v2?ref=</link>
@@ -109,134 +125,6 @@
       <pubDate>Wed, 08 Oct 2025 04:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5586/a3577b71-b74b-4b72-be67-eed128ee5dd7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Etherlume</title>
-      <link>https://gamefound.com:443/en/projects/rpg-board-game/aaahll?ref=</link>
-      <guid isPermaLink="false">44001</guid>
-      <pubDate>Tue, 07 Oct 2025 23:38:47 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6505/0fc914ec-2750-4882-ac28-a3e7530553d8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Brandywine 1777 - A Time for Heroes</title>
-      <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
-      <guid isPermaLink="false">44000</guid>
-      <pubDate>Tue, 07 Oct 2025 19:30:25 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5802/db07b019-84dc-4136-a8c4-4080e0b3645e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Marcher: Empires at War First Edition</title>
-      <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
-      <guid isPermaLink="false">43999</guid>
-      <pubDate>Tue, 07 Oct 2025 18:56:00 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6282/ea09bc84-d22e-4ef2-8d7d-39f2aa2f7e8a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] BattleForge: Berserker</title>
-      <link>https://gamefound.com:443/en/projects/wearecgs/battleforge-berserker?ref=</link>
-      <guid isPermaLink="false">43998</guid>
-      <pubDate>Tue, 07 Oct 2025 16:18:32 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5768/e0581b0f-9237-406d-992c-7db07d92f7c3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Storm Weavers STRONGHOLD</title>
-      <link>https://gamefound.com:443/en/projects/otherworlds/storm-weavers-stronghold?ref=</link>
-      <guid isPermaLink="false">43997</guid>
-      <pubDate>Tue, 07 Oct 2025 16:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5700/7921111e-6bf8-4690-944e-37a6f1e04eb1.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Berserk: The Board Game</title>
-      <link>https://gamefound.com:443/en/projects/monolith-board-games-sarl/berserk-the-board-game?ref=</link>
-      <guid isPermaLink="false">43996</guid>
-      <pubDate>Tue, 07 Oct 2025 15:10:22 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5313/8dd6d1fa-90f7-4d37-b7e6-2c069b6744de.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] UPRISING | LEGENDARY BIG BOX &amp; TRUE SOLO MODE</title>
-      <link>https://gamefound.com:443/en/projects/nemesisgames/uprising-big-box-true-solo?ref=</link>
-      <guid isPermaLink="false">43995</guid>
-      <pubDate>Tue, 07 Oct 2025 15:08:08 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5836/d0debe33-1c0b-4924-a988-a6e102d72bf4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] UPRISING | LEGENDARY BIG BOX &amp; TRUE SOLO MODE</title>
-      <link>https://gamefound.com:443/en/projects/nemesisgames/uprising-big-box-true-solo?ref=</link>
-      <guid isPermaLink="false">43994</guid>
-      <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5836/d0debe33-1c0b-4924-a988-a6e102d72bf4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] BattleForge: Berserker</title>
-      <link>https://gamefound.com:443/en/projects/wearecgs/battleforge-berserker?ref=</link>
-      <guid isPermaLink="false">43993</guid>
-      <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5768/e0581b0f-9237-406d-992c-7db07d92f7c3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Berserk: The Board Game</title>
-      <link>https://gamefound.com:443/en/projects/monolith-board-games-sarl/berserk-the-board-game?ref=</link>
-      <guid isPermaLink="false">43992</guid>
-      <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5313/8dd6d1fa-90f7-4d37-b7e6-2c069b6744de.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Lost Games 2025</title>
-      <link>https://gamefound.com:443/en/projects/carlos-michan/lost-games-2025?ref=</link>
-      <guid isPermaLink="false">43991</guid>
-      <pubDate>Tue, 07 Oct 2025 14:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5097/ab0eff19-7fa7-4b23-b0bc-6f92ed8f41d5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] HeXXen 1733 - Jäger des Ewigen Eises has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ewigeseis?ref=</link>
-      <guid isPermaLink="false">43990</guid>
-      <pubDate>Tue, 07 Oct 2025 12:07:23 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6060/f60d435f-2b11-4dc9-88d3-5053c185e117.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Song of Silveranth has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/red-raven-games/song-of-silveranth?ref=</link>
-      <guid isPermaLink="false">43989</guid>
-      <pubDate>Tue, 07 Oct 2025 08:49:48 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5930/b6903e92-a232-4c0b-a1c7-ae3852cb2ff1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Drôles de Bibittes</title>
-      <link>https://gamefound.com:443/en/projects/3dlightgames/droles-de-bibittes?ref=</link>
-      <guid isPermaLink="false">43988</guid>
-      <pubDate>Tue, 07 Oct 2025 08:15:48 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6259/21b6dac6-5e89-4b20-9a2a-d3436d023e32.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Brandywine 1777 - A Time for Heroes</title>
-      <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
-      <guid isPermaLink="false">43987</guid>
-      <pubDate>Tue, 07 Oct 2025 07:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5802/db07b019-84dc-4136-a8c4-4080e0b3645e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Mission Amazonia</title>
-      <link>https://gamefound.com:443/en/projects/verein-spielen-lernen/mission-amazonia?ref=</link>
-      <guid isPermaLink="false">43986</guid>
-      <pubDate>Tue, 07 Oct 2025 06:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6428/69b52958-2971-43a8-a2f2-7d0ef09f210b.png" type="image/png" />
     </item>
   </channel>
 </rss>
