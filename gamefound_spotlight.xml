@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 08 Oct 2025 14:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 15:12:49 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] VANEA: Guardians of the Eldertree has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/forgotten-tales/vanea?ref=</link>
+      <guid isPermaLink="false">44012</guid>
+      <pubDate>Wed, 08 Oct 2025 14:50:47 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5217/eed7ac7e-7df2-4216-ba3e-81f1c184f9c9.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Turn It Off: An Eldritch Horror Adventure has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/cloud-press-publishing/turn-it-off-an-eldritch-horror-adventure?ref=</link>
