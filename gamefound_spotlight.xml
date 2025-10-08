@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 07 Oct 2025 23:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 00:53:11 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Etherlume</title>
+      <link>https://gamefound.com:443/en/projects/rpg-board-game/aaahll?ref=</link>
+      <guid isPermaLink="false">44001</guid>
+      <pubDate>Tue, 07 Oct 2025 23:38:47 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6505/5039a5f1-2e7d-4d4f-a043-e3745a6e4e2c.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Brandywine 1777 - A Time for Heroes</title>
       <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
