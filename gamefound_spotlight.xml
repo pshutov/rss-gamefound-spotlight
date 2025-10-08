@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 08 Oct 2025 15:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 16:14:40 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] VoidRoll - A Year-Long Voyage</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
+      <guid isPermaLink="false">44013</guid>
+      <pubDate>Wed, 08 Oct 2025 16:13:03 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/0d80b42a-acf7-4960-b681-a067db8100ca.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] VANEA: Guardians of the Eldertree has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/forgotten-tales/vanea?ref=</link>
