@@ -4,15 +4,23 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 08 Oct 2025 06:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 07:11:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Dogs of War</title>
+      <link>https://gamefound.com:443/en/projects/play-to-z/dogs-of-war?ref=</link>
+      <guid isPermaLink="false">44003</guid>
+      <pubDate>Wed, 08 Oct 2025 07:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6244/bd88f2fe-c5c6-4cc4-b877-6f08e489c91b.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Terrorscape 2</title>
       <link>https://gamefound.com:443/en/projects/ice-makes/terrorscape-2?ref=</link>
       <guid isPermaLink="false">44002</guid>
       <pubDate>Wed, 08 Oct 2025 04:00:00 +0000</pubDate>
       <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5586/4d469f5b-361c-4a2c-958e-65133d305b55.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5586/a3577b71-b74b-4b72-be67-eed128ee5dd7.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Etherlume</title>
