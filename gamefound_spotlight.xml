@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 09 Oct 2025 21:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 22:10:57 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Elemental Dominion</title>
+      <link>https://gamefound.com:443/en/projects/norlys-tabletop-studio/elemental-dominion?ref=</link>
+      <guid isPermaLink="false">44027</guid>
+      <pubDate>Thu, 09 Oct 2025 22:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6277/e8188c87-1796-4c1b-a22b-b4df2d73a65a.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Drink card game - get wasted with your friends!</title>
       <link>https://gamefound.com:443/en/projects/kingofcups/drink-card-game---get-wasted-with-your-friends?ref=</link>
