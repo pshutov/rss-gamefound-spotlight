@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 08 Oct 2025 23:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 00:53:52 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Radiance [Solo Game of the Month]</title>
@@ -84,7 +84,7 @@
       <guid isPermaLink="false">44007</guid>
       <pubDate>Wed, 08 Oct 2025 11:46:50 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5931/f1b5b712-b66f-4d8d-bed7-4099c4d2e3c9.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5931/20f0a7e7-9b00-4b0f-b06c-7adf01d42d89.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] Under the Table - A Sword &amp; Speakeasy Arthurian Gangster TTRPG has a starting date.</title>
