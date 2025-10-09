@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 09 Oct 2025 14:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:51:55 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Sewer Sanctuary has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/endlessforms/sewer-sanctuary?ref=</link>
+      <guid isPermaLink="false">44024</guid>
+      <pubDate>Thu, 09 Oct 2025 14:25:51 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5916/46acff12-45df-44eb-939c-7d65963fe035.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Heroes of Might &amp; Magic: The Card Game</title>
       <link>https://gamefound.com:443/en/projects/archon-studio/heroes-of-mightmagic-the-card-game?ref=</link>
