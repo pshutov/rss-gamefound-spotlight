@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 09 Oct 2025 06:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 06:48:06 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Lone Wolf: Vengeance of the Kai</title>
@@ -132,7 +132,7 @@
       <guid isPermaLink="false">44002</guid>
       <pubDate>Wed, 08 Oct 2025 04:00:00 +0000</pubDate>
       <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5586/888a81e2-eee2-4409-a5fe-8c4c7d8c0128.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5586/bd587477-1e26-4b29-9733-abea7a5ed3a9.png" type="image/png" />
     </item>
   </channel>
 </rss>
