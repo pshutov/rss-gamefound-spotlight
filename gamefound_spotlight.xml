@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 09 Oct 2025 15:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 16:16:04 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Drink card game - get wasted with your friends!</title>
+      <link>https://gamefound.com:443/en/projects/kingofcups/drink-card-game---get-wasted-with-your-friends?ref=</link>
+      <guid isPermaLink="false">44026</guid>
+      <pubDate>Thu, 09 Oct 2025 16:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6088/02b0e3d8-20df-456e-a180-d8b6e2b08a92.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] RAAS: A Dance of Love has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/arcane-wonders/raas-a-dance-of-love?ref=</link>
+      <guid isPermaLink="false">44025</guid>
+      <pubDate>Thu, 09 Oct 2025 15:47:07 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6421/38b656dc-0291-4bc0-9aa6-9235ab5759f8.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Sewer Sanctuary has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/endlessforms/sewer-sanctuary?ref=</link>
