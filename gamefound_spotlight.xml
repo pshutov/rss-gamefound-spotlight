@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 09 Oct 2025 08:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 09:12:47 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Moonwych has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/dfg/moonwych?ref=</link>
+      <guid isPermaLink="false">44018</guid>
+      <pubDate>Thu, 09 Oct 2025 09:00:01 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6004/df2ecc4a-8b55-43f7-a893-b2a5843d1278.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Lone Wolf: Vengeance of the Kai</title>
       <link>https://gamefound.com:443/en/projects/holmgard-games/lone-wolf-vengeance-of-the-kai?ref=</link>
