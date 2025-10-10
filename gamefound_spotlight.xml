@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 10 Oct 2025 14:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 14:40:46 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] Forest Battle Map Pack – 720 RPG Maps has a starting date.</title>
@@ -116,7 +116,7 @@
       <guid isPermaLink="false">44023</guid>
       <pubDate>Thu, 09 Oct 2025 14:05:08 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5691/e9e2a607-2013-4574-8242-eae9c700c5d6.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5691/cb94473f-0e03-4ad0-a345-f7e000fb21ab.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign start] Heroes of Might &amp; Magic: The Card Game</title>
@@ -124,7 +124,7 @@
       <guid isPermaLink="false">44022</guid>
       <pubDate>Thu, 09 Oct 2025 14:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5691/e9e2a607-2013-4574-8242-eae9c700c5d6.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5691/cb94473f-0e03-4ad0-a345-f7e000fb21ab.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Launch date] Sirens' Oath: Tides Turning has a starting date.</title>
