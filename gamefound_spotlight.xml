@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 10 Oct 2025 09:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 10:13:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] The Wildsea: Tigers on the Wire has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/mythworks/the-wildsea-tigers-on-a-wire?ref=</link>
+      <guid isPermaLink="false">44033</guid>
+      <pubDate>Fri, 10 Oct 2025 10:03:30 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5989/9c38a8a8-628e-43b5-8c3d-298d04512433.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Spiders The Game</title>
       <link>https://gamefound.com:443/en/projects/spidersthegame/spiders-the-game?ref=</link>
