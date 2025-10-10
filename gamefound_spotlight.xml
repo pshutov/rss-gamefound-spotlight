@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 10 Oct 2025 08:43:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 09:13:49 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Spiders The Game</title>
+      <link>https://gamefound.com:443/en/projects/spidersthegame/spiders-the-game?ref=</link>
+      <guid isPermaLink="false">44032</guid>
+      <pubDate>Fri, 10 Oct 2025 08:45:19 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/56f108d6-16ac-409b-811d-bd222fbb792d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Rampage Miniatures: Goblin Frenzy</title>
+      <link>https://gamefound.com:443/en/projects/rampage-miniatures/rampage-miniatures-goblin-frenzy?ref=</link>
+      <guid isPermaLink="false">44031</guid>
+      <pubDate>Fri, 10 Oct 2025 08:41:22 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6463/f32798c9-95ae-4740-a64f-49e045710658.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Dreams of no Sleep has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/alexandre-chu/dreams-of-no-sleep?ref=</link>
@@ -117,126 +133,6 @@
       <pubDate>Thu, 09 Oct 2025 03:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5922/74515290-e198-440e-bcec-73f11ce17a4e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Radiance [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/radiance-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">44016</guid>
-      <pubDate>Wed, 08 Oct 2025 18:11:36 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6513/fb798390-12f4-4300-93e0-2c58330ab3ef.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Bonnie and Clyde, a Roadmap Through History</title>
-      <link>https://gamefound.com:443/en/projects/yeast-games/bonnie-and-clyde-a-roadmap-through-history?ref=</link>
-      <guid isPermaLink="false">44015</guid>
-      <pubDate>Wed, 08 Oct 2025 17:44:21 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6451/42f9a5b7-b43d-4e2e-a38e-0039bdcbcdb4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Dukes Of Nukes V2 - The Party Game Of Nuclear Thievery</title>
-      <link>https://gamefound.com:443/en/projects/dukes-of-nukes-gaming/dukes-of-nukes-v2?ref=</link>
-      <guid isPermaLink="false">44014</guid>
-      <pubDate>Wed, 08 Oct 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6153/6566be04-53e3-416f-ba09-308c6e14cdf1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] VoidRoll - A Year-Long Voyage</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
-      <guid isPermaLink="false">44013</guid>
-      <pubDate>Wed, 08 Oct 2025 16:13:03 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/0d80b42a-acf7-4960-b681-a067db8100ca.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] VANEA: Guardians of the Eldertree has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/forgotten-tales/vanea?ref=</link>
-      <guid isPermaLink="false">44012</guid>
-      <pubDate>Wed, 08 Oct 2025 14:50:47 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5217/eed7ac7e-7df2-4216-ba3e-81f1c184f9c9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Turn It Off: An Eldritch Horror Adventure has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/cloud-press-publishing/turn-it-off-an-eldritch-horror-adventure?ref=</link>
-      <guid isPermaLink="false">44011</guid>
-      <pubDate>Wed, 08 Oct 2025 13:19:34 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5975/11208375-4893-4666-9974-8b5da4b2f5e5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Rook &amp; Ruin has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/rookruin?ref=</link>
-      <guid isPermaLink="false">44010</guid>
-      <pubDate>Wed, 08 Oct 2025 13:10:19 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6444/7ed8acc4-750f-4dda-bd53-5c488d054ac5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Essence - A Grim PnP RPG has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/essence-the-grim-expeditions?ref=</link>
-      <guid isPermaLink="false">44009</guid>
-      <pubDate>Wed, 08 Oct 2025 13:10:15 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5923/0bda7439-4691-4a66-9bc1-b9dbdd4083a8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Lies By Omission: A Tabletop RPG Inspired by Gothic Italian Horror has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/chain-assembly/lxo?ref=</link>
-      <guid isPermaLink="false">44008</guid>
-      <pubDate>Wed, 08 Oct 2025 11:56:46 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5917/11d15879-2a64-4c99-9056-b59fe0fd7d4e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] MUTANANNY has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/jake-eldritch/mutananny?ref=</link>
-      <guid isPermaLink="false">44007</guid>
-      <pubDate>Wed, 08 Oct 2025 11:46:50 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5931/b7d1a721-ee2b-44d5-b0af-ee3ed5231107.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Under the Table - A Sword &amp; Speakeasy Arthurian Gangster TTRPG has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/muse-afire/under-the-table?ref=</link>
-      <guid isPermaLink="false">44006</guid>
-      <pubDate>Wed, 08 Oct 2025 11:10:17 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5993/a78bbb89-86c0-4410-8b1b-b4402d471001.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] DECKO has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gem-games/decko?ref=</link>
-      <guid isPermaLink="false">44005</guid>
-      <pubDate>Wed, 08 Oct 2025 07:48:41 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6279/e83edf78-8621-463d-ba65-55048bdcff19.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Agemonia Expansions: Witches of Durgane &amp; The Breach</title>
-      <link>https://gamefound.com:443/en/projects/lautapelit/agemonia-expansions-witches-of-durgane--the-breach?ref=</link>
-      <guid isPermaLink="false">44004</guid>
-      <pubDate>Wed, 08 Oct 2025 07:34:22 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6518/0882e388-c671-456b-87f3-c40561564f7d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Dogs of War</title>
-      <link>https://gamefound.com:443/en/projects/play-to-z/dogs-of-war?ref=</link>
-      <guid isPermaLink="false">44003</guid>
-      <pubDate>Wed, 08 Oct 2025 07:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6244/bd88f2fe-c5c6-4cc4-b877-6f08e489c91b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Terrorscape 2</title>
-      <link>https://gamefound.com:443/en/projects/ice-makes/terrorscape-2?ref=</link>
-      <guid isPermaLink="false">44002</guid>
-      <pubDate>Wed, 08 Oct 2025 04:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5586/bd587477-1e26-4b29-9733-abea7a5ed3a9.png" type="image/png" />
     </item>
   </channel>
 </rss>
