@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 11 Oct 2025 12:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 12:55:46 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Cloud Jumpers - The Board Game</title>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>[Launch date] Moonwych has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/dfg/moonwych?ref=</link>
+      <link>https://prod-gf-app-service-prepreprod.azurewebsites.net:443/en/projects/dfg/moonwych?ref=</link>
       <guid isPermaLink="false">44018</guid>
       <pubDate>Thu, 09 Oct 2025 09:00:01 +0000</pubDate>
       <description>Launch date</description>
