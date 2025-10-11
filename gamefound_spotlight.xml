@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 11 Oct 2025 03:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 03:41:18 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Cloud Jumpers - The Board Game</title>
@@ -52,7 +52,7 @@
       <guid isPermaLink="false">44032</guid>
       <pubDate>Fri, 10 Oct 2025 08:45:19 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/56f108d6-16ac-409b-811d-bd222fbb792d.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/518d2cf4-99b1-4bd2-bb4a-157eeab874d0.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign is funded] Rampage Miniatures: Goblin Frenzy</title>
