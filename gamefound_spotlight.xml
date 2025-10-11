@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 11 Oct 2025 13:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 14:09:20 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] SandCastle</title>
+      <link>https://gamefound.com:443/en/projects/bro-games/sandcastle?ref=</link>
+      <guid isPermaLink="false">44038</guid>
+      <pubDate>Sat, 11 Oct 2025 14:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5395/2831d297-265a-415f-a091-12ea382d8576.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Cloud Jumpers - The Board Game</title>
       <link>https://gamefound.com:443/en/projects/gabrielfaint/cloud-jumpers---the-board-game?ref=</link>
