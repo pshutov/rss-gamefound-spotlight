@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 13 Oct 2025 07:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 07:37:16 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Twilight Sun has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/fibz/twilight-sun?ref=</link>
+      <guid isPermaLink="false">44042</guid>
+      <pubDate>Mon, 13 Oct 2025 07:26:07 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5948/01dc3714-3967-4a4c-ae5c-81fdfc871203.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] 1100+ Sci-fi Battlemaps for TTRPG and VTT</title>
       <link>https://gamefound.com:443/en/projects/agnesagraphic/1100-sci-fi-battlemaps-for-ttrpg-and-vttrpg?ref=</link>
@@ -117,94 +125,6 @@
       <pubDate>Fri, 10 Oct 2025 06:37:44 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5904/9e48cef2-8070-430e-b7b9-0330dc389bdf.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Elemental Dominion</title>
-      <link>https://gamefound.com:443/en/projects/norlys-tabletop-studio/elemental-dominion?ref=</link>
-      <guid isPermaLink="false">44027</guid>
-      <pubDate>Thu, 09 Oct 2025 22:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6277/e8188c87-1796-4c1b-a22b-b4df2d73a65a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Drink card game - get wasted with your friends!</title>
-      <link>https://gamefound.com:443/en/projects/kingofcups/drink-card-game---get-wasted-with-your-friends?ref=</link>
-      <guid isPermaLink="false">44026</guid>
-      <pubDate>Thu, 09 Oct 2025 16:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6088/02b0e3d8-20df-456e-a180-d8b6e2b08a92.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Raas: A Dance of Love has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/arcane-wonders/raas-a-dance-of-love?ref=</link>
-      <guid isPermaLink="false">44025</guid>
-      <pubDate>Thu, 09 Oct 2025 15:47:07 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6421/38b656dc-0291-4bc0-9aa6-9235ab5759f8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Sewer Sanctuary has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/endlessforms/sewer-sanctuary?ref=</link>
-      <guid isPermaLink="false">44024</guid>
-      <pubDate>Thu, 09 Oct 2025 14:25:51 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5916/46acff12-45df-44eb-939c-7d65963fe035.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Heroes of Might &amp; Magic: The Card Game</title>
-      <link>https://gamefound.com:443/en/projects/archon-studio/heroes-of-mightmagic-the-card-game?ref=</link>
-      <guid isPermaLink="false">44023</guid>
-      <pubDate>Thu, 09 Oct 2025 14:05:08 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5691/cb94473f-0e03-4ad0-a345-f7e000fb21ab.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Heroes of Might &amp; Magic: The Card Game</title>
-      <link>https://gamefound.com:443/en/projects/archon-studio/heroes-of-mightmagic-the-card-game?ref=</link>
-      <guid isPermaLink="false">44022</guid>
-      <pubDate>Thu, 09 Oct 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5691/cb94473f-0e03-4ad0-a345-f7e000fb21ab.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Sirens' Oath: Tides Turning has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/twisted-spire/sirens-oath-tides-turning?ref=</link>
-      <guid isPermaLink="false">44021</guid>
-      <pubDate>Thu, 09 Oct 2025 12:19:41 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5902/0b297306-a00a-42ad-ad08-7b930ef661bc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Ikusa Samurai Swords 40th Anniversary Edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/renegade-game-studios/ikusa?ref=</link>
-      <guid isPermaLink="false">44020</guid>
-      <pubDate>Thu, 09 Oct 2025 11:35:50 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5877/c92df219-3e99-4796-bac6-bceb23a355e7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Clouds War Tales: Nuvitrum</title>
-      <link>https://gamefound.com:443/en/projects/pif-games/nuvitrum?ref=</link>
-      <guid isPermaLink="false">44019</guid>
-      <pubDate>Thu, 09 Oct 2025 09:31:57 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6089/eb4ae34c-b52b-4003-9e71-a3880c4f6967.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Moonwych has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/dfg/moonwych?ref=</link>
-      <guid isPermaLink="false">44018</guid>
-      <pubDate>Thu, 09 Oct 2025 09:00:01 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6004/df2ecc4a-8b55-43f7-a893-b2a5843d1278.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Lone Wolf: Vengeance of the Kai</title>
-      <link>https://gamefound.com:443/en/projects/holmgard-games/lone-wolf-vengeance-of-the-kai?ref=</link>
-      <guid isPermaLink="false">44017</guid>
-      <pubDate>Thu, 09 Oct 2025 03:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5922/74515290-e198-440e-bcec-73f11ce17a4e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
