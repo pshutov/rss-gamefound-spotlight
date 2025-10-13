@@ -4,8 +4,40 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 13 Oct 2025 15:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 16:14:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Deadlands - Durch den Unheimlichen Westen</title>
+      <link>https://gamefound.com:443/en/projects/ulisses-spiele/deadlands---der-abscheuliche-nordwesten?ref=</link>
+      <guid isPermaLink="false">44054</guid>
+      <pubDate>Mon, 13 Oct 2025 16:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6123/8bc086e8-d138-45c5-88d2-eb4538a9aefa.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Queen Alice</title>
+      <link>https://gamefound.com:443/en/projects/combo_games/queen-alice?ref=</link>
+      <guid isPermaLink="false">44053</guid>
+      <pubDate>Mon, 13 Oct 2025 15:51:29 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6475/ebd0a37c-7480-4646-800d-68bc63b4747d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Artalis</title>
+      <link>https://gamefound.com:443/en/projects/projectboardgames/artalis?ref=</link>
+      <guid isPermaLink="false">44052</guid>
+      <pubDate>Mon, 13 Oct 2025 15:44:07 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6376/710095cf-97b9-488b-996d-67e94a9b63e6.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Theocratia - Reboot has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/mojito-studios/theocratia-reboot?ref=</link>
+      <guid isPermaLink="false">44051</guid>
+      <pubDate>Mon, 13 Oct 2025 15:40:53 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5248/e09bab69-2c45-4ea4-945f-ea3b289e7631.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New blog post] October Feast is coming to Gamefound!</title>
       <link>https://gamefound.com/blog/post/october-feast-is-coming-to-gamefound</link>
@@ -92,102 +124,6 @@
       <pubDate>Sun, 12 Oct 2025 07:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4439/d22348b3-20b3-4808-b821-3e8d2921df19.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] SandCastle</title>
-      <link>https://gamefound.com:443/en/projects/bro-games/sandcastle?ref=</link>
-      <guid isPermaLink="false">44039</guid>
-      <pubDate>Sat, 11 Oct 2025 14:37:55 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5395/2831d297-265a-415f-a091-12ea382d8576.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] SandCastle</title>
-      <link>https://gamefound.com:443/en/projects/bro-games/sandcastle?ref=</link>
-      <guid isPermaLink="false">44038</guid>
-      <pubDate>Sat, 11 Oct 2025 14:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5395/2831d297-265a-415f-a091-12ea382d8576.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Cloud Jumpers - The Board Game</title>
-      <link>https://gamefound.com:443/en/projects/gabrielfaint/cloud-jumpers---the-board-game?ref=</link>
-      <guid isPermaLink="false">44037</guid>
-      <pubDate>Fri, 10 Oct 2025 19:12:40 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6149/49c2a364-f842-419d-8af8-e1714376b9fd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Forest Battle Map Pack – 720 RPG Maps has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/forest-battle-map-pack--720-rpg-maps?ref=</link>
-      <guid isPermaLink="false">44036</guid>
-      <pubDate>Fri, 10 Oct 2025 13:23:38 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6405/4c61323b-1f18-438f-aa16-f1ef721a51ef.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Urban Shadows: Algiers &amp; Angels has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/magpiegames/urban-shadows-algiers--angels?ref=</link>
-      <guid isPermaLink="false">44035</guid>
-      <pubDate>Fri, 10 Oct 2025 13:00:07 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6100/6bd1ac66-6f71-4848-a7f6-05835498abb2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Magniscape: Magnetic RPG Battle Tiles has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/tabletoptime/magniscape-magnetic-rpg-battle-tiles?ref=</link>
-      <guid isPermaLink="false">44034</guid>
-      <pubDate>Fri, 10 Oct 2025 12:00:43 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6322/86630507-e162-49bd-966b-5012fe4a550b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] The Wildsea: Tigers on the Wire has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/mythworks/the-wildsea-tigers-on-a-wire?ref=</link>
-      <guid isPermaLink="false">44033</guid>
-      <pubDate>Fri, 10 Oct 2025 10:03:30 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5989/9c38a8a8-628e-43b5-8c3d-298d04512433.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Spiders The Game</title>
-      <link>https://gamefound.com:443/en/projects/spidersthegame/spiders-the-game?ref=</link>
-      <guid isPermaLink="false">44032</guid>
-      <pubDate>Fri, 10 Oct 2025 08:45:19 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/518d2cf4-99b1-4bd2-bb4a-157eeab874d0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Rampage Miniatures: Goblin Frenzy</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/rampage-miniatures-goblin-frenzy?ref=</link>
-      <guid isPermaLink="false">44031</guid>
-      <pubDate>Fri, 10 Oct 2025 08:41:22 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6463/f32798c9-95ae-4740-a64f-49e045710658.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Dreams of no Sleep has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/alexandre-chu/dreams-of-no-sleep?ref=</link>
-      <guid isPermaLink="false">44030</guid>
-      <pubDate>Fri, 10 Oct 2025 08:05:41 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5951/bcc98848-8520-4dc2-a0ac-5ae63846a858.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Rampage Miniatures: Goblin Frenzy</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/rampage-miniatures-goblin-frenzy?ref=</link>
-      <guid isPermaLink="false">44029</guid>
-      <pubDate>Fri, 10 Oct 2025 07:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6463/f32798c9-95ae-4740-a64f-49e045710658.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Strangers on the 'Net has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/softchaos/strangers-on-net?ref=</link>
-      <guid isPermaLink="false">44028</guid>
-      <pubDate>Fri, 10 Oct 2025 06:37:44 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5904/9e48cef2-8070-430e-b7b9-0330dc389bdf.png" type="image/png" />
     </item>
   </channel>
 </rss>
