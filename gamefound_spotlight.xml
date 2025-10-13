@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 13 Oct 2025 09:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 09:50:18 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Save Us All has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/saveusall/saveusall?ref=</link>
+      <guid isPermaLink="false">44045</guid>
+      <pubDate>Mon, 13 Oct 2025 09:14:47 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4710/d91168fb-f088-4318-ad2a-a8482f41801d.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Trenchcoat Raccoons: A Chaotic, Fail-Forward Heist RPG has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/apot91/trenchcoat-raccoons?ref=</link>
