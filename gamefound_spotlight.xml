@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 13:06:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 13:45:06 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Vampire: The Masquerade - Palermo Conspiracies</title>
+      <link>https://gamefound.com:443/en/projects/xplored/vampire-the-masquerade---palermo-conspiracies?ref=</link>
+      <guid isPermaLink="false">44064</guid>
+      <pubDate>Tue, 14 Oct 2025 13:32:42 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5611/80010a82-b26a-46f5-9754-f1a72f6fc4b3.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Vampire: The Masquerade - Palermo Conspiracies</title>
       <link>https://gamefound.com:443/en/projects/xplored/vampire-the-masquerade---palermo-conspiracies?ref=</link>
@@ -44,7 +52,7 @@
       <guid isPermaLink="false">44059</guid>
       <pubDate>Tue, 14 Oct 2025 09:25:38 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/168b23ba-51a2-4a47-af78-b81c6a2546b1.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/92a72f91-aeca-47ec-945c-5e2b15273bf0.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] Providence City Punks has a starting date.</title>
