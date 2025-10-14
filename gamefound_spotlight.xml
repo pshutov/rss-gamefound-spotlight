@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 12:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 13:06:12 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Vampire: The Masquerade - Palermo Conspiracies</title>
+      <link>https://gamefound.com:443/en/projects/xplored/vampire-the-masquerade---palermo-conspiracies?ref=</link>
+      <guid isPermaLink="false">44063</guid>
+      <pubDate>Tue, 14 Oct 2025 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5611/80010a82-b26a-46f5-9754-f1a72f6fc4b3.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Ambition has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/the-press-betwixt/ambition?ref=</link>
