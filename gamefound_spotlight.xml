@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 11:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:24:26 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Ambition has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/the-press-betwixt/ambition?ref=</link>
+      <guid isPermaLink="false">44062</guid>
+      <pubDate>Tue, 14 Oct 2025 11:50:16 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5937/500df145-b372-47e6-aeaa-5ed0b1e663d7.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Master of Fables - TTRPG for the whole family</title>
       <link>https://gamefound.com:443/en/projects/school-of-imagination/masteroffables?ref=</link>
