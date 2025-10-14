@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 18:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 18:45:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Dreams of no Sleep</title>
+      <link>https://gamefound.com:443/en/projects/alexandre-chu/dreams-of-no-sleep?ref=</link>
+      <guid isPermaLink="false">44108</guid>
+      <pubDate>Tue, 14 Oct 2025 18:34:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5951/bcc98848-8520-4dc2-a0ac-5ae63846a858.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Dark Rituals: Veins of Neemoss</title>
+      <link>https://gamefound.com:443/en/projects/maki-games/dark-rituals-malleus-maleficarum-reprint?ref=</link>
+      <guid isPermaLink="false">44107</guid>
+      <pubDate>Tue, 14 Oct 2025 18:28:01 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5050/03ba1188-9476-44c5-b815-c25933b4a26d.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Cretaceous Rails Reprint and Cretaceous Seas Expansion</title>
       <link>https://gamefound.com:443/en/projects/spielcraft-games/cretaceous-rails-reprint-and-cretaceous-seas-expansion?ref=</link>
