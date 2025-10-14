@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 09:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 10:13:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Master of Fables - TTRPG for the whole family</title>
+      <link>https://gamefound.com:443/en/projects/school-of-imagination/masteroffables?ref=</link>
+      <guid isPermaLink="false">44061</guid>
+      <pubDate>Tue, 14 Oct 2025 10:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4361/0dc0df8d-9f9e-4780-807a-a3c1d8799d2c.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] The Gnomes of Diccory - a cozy TTRPG has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/roll-and-perish/diccory?ref=</link>
+      <guid isPermaLink="false">44060</guid>
+      <pubDate>Tue, 14 Oct 2025 09:53:19 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5926/cc68a128-14ed-4b3f-988a-ec51df570482.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Starot - A D20 and Tarot Based SciFi RPG with Physics-Based Space Combat has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/chaoticstupid/starot-ttrpg?ref=</link>
