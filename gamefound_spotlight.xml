@@ -4,8 +4,31 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 15:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 16:14:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Sirens' Oath: Tides Turning</title>
+      <link>https://gamefound.com:443/en/projects/twisted-spire/sirens-oath-tides-turning?ref=</link>
+      <guid isPermaLink="false">44102</guid>
+      <pubDate>Tue, 14 Oct 2025 15:57:48 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5902/0b297306-a00a-42ad-ad08-7b930ef661bc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] The Girls of the Genziana Hotel</title>
+      <link>https://gamefound.com:443/en/projects/hendriktennapel/the-girls-of-the-genziana-hotel?ref=</link>
+      <guid isPermaLink="false">44101</guid>
+      <pubDate>Tue, 14 Oct 2025 15:57:40 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5903/e8ba593a-ff67-42a8-919c-84ba8cf90a00.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New blog post] [What's new] Order Lock &amp; Updates Attribution Change</title>
+      <link>https://gamefound.com/blog/post/order-lock-updates-attribution</link>
+      <guid isPermaLink="false">44100</guid>
+      <pubDate>Tue, 14 Oct 2025 15:44:28 +0000</pubDate>
+      <description>New blog post</description>
+    </item>
     <item>
       <title>[Campaign is funded] VOIDBIRTH</title>
       <link>https://gamefound.com:443/en/projects/black-magic-creative-inc/voidbirth?ref=</link>
