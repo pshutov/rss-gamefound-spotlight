@@ -4,8 +4,208 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 14:13:17 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Lies By Omission: A Tabletop RPG Inspired by Gothic Italian Horror</title>
+      <link>https://gamefound.com:443/en/projects/chain-assembly/lxo?ref=</link>
+      <guid isPermaLink="false">44089</guid>
+      <pubDate>Tue, 14 Oct 2025 14:07:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5917/11d15879-2a64-4c99-9056-b59fe0fd7d4e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Magniscape: Magnetic RPG Battle Tiles</title>
+      <link>https://gamefound.com:443/en/projects/tabletoptime/magniscape-magnetic-rpg-battle-tiles?ref=</link>
+      <guid isPermaLink="false">44088</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6322/a8805e6c-869a-421a-a642-0b5c413ae4fd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Urban Shadows: Algiers &amp; Angels</title>
+      <link>https://gamefound.com:443/en/projects/magpiegames/urban-shadows-algiers--angels?ref=</link>
+      <guid isPermaLink="false">44087</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6100/6bd1ac66-6f71-4848-a7f6-05835498abb2.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Cretaceous Rails Reprint and Cretaceous Seas Expansion</title>
+      <link>https://gamefound.com:443/en/projects/spielcraft-games/cretaceous-rails-reprint-and-cretaceous-seas-expansion?ref=</link>
+      <guid isPermaLink="false">44086</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6005/850eb294-a281-449f-b5b2-990cc8e7777e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Moonwych</title>
+      <link>https://gamefound.com:443/en/projects/dfg/moonwych?ref=</link>
+      <guid isPermaLink="false">44085</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6004/df2ecc4a-8b55-43f7-a893-b2a5843d1278.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Punk Fried Chicken</title>
+      <link>https://gamefound.com:443/en/projects/quazerdale/punk-fried-chicken?ref=</link>
+      <guid isPermaLink="false">44084</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6001/4a051315-b24d-45fc-878a-9e624fc3651f.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Under the Table - A Sword &amp; Speakeasy Arthurian Gangster TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/muse-afire/under-the-table?ref=</link>
+      <guid isPermaLink="false">44083</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5993/0edbdb6b-eec9-4a37-aae0-3a45bdb2c263.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Wildsea: Tigers on the Wire</title>
+      <link>https://gamefound.com:443/en/projects/mythworks/the-wildsea-tigers-on-a-wire?ref=</link>
+      <guid isPermaLink="false">44082</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5989/9c38a8a8-628e-43b5-8c3d-298d04512433.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Turn It Off: An Eldritch Horror Adventure</title>
+      <link>https://gamefound.com:443/en/projects/cloud-press-publishing/turn-it-off-an-eldritch-horror-adventure?ref=</link>
+      <guid isPermaLink="false">44081</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5975/11208375-4893-4666-9974-8b5da4b2f5e5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Trenchcoat Raccoons: A Chaotic, Fail-Forward Heist RPG</title>
+      <link>https://gamefound.com:443/en/projects/apot91/trenchcoat-raccoons?ref=</link>
+      <guid isPermaLink="false">44080</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5955/e6661675-b408-4c2a-9159-4bee9672887f.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Providence City Punks</title>
+      <link>https://gamefound.com:443/en/projects/brainfrogstudio/providencecitypunks?ref=</link>
+      <guid isPermaLink="false">44079</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5952/310cb2ed-061a-4301-96c2-a9a76755039e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Dreams of no Sleep</title>
+      <link>https://gamefound.com:443/en/projects/alexandre-chu/dreams-of-no-sleep?ref=</link>
+      <guid isPermaLink="false">44078</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5951/bcc98848-8520-4dc2-a0ac-5ae63846a858.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Twilight Sun</title>
+      <link>https://gamefound.com:443/en/projects/fibz/twilight-sun?ref=</link>
+      <guid isPermaLink="false">44077</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5948/01dc3714-3967-4a4c-ae5c-81fdfc871203.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Starot - A D20 and Tarot Based SciFi RPG with Physics-Based Space Combat</title>
+      <link>https://gamefound.com:443/en/projects/chaoticstupid/starot-ttrpg?ref=</link>
+      <guid isPermaLink="false">44076</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/b83561a1-58b5-444d-93c0-12711d1d0949.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Ambition</title>
+      <link>https://gamefound.com:443/en/projects/the-press-betwixt/ambition?ref=</link>
+      <guid isPermaLink="false">44075</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5937/500df145-b372-47e6-aeaa-5ed0b1e663d7.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] MUTANANNY</title>
+      <link>https://gamefound.com:443/en/projects/jake-eldritch/mutananny?ref=</link>
+      <guid isPermaLink="false">44074</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5931/b7d1a721-ee2b-44d5-b0af-ee3ed5231107.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Gnomes of Diccory - a cozy TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/roll-and-perish/diccory?ref=</link>
+      <guid isPermaLink="false">44073</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5926/cc68a128-14ed-4b3f-988a-ec51df570482.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Heliosail</title>
+      <link>https://gamefound.com:443/en/projects/quinnsilver-studios/heliosail?ref=</link>
+      <guid isPermaLink="false">44072</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5921/fd6f8ff5-9c3d-453e-9e51-12ee35c26369.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] You Will Die In This Place</title>
+      <link>https://gamefound.com:443/en/projects/shrike-studio/you-will-die-in-this-place?ref=</link>
+      <guid isPermaLink="false">44071</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5919/627cb70c-62a3-4e82-8f18-0fb8680071f9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Lies By Omission: A Tabletop RPG Inspired by Gothic Italian Horror</title>
+      <link>https://gamefound.com:443/en/projects/chain-assembly/lxo?ref=</link>
+      <guid isPermaLink="false">44070</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5917/11d15879-2a64-4c99-9056-b59fe0fd7d4e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Sewer Sanctuary</title>
+      <link>https://gamefound.com:443/en/projects/endlessforms/sewer-sanctuary?ref=</link>
+      <guid isPermaLink="false">44069</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5916/46acff12-45df-44eb-939c-7d65963fe035.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Strangers on the 'Net</title>
+      <link>https://gamefound.com:443/en/projects/softchaos/strangers-on-net?ref=</link>
+      <guid isPermaLink="false">44068</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5904/9e48cef2-8070-430e-b7b9-0330dc389bdf.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Girls of the Genziana Hotel</title>
+      <link>https://gamefound.com:443/en/projects/hendriktennapel/the-girls-of-the-genziana-hotel?ref=</link>
+      <guid isPermaLink="false">44067</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5903/e8ba593a-ff67-42a8-919c-84ba8cf90a00.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Sirens' Oath: Tides Turning</title>
+      <link>https://gamefound.com:443/en/projects/twisted-spire/sirens-oath-tides-turning?ref=</link>
+      <guid isPermaLink="false">44066</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5902/0b297306-a00a-42ad-ad08-7b930ef661bc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Dark Rituals: Veins of Neemoss</title>
+      <link>https://gamefound.com:443/en/projects/maki-games/dark-rituals-malleus-maleficarum-reprint?ref=</link>
+      <guid isPermaLink="false">44065</guid>
+      <pubDate>Tue, 14 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5050/03ba1188-9476-44c5-b815-c25933b4a26d.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Vampire: The Masquerade - Palermo Conspiracies</title>
       <link>https://gamefound.com:443/en/projects/xplored/vampire-the-masquerade---palermo-conspiracies?ref=</link>
@@ -52,7 +252,7 @@
       <guid isPermaLink="false">44059</guid>
       <pubDate>Tue, 14 Oct 2025 09:25:38 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/92a72f91-aeca-47ec-945c-5e2b15273bf0.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/b83561a1-58b5-444d-93c0-12711d1d0949.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] Providence City Punks has a starting date.</title>
@@ -69,125 +269,6 @@
       <pubDate>Tue, 14 Oct 2025 01:29:05 +0000</pubDate>
       <description>New Pledge Manager</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6214/59959b86-8557-41a8-830b-0fb2224b3406.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] SkIIkS</title>
-      <link>https://gamefound.com:443/en/projects/skiiks/skiiks?ref=</link>
-      <guid isPermaLink="false">44056</guid>
-      <pubDate>Mon, 13 Oct 2025 22:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6374/30870e40-e6f2-47d0-aa7f-79fc5a1b4b54.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Punk Fried Chicken has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/quazerdale/punk-fried-chicken?ref=</link>
-      <guid isPermaLink="false">44055</guid>
-      <pubDate>Mon, 13 Oct 2025 19:26:48 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6001/4a051315-b24d-45fc-878a-9e624fc3651f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Deadlands - Durch den Unheimlichen Westen</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/deadlands---der-abscheuliche-nordwesten?ref=</link>
-      <guid isPermaLink="false">44054</guid>
-      <pubDate>Mon, 13 Oct 2025 16:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6123/8bc086e8-d138-45c5-88d2-eb4538a9aefa.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Queen Alice</title>
-      <link>https://gamefound.com:443/en/projects/combo_games/queen-alice?ref=</link>
-      <guid isPermaLink="false">44053</guid>
-      <pubDate>Mon, 13 Oct 2025 15:51:29 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6475/ebd0a37c-7480-4646-800d-68bc63b4747d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Artalis</title>
-      <link>https://gamefound.com:443/en/projects/projectboardgames/artalis?ref=</link>
-      <guid isPermaLink="false">44052</guid>
-      <pubDate>Mon, 13 Oct 2025 15:44:07 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6376/710095cf-97b9-488b-996d-67e94a9b63e6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Theocratia - Reboot has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/mojito-studios/theocratia-reboot?ref=</link>
-      <guid isPermaLink="false">44051</guid>
-      <pubDate>Mon, 13 Oct 2025 15:40:53 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5248/e09bab69-2c45-4ea4-945f-ea3b289e7631.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New blog post] October Feast is coming to Gamefound!</title>
-      <link>https://gamefound.com/blog/post/october-feast-is-coming-to-gamefound</link>
-      <guid isPermaLink="false">44050</guid>
-      <pubDate>Mon, 13 Oct 2025 14:48:04 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[Launch date] Heliosail has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/quinnsilver-studios/heliosail?ref=</link>
-      <guid isPermaLink="false">44049</guid>
-      <pubDate>Mon, 13 Oct 2025 14:15:16 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5921/fd6f8ff5-9c3d-453e-9e51-12ee35c26369.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] You Will Die In This Place has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/shrike-studio/you-will-die-in-this-place?ref=</link>
-      <guid isPermaLink="false">44048</guid>
-      <pubDate>Mon, 13 Oct 2025 12:50:12 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5919/627cb70c-62a3-4e82-8f18-0fb8680071f9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The Girls of the Genziana Hotel has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/hendriktennapel/the-girls-of-the-genziana-hotel?ref=</link>
-      <guid isPermaLink="false">44047</guid>
-      <pubDate>Mon, 13 Oct 2025 12:28:57 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5903/e8ba593a-ff67-42a8-919c-84ba8cf90a00.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Spiders The Game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/spidersthegame/spiders-the-game?ref=</link>
-      <guid isPermaLink="false">44046</guid>
-      <pubDate>Mon, 13 Oct 2025 10:07:12 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/518d2cf4-99b1-4bd2-bb4a-157eeab874d0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Save Us All has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/saveusall/saveusall?ref=</link>
-      <guid isPermaLink="false">44045</guid>
-      <pubDate>Mon, 13 Oct 2025 09:14:47 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4710/d91168fb-f088-4318-ad2a-a8482f41801d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Trenchcoat Raccoons: A Chaotic, Fail-Forward Heist RPG has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/apot91/trenchcoat-raccoons?ref=</link>
-      <guid isPermaLink="false">44044</guid>
-      <pubDate>Mon, 13 Oct 2025 08:32:52 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5955/e6661675-b408-4c2a-9159-4bee9672887f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Erra - Resistance</title>
-      <link>https://gamefound.com:443/en/projects/oakgames/erra-resistance?ref=</link>
-      <guid isPermaLink="false">44043</guid>
-      <pubDate>Mon, 13 Oct 2025 08:30:07 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6486/3fa1ef91-30cf-4ece-9513-07623ea429b4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Twilight Sun has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/fibz/twilight-sun?ref=</link>
-      <guid isPermaLink="false">44042</guid>
-      <pubDate>Mon, 13 Oct 2025 07:26:07 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5948/01dc3714-3967-4a4c-ae5c-81fdfc871203.png" type="image/png" />
     </item>
   </channel>
 </rss>
