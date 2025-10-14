@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 14:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 14:42:35 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Sewer Sanctuary</title>
+      <link>https://gamefound.com:443/en/projects/endlessforms/sewer-sanctuary?ref=</link>
+      <guid isPermaLink="false">44092</guid>
+      <pubDate>Tue, 14 Oct 2025 14:39:47 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5916/46acff12-45df-44eb-939c-7d65963fe035.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Turn It Off: An Eldritch Horror Adventure</title>
+      <link>https://gamefound.com:443/en/projects/cloud-press-publishing/turn-it-off-an-eldritch-horror-adventure?ref=</link>
+      <guid isPermaLink="false">44091</guid>
+      <pubDate>Tue, 14 Oct 2025 14:34:06 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5975/11208375-4893-4666-9974-8b5da4b2f5e5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] You Will Die In This Place</title>
+      <link>https://gamefound.com:443/en/projects/shrike-studio/you-will-die-in-this-place?ref=</link>
+      <guid isPermaLink="false">44090</guid>
+      <pubDate>Tue, 14 Oct 2025 14:16:59 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5919/627cb70c-62a3-4e82-8f18-0fb8680071f9.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Lies By Omission: A Tabletop RPG Inspired by Gothic Italian Horror</title>
       <link>https://gamefound.com:443/en/projects/chain-assembly/lxo?ref=</link>
