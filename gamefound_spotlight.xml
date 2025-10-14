@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 17:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 17:35:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Urban Shadows: Algiers &amp; Angels</title>
+      <link>https://gamefound.com:443/en/projects/magpiegames/urban-shadows-algiers--angels?ref=</link>
+      <guid isPermaLink="false">44105</guid>
+      <pubDate>Tue, 14 Oct 2025 17:28:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6100/6bd1ac66-6f71-4848-a7f6-05835498abb2.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Ikusa Samurai Swords 40th Anniversary Edition</title>
+      <link>https://gamefound.com:443/en/projects/renegade-game-studios/ikusa?ref=</link>
+      <guid isPermaLink="false">44104</guid>
+      <pubDate>Tue, 14 Oct 2025 17:20:37 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5877/c92df219-3e99-4796-bac6-bceb23a355e7.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Ikusa Samurai Swords 40th Anniversary Edition</title>
       <link>https://gamefound.com:443/en/projects/renegade-game-studios/ikusa?ref=</link>
