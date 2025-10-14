@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 17:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 18:17:38 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Cretaceous Rails Reprint and Cretaceous Seas Expansion</title>
+      <link>https://gamefound.com:443/en/projects/spielcraft-games/cretaceous-rails-reprint-and-cretaceous-seas-expansion?ref=</link>
+      <guid isPermaLink="false">44106</guid>
+      <pubDate>Tue, 14 Oct 2025 17:52:47 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6005/850eb294-a281-449f-b5b2-990cc8e7777e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Urban Shadows: Algiers &amp; Angels</title>
       <link>https://gamefound.com:443/en/projects/magpiegames/urban-shadows-algiers--angels?ref=</link>
