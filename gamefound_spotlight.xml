@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 14 Oct 2025 18:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 19:09:21 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] King Arthur's Curse</title>
+      <link>https://gamefound.com:443/en/projects/amatilis/arthur?ref=</link>
+      <guid isPermaLink="false">44109</guid>
+      <pubDate>Tue, 14 Oct 2025 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6241/9cd73f4f-62c2-481f-a19a-49669f91409b.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Dreams of no Sleep</title>
       <link>https://gamefound.com:443/en/projects/alexandre-chu/dreams-of-no-sleep?ref=</link>
