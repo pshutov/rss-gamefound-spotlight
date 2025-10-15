@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 15 Oct 2025 13:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 14:12:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] The Gnomes of Diccory - a cozy TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/roll-and-perish/diccory?ref=</link>
+      <guid isPermaLink="false">44114</guid>
+      <pubDate>Wed, 15 Oct 2025 14:01:38 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5926/07e60dbb-9399-42ee-9c73-d5a03bbf272e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Get F***d in the Wild West</title>
+      <link>https://gamefound.com:443/en/projects/deadwood-games/get-fd-in-the-wild-west?ref=</link>
+      <guid isPermaLink="false">44113</guid>
+      <pubDate>Wed, 15 Oct 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5994/a9aa770c-fca0-46bd-bed3-a4379d18620d.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Dark Fantasy Narrative TTRPG and D&amp;D5e-compatible Setting: Sol Tyrannus</title>
       <link>https://gamefound.com:443/en/projects/a-game-of-nerds/sol-tyrannus?ref=</link>
