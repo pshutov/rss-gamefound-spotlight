@@ -4,8 +4,64 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 15 Oct 2025 14:43:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 15:12:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Travail</title>
+      <link>https://gamefound.com:443/en/projects/artefact-games/travail?ref=</link>
+      <guid isPermaLink="false">44121</guid>
+      <pubDate>Wed, 15 Oct 2025 15:10:05 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4718/20693316-ee82-403b-b0bd-0ccc6b8e87f9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Claustrophobia 1692</title>
+      <link>https://gamefound.com:443/en/projects/devir/claustrophobia-1692?ref=</link>
+      <guid isPermaLink="false">44120</guid>
+      <pubDate>Wed, 15 Oct 2025 15:08:33 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6571/e13c7c13-c7c0-46e1-a225-bab3ab03cd4e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] The Hunters A. D. 1492 2nd Edition and Borderlands Expansion</title>
+      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-and-borderlands-expansion?ref=</link>
+      <guid isPermaLink="false">44119</guid>
+      <pubDate>Wed, 15 Oct 2025 15:06:36 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6493/75f1b85e-30d9-4266-835c-e83c8d30bca4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Quake The Board Game</title>
+      <link>https://gamefound.com:443/en/projects/archon-studio/quake-the-board-game?ref=</link>
+      <guid isPermaLink="false">44118</guid>
+      <pubDate>Wed, 15 Oct 2025 15:05:01 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6517/553e066e-5c79-456f-a1e0-3610c46b8f0f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Dungeons &amp; Dragons: Xanathar Device Holder and Dice Tower Collectible</title>
+      <link>https://gamefound.com:443/en/projects/exg-pro/xanathar-cable-guy?ref=</link>
+      <guid isPermaLink="false">44117</guid>
+      <pubDate>Wed, 15 Oct 2025 15:01:50 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6066/b701fc8d-976e-4d04-80b9-636e3c88d246.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Altered - Seeds of Unity</title>
+      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
+      <guid isPermaLink="false">44116</guid>
+      <pubDate>Wed, 15 Oct 2025 15:01:29 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/217c3e0e-84fa-4050-a6a7-e3349b63bdc7.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Gamusinos Board Game</title>
+      <link>https://gamefound.com:443/en/projects/croquetagames/gamusinosboardgame?ref=</link>
+      <guid isPermaLink="false">44115</guid>
+      <pubDate>Wed, 15 Oct 2025 15:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5528/26f612f4-b689-4c79-9bcc-1dbf53f9d8cf.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] The Gnomes of Diccory - a cozy TTRPG</title>
       <link>https://gamefound.com:443/en/projects/roll-and-perish/diccory?ref=</link>
