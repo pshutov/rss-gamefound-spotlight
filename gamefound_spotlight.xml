@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 15 Oct 2025 16:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 16:42:32 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Assault Red Horizon 41 Revised Edition</title>
+      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/assault-red-horizon-41-rev-edition?ref=</link>
+      <guid isPermaLink="false">44134</guid>
+      <pubDate>Wed, 15 Oct 2025 16:12:27 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6541/1855774b-11c7-4a4d-9f3c-a098719ea82d.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Hellbringer: Bestiary &amp; Forbidden Spells</title>
       <link>https://gamefound.com:443/en/projects/maxime-gauthier/hellbringer?ref=</link>
