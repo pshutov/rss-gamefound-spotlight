@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 15 Oct 2025 18:47:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 19:09:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] The Grand Return of Party in the Back (with Three New Bumfuzzled Companions!)</title>
+      <link>https://gamefound.com:443/en/projects/puzzle-bomb/the-grand-return-of-party-in-the-back-with-three-new-bumfuzzled-companions?ref=</link>
+      <guid isPermaLink="false">44135</guid>
+      <pubDate>Wed, 15 Oct 2025 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6337/247e881f-3241-4096-bbc2-8f9222cd78ad.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Assault Red Horizon 41 Revised Edition</title>
       <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/assault-red-horizon-41-rev-edition?ref=</link>
