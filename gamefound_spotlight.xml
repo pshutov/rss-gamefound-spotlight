@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 15 Oct 2025 15:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 16:12:36 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Hellbringer: Bestiary &amp; Forbidden Spells</title>
+      <link>https://gamefound.com:443/en/projects/maxime-gauthier/hellbringer?ref=</link>
+      <guid isPermaLink="false">44133</guid>
+      <pubDate>Wed, 15 Oct 2025 16:11:14 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5034/d102ffd5-3059-4419-a449-d8abc3e991a7.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Hellbringer: Bestiary &amp; Forbidden Spells</title>
+      <link>https://gamefound.com:443/en/projects/maxime-gauthier/hellbringer?ref=</link>
+      <guid isPermaLink="false">44132</guid>
+      <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5034/d102ffd5-3059-4419-a449-d8abc3e991a7.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] CARNIVORE</title>
       <link>https://gamefound.com:443/en/projects/buer-games/carnivore?ref=</link>
