@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 15 Oct 2025 11:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:24:59 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Dark Fantasy Narrative TTRPG and D&amp;D5e-compatible Setting: Sol Tyrannus</title>
+      <link>https://gamefound.com:443/en/projects/a-game-of-nerds/sol-tyrannus?ref=</link>
+      <guid isPermaLink="false">44112</guid>
+      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6177/afda3172-2fe4-4102-9101-1e3f19575a48.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] X-ODUS, Rise of the Corruption - Second Edition has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
