@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 16 Oct 2025 17:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 18:17:20 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Exceed: Seventh Cross</title>
+      <link>https://gamefound.com:443/en/projects/level-99-games/exceed-seventh-cross?ref=</link>
+      <guid isPermaLink="false">44151</guid>
+      <pubDate>Thu, 16 Oct 2025 17:50:36 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6246/a70dad39-f533-4b1f-8d01-fd40ff7dbec0.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Dice Quest: The Tower of the Elephant + The Dunwich Horror</title>
       <link>https://gamefound.com:443/en/projects/juegorama/dice-quest?ref=</link>
@@ -117,214 +125,6 @@
       <pubDate>Thu, 16 Oct 2025 03:53:12 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6544/6330652b-6c3c-4af2-bc22-0e79bacbb7f8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Khromanima - Deck-Building Game</title>
-      <link>https://gamefound.com:443/en/projects/hathousestudios/khromanima?ref=</link>
-      <guid isPermaLink="false">44136</guid>
-      <pubDate>Wed, 15 Oct 2025 22:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5208/fe409bc6-a174-44aa-8bf6-05dd059131ac.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] The Grand Return of Party in the Back (with Three New Bumfuzzled Companions!)</title>
-      <link>https://gamefound.com:443/en/projects/puzzle-bomb/the-grand-return-of-party-in-the-back-with-three-new-bumfuzzled-companions?ref=</link>
-      <guid isPermaLink="false">44135</guid>
-      <pubDate>Wed, 15 Oct 2025 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6337/247e881f-3241-4096-bbc2-8f9222cd78ad.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Assault Red Horizon 41 - Revised Edition</title>
-      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/assault-red-horizon-41-rev-edition?ref=</link>
-      <guid isPermaLink="false">44134</guid>
-      <pubDate>Wed, 15 Oct 2025 16:12:27 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6541/1855774b-11c7-4a4d-9f3c-a098719ea82d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Hellbringer: Bestiary &amp; Forbidden Spells</title>
-      <link>https://gamefound.com:443/en/projects/maxime-gauthier/hellbringer?ref=</link>
-      <guid isPermaLink="false">44133</guid>
-      <pubDate>Wed, 15 Oct 2025 16:11:14 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5034/d102ffd5-3059-4419-a449-d8abc3e991a7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Hellbringer: Bestiary &amp; Forbidden Spells</title>
-      <link>https://gamefound.com:443/en/projects/maxime-gauthier/hellbringer?ref=</link>
-      <guid isPermaLink="false">44132</guid>
-      <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5034/d102ffd5-3059-4419-a449-d8abc3e991a7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] CARNIVORE</title>
-      <link>https://gamefound.com:443/en/projects/buer-games/carnivore?ref=</link>
-      <guid isPermaLink="false">44131</guid>
-      <pubDate>Wed, 15 Oct 2025 15:26:19 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6481/8cf63e55-d7c9-48a2-9f1c-7879a39308c0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Bantam West (2E &amp; Expansion)</title>
-      <link>https://gamefound.com:443/en/projects/bantam/bantam-west-is-back?ref=</link>
-      <guid isPermaLink="false">44130</guid>
-      <pubDate>Wed, 15 Oct 2025 15:25:15 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/8503cd42-91da-4364-9c12-916e638d8ee7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] SHIVER ME TIMBERS (Reprint + Brand New Expansion)</title>
-      <link>https://gamefound.com:443/en/projects/michal_vitkovsky/shivermetimbers?ref=</link>
-      <guid isPermaLink="false">44129</guid>
-      <pubDate>Wed, 15 Oct 2025 15:24:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6359/dff80c51-2137-46bf-a52d-f25c2ecd277a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Boss Hunters</title>
-      <link>https://gamefound.com:443/en/projects/synergic-games/boss-hunters?ref=</link>
-      <guid isPermaLink="false">44128</guid>
-      <pubDate>Wed, 15 Oct 2025 15:22:00 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6358/6122fa52-872b-458a-864e-e31c6efae5a4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Dicequest</title>
-      <link>https://gamefound.com:443/en/projects/skytear/dicequest?ref=</link>
-      <guid isPermaLink="false">44127</guid>
-      <pubDate>Wed, 15 Oct 2025 15:20:31 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/62294081-6cba-47e8-bd4d-982e71b4c292.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Shadows of Authority - A Hegemony Expansion</title>
-      <link>https://gamefound.com:443/en/projects/hegemonic-project-games/hegemony-shadows-of-authority?ref=</link>
-      <guid isPermaLink="false">44126</guid>
-      <pubDate>Wed, 15 Oct 2025 15:18:40 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6503/721e6730-5bf5-496f-ad03-8f79c0bda0cf.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Inferno 1348 Deluxe Edition</title>
-      <link>https://gamefound.com:443/en/projects/red-mojo-games/inferno-1348-deluxe-edition?ref=</link>
-      <guid isPermaLink="false">44125</guid>
-      <pubDate>Wed, 15 Oct 2025 15:17:13 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6459/e5e42c5d-33cb-4e63-bdd7-78c83c6eca5a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] ARDEVUR: The Game of Resources</title>
-      <link>https://gamefound.com:443/en/projects/h64/ardevur?ref=</link>
-      <guid isPermaLink="false">44124</guid>
-      <pubDate>Wed, 15 Oct 2025 15:15:23 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4741/40853904-8717-4adf-875b-fcefd7cff450.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Goa</title>
-      <link>https://gamefound.com:443/en/projects/quined-games/goa?ref=</link>
-      <guid isPermaLink="false">44123</guid>
-      <pubDate>Wed, 15 Oct 2025 15:14:14 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6271/0f9eabf6-d1ad-4873-8404-d08c639fba0d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Fireteam Zero - The Reboot</title>
-      <link>https://gamefound.com:443/en/projects/chris-loizou/fireteam-zero---the-reboot?ref=</link>
-      <guid isPermaLink="false">44122</guid>
-      <pubDate>Wed, 15 Oct 2025 15:11:46 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6483/8ba8816f-5f28-454f-b111-db32c941ed35.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Travail</title>
-      <link>https://gamefound.com:443/en/projects/artefact-games/travail?ref=</link>
-      <guid isPermaLink="false">44121</guid>
-      <pubDate>Wed, 15 Oct 2025 15:10:05 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4718/20693316-ee82-403b-b0bd-0ccc6b8e87f9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Claustrophobia 1692</title>
-      <link>https://gamefound.com:443/en/projects/devir/claustrophobia-1692?ref=</link>
-      <guid isPermaLink="false">44120</guid>
-      <pubDate>Wed, 15 Oct 2025 15:08:33 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6571/e13c7c13-c7c0-46e1-a225-bab3ab03cd4e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Hunters A. D. 1492 2nd Edition and Borderlands Expansion</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-and-borderlands-expansion?ref=</link>
-      <guid isPermaLink="false">44119</guid>
-      <pubDate>Wed, 15 Oct 2025 15:06:36 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6493/75f1b85e-30d9-4266-835c-e83c8d30bca4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Quake The Board Game</title>
-      <link>https://gamefound.com:443/en/projects/archon-studio/quake-the-board-game?ref=</link>
-      <guid isPermaLink="false">44118</guid>
-      <pubDate>Wed, 15 Oct 2025 15:05:01 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6517/553e066e-5c79-456f-a1e0-3610c46b8f0f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Dungeons &amp; Dragons: Xanathar Device Holder and Dice Tower Collectible</title>
-      <link>https://gamefound.com:443/en/projects/exg-pro/xanathar-cable-guy?ref=</link>
-      <guid isPermaLink="false">44117</guid>
-      <pubDate>Wed, 15 Oct 2025 15:01:50 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6066/b701fc8d-976e-4d04-80b9-636e3c88d246.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Altered - Seeds of Unity</title>
-      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
-      <guid isPermaLink="false">44116</guid>
-      <pubDate>Wed, 15 Oct 2025 15:01:29 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/217c3e0e-84fa-4050-a6a7-e3349b63bdc7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Gamusinos Board Game</title>
-      <link>https://gamefound.com:443/en/projects/croquetagames/gamusinosboardgame?ref=</link>
-      <guid isPermaLink="false">44115</guid>
-      <pubDate>Wed, 15 Oct 2025 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5528/26f612f4-b689-4c79-9bcc-1dbf53f9d8cf.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] The Gnomes of Diccory - a cozy TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/roll-and-perish/diccory?ref=</link>
-      <guid isPermaLink="false">44114</guid>
-      <pubDate>Wed, 15 Oct 2025 14:01:38 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5926/07e60dbb-9399-42ee-9c73-d5a03bbf272e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Get F***d in the Wild West</title>
-      <link>https://gamefound.com:443/en/projects/deadwood-games/get-fd-in-the-wild-west?ref=</link>
-      <guid isPermaLink="false">44113</guid>
-      <pubDate>Wed, 15 Oct 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5994/a9aa770c-fca0-46bd-bed3-a4379d18620d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Dark Fantasy Narrative TTRPG and D&amp;D5e-compatible Setting: Sol Tyrannus</title>
-      <link>https://gamefound.com:443/en/projects/a-game-of-nerds/sol-tyrannus?ref=</link>
-      <guid isPermaLink="false">44112</guid>
-      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6177/afda3172-2fe4-4102-9101-1e3f19575a48.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] X-ODUS, Rise of the Corruption - Second Edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
-      <guid isPermaLink="false">44111</guid>
-      <pubDate>Wed, 15 Oct 2025 10:55:15 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5800/e8c2d411-4bcd-4df9-9d3f-2a12b3331b4c.png" type="image/png" />
     </item>
   </channel>
 </rss>
