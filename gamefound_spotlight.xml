@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 16 Oct 2025 13:46:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 14:13:27 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Gone to Gaia has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/rose-gauntlet-entertainment/gone-to-gaia?ref=</link>
+      <guid isPermaLink="false">44145</guid>
+      <pubDate>Thu, 16 Oct 2025 14:02:36 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4858/d09175ab-b0ca-4943-bc62-5fa6b4a322bd.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Microrama Collection has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/juegorama/microrama-collection?ref=</link>
@@ -87,7 +95,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6337/247e881f-3241-4096-bbc2-8f9222cd78ad.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] Assault Red Horizon 41 Revised Edition</title>
+      <title>[New project] Assault Red Horizon 41 - Revised Edition</title>
       <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/assault-red-horizon-41-rev-edition?ref=</link>
       <guid isPermaLink="false">44134</guid>
       <pubDate>Wed, 15 Oct 2025 16:12:27 +0000</pubDate>
