@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 17 Oct 2025 12:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 13:03:08 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Wilderness - A Game of Survival (2nd Edition)</title>
+      <link>https://gamefound.com:443/en/projects/fryxgames/wilderness?ref=</link>
+      <guid isPermaLink="false">44156</guid>
+      <pubDate>Fri, 17 Oct 2025 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6314/b6364862-3faa-4ba9-a922-c56e1ddd532c.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Escape the Dark Castle (2nd Edition) &amp; Escape the Dark Forest has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/themeborne/escape-the-dark-castle-and-forest?ref=</link>
+      <guid isPermaLink="false">44155</guid>
+      <pubDate>Fri, 17 Oct 2025 12:30:32 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6492/5993acc2-f6f9-4828-b235-076eb518bfd4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Joyride: Full Throttle has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
+      <guid isPermaLink="false">44154</guid>
+      <pubDate>Fri, 17 Oct 2025 12:23:31 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6102/f2f0dcec-87d8-4c5d-bd30-e6f53f22829d.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Mission: Drive</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/mission-drive?ref=</link>
