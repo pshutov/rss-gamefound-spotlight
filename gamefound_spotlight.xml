@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 17 Oct 2025 19:33:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 20:13:21 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] BRIDIX</title>
+      <link>https://gamefound.com:443/en/projects/cbgame/bridix?ref=</link>
+      <guid isPermaLink="false">44159</guid>
+      <pubDate>Fri, 17 Oct 2025 19:41:41 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6468/5571600a-ae09-483b-b98a-4b7cdaf73d32.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Maglia Nera - The art of losing</title>
       <link>https://gamefound.com:443/en/projects/croquetagames/maglia-nera---the-art-of-losing?ref=</link>
