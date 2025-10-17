@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 17 Oct 2025 13:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 14:12:11 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] HOOD: Troubles in Sherwood has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/phalanx/hood?ref=</link>
+      <guid isPermaLink="false">44157</guid>
+      <pubDate>Fri, 17 Oct 2025 13:51:05 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5497/178eace3-8935-41f6-b10a-4fa8dd6ce8fb.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Wilderness - A Game of Survival (2nd Edition)</title>
       <link>https://gamefound.com:443/en/projects/fryxgames/wilderness?ref=</link>
