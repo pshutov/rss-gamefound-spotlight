@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 17 Oct 2025 21:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 22:10:42 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Pandaii!</title>
+      <link>https://gamefound.com:443/en/projects/baroque-games/pandaii?ref=</link>
+      <guid isPermaLink="false">44160</guid>
+      <pubDate>Fri, 17 Oct 2025 22:05:50 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6542/1ed1a033-1e2b-4db9-8c99-6f19085849b0.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] BRIDIX</title>
       <link>https://gamefound.com:443/en/projects/cbgame/bridix?ref=</link>
