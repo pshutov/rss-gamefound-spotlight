@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 17 Oct 2025 03:46:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 04:14:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Mission: Drive</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/mission-drive?ref=</link>
+      <guid isPermaLink="false">44153</guid>
+      <pubDate>Fri, 17 Oct 2025 04:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6435/35ce1fdf-fe59-4124-bf67-9ed329457f1e.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] ArcWorlde: Gremlins!</title>
       <link>https://gamefound.com:443/en/projects/warp-miniatures/arcworlde-gremlins?ref=</link>
