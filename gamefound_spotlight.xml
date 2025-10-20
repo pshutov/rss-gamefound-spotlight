@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 20 Oct 2025 11:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 12:24:38 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Traveller: Campañas navales</title>
+      <link>https://gamefound.com:443/en/projects/sugaar/traveller-campanas-navales?ref=</link>
+      <guid isPermaLink="false">44165</guid>
+      <pubDate>Mon, 20 Oct 2025 12:10:47 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6599/654cabde-1df2-419b-8326-d2cd3e76a696.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New Pledge Manager] Dragonbane RPG Miniatures — Northern Beasts</title>
       <link>https://gamefound.com:443/en/projects/titan-forge/dragonbane-rpg-miniatures--northern-beasts?ref=</link>
@@ -175,12 +183,12 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5644/476cf746-b174-4f5e-9d2e-08d7a03762d7.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] Modular card organisation system.</title>
+      <title>[New project] Modular card organisation system</title>
       <link>https://gamefound.com:443/en/projects/boarcard/modular-card-organisation-system?ref=</link>
       <guid isPermaLink="false">44143</guid>
       <pubDate>Thu, 16 Oct 2025 11:59:50 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6550/8edc2f34-1772-42e0-9bda-acca6ae73be3.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6550/ba3cdb3d-3fe7-473d-86aa-3443a29b856a.jpeg" type="image/jpeg" />
     </item>
     <item>
       <title>[New project] MrMeeple Board Games T-shirts</title>
