@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 20 Oct 2025 20:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 21:11:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Drawing Dead [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
+      <guid isPermaLink="false">44171</guid>
+      <pubDate>Mon, 20 Oct 2025 21:09:57 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Pink Soup Game</title>
+      <link>https://gamefound.com:443/en/projects/krakentales/pinksoupgame?ref=</link>
+      <guid isPermaLink="false">44170</guid>
+      <pubDate>Mon, 20 Oct 2025 21:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6303/5ed62549-a5c2-4e4f-8fcf-66ebf9005feb.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] UPRISING | LEGENDARY BIG BOX &amp; TRUE SOLO MODE</title>
       <link>https://gamefound.com:443/en/projects/nemesisgames/uprising-big-box-true-solo?ref=</link>
