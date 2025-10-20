@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 20 Oct 2025 14:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 14:41:05 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] 5Pairs</title>
+      <link>https://gamefound.com:443/en/projects/ummaramma/5pairs?ref=</link>
+      <guid isPermaLink="false">44167</guid>
+      <pubDate>Mon, 20 Oct 2025 14:36:08 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6208/2a502c20-dd18-43b7-b232-a2b8ba655ca7.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Terraforming Mars: The Legacy of Mars</title>
       <link>https://gamefound.com:443/en/projects/stronghold-games/terraforming-mars-the-legacy-of--mars?ref=</link>
@@ -117,134 +125,6 @@
       <pubDate>Fri, 17 Oct 2025 04:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6435/35ce1fdf-fe59-4124-bf67-9ed329457f1e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] ArcWorlde: Gremlins!</title>
-      <link>https://gamefound.com:443/en/projects/warp-miniatures/arcworlde-gremlins?ref=</link>
-      <guid isPermaLink="false">44152</guid>
-      <pubDate>Thu, 16 Oct 2025 19:07:18 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6561/20c2a797-76ea-41d0-81af-bd25ab209584.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Exceed: Seventh Cross</title>
-      <link>https://gamefound.com:443/en/projects/level-99-games/exceed-seventh-cross?ref=</link>
-      <guid isPermaLink="false">44151</guid>
-      <pubDate>Thu, 16 Oct 2025 17:50:36 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6246/a70dad39-f533-4b1f-8d01-fd40ff7dbec0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Dice Quest: The Tower of the Elephant + The Dunwich Horror</title>
-      <link>https://gamefound.com:443/en/projects/juegorama/dice-quest?ref=</link>
-      <guid isPermaLink="false">44150</guid>
-      <pubDate>Thu, 16 Oct 2025 17:04:58 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6570/57889c8a-e344-4d90-a6cb-e66cb65af68a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Wilderness - A Game of Survival (2nd Edition) has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/fryxgames/wilderness?ref=</link>
-      <guid isPermaLink="false">44149</guid>
-      <pubDate>Thu, 16 Oct 2025 16:54:18 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6314/b6364862-3faa-4ba9-a922-c56e1ddd532c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] B.E.L.O.W.: The Asylum</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/below-asylum?ref=</link>
-      <guid isPermaLink="false">44148</guid>
-      <pubDate>Thu, 16 Oct 2025 16:03:02 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5384/8ee01667-37fc-4d41-9d94-aef6b1cf9b88.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] B.E.L.O.W.: The Asylum</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/below-asylum?ref=</link>
-      <guid isPermaLink="false">44147</guid>
-      <pubDate>Thu, 16 Oct 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5384/8ee01667-37fc-4d41-9d94-aef6b1cf9b88.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] The WitchBorn Wailing Citadel has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/the-witchborn/wailingcitadel?ref=</link>
-      <guid isPermaLink="false">44146</guid>
-      <pubDate>Thu, 16 Oct 2025 15:06:02 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6248/4a588511-364d-4ab3-bf24-677c8cecd379.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Gone to Gaia has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/rose-gauntlet-entertainment/gone-to-gaia?ref=</link>
-      <guid isPermaLink="false">44145</guid>
-      <pubDate>Thu, 16 Oct 2025 14:02:36 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4858/d09175ab-b0ca-4943-bc62-5fa6b4a322bd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Microrama Collection has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/juegorama/microrama-collection?ref=</link>
-      <guid isPermaLink="false">44144</guid>
-      <pubDate>Thu, 16 Oct 2025 12:46:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5644/476cf746-b174-4f5e-9d2e-08d7a03762d7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Modular card organisation system</title>
-      <link>https://gamefound.com:443/en/projects/boarcard/modular-card-organisation-system?ref=</link>
-      <guid isPermaLink="false">44143</guid>
-      <pubDate>Thu, 16 Oct 2025 11:59:50 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6550/ba3cdb3d-3fe7-473d-86aa-3443a29b856a.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] MrMeeple Board Games T-shirts</title>
-      <link>https://gamefound.com:443/en/projects/mrmeeple/meeple?ref=</link>
-      <guid isPermaLink="false">44142</guid>
-      <pubDate>Thu, 16 Oct 2025 11:49:41 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6560/4e78aff0-0715-4ba4-a3fc-68afc358dcb1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Forest Battle Map Pack – 720 RPG Maps</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/forest-battle-map-pack--720-rpg-maps?ref=</link>
-      <guid isPermaLink="false">44141</guid>
-      <pubDate>Thu, 16 Oct 2025 11:04:34 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6405/4c61323b-1f18-438f-aa16-f1ef721a51ef.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Forest Battle Map Pack – 720 RPG Maps</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/forest-battle-map-pack--720-rpg-maps?ref=</link>
-      <guid isPermaLink="false">44140</guid>
-      <pubDate>Thu, 16 Oct 2025 11:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6405/4c61323b-1f18-438f-aa16-f1ef721a51ef.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Goa has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/quined-games/goa?ref=</link>
-      <guid isPermaLink="false">44139</guid>
-      <pubDate>Thu, 16 Oct 2025 10:00:46 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6271/0f9eabf6-d1ad-4873-8404-d08c639fba0d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Threshold has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/oomm-games/threshold?ref=</link>
-      <guid isPermaLink="false">44138</guid>
-      <pubDate>Thu, 16 Oct 2025 09:52:06 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5187/0f26b38b-0ad6-41ea-acb2-8ad43de4f44b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Fanorona-Tsivy from Solid Hardwood</title>
-      <link>https://gamefound.com:443/en/projects/archaic-games/solid-hardwood-fanorona-tsivy?ref=</link>
-      <guid isPermaLink="false">44137</guid>
-      <pubDate>Thu, 16 Oct 2025 03:53:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6544/6330652b-6c3c-4af2-bc22-0e79bacbb7f8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
