@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 20 Oct 2025 11:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 11:36:39 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New Pledge Manager] Dragonbane RPG Miniatures — Northern Beasts</title>
@@ -20,7 +20,7 @@
       <guid isPermaLink="false">44163</guid>
       <pubDate>Sun, 19 Oct 2025 17:25:16 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4448/b8aba57f-8950-4d9f-a53c-e390e2cede45.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4448/d4d07fdd-8bab-4b62-8823-94e9fcee1ef6.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Lords of the South Slavs - Roll &amp; Write</title>
