@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 20 Oct 2025 14:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 15:12:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] UPRISING | LEGENDARY BIG BOX &amp; TRUE SOLO MODE</title>
+      <link>https://gamefound.com:443/en/projects/nemesisgames/uprising-big-box-true-solo?ref=</link>
+      <guid isPermaLink="false">44169</guid>
+      <pubDate>Mon, 20 Oct 2025 15:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5836/f3016c9c-b905-471b-b4b2-93a05f8a9124.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] The Voyage - Search for Yamagi</title>
+      <link>https://gamefound.com:443/en/projects/xollox/thevoyage?ref=</link>
+      <guid isPermaLink="false">44168</guid>
+      <pubDate>Mon, 20 Oct 2025 14:55:53 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6593/ad92c146-b5ea-4790-9a2c-c3ff5e9b20ef.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] 5Pairs</title>
       <link>https://gamefound.com:443/en/projects/ummaramma/5pairs?ref=</link>
