@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 17:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 17:38:08 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest?ref=</link>
+      <guid isPermaLink="false">44200</guid>
+      <pubDate>Tue, 21 Oct 2025 17:29:40 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5687/a8537d36-10bf-4c74-9c38-a32dbeb5aa50.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Feed the Kraken: Sea of Shadows</title>
       <link>https://gamefound.com:443/en/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows?ref=</link>
