@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 09:39:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 10:13:11 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Echo Team: Spearhead</title>
+      <link>https://gamefound.com:443/en/projects/black-mask-verlag/echo-team-spearhead?ref=</link>
+      <guid isPermaLink="false">44177</guid>
+      <pubDate>Tue, 21 Oct 2025 10:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4726/1dc8d38b-b942-449e-9d49-240923f8b697.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Battle of the Knollen</title>
       <link>https://gamefound.com:443/en/projects/pektis/battle-of-the-knollen?ref=</link>
@@ -117,22 +125,6 @@
       <pubDate>Sun, 19 Oct 2025 17:25:16 +0000</pubDate>
       <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4448/a6cbb854-b2f3-40fe-8737-5d5155876a17.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Lords of the South Slavs - Roll &amp; Write</title>
-      <link>https://gamefound.com:443/en/projects/stoj-games/lords-of-the-south-slavs?ref=</link>
-      <guid isPermaLink="false">44162</guid>
-      <pubDate>Sat, 18 Oct 2025 14:54:55 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6510/3ee5a9e9-1c94-434c-8c5d-327a1b511bbd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Spiders The Game</title>
-      <link>https://gamefound.com:443/en/projects/spidersthegame/spiders-the-game?ref=</link>
-      <guid isPermaLink="false">44161</guid>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/518d2cf4-99b1-4bd2-bb4a-157eeab874d0.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
