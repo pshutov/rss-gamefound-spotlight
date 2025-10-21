@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 11:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 11:34:11 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Akuma Shielding Season 2 has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/akuma-shielding/akuma-shieldin-season-2?ref=</link>
+      <guid isPermaLink="false">44178</guid>
+      <pubDate>Tue, 21 Oct 2025 11:26:37 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5429/5b72898e-b45f-4008-ba85-5ed4ce6589bc.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Echo Team: Spearhead</title>
       <link>https://gamefound.com:443/en/projects/black-mask-verlag/echo-team-spearhead?ref=</link>
@@ -117,14 +125,6 @@
       <pubDate>Mon, 20 Oct 2025 08:19:44 +0000</pubDate>
       <description>New Pledge Manager</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6351/4d8f31d7-3309-47f8-ad50-733ee266cf1a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Nomads Unbound</title>
-      <link>https://gamefound.com:443/en/projects/minds-vision/nomads-unbound?ref=</link>
-      <guid isPermaLink="false">44163</guid>
-      <pubDate>Sun, 19 Oct 2025 17:25:16 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4448/a6cbb854-b2f3-40fe-8737-5d5155876a17.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
