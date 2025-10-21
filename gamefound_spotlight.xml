@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 14:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 14:39:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Skarbiec Liczb</title>
+      <link>https://gamefound.com:443/en/projects/lukasz-rzepinski/skarbiec-liczb?ref=</link>
+      <guid isPermaLink="false">44190</guid>
+      <pubDate>Tue, 21 Oct 2025 14:26:43 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6621/c3ff5357-24d6-4dbc-8a05-c6b97c345ad7.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] The WitchBorn Wailing Citadel</title>
       <link>https://gamefound.com:443/en/projects/the-witchborn/wailingcitadel?ref=</link>
