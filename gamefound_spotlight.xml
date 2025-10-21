@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 13:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 13:48:44 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Space Qubes Relaunch</title>
+      <link>https://gamefound.com:443/en/projects/kagu-spiele/space-qubes-relaunch?ref=</link>
+      <guid isPermaLink="false">44186</guid>
+      <pubDate>Tue, 21 Oct 2025 13:18:27 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6572/11e9a8e6-0aef-4431-96a2-d662dd5b78d5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] DECKO</title>
       <link>https://gamefound.com:443/en/projects/gem-games/decko?ref=</link>
@@ -117,70 +125,6 @@
       <pubDate>Tue, 21 Oct 2025 05:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5603/7504f8c2-014f-4bf8-8808-2a2a232dbfa3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Drawing Dead [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">44171</guid>
-      <pubDate>Mon, 20 Oct 2025 21:09:57 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Pink Soup Game</title>
-      <link>https://gamefound.com:443/en/projects/krakentales/pinksoupgame?ref=</link>
-      <guid isPermaLink="false">44170</guid>
-      <pubDate>Mon, 20 Oct 2025 21:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6303/5ed62549-a5c2-4e4f-8fcf-66ebf9005feb.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] UPRISING | LEGENDARY BIG BOX &amp; TRUE SOLO MODE</title>
-      <link>https://gamefound.com:443/en/projects/nemesisgames/uprising-big-box-true-solo?ref=</link>
-      <guid isPermaLink="false">44169</guid>
-      <pubDate>Mon, 20 Oct 2025 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5836/f3016c9c-b905-471b-b4b2-93a05f8a9124.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Voyage - Search for Yamagi</title>
-      <link>https://gamefound.com:443/en/projects/xollox/thevoyage?ref=</link>
-      <guid isPermaLink="false">44168</guid>
-      <pubDate>Mon, 20 Oct 2025 14:55:53 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6593/ad92c146-b5ea-4790-9a2c-c3ff5e9b20ef.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] 5Pairs</title>
-      <link>https://gamefound.com:443/en/projects/ummaramma/5pairs?ref=</link>
-      <guid isPermaLink="false">44167</guid>
-      <pubDate>Mon, 20 Oct 2025 14:36:08 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6208/2a502c20-dd18-43b7-b232-a2b8ba655ca7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Terraforming Mars: The Legacy of Mars</title>
-      <link>https://gamefound.com:443/en/projects/stronghold-games/terraforming-mars-the-legacy-of--mars?ref=</link>
-      <guid isPermaLink="false">44166</guid>
-      <pubDate>Mon, 20 Oct 2025 13:01:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6631/615eee7a-1a4a-4ea1-816b-6d583c5e7fea.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Traveller: Campañas navales</title>
-      <link>https://gamefound.com:443/en/projects/sugaar/traveller-campanas-navales?ref=</link>
-      <guid isPermaLink="false">44165</guid>
-      <pubDate>Mon, 20 Oct 2025 12:10:47 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6599/654cabde-1df2-419b-8326-d2cd3e76a696.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Dragonbane RPG Miniatures — Northern Beasts</title>
-      <link>https://gamefound.com:443/en/projects/titan-forge/dragonbane-rpg-miniatures--northern-beasts?ref=</link>
-      <guid isPermaLink="false">44164</guid>
-      <pubDate>Mon, 20 Oct 2025 08:19:44 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6351/4d8f31d7-3309-47f8-ad50-733ee266cf1a.png" type="image/png" />
     </item>
   </channel>
 </rss>
