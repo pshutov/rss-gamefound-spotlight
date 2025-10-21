@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 12:24:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 13:08:24 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] DECKO</title>
+      <link>https://gamefound.com:443/en/projects/gem-games/decko?ref=</link>
+      <guid isPermaLink="false">44185</guid>
+      <pubDate>Tue, 21 Oct 2025 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6279/e83edf78-8621-463d-ba65-55048bdcff19.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Sepulchre -- A Grave Game has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/raven-portents/sepulchre?ref=</link>
+      <guid isPermaLink="false">44184</guid>
+      <pubDate>Tue, 21 Oct 2025 12:42:36 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6101/ef95c4f1-f27a-46d3-9370-c2d2b97ec5ba.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Legends of the Seas has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/arkada-studio/legends-of-the-seas?ref=</link>
+      <guid isPermaLink="false">44183</guid>
+      <pubDate>Tue, 21 Oct 2025 12:38:30 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5532/c99fc67f-bf09-417b-8cc0-36fd5952bbd6.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Tenka Fubu: Card-Driven Multiplayer War Game on Sengoku Japan</title>
       <link>https://gamefound.com:443/en/projects/studiodenkagames/tenka-fubu?ref=</link>
