@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 19:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 20:14:06 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Gone to Gaia</title>
+      <link>https://gamefound.com:443/en/projects/rose-gauntlet-entertainment/gone-to-gaia?ref=</link>
+      <guid isPermaLink="false">44205</guid>
+      <pubDate>Tue, 21 Oct 2025 20:02:19 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4858/d09175ab-b0ca-4943-bc62-5fa6b4a322bd.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New Pledge Manager] Chicago Grand Slam</title>
+      <link>https://gamefound.com:443/en/projects/dos-caramellos/chicago-grand-slam?ref=</link>
+      <guid isPermaLink="false">44204</guid>
+      <pubDate>Tue, 21 Oct 2025 19:46:31 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6529/153a74a6-5b06-471c-9bc2-449204c0a137.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Rook &amp; Ruin</title>
       <link>https://gamefound.com:443/en/projects/florianfiedler/rookruin?ref=</link>
