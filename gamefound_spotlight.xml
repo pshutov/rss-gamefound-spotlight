@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 08:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 08:46:27 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Badgers</title>
+      <link>https://gamefound.com:443/en/projects/interhuman-games/badgers?ref=</link>
+      <guid isPermaLink="false">44173</guid>
+      <pubDate>Tue, 21 Oct 2025 08:23:10 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5603/7504f8c2-014f-4bf8-8808-2a2a232dbfa3.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Badgers</title>
       <link>https://gamefound.com:443/en/projects/interhuman-games/badgers?ref=</link>
