@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 17:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 18:16:42 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Mystic Moon</title>
+      <link>https://gamefound.com:443/en/projects/unstable-games/mystic-moon?ref=</link>
+      <guid isPermaLink="false">44202</guid>
+      <pubDate>Tue, 21 Oct 2025 18:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6024/3d2c83e6-f256-492c-accd-f32ce3f91132.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Arcanite - A Strategic Battle Card Game</title>
+      <link>https://gamefound.com:443/en/projects/tobias-richter/arcanite?ref=</link>
+      <guid isPermaLink="false">44201</guid>
+      <pubDate>Tue, 21 Oct 2025 18:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5056/ef04961e-93cc-43eb-885c-aa3b304fc1c4.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest?ref=</link>
