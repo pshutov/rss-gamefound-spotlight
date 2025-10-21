@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 08:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 09:13:40 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Distilled: Cocktails</title>
+      <link>https://gamefound.com:443/en/projects/paverson-games/distilled-cocktails?ref=</link>
+      <guid isPermaLink="false">44174</guid>
+      <pubDate>Tue, 21 Oct 2025 08:50:37 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6500/3b8e1d99-203b-44dd-98d4-6b392e744982.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Badgers</title>
       <link>https://gamefound.com:443/en/projects/interhuman-games/badgers?ref=</link>
