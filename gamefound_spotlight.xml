@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 21 Oct 2025 09:13:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 09:39:26 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Battle of the Knollen</title>
+      <link>https://gamefound.com:443/en/projects/pektis/battle-of-the-knollen?ref=</link>
+      <guid isPermaLink="false">44176</guid>
+      <pubDate>Tue, 21 Oct 2025 09:15:45 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6601/167c5223-2fb2-470f-80ba-36161a6e21a0.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] The Pawn's Gambit: A chess card game has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/david-melo/the-pawns-gambit-a-chess-card-game?ref=</link>
+      <guid isPermaLink="false">44175</guid>
+      <pubDate>Tue, 21 Oct 2025 09:11:09 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4206/9ddec2e8-872d-4bdf-906f-5e293a6aae36.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New Pledge Manager] Distilled: Cocktails</title>
       <link>https://gamefound.com:443/en/projects/paverson-games/distilled-cocktails?ref=</link>
@@ -117,70 +133,6 @@
       <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/518d2cf4-99b1-4bd2-bb4a-157eeab874d0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Pandaii!</title>
-      <link>https://gamefound.com:443/en/projects/baroque-games/pandaii?ref=</link>
-      <guid isPermaLink="false">44160</guid>
-      <pubDate>Fri, 17 Oct 2025 22:05:50 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6542/1ed1a033-1e2b-4db9-8c99-6f19085849b0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] BRIDIX</title>
-      <link>https://gamefound.com:443/en/projects/cbgame/bridix?ref=</link>
-      <guid isPermaLink="false">44159</guid>
-      <pubDate>Fri, 17 Oct 2025 19:41:41 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6468/5571600a-ae09-483b-b98a-4b7cdaf73d32.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Maglia Nera - The art of losing</title>
-      <link>https://gamefound.com:443/en/projects/croquetagames/maglia-nera---the-art-of-losing?ref=</link>
-      <guid isPermaLink="false">44158</guid>
-      <pubDate>Fri, 17 Oct 2025 18:19:50 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6509/22321dd7-5367-40ff-8b17-89600c6de7b5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] HOOD: Troubles in Sherwood has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/phalanx/hood?ref=</link>
-      <guid isPermaLink="false">44157</guid>
-      <pubDate>Fri, 17 Oct 2025 13:51:05 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5497/178eace3-8935-41f6-b10a-4fa8dd6ce8fb.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Wilderness - A Game of Survival (2nd Edition)</title>
-      <link>https://gamefound.com:443/en/projects/fryxgames/wilderness?ref=</link>
-      <guid isPermaLink="false">44156</guid>
-      <pubDate>Fri, 17 Oct 2025 13:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6314/b6364862-3faa-4ba9-a922-c56e1ddd532c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Escape the Dark Castle (2nd Edition) &amp; Escape the Dark Forest has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/themeborne/escape-the-dark-castle-and-forest?ref=</link>
-      <guid isPermaLink="false">44155</guid>
-      <pubDate>Fri, 17 Oct 2025 12:30:32 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6492/5993acc2-f6f9-4828-b235-076eb518bfd4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Joyride: Full Throttle has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
-      <guid isPermaLink="false">44154</guid>
-      <pubDate>Fri, 17 Oct 2025 12:23:31 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6102/f2f0dcec-87d8-4c5d-bd30-e6f53f22829d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Mission: Drive</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/mission-drive?ref=</link>
-      <guid isPermaLink="false">44153</guid>
-      <pubDate>Fri, 17 Oct 2025 04:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6435/35ce1fdf-fe59-4124-bf67-9ed329457f1e.png" type="image/png" />
     </item>
   </channel>
 </rss>
