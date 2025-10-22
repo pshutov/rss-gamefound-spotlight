@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 22 Oct 2025 14:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 15:11:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] BattleForge: Berserker</title>
+      <link>https://gamefound.com:443/en/projects/wearecgs/battleforge-berserker?ref=</link>
+      <guid isPermaLink="false">44211</guid>
+      <pubDate>Wed, 22 Oct 2025 15:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5768/0d222c42-119e-494c-b52c-9dd362e4afb8.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Arcanite - A Strategic Battle Card Game</title>
       <link>https://gamefound.com:443/en/projects/tobias-richter/arcanite?ref=</link>
