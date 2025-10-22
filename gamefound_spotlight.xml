@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 22 Oct 2025 15:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 16:15:47 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Table Buster: Reforge</title>
+      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge?ref=</link>
+      <guid isPermaLink="false">44212</guid>
+      <pubDate>Wed, 22 Oct 2025 15:49:22 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6608/94ccd50c-15aa-4a9e-8ab2-36397430b21b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] BattleForge: Berserker</title>
       <link>https://gamefound.com:443/en/projects/wearecgs/battleforge-berserker?ref=</link>
