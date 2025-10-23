@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 23 Oct 2025 08:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 08:45:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Drawing Dead [Solo Game of the Month] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
+      <guid isPermaLink="false">44219</guid>
+      <pubDate>Thu, 23 Oct 2025 08:37:19 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] SYNCANITE FOUNDATION: Expansion I</title>
       <link>https://gamefound.com:443/en/projects/syncanite/expansion-i?ref=</link>
