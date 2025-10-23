@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 23 Oct 2025 08:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 09:13:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The Great Escape</title>
+      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/the-great-escape?ref=</link>
+      <guid isPermaLink="false">44222</guid>
+      <pubDate>Thu, 23 Oct 2025 08:46:16 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6540/cc49581e-b0a6-4053-8f83-f7409fb4240b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Operation Valkyrie</title>
+      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/operation-valkyrie?ref=</link>
+      <guid isPermaLink="false">44221</guid>
+      <pubDate>Thu, 23 Oct 2025 08:46:04 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5405/806c66e5-fdfa-4f41-bffd-2a928101aae6.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Battles of Napoleon Vol. III Aspern-Essling 1809</title>
+      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/battles-of-napoleon-vol-3-aspern-essling-1809?ref=</link>
+      <guid isPermaLink="false">44220</guid>
+      <pubDate>Thu, 23 Oct 2025 08:45:38 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6539/17196491-00ca-4797-b2ba-48e125d6e0f9.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Drawing Dead [Solo Game of the Month] has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
@@ -117,277 +141,6 @@
       <pubDate>Wed, 22 Oct 2025 01:39:17 +0000</pubDate>
       <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5937/500df145-b372-47e6-aeaa-5ed0b1e663d7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Gone to Gaia</title>
-      <link>https://gamefound.com:443/en/projects/rose-gauntlet-entertainment/gone-to-gaia?ref=</link>
-      <guid isPermaLink="false">44205</guid>
-      <pubDate>Tue, 21 Oct 2025 20:02:19 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4858/d09175ab-b0ca-4943-bc62-5fa6b4a322bd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Chicago Grand Slam</title>
-      <link>https://gamefound.com:443/en/projects/dos-caramellos/chicago-grand-slam?ref=</link>
-      <guid isPermaLink="false">44204</guid>
-      <pubDate>Tue, 21 Oct 2025 19:46:31 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6529/153a74a6-5b06-471c-9bc2-449204c0a137.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Rook &amp; Ruin</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/rookruin?ref=</link>
-      <guid isPermaLink="false">44203</guid>
-      <pubDate>Tue, 21 Oct 2025 18:29:28 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6444/7ed8acc4-750f-4dda-bd53-5c488d054ac5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Mystic Moon</title>
-      <link>https://gamefound.com:443/en/projects/unstable-games/mystic-moon?ref=</link>
-      <guid isPermaLink="false">44202</guid>
-      <pubDate>Tue, 21 Oct 2025 18:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6024/3d2c83e6-f256-492c-accd-f32ce3f91132.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Arcanite - A Strategic Battle Card Game</title>
-      <link>https://gamefound.com:443/en/projects/tobias-richter/arcanite?ref=</link>
-      <guid isPermaLink="false">44201</guid>
-      <pubDate>Tue, 21 Oct 2025 18:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5056/ef04961e-93cc-43eb-885c-aa3b304fc1c4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest?ref=</link>
-      <guid isPermaLink="false">44200</guid>
-      <pubDate>Tue, 21 Oct 2025 17:29:40 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5687/a8537d36-10bf-4c74-9c38-a32dbeb5aa50.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Feed the Kraken: Sea of Shadows</title>
-      <link>https://gamefound.com:443/en/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows?ref=</link>
-      <guid isPermaLink="false">44199</guid>
-      <pubDate>Tue, 21 Oct 2025 17:07:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6398/b7a9bc48-bda0-4029-80d0-a722d502da06.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] HeXXen 1733 - Jäger des Ewigen Eises</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ewigeseis?ref=</link>
-      <guid isPermaLink="false">44198</guid>
-      <pubDate>Tue, 21 Oct 2025 16:09:47 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6060/f60d435f-2b11-4dc9-88d3-5053c185e117.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New blog post] [Special] Gamefound Awards Summary</title>
-      <link>https://gamefound.com/blog/post/gamefound-awards-summary</link>
-      <guid isPermaLink="false">44197</guid>
-      <pubDate>Tue, 21 Oct 2025 16:06:19 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[Campaign start] HeXXen 1733 - Jäger des Ewigen Eises</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ewigeseis?ref=</link>
-      <guid isPermaLink="false">44196</guid>
-      <pubDate>Tue, 21 Oct 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6060/f60d435f-2b11-4dc9-88d3-5053c185e117.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Detectives Vs Criminals</title>
-      <link>https://gamefound.com:443/en/projects/dam-things/detectives-vs-criminals?ref=</link>
-      <guid isPermaLink="false">44195</guid>
-      <pubDate>Tue, 21 Oct 2025 16:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4952/aa67ff49-11a7-4ee6-a7d3-067f784f7ca3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Theocratia - Reboot</title>
-      <link>https://gamefound.com:443/en/projects/mojito-studios/theocratia-reboot?ref=</link>
-      <guid isPermaLink="false">44194</guid>
-      <pubDate>Tue, 21 Oct 2025 15:10:47 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5248/e09bab69-2c45-4ea4-945f-ea3b289e7631.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] The WitchBorn Wailing Citadel</title>
-      <link>https://gamefound.com:443/en/projects/the-witchborn/wailingcitadel?ref=</link>
-      <guid isPermaLink="false">44193</guid>
-      <pubDate>Tue, 21 Oct 2025 15:02:01 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6248/4a588511-364d-4ab3-bf24-677c8cecd379.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Gone to Gaia</title>
-      <link>https://gamefound.com:443/en/projects/rose-gauntlet-entertainment/gone-to-gaia?ref=</link>
-      <guid isPermaLink="false">44192</guid>
-      <pubDate>Tue, 21 Oct 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4858/d09175ab-b0ca-4943-bc62-5fa6b4a322bd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] VANEA: Guardians of the Eldertree</title>
-      <link>https://gamefound.com:443/en/projects/forgotten-tales/vanea?ref=</link>
-      <guid isPermaLink="false">44191</guid>
-      <pubDate>Tue, 21 Oct 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5217/ed2abca2-550f-4515-b7c1-cfc9d3820139.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Skarbiec Liczb</title>
-      <link>https://gamefound.com:443/en/projects/lukasz-rzepinski/skarbiec-liczb?ref=</link>
-      <guid isPermaLink="false">44190</guid>
-      <pubDate>Tue, 21 Oct 2025 14:26:43 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6621/c3ff5357-24d6-4dbc-8a05-c6b97c345ad7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] The WitchBorn Wailing Citadel</title>
-      <link>https://gamefound.com:443/en/projects/the-witchborn/wailingcitadel?ref=</link>
-      <guid isPermaLink="false">44189</guid>
-      <pubDate>Tue, 21 Oct 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6248/4a588511-364d-4ab3-bf24-677c8cecd379.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Theocratia - Reboot</title>
-      <link>https://gamefound.com:443/en/projects/mojito-studios/theocratia-reboot?ref=</link>
-      <guid isPermaLink="false">44188</guid>
-      <pubDate>Tue, 21 Oct 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5248/e09bab69-2c45-4ea4-945f-ea3b289e7631.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Rook &amp; Ruin</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/rookruin?ref=</link>
-      <guid isPermaLink="false">44187</guid>
-      <pubDate>Tue, 21 Oct 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6444/7ed8acc4-750f-4dda-bd53-5c488d054ac5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Space Qubes Relaunch</title>
-      <link>https://gamefound.com:443/en/projects/kagu-spiele/space-qubes-relaunch?ref=</link>
-      <guid isPermaLink="false">44186</guid>
-      <pubDate>Tue, 21 Oct 2025 13:18:27 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6572/11e9a8e6-0aef-4431-96a2-d662dd5b78d5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] DECKO</title>
-      <link>https://gamefound.com:443/en/projects/gem-games/decko?ref=</link>
-      <guid isPermaLink="false">44185</guid>
-      <pubDate>Tue, 21 Oct 2025 13:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6279/e83edf78-8621-463d-ba65-55048bdcff19.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Sepulchre -- A Grave Game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/raven-portents/sepulchre?ref=</link>
-      <guid isPermaLink="false">44184</guid>
-      <pubDate>Tue, 21 Oct 2025 12:42:36 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6101/ef95c4f1-f27a-46d3-9370-c2d2b97ec5ba.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Legends of the Seas has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/arkada-studio/legends-of-the-seas?ref=</link>
-      <guid isPermaLink="false">44183</guid>
-      <pubDate>Tue, 21 Oct 2025 12:38:30 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5532/c99fc67f-bf09-417b-8cc0-36fd5952bbd6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Tenka Fubu: Card-Driven Multiplayer War Game on Sengoku Japan</title>
-      <link>https://gamefound.com:443/en/projects/studiodenkagames/tenka-fubu?ref=</link>
-      <guid isPermaLink="false">44182</guid>
-      <pubDate>Tue, 21 Oct 2025 12:12:54 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6566/bb6159d2-faf4-4cc4-8370-a8a3b1506b9f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Wilderness - A Game of Survival (2nd Edition)</title>
-      <link>https://gamefound.com:443/en/projects/fryxgames/wilderness?ref=</link>
-      <guid isPermaLink="false">44181</guid>
-      <pubDate>Tue, 21 Oct 2025 12:10:51 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6314/b6364862-3faa-4ba9-a922-c56e1ddd532c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Joust King's Tournament (Collector's Box)</title>
-      <link>https://gamefound.com:443/en/projects/rogue-pioneer-games/joust-a-kings-tournament?ref=</link>
-      <guid isPermaLink="false">44180</guid>
-      <pubDate>Tue, 21 Oct 2025 12:06:10 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6562/b2e6f647-047b-4615-b1c7-79691bd4023e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Coleco Legacy Mini Arcades - Zany Golf &amp; Stone Protectors</title>
-      <link>https://gamefound.com:443/en/projects/bleemnet/colecominiarcades?ref=</link>
-      <guid isPermaLink="false">44179</guid>
-      <pubDate>Tue, 21 Oct 2025 11:54:43 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6597/1c4dc5da-4113-46ee-97d8-f9a64a90451c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Akuma Shielding Season 2 has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/akuma-shielding/akuma-shieldin-season-2?ref=</link>
-      <guid isPermaLink="false">44178</guid>
-      <pubDate>Tue, 21 Oct 2025 11:26:37 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5429/5b72898e-b45f-4008-ba85-5ed4ce6589bc.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Echo Team: Spearhead</title>
-      <link>https://gamefound.com:443/en/projects/black-mask-verlag/echo-team-spearhead?ref=</link>
-      <guid isPermaLink="false">44177</guid>
-      <pubDate>Tue, 21 Oct 2025 10:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4726/1dc8d38b-b942-449e-9d49-240923f8b697.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Battle of the Knollen</title>
-      <link>https://gamefound.com:443/en/projects/pektis/battle-of-the-knollen?ref=</link>
-      <guid isPermaLink="false">44176</guid>
-      <pubDate>Tue, 21 Oct 2025 09:15:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6601/167c5223-2fb2-470f-80ba-36161a6e21a0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The Pawn's Gambit: A chess card game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/david-melo/the-pawns-gambit-a-chess-card-game?ref=</link>
-      <guid isPermaLink="false">44175</guid>
-      <pubDate>Tue, 21 Oct 2025 09:11:09 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4206/9ddec2e8-872d-4bdf-906f-5e293a6aae36.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Distilled: Cocktails</title>
-      <link>https://gamefound.com:443/en/projects/paverson-games/distilled-cocktails?ref=</link>
-      <guid isPermaLink="false">44174</guid>
-      <pubDate>Tue, 21 Oct 2025 08:50:37 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6500/3b8e1d99-203b-44dd-98d4-6b392e744982.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Badgers</title>
-      <link>https://gamefound.com:443/en/projects/interhuman-games/badgers?ref=</link>
-      <guid isPermaLink="false">44173</guid>
-      <pubDate>Tue, 21 Oct 2025 08:23:10 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5603/7504f8c2-014f-4bf8-8808-2a2a232dbfa3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Badgers</title>
-      <link>https://gamefound.com:443/en/projects/interhuman-games/badgers?ref=</link>
-      <guid isPermaLink="false">44172</guid>
-      <pubDate>Tue, 21 Oct 2025 05:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5603/7504f8c2-014f-4bf8-8808-2a2a232dbfa3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
