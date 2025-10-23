@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 23 Oct 2025 09:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 10:13:12 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] The Teller System + Campaign Scenarios has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/blood-moon-games-ltd/the-teller-system?ref=</link>
+      <guid isPermaLink="false">44223</guid>
+      <pubDate>Thu, 23 Oct 2025 10:04:16 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5979/ebb9ab90-bfe1-43b7-8210-ffe513810c93.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] The Great Escape</title>
       <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/the-great-escape?ref=</link>
