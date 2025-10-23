@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 23 Oct 2025 15:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 16:14:48 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Forest Battle Map Pack – 720 RPG Maps</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/forest-battle-map-pack--720-rpg-maps?ref=</link>
+      <guid isPermaLink="false">44225</guid>
+      <pubDate>Thu, 23 Oct 2025 16:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6405/4c61323b-1f18-438f-aa16-f1ef721a51ef.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] VANEA: Guardians of the Eldertree (Relaunch)</title>
       <link>https://gamefound.com:443/en/projects/forgotten-tales/vanea-guardians-of-the-eldertree-relaunch?ref=</link>
