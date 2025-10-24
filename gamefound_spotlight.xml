@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 24 Oct 2025 12:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 13:05:08 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Exactly As Planned has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/no-sharks/exactly-as-planned?ref=</link>
+      <guid isPermaLink="false">44231</guid>
+      <pubDate>Fri, 24 Oct 2025 12:24:00 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2413/0867320f-e66a-4cce-bb2e-97ea1527d08a.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Vampire Lords has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/couple-of-games/vampire-lords?ref=</link>
@@ -117,94 +125,6 @@
       <pubDate>Thu, 23 Oct 2025 00:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4787/888ce121-6f58-4766-861b-4cbf679d92b3.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] NAVY: Academy</title>
-      <link>https://gamefound.com:443/en/projects/michal-meiser/navy-academy?ref=</link>
-      <guid isPermaLink="false">44216</guid>
-      <pubDate>Wed, 22 Oct 2025 20:19:02 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6280/c00548cb-b876-463f-9a2f-da11c3435983.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Company of Heroes - Desert Warfare Expansion</title>
-      <link>https://gamefound.com:443/en/projects/companyofheroes/dak?ref=</link>
-      <guid isPermaLink="false">44215</guid>
-      <pubDate>Wed, 22 Oct 2025 18:26:58 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6611/6242f76f-4199-4f2e-a1a8-15fa570bf7ac.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Whistlewood Express</title>
-      <link>https://gamefound.com:443/en/projects/pihari-games/whistlewood-express?ref=</link>
-      <guid isPermaLink="false">44214</guid>
-      <pubDate>Wed, 22 Oct 2025 18:23:51 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6556/2fb34e15-2c32-49f1-837f-0f1244e97c13.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Monsters &amp; Merchants</title>
-      <link>https://gamefound.com:443/en/projects/floating-forge/monstersandmerchants?ref=</link>
-      <guid isPermaLink="false">44213</guid>
-      <pubDate>Wed, 22 Oct 2025 16:30:33 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6612/295a760c-086a-4577-bde6-bc4a5dad0781.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Table Buster: Reforge</title>
-      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge?ref=</link>
-      <guid isPermaLink="false">44212</guid>
-      <pubDate>Wed, 22 Oct 2025 15:49:22 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6608/94ccd50c-15aa-4a9e-8ab2-36397430b21b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] BattleForge: Berserker</title>
-      <link>https://gamefound.com:443/en/projects/wearecgs/battleforge-berserker?ref=</link>
-      <guid isPermaLink="false">44211</guid>
-      <pubDate>Wed, 22 Oct 2025 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5768/0d222c42-119e-494c-b52c-9dd362e4afb8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Arcanite - A Strategic Battle Card Game</title>
-      <link>https://gamefound.com:443/en/projects/tobias-richter/arcanite?ref=</link>
-      <guid isPermaLink="false">44210</guid>
-      <pubDate>Wed, 22 Oct 2025 11:16:29 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5056/ef04961e-93cc-43eb-885c-aa3b304fc1c4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] 1793: Patriotas y Traidores has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/headquartergames/1793-patriotas-y-traidores?ref=</link>
-      <guid isPermaLink="false">44209</guid>
-      <pubDate>Wed, 22 Oct 2025 11:11:51 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4719/6677ea99-f40c-401e-afb0-ebdd5e175f4b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Fanorona-Tsivy from Solid Hardwood has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/archaic-games/solid-hardwood-fanorona-tsivy?ref=</link>
-      <guid isPermaLink="false">44208</guid>
-      <pubDate>Wed, 22 Oct 2025 06:30:00 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6544/6330652b-6c3c-4af2-bc22-0e79bacbb7f8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] DECKO</title>
-      <link>https://gamefound.com:443/en/projects/gem-games/decko?ref=</link>
-      <guid isPermaLink="false">44207</guid>
-      <pubDate>Wed, 22 Oct 2025 04:26:39 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6279/863a4a3d-979f-464e-8f40-82e2f1f8fe23.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Ambition</title>
-      <link>https://gamefound.com:443/en/projects/the-press-betwixt/ambition?ref=</link>
-      <guid isPermaLink="false">44206</guid>
-      <pubDate>Wed, 22 Oct 2025 01:39:17 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5937/500df145-b372-47e6-aeaa-5ed0b1e663d7.png" type="image/png" />
     </item>
   </channel>
 </rss>
