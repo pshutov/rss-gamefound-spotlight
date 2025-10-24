@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 24 Oct 2025 20:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 21:10:58 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Netherwatch</title>
+      <link>https://gamefound.com:443/en/projects/hexploreit/netherwatch?ref=</link>
+      <guid isPermaLink="false">44233</guid>
+      <pubDate>Fri, 24 Oct 2025 21:01:48 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5400/86b6590c-f861-4ddd-ad76-c0a99a8d26e1.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Netherwatch</title>
       <link>https://gamefound.com:443/en/projects/hexploreit/netherwatch?ref=</link>
