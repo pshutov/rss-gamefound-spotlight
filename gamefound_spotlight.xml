@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 25 Oct 2025 06:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 06:43:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Raas: A Dance of Love</title>
+      <link>https://gamefound.com:443/en/projects/arcane-wonders/raas-a-dance-of-love?ref=</link>
+      <guid isPermaLink="false">44235</guid>
+      <pubDate>Sat, 25 Oct 2025 06:25:41 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6421/dd413867-77ce-4695-b7d6-ec5da245a589.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] The Teller System + Campaign Scenarios</title>
       <link>https://gamefound.com:443/en/projects/blood-moon-games-ltd/the-teller-system?ref=</link>
