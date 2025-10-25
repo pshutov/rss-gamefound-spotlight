@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 25 Oct 2025 19:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 20:12:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Era of Atlantis</title>
+      <link>https://gamefound.com:443/en/projects/channing-jones-seajay-games/era-of-atlantis?ref=</link>
+      <guid isPermaLink="false">44236</guid>
+      <pubDate>Sat, 25 Oct 2025 20:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5462/d5e382e0-8068-4766-8efa-6421990caf6a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Raas: A Dance of Love</title>
       <link>https://gamefound.com:443/en/projects/arcane-wonders/raas-a-dance-of-love?ref=</link>
