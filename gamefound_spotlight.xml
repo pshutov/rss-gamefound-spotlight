@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 26 Oct 2025 15:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 16:13:08 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Era of Atlantis</title>
@@ -28,7 +28,7 @@
       <guid isPermaLink="false">44234</guid>
       <pubDate>Fri, 24 Oct 2025 23:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5979/ebb9ab90-bfe1-43b7-8210-ffe513810c93.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5979/8623a32f-4475-4ff1-8ac1-0be275867125.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign is funded] Netherwatch</title>
@@ -116,7 +116,7 @@
       <guid isPermaLink="false">44223</guid>
       <pubDate>Thu, 23 Oct 2025 10:04:16 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5979/ebb9ab90-bfe1-43b7-8210-ffe513810c93.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5979/8623a32f-4475-4ff1-8ac1-0be275867125.png" type="image/png" />
     </item>
     <item>
       <title>[New project] The Great Escape</title>
