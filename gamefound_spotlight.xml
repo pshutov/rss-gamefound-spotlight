@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 27 Oct 2025 14:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 15:13:02 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Blunderbuss RPG</title>
+      <link>https://gamefound.com:443/en/projects/arispen/blunderbuss?ref=</link>
+      <guid isPermaLink="false">44240</guid>
+      <pubDate>Mon, 27 Oct 2025 15:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5692/a78ee4e4-a8f0-4572-a446-341a52af7e90.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Starot - A D20 and Tarot Based SciFi RPG with Physics-Based Space Combat</title>
       <link>https://gamefound.com:443/en/projects/chaoticstupid/starot-ttrpg?ref=</link>
