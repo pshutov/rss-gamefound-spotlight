@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 27 Oct 2025 15:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 16:15:43 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Nomads Unbound</title>
+      <link>https://gamefound.com:443/en/projects/minds-vision/nomads-unbound?ref=</link>
+      <guid isPermaLink="false">44241</guid>
+      <pubDate>Mon, 27 Oct 2025 16:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4448/e9dbe93b-3347-491a-aa46-bbfa46ab5884.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Blunderbuss RPG</title>
       <link>https://gamefound.com:443/en/projects/arispen/blunderbuss?ref=</link>
