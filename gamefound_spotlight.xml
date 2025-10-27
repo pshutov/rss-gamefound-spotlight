@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 27 Oct 2025 18:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 19:09:23 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Fanorona-Tsivy from Solid Hardwood</title>
