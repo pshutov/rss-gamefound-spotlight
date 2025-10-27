@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 27 Oct 2025 13:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 13:48:02 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Starot - A D20 and Tarot Based SciFi RPG with Physics-Based Space Combat</title>
+      <link>https://gamefound.com:443/en/projects/chaoticstupid/starot-ttrpg?ref=</link>
+      <guid isPermaLink="false">44239</guid>
+      <pubDate>Mon, 27 Oct 2025 13:33:01 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/b83561a1-58b5-444d-93c0-12711d1d0949.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Traveller: Campañas navales has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/sugaar/traveller-campanas-navales?ref=</link>
