@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 14:42:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 15:13:30 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Drawing Dead [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
+      <guid isPermaLink="false">45245</guid>
+      <pubDate>Tue, 28 Oct 2025 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Metal RPG Class Coins - The Twelve Classes</title>
       <link>https://gamefound.com:443/en/projects/skullsspirals/rpg-class-coins?ref=</link>
@@ -117,22 +125,6 @@
       <pubDate>Sun, 26 Oct 2025 23:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5313/8dd6d1fa-90f7-4d37-b7e6-2c069b6744de.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Era of Atlantis</title>
-      <link>https://gamefound.com:443/en/projects/channing-jones-seajay-games/era-of-atlantis?ref=</link>
-      <guid isPermaLink="false">44236</guid>
-      <pubDate>Sat, 25 Oct 2025 20:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5462/d5e382e0-8068-4766-8efa-6421990caf6a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Raas: A Dance of Love</title>
-      <link>https://gamefound.com:443/en/projects/arcane-wonders/raas-a-dance-of-love?ref=</link>
-      <guid isPermaLink="false">44235</guid>
-      <pubDate>Sat, 25 Oct 2025 06:25:41 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6421/dd413867-77ce-4695-b7d6-ec5da245a589.png" type="image/png" />
     </item>
   </channel>
 </rss>
