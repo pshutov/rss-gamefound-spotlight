@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 10:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 11:11:03 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Crown and War has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/diogames/crown-and-war?ref=</link>
+      <guid isPermaLink="false">45239</guid>
+      <pubDate>Tue, 28 Oct 2025 11:10:24 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4672/269ad5ef-7449-478d-a26b-a337f8089849.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Sepulchre -- A Grave Game</title>
       <link>https://gamefound.com:443/en/projects/raven-portents/sepulchre?ref=</link>
