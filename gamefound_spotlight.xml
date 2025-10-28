@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 14:12:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 14:42:48 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Metal RPG Class Coins - The Twelve Classes</title>
+      <link>https://gamefound.com:443/en/projects/skullsspirals/rpg-class-coins?ref=</link>
+      <guid isPermaLink="false">45244</guid>
+      <pubDate>Tue, 28 Oct 2025 14:21:01 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6115/c849a6de-f471-462b-9323-72abbd0f79b9.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Fantasy Terrain – Kingdom of Hyberia</title>
       <link>https://gamefound.com:443/en/projects/battle-systems/fantasy-terrain-kingdom-of-hyberia?ref=</link>
