@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 19:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 20:14:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Escape the Dark Castle (2nd Edition) &amp; Escape the Dark Forest</title>
+      <link>https://gamefound.com:443/en/projects/themeborne/escape-the-dark-castle-and-forest?ref=</link>
+      <guid isPermaLink="false">45258</guid>
+      <pubDate>Tue, 28 Oct 2025 20:08:33 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6492/5993acc2-f6f9-4828-b235-076eb518bfd4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Altered - Seeds of Unity</title>
       <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
