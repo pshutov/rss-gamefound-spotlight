@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 05:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 06:19:42 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Sepulchre -- A Grave Game</title>
+      <link>https://gamefound.com:443/en/projects/raven-portents/sepulchre?ref=</link>
+      <guid isPermaLink="false">45238</guid>
+      <pubDate>Tue, 28 Oct 2025 06:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6101/ef95c4f1-f27a-46d3-9370-c2d2b97ec5ba.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] The Wandmaker's Apprentice: Asymmetrical 2-Player Game</title>
       <link>https://gamefound.com:443/en/projects/sweaterbear-games/the-wandmakers-apprentice?ref=</link>
@@ -117,110 +125,6 @@
       <pubDate>Fri, 24 Oct 2025 10:06:59 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5785/728fc898-2e0b-4551-b117-d6f868a6f895.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] The Pawn's Gambit: A chess card game</title>
-      <link>https://gamefound.com:443/en/projects/david-melo/the-pawns-gambit-a-chess-card-game?ref=</link>
-      <guid isPermaLink="false">44229</guid>
-      <pubDate>Thu, 23 Oct 2025 23:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4206/9ddec2e8-872d-4bdf-906f-5e293a6aae36.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Rampage Miniatures: Goblin Frenzy</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/rampage-miniatures-goblin-frenzy?ref=</link>
-      <guid isPermaLink="false">44228</guid>
-      <pubDate>Thu, 23 Oct 2025 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6463/f32798c9-95ae-4740-a64f-49e045710658.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Altered - Seeds of Unity has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
-      <guid isPermaLink="false">44227</guid>
-      <pubDate>Thu, 23 Oct 2025 19:05:54 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/cd744c8b-7031-45f9-99f9-48b272d50818.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Heroes of Might &amp; Magic: The Card Game</title>
-      <link>https://gamefound.com:443/en/projects/archon-studio/heroes-of-mightmagic-the-card-game?ref=</link>
-      <guid isPermaLink="false">44226</guid>
-      <pubDate>Thu, 23 Oct 2025 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5691/0b1139be-1c51-42ce-976e-4fabd4354e7f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Forest Battle Map Pack – 720 RPG Maps</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/forest-battle-map-pack--720-rpg-maps?ref=</link>
-      <guid isPermaLink="false">44225</guid>
-      <pubDate>Thu, 23 Oct 2025 16:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6405/4c61323b-1f18-438f-aa16-f1ef721a51ef.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] VANEA: Guardians of the Eldertree (Relaunch)</title>
-      <link>https://gamefound.com:443/en/projects/forgotten-tales/vanea-guardians-of-the-eldertree-relaunch?ref=</link>
-      <guid isPermaLink="false">44224</guid>
-      <pubDate>Thu, 23 Oct 2025 11:30:01 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6657/48ea1389-46c4-4099-884a-4bbbb3dc53a5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] The Teller System + Campaign Scenarios has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/blood-moon-games-ltd/the-teller-system?ref=</link>
-      <guid isPermaLink="false">44223</guid>
-      <pubDate>Thu, 23 Oct 2025 10:04:16 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5979/8623a32f-4475-4ff1-8ac1-0be275867125.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Great Escape</title>
-      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/the-great-escape?ref=</link>
-      <guid isPermaLink="false">44222</guid>
-      <pubDate>Thu, 23 Oct 2025 08:46:16 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6540/cc49581e-b0a6-4053-8f83-f7409fb4240b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Operation Valkyrie</title>
-      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/operation-valkyrie?ref=</link>
-      <guid isPermaLink="false">44221</guid>
-      <pubDate>Thu, 23 Oct 2025 08:46:04 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5405/806c66e5-fdfa-4f41-bffd-2a928101aae6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Battles of Napoleon Vol. III Aspern-Essling 1809</title>
-      <link>https://gamefound.com:443/en/projects/sound-of-drums-gmbh/battles-of-napoleon-vol-3-aspern-essling-1809?ref=</link>
-      <guid isPermaLink="false">44220</guid>
-      <pubDate>Thu, 23 Oct 2025 08:45:38 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6539/17196491-00ca-4797-b2ba-48e125d6e0f9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Drawing Dead [Solo Game of the Month] has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">44219</guid>
-      <pubDate>Thu, 23 Oct 2025 08:37:19 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] SYNCANITE FOUNDATION: Expansion I</title>
-      <link>https://gamefound.com:443/en/projects/syncanite/expansion-i?ref=</link>
-      <guid isPermaLink="false">44218</guid>
-      <pubDate>Thu, 23 Oct 2025 04:12:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6026/8b07197f-f9cf-4507-b2e9-324376c274b6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Grimdark Future: Broken Truth | 2-Player Battle Box</title>
-      <link>https://gamefound.com:443/en/projects/onepagerules/grimdark-future-battle-box?ref=</link>
-      <guid isPermaLink="false">44217</guid>
-      <pubDate>Thu, 23 Oct 2025 00:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4787/888ce121-6f58-4766-861b-4cbf679d92b3.webp" type="image/jpeg" />
     </item>
   </channel>
 </rss>
