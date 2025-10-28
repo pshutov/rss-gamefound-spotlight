@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 17:40:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 18:18:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Altered - Seeds of Unity</title>
+      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
+      <guid isPermaLink="false">45257</guid>
+      <pubDate>Tue, 28 Oct 2025 18:08:57 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/cd744c8b-7031-45f9-99f9-48b272d50818.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Legends of the Seas</title>
+      <link>https://gamefound.com:443/en/projects/arkada-studio/legends-of-the-seas?ref=</link>
+      <guid isPermaLink="false">45256</guid>
+      <pubDate>Tue, 28 Oct 2025 18:07:33 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5532/c99fc67f-bf09-417b-8cc0-36fd5952bbd6.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Altered - Seeds of Unity</title>
+      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
+      <guid isPermaLink="false">45255</guid>
+      <pubDate>Tue, 28 Oct 2025 18:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/cd744c8b-7031-45f9-99f9-48b272d50818.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Duality of Life &amp; Death: A D&amp;D 5e Magic Item Deck</title>
       <link>https://gamefound.com:443/en/projects/paper-quest/duality-of-life-and-death?ref=</link>
