@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 16:47:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 17:11:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Master of Fables - TTRPG for the whole family</title>
+      <link>https://gamefound.com:443/en/projects/school-of-imagination/masteroffables?ref=</link>
+      <guid isPermaLink="false">45253</guid>
+      <pubDate>Tue, 28 Oct 2025 16:48:47 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4361/0dc0df8d-9f9e-4780-807a-a3c1d8799d2c.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Joyride: Full Throttle</title>
       <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
