@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 16:15:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 16:47:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Joyride: Full Throttle</title>
+      <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
+      <guid isPermaLink="false">45252</guid>
+      <pubDate>Tue, 28 Oct 2025 16:45:28 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6102/f2f0dcec-87d8-4c5d-bd30-e6f53f22829d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Escape the Dark Castle (2nd Edition) &amp; Escape the Dark Forest</title>
+      <link>https://gamefound.com:443/en/projects/themeborne/escape-the-dark-castle-and-forest?ref=</link>
+      <guid isPermaLink="false">45251</guid>
+      <pubDate>Tue, 28 Oct 2025 16:30:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6492/5993acc2-f6f9-4828-b235-076eb518bfd4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Button Shy Reprint Campaign - Late 2025 has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
+      <guid isPermaLink="false">45250</guid>
+      <pubDate>Tue, 28 Oct 2025 16:12:51 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6528/1add6da6-158c-4f31-81ab-ec44527b2443.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Joyride: Full Throttle</title>
       <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
@@ -109,46 +133,6 @@
       <pubDate>Tue, 28 Oct 2025 05:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6311/539a1ca7-9350-4056-af77-e2c4f7491a76.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Fanorona-Tsivy from Solid Hardwood</title>
-      <link>https://gamefound.com:443/en/projects/archaic-games/solid-hardwood-fanorona-tsivy?ref=</link>
-      <guid isPermaLink="false">44242</guid>
-      <pubDate>Mon, 27 Oct 2025 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6544/6330652b-6c3c-4af2-bc22-0e79bacbb7f8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Nomads Unbound</title>
-      <link>https://gamefound.com:443/en/projects/minds-vision/nomads-unbound?ref=</link>
-      <guid isPermaLink="false">44241</guid>
-      <pubDate>Mon, 27 Oct 2025 16:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4448/e9dbe93b-3347-491a-aa46-bbfa46ab5884.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Blunderbuss RPG</title>
-      <link>https://gamefound.com:443/en/projects/arispen/blunderbuss?ref=</link>
-      <guid isPermaLink="false">44240</guid>
-      <pubDate>Mon, 27 Oct 2025 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5692/a78ee4e4-a8f0-4572-a446-341a52af7e90.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Starot - A D20 and Tarot Based SciFi RPG with Physics-Based Space Combat</title>
-      <link>https://gamefound.com:443/en/projects/chaoticstupid/starot-ttrpg?ref=</link>
-      <guid isPermaLink="false">44239</guid>
-      <pubDate>Mon, 27 Oct 2025 13:33:01 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/b83561a1-58b5-444d-93c0-12711d1d0949.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Traveller: Campañas navales has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/sugaar/traveller-campanas-navales?ref=</link>
-      <guid isPermaLink="false">44238</guid>
-      <pubDate>Mon, 27 Oct 2025 13:03:33 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6599/654cabde-1df2-419b-8326-d2cd3e76a696.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
