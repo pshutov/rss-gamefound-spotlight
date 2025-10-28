@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 17:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 17:40:11 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Duality of Life &amp; Death: A D&amp;D 5e Magic Item Deck</title>
+      <link>https://gamefound.com:443/en/projects/paper-quest/duality-of-life-and-death?ref=</link>
+      <guid isPermaLink="false">45254</guid>
+      <pubDate>Tue, 28 Oct 2025 17:25:16 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6634/dab0821c-2257-4688-ac79-361584c3f66b.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Master of Fables - TTRPG for the whole family</title>
       <link>https://gamefound.com:443/en/projects/school-of-imagination/masteroffables?ref=</link>
