@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 29 Oct 2025 15:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 15:42:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Terra Mystica has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
+      <guid isPermaLink="false">45266</guid>
+      <pubDate>Wed, 29 Oct 2025 15:26:46 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6236/8204a64b-de6e-44a0-8f07-d4b928e54730.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Duality of Life &amp; Death: A D&amp;D 5e Magic Item Deck has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/paper-quest/duality-of-life-and-death?ref=</link>
