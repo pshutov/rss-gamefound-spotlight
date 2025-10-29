@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 29 Oct 2025 22:39:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 23:11:41 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Akuma Shielding Season 2</title>
+      <link>https://gamefound.com:443/en/projects/akuma-shielding/akuma-shieldin-season-2?ref=</link>
+      <guid isPermaLink="false">45272</guid>
+      <pubDate>Wed, 29 Oct 2025 23:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5429/5b72898e-b45f-4008-ba85-5ed4ce6589bc.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] APEX CLASH - The Game has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/gysar-studios/apexclash?ref=</link>
