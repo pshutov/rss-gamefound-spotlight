@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 29 Oct 2025 18:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 19:09:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Articulate Earth</title>
+      <link>https://gamefound.com:443/en/projects/warbler-warlock-games/articulate-earth?ref=</link>
+      <guid isPermaLink="false">45270</guid>
+      <pubDate>Wed, 29 Oct 2025 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5423/5f7b8569-b51d-4eff-b68d-2278cda0717f.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] VOIDBIRTH</title>
       <link>https://gamefound.com:443/en/projects/black-magic-creative-inc/voidbirth?ref=</link>
