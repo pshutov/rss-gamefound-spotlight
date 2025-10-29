@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 29 Oct 2025 15:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 16:15:38 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The Hidden Keys - An Urban Horror TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
+      <guid isPermaLink="false">45267</guid>
+      <pubDate>Wed, 29 Oct 2025 16:09:53 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6635/9eb699b2-0568-4450-9f6e-99628c3c8348.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Terra Mystica has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
