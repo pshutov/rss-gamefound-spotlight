@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 29 Oct 2025 14:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 14:43:11 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Duality of Life &amp; Death: A D&amp;D 5e Magic Item Deck has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/paper-quest/duality-of-life-and-death?ref=</link>
+      <guid isPermaLink="false">45265</guid>
+      <pubDate>Wed, 29 Oct 2025 14:21:29 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6634/dab0821c-2257-4688-ac79-361584c3f66b.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Picaria GDR has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/black-dice-lobby/picaria-un-vecchio-nuovo-mondo?ref=</link>
