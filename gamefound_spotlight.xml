@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 29 Oct 2025 16:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 17:12:19 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] VOIDBIRTH</title>
+      <link>https://gamefound.com:443/en/projects/black-magic-creative-inc/voidbirth?ref=</link>
+      <guid isPermaLink="false">45269</guid>
+      <pubDate>Wed, 29 Oct 2025 17:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5857/fc7e9ba6-7dc8-4cec-83b1-e1c75936f59e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Dark Rituals: Veins of Neemoss</title>
+      <link>https://gamefound.com:443/en/projects/maki-games/dark-rituals-malleus-maleficarum-reprint?ref=</link>
+      <guid isPermaLink="false">45268</guid>
+      <pubDate>Wed, 29 Oct 2025 17:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5050/03ba1188-9476-44c5-b815-c25933b4a26d.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] The Hidden Keys - An Urban Horror TTRPG</title>
       <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
