@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 28 Oct 2025 23:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 00:58:41 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Exö-Squad Röknaut Space Dwarf Miniatures</title>
+      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
+      <guid isPermaLink="false">45261</guid>
+      <pubDate>Wed, 29 Oct 2025 00:35:50 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/d2e53ab6-69cb-4af4-8414-c349182c08b9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Alice's Wonderous Adventures</title>
+      <link>https://gamefound.com:443/en/projects/macdesign/alices-wonderous-adventures?ref=</link>
+      <guid isPermaLink="false">45260</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6379/3bb765fd-5c03-4bab-8ad8-59afa7190196.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Zakazane Ziemie</title>
       <link>https://gamefound.com:443/en/projects/kensumi/zakazaneziemie?ref=</link>
