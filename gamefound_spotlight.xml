@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 30 Oct 2025 06:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 07:12:03 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Picaria GDR</title>
+      <link>https://gamefound.com:443/en/projects/black-dice-lobby/picaria-un-vecchio-nuovo-mondo?ref=</link>
+      <guid isPermaLink="false">45274</guid>
+      <pubDate>Thu, 30 Oct 2025 07:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6170/328cbe07-a9fb-4932-b71b-2cd69ec8d102.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Hellbringer: Bestiary &amp; Forbidden Spells</title>
       <link>https://gamefound.com:443/en/projects/maxime-gauthier/hellbringer?ref=</link>
@@ -117,190 +125,6 @@
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6379/3bb765fd-5c03-4bab-8ad8-59afa7190196.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Zakazane Ziemie</title>
-      <link>https://gamefound.com:443/en/projects/kensumi/zakazaneziemie?ref=</link>
-      <guid isPermaLink="false">45259</guid>
-      <pubDate>Tue, 28 Oct 2025 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5629/9c759af4-a9ff-4146-ab42-b1430f9a39f9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Escape the Dark Castle (2nd Edition) &amp; Escape the Dark Forest</title>
-      <link>https://gamefound.com:443/en/projects/themeborne/escape-the-dark-castle-and-forest?ref=</link>
-      <guid isPermaLink="false">45258</guid>
-      <pubDate>Tue, 28 Oct 2025 20:08:33 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6492/5993acc2-f6f9-4828-b235-076eb518bfd4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Altered - Seeds of Unity</title>
-      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
-      <guid isPermaLink="false">45257</guid>
-      <pubDate>Tue, 28 Oct 2025 18:08:57 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/cd744c8b-7031-45f9-99f9-48b272d50818.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Legends of the Seas</title>
-      <link>https://gamefound.com:443/en/projects/arkada-studio/legends-of-the-seas?ref=</link>
-      <guid isPermaLink="false">45256</guid>
-      <pubDate>Tue, 28 Oct 2025 18:07:33 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5532/c99fc67f-bf09-417b-8cc0-36fd5952bbd6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Altered - Seeds of Unity</title>
-      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
-      <guid isPermaLink="false">45255</guid>
-      <pubDate>Tue, 28 Oct 2025 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/cd744c8b-7031-45f9-99f9-48b272d50818.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Duality of Life &amp; Death: A D&amp;D 5e Magic Item Deck</title>
-      <link>https://gamefound.com:443/en/projects/paper-quest/duality-of-life-and-death?ref=</link>
-      <guid isPermaLink="false">45254</guid>
-      <pubDate>Tue, 28 Oct 2025 17:25:16 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6634/dab0821c-2257-4688-ac79-361584c3f66b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Master of Fables - TTRPG for the whole family</title>
-      <link>https://gamefound.com:443/en/projects/school-of-imagination/masteroffables?ref=</link>
-      <guid isPermaLink="false">45253</guid>
-      <pubDate>Tue, 28 Oct 2025 16:48:47 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4361/0dc0df8d-9f9e-4780-807a-a3c1d8799d2c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Joyride: Full Throttle</title>
-      <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
-      <guid isPermaLink="false">45252</guid>
-      <pubDate>Tue, 28 Oct 2025 16:45:28 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6102/f2f0dcec-87d8-4c5d-bd30-e6f53f22829d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Escape the Dark Castle (2nd Edition) &amp; Escape the Dark Forest</title>
-      <link>https://gamefound.com:443/en/projects/themeborne/escape-the-dark-castle-and-forest?ref=</link>
-      <guid isPermaLink="false">45251</guid>
-      <pubDate>Tue, 28 Oct 2025 16:30:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6492/5993acc2-f6f9-4828-b235-076eb518bfd4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Button Shy Reprint Campaign - Late 2025 has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
-      <guid isPermaLink="false">45250</guid>
-      <pubDate>Tue, 28 Oct 2025 16:12:51 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6528/1add6da6-158c-4f31-81ab-ec44527b2443.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Joyride: Full Throttle</title>
-      <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
-      <guid isPermaLink="false">45249</guid>
-      <pubDate>Tue, 28 Oct 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6102/f2f0dcec-87d8-4c5d-bd30-e6f53f22829d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Legends of the Seas</title>
-      <link>https://gamefound.com:443/en/projects/arkada-studio/legends-of-the-seas?ref=</link>
-      <guid isPermaLink="false">45248</guid>
-      <pubDate>Tue, 28 Oct 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5532/c99fc67f-bf09-417b-8cc0-36fd5952bbd6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Return of the Living Dead's Zombie Punk Panic has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/evil-genius-games/return-of-the-living-deads-zombie-punk-panic?ref=</link>
-      <guid isPermaLink="false">45247</guid>
-      <pubDate>Tue, 28 Oct 2025 15:40:00 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5992/3db81e86-07e7-4005-8ca4-8f025ea4b07c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Drawing Dead [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">45246</guid>
-      <pubDate>Tue, 28 Oct 2025 15:24:04 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Drawing Dead [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">45245</guid>
-      <pubDate>Tue, 28 Oct 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Metal RPG Class Coins - The Twelve Classes</title>
-      <link>https://gamefound.com:443/en/projects/skullsspirals/rpg-class-coins?ref=</link>
-      <guid isPermaLink="false">45244</guid>
-      <pubDate>Tue, 28 Oct 2025 14:21:01 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6115/c849a6de-f471-462b-9323-72abbd0f79b9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Fantasy Terrain – Kingdom of Hyberia</title>
-      <link>https://gamefound.com:443/en/projects/battle-systems/fantasy-terrain-kingdom-of-hyberia?ref=</link>
-      <guid isPermaLink="false">45243</guid>
-      <pubDate>Tue, 28 Oct 2025 14:06:31 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6576/030ebdb0-3bad-4082-b15e-7f15c14df28a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Threshold</title>
-      <link>https://gamefound.com:443/en/projects/oomm-games/threshold?ref=</link>
-      <guid isPermaLink="false">45242</guid>
-      <pubDate>Tue, 28 Oct 2025 13:27:34 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5187/7fd2c39f-a1e3-4da1-a81c-40296442dbf0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Ascendancy Underworld</title>
-      <link>https://gamefound.com:443/en/projects/onemoreturngames/ascendancy_underworld?ref=</link>
-      <guid isPermaLink="false">45241</guid>
-      <pubDate>Tue, 28 Oct 2025 13:00:55 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6316/4c9ae986-94a0-4e03-96d1-51b020e4715f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Threshold</title>
-      <link>https://gamefound.com:443/en/projects/oomm-games/threshold?ref=</link>
-      <guid isPermaLink="false">45240</guid>
-      <pubDate>Tue, 28 Oct 2025 13:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5187/7fd2c39f-a1e3-4da1-a81c-40296442dbf0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Crown and War has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/diogames/crown-and-war?ref=</link>
-      <guid isPermaLink="false">45239</guid>
-      <pubDate>Tue, 28 Oct 2025 11:10:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4672/269ad5ef-7449-478d-a26b-a337f8089849.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Sepulchre -- A Grave Game</title>
-      <link>https://gamefound.com:443/en/projects/raven-portents/sepulchre?ref=</link>
-      <guid isPermaLink="false">45238</guid>
-      <pubDate>Tue, 28 Oct 2025 06:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6101/ef95c4f1-f27a-46d3-9370-c2d2b97ec5ba.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] The Wandmaker's Apprentice: Asymmetrical 2-Player Game</title>
-      <link>https://gamefound.com:443/en/projects/sweaterbear-games/the-wandmakers-apprentice?ref=</link>
-      <guid isPermaLink="false">45237</guid>
-      <pubDate>Tue, 28 Oct 2025 05:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6311/539a1ca7-9350-4056-af77-e2c4f7491a76.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
