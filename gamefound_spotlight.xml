@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 30 Oct 2025 03:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 04:14:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Hellbringer: Bestiary &amp; Forbidden Spells</title>
+      <link>https://gamefound.com:443/en/projects/maxime-gauthier/hellbringer?ref=</link>
+      <guid isPermaLink="false">45273</guid>
+      <pubDate>Thu, 30 Oct 2025 04:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5034/c7fd0725-9d2a-4ca6-89ea-109d5909f9e0.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Akuma Shielding Season 2</title>
       <link>https://gamefound.com:443/en/projects/akuma-shielding/akuma-shieldin-season-2?ref=</link>
