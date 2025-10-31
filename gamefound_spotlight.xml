@@ -4,8 +4,40 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 31 Oct 2025 11:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 12:24:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Gond Dabar - The Age of War has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/pirata-games/gond-dabar---the-age-of-war?ref=</link>
+      <guid isPermaLink="false">45287</guid>
+      <pubDate>Fri, 31 Oct 2025 12:12:56 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5082/f9e813b3-cb67-47f3-b804-a7386e49b3de.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] The Hidden Keys - An Urban Horror TTRPG has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
+      <guid isPermaLink="false">45286</guid>
+      <pubDate>Fri, 31 Oct 2025 12:08:50 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6635/9eb699b2-0568-4450-9f6e-99628c3c8348.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Joust King's Tournament (Collector's Box) has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/rogue-pioneer-games/joust-a-kings-tournament?ref=</link>
+      <guid isPermaLink="false">45285</guid>
+      <pubDate>Fri, 31 Oct 2025 11:37:30 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6562/b2e6f647-047b-4615-b1c7-79691bd4023e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Snowdonia: Grand Tour + Special Edition has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/naylorgames/snowdonia-grand-tour?ref=</link>
+      <guid isPermaLink="false">45284</guid>
+      <pubDate>Fri, 31 Oct 2025 11:31:32 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5150/4f1a7f34-9920-4ccf-8759-8227ba5409f8.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Penance: Knightfall</title>
       <link>https://gamefound.com:443/en/projects/david/penance-knightfall?ref=</link>
@@ -93,110 +125,6 @@
       <pubDate>Thu, 30 Oct 2025 04:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5034/c7fd0725-9d2a-4ca6-89ea-109d5909f9e0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Akuma Shielding Season 2</title>
-      <link>https://gamefound.com:443/en/projects/akuma-shielding/akuma-shieldin-season-2?ref=</link>
-      <guid isPermaLink="false">45272</guid>
-      <pubDate>Wed, 29 Oct 2025 23:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5429/5b72898e-b45f-4008-ba85-5ed4ce6589bc.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] APEX CLASH - The Game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gysar-studios/apexclash?ref=</link>
-      <guid isPermaLink="false">45271</guid>
-      <pubDate>Wed, 29 Oct 2025 21:42:38 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6209/1787e1fb-5906-4bf2-bc54-42be84c62b17.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Articulate Earth</title>
-      <link>https://gamefound.com:443/en/projects/warbler-warlock-games/articulate-earth?ref=</link>
-      <guid isPermaLink="false">45270</guid>
-      <pubDate>Wed, 29 Oct 2025 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5423/5f7b8569-b51d-4eff-b68d-2278cda0717f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] VOIDBIRTH</title>
-      <link>https://gamefound.com:443/en/projects/black-magic-creative-inc/voidbirth?ref=</link>
-      <guid isPermaLink="false">45269</guid>
-      <pubDate>Wed, 29 Oct 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5857/fc7e9ba6-7dc8-4cec-83b1-e1c75936f59e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Dark Rituals: Veins of Neemoss</title>
-      <link>https://gamefound.com:443/en/projects/maki-games/dark-rituals-malleus-maleficarum-reprint?ref=</link>
-      <guid isPermaLink="false">45268</guid>
-      <pubDate>Wed, 29 Oct 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5050/03ba1188-9476-44c5-b815-c25933b4a26d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Hidden Keys - An Urban Horror TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
-      <guid isPermaLink="false">45267</guid>
-      <pubDate>Wed, 29 Oct 2025 16:09:53 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6635/9eb699b2-0568-4450-9f6e-99628c3c8348.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Terra Mystica has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
-      <guid isPermaLink="false">45266</guid>
-      <pubDate>Wed, 29 Oct 2025 15:26:46 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6236/8204a64b-de6e-44a0-8f07-d4b928e54730.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Duality of Life &amp; Death: A D&amp;D 5e Magic Item Deck has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/paper-quest/duality-of-life-and-death?ref=</link>
-      <guid isPermaLink="false">45265</guid>
-      <pubDate>Wed, 29 Oct 2025 14:21:29 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6634/dab0821c-2257-4688-ac79-361584c3f66b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Picaria GDR has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/black-dice-lobby/picaria-un-vecchio-nuovo-mondo?ref=</link>
-      <guid isPermaLink="false">45264</guid>
-      <pubDate>Wed, 29 Oct 2025 12:28:27 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6170/328cbe07-a9fb-4932-b71b-2cd69ec8d102.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Pubes has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/xeel/pubes?ref=</link>
-      <guid isPermaLink="false">45263</guid>
-      <pubDate>Wed, 29 Oct 2025 12:16:38 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5900/e3403bd6-2695-4302-94aa-0ab8f0d830e5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Borderlands: Mister Torgue's Arena of Badassery 2 has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/monster-fight-club/borderlands-mister-torgues-arena-of-badassery-2?ref=</link>
-      <guid isPermaLink="false">45262</guid>
-      <pubDate>Wed, 29 Oct 2025 10:10:50 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5560/0f845bd9-713d-466a-9c02-62b7907ea2c2.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Exö-Squad Röknaut Space Dwarf Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
-      <guid isPermaLink="false">45261</guid>
-      <pubDate>Wed, 29 Oct 2025 00:35:50 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/d2e53ab6-69cb-4af4-8414-c349182c08b9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Alice's Wonderous Adventures</title>
-      <link>https://gamefound.com:443/en/projects/macdesign/alices-wonderous-adventures?ref=</link>
-      <guid isPermaLink="false">45260</guid>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6379/3bb765fd-5c03-4bab-8ad8-59afa7190196.png" type="image/png" />
     </item>
   </channel>
 </rss>
