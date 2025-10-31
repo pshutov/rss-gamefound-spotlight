@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 31 Oct 2025 17:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 17:38:55 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Erra - Resistance</title>
@@ -44,7 +44,7 @@
       <guid isPermaLink="false">45289</guid>
       <pubDate>Fri, 31 Oct 2025 14:12:09 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/827a18b1-4d60-46f3-b90a-f40fd699289e.webp" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/c7adcf58-4775-4635-a2db-6a65395af75c.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign is funded] Echo Team: Spearhead</title>
