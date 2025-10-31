@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 31 Oct 2025 16:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 17:11:57 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Erra - Resistance</title>
+      <link>https://gamefound.com:443/en/projects/oakgames/erra-resistance?ref=</link>
+      <guid isPermaLink="false">45293</guid>
+      <pubDate>Fri, 31 Oct 2025 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6486/3fa1ef91-30cf-4ece-9513-07623ea429b4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Save Us All</title>
+      <link>https://gamefound.com:443/en/projects/saveusall/saveusall?ref=</link>
+      <guid isPermaLink="false">45292</guid>
+      <pubDate>Fri, 31 Oct 2025 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4710/d91168fb-f088-4318-ad2a-a8482f41801d.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Laužas</title>
       <link>https://gamefound.com:443/en/projects/amblys/lauzas?ref=</link>
