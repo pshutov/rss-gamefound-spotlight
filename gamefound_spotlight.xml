@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 31 Oct 2025 19:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 20:14:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Puppet Master: Return to Bodega Bay Inn Miniatures Board Game</title>
+      <link>https://gamefound.com:443/en/projects/dynamite-entertainment/puppet-master-escape-to-bodega-bay-inn-miniatures-board-game?ref=</link>
+      <guid isPermaLink="false">45294</guid>
+      <pubDate>Fri, 31 Oct 2025 20:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/c7adcf58-4775-4635-a2db-6a65395af75c.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Erra - Resistance</title>
       <link>https://gamefound.com:443/en/projects/oakgames/erra-resistance?ref=</link>
