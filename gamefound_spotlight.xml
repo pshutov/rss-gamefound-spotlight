@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 01 Nov 2025 10:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 11:08:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Wilderness - A Game of Survival (2nd Edition)</title>
+      <link>https://gamefound.com:443/en/projects/fryxgames/wilderness?ref=</link>
+      <guid isPermaLink="false">45298</guid>
+      <pubDate>Sat, 01 Nov 2025 11:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6314/b6364862-3faa-4ba9-a922-c56e1ddd532c.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Wizard Bar Fight</title>
       <link>https://gamefound.com:443/en/projects/evilwizardgaming/wizard-bar-fight?ref=</link>
