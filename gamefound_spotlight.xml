@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 01 Nov 2025 02:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 03:38:40 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Kingdoms of Arkanis</title>
+      <link>https://gamefound.com:443/en/projects/alans_games/kingdoms-of-arkanis?ref=</link>
+      <guid isPermaLink="false">45295</guid>
+      <pubDate>Sat, 01 Nov 2025 03:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6007/ade28920-9329-429a-92b6-522df1baa7ac.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Puppet Master: Return to Bodega Bay Inn Miniatures Board Game</title>
       <link>https://gamefound.com:443/en/projects/dynamite-entertainment/puppet-master-escape-to-bodega-bay-inn-miniatures-board-game?ref=</link>
@@ -117,70 +125,6 @@
       <pubDate>Fri, 31 Oct 2025 07:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5939/92b9313a-7335-43e0-8f41-86a2906eb0cc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] CRAZY MUSEUM - The First "Arcade Series" Board Game</title>
-      <link>https://gamefound.com:443/en/projects/trencadaus/crazy-museum?ref=</link>
-      <guid isPermaLink="false">45280</guid>
-      <pubDate>Thu, 30 Oct 2025 22:04:30 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6313/896fd4f5-58d5-4e4f-a72e-926d60edeb9f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Elder Scrolls: Heroes of Tamriel</title>
-      <link>https://gamefound.com:443/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel?ref=</link>
-      <guid isPermaLink="false">45279</guid>
-      <pubDate>Thu, 30 Oct 2025 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6096/3ff0a602-84cc-42e3-bb78-3af37f72ccac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Return of the Living Dead's Zombie Punk Panic</title>
-      <link>https://gamefound.com:443/en/projects/evil-genius-games/return-of-the-living-deads-zombie-punk-panic?ref=</link>
-      <guid isPermaLink="false">45278</guid>
-      <pubDate>Thu, 30 Oct 2025 17:35:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5992/3db81e86-07e7-4005-8ca4-8f025ea4b07c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] TRENCH ARK</title>
-      <link>https://gamefound.com:443/en/projects/studiolevel/trench_ark?ref=</link>
-      <guid isPermaLink="false">45277</guid>
-      <pubDate>Thu, 30 Oct 2025 15:57:18 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6457/6377ab94-bfb2-4589-8680-40057578bf84.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Erra - Resistance has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/oakgames/erra-resistance?ref=</link>
-      <guid isPermaLink="false">45276</guid>
-      <pubDate>Thu, 30 Oct 2025 14:51:59 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6486/3fa1ef91-30cf-4ece-9513-07623ea429b4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Łowcy Jaszczurów</title>
-      <link>https://gamefound.com:443/en/projects/kostkiczaszkirpg/lowcy?ref=</link>
-      <guid isPermaLink="false">45275</guid>
-      <pubDate>Thu, 30 Oct 2025 12:52:13 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6579/cbc0cb44-93aa-4619-8f49-b45188952b62.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Picaria GDR</title>
-      <link>https://gamefound.com:443/en/projects/black-dice-lobby/picaria-un-vecchio-nuovo-mondo?ref=</link>
-      <guid isPermaLink="false">45274</guid>
-      <pubDate>Thu, 30 Oct 2025 07:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6170/328cbe07-a9fb-4932-b71b-2cd69ec8d102.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Hellbringer: Bestiary &amp; Forbidden Spells</title>
-      <link>https://gamefound.com:443/en/projects/maxime-gauthier/hellbringer?ref=</link>
-      <guid isPermaLink="false">45273</guid>
-      <pubDate>Thu, 30 Oct 2025 04:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5034/c7fd0725-9d2a-4ca6-89ea-109d5909f9e0.png" type="image/png" />
     </item>
   </channel>
 </rss>
