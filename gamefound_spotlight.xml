@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 01 Nov 2025 05:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 06:16:18 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Wizard Bar Fight</title>
+      <link>https://gamefound.com:443/en/projects/evilwizardgaming/wizard-bar-fight?ref=</link>
+      <guid isPermaLink="false">45297</guid>
+      <pubDate>Sat, 01 Nov 2025 06:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4804/d402c56f-56a7-4f94-955e-6d82de6c07de.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Dark Fantasy Narrative TTRPG and D&amp;D5e-compatible Setting: Sol Tyrannus</title>
       <link>https://gamefound.com:443/en/projects/a-game-of-nerds/sol-tyrannus?ref=</link>
