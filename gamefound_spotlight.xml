@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 02 Nov 2025 22:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 23:10:18 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Crown and War</title>
+      <link>https://gamefound.com:443/en/projects/diogames/crown-and-war?ref=</link>
+      <guid isPermaLink="false">45303</guid>
+      <pubDate>Sun, 02 Nov 2025 23:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4672/269ad5ef-7449-478d-a26b-a337f8089849.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Akuma Shielding Season 2</title>
+      <link>https://gamefound.com:443/en/projects/akuma-shielding/akuma-shieldin-season-2?ref=</link>
+      <guid isPermaLink="false">45302</guid>
+      <pubDate>Sun, 02 Nov 2025 22:59:23 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5429/5b72898e-b45f-4008-ba85-5ed4ce6589bc.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Żerca: Gra Karciana</title>
       <link>https://gamefound.com:443/en/projects/slovian-game-studios/powiernik-gra-karciana?ref=</link>
