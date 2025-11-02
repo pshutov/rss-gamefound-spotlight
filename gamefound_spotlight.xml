@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 02 Nov 2025 09:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 10:11:16 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Żerca: Gra Karciana</title>
+      <link>https://gamefound.com:443/en/projects/slovian-game-studios/powiernik-gra-karciana?ref=</link>
+      <guid isPermaLink="false">45301</guid>
+      <pubDate>Sun, 02 Nov 2025 09:43:25 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5697/0dba8cd5-98de-4a37-8ffe-6a435e21a1d0.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] PRIMAL HEX</title>
       <link>https://gamefound.com:443/en/projects/smart-flamingo/primal-hex?ref=</link>
