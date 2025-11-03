@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 03 Nov 2025 10:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 10:45:25 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Crown and War</title>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>[Campaign start] Save Us All</title>
-      <link>https://prod-gf-app-service-prepreprod.azurewebsites.net:443/en/projects/saveusall/saveusall?ref=</link>
+      <link>https://gamefound.com:443/en/projects/saveusall/saveusall?ref=</link>
       <guid isPermaLink="false">45292</guid>
       <pubDate>Fri, 31 Oct 2025 17:00:00 +0000</pubDate>
       <description>Campaign start</description>
