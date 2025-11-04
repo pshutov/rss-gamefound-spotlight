@@ -4,8 +4,40 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 04 Nov 2025 17:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 18:17:30 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Terra Mystica Special Edition</title>
+      <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
+      <guid isPermaLink="false">45325</guid>
+      <pubDate>Tue, 04 Nov 2025 18:13:17 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6236/8204a64b-de6e-44a0-8f07-d4b928e54730.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Movers &amp; Shakers</title>
+      <link>https://gamefound.com:443/en/projects/quined-games/movers-and-shakers?ref=</link>
+      <guid isPermaLink="false">45324</guid>
+      <pubDate>Tue, 04 Nov 2025 18:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6213/8333611f-5ff7-40ba-828e-f4b23f8863d4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Terra Mystica Special Edition</title>
+      <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
+      <guid isPermaLink="false">45323</guid>
+      <pubDate>Tue, 04 Nov 2025 18:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6236/8204a64b-de6e-44a0-8f07-d4b928e54730.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] X-ODUS, Rise of the Corruption - Second Edition</title>
+      <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
+      <guid isPermaLink="false">45322</guid>
+      <pubDate>Tue, 04 Nov 2025 17:51:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5800/833cf7b2-9fcc-4b9d-b3c8-f7c2159ef745.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Vampire Lords</title>
       <link>https://gamefound.com:443/en/projects/couple-of-games/vampire-lords?ref=</link>
@@ -117,38 +149,6 @@
       <pubDate>Tue, 04 Nov 2025 02:08:00 +0000</pubDate>
       <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/c7adcf58-4775-4635-a2db-6a65395af75c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Song of Silveranth</title>
-      <link>https://gamefound.com:443/en/projects/red-raven-games/song-of-silveranth?ref=</link>
-      <guid isPermaLink="false">45307</guid>
-      <pubDate>Mon, 03 Nov 2025 17:37:15 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5930/b6903e92-a232-4c0b-a1c7-ae3852cb2ff1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Song of Silveranth</title>
-      <link>https://gamefound.com:443/en/projects/red-raven-games/song-of-silveranth?ref=</link>
-      <guid isPermaLink="false">45306</guid>
-      <pubDate>Mon, 03 Nov 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5930/b6903e92-a232-4c0b-a1c7-ae3852cb2ff1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Joust King's Tournament (Collector's Box)</title>
-      <link>https://gamefound.com:443/en/projects/rogue-pioneer-games/joust-a-kings-tournament?ref=</link>
-      <guid isPermaLink="false">45305</guid>
-      <pubDate>Mon, 03 Nov 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6562/b2e6f647-047b-4615-b1c7-79691bd4023e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] ArtPieces Jigsaw Puzzles has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/iconic-creations/artpieces-jigsaw-puzzles?ref=</link>
-      <guid isPermaLink="false">45304</guid>
-      <pubDate>Mon, 03 Nov 2025 12:14:02 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5956/9f3bcdda-bf90-49e5-a80b-9c2f092bac93.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
