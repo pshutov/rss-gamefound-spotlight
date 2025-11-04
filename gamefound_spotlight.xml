@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 04 Nov 2025 15:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 16:15:21 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] The Mix</title>
+      <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
+      <guid isPermaLink="false">45317</guid>
+      <pubDate>Tue, 04 Nov 2025 16:04:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4238/172c02a0-50a4-41c0-b770-5d9108e4ca25.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Borderlands: Mister Torgue's Arena of Badassery 2</title>
+      <link>https://gamefound.com:443/en/projects/monster-fight-club/borderlands-mister-torgues-arena-of-badassery-2?ref=</link>
+      <guid isPermaLink="false">45316</guid>
+      <pubDate>Tue, 04 Nov 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5560/0f845bd9-713d-466a-9c02-62b7907ea2c2.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] X-ODUS, Rise of the Corruption - Second Edition</title>
       <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
