@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 04 Nov 2025 13:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 14:14:06 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Button Shy Reprint Campaign - Late 2025</title>
+      <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
+      <guid isPermaLink="false">45313</guid>
+      <pubDate>Tue, 04 Nov 2025 13:48:58 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6528/d239828c-1dce-49f0-a39e-2c35dd364bf9.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Button Shy Reprint Campaign - Late 2025</title>
       <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
