@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 04 Nov 2025 07:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 08:17:05 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] The Mix has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
+      <guid isPermaLink="false">45309</guid>
+      <pubDate>Tue, 04 Nov 2025 07:48:09 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4238/172c02a0-50a4-41c0-b770-5d9108e4ca25.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Puppet Master: Return to Bodega Bay Inn Miniatures Board Game</title>
       <link>https://gamefound.com:443/en/projects/dynamite-entertainment/puppet-master-escape-to-bodega-bay-inn-miniatures-board-game?ref=</link>
@@ -117,118 +125,6 @@
       <pubDate>Sat, 01 Nov 2025 03:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6007/ade28920-9329-429a-92b6-522df1baa7ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Puppet Master: Return to Bodega Bay Inn Miniatures Board Game</title>
-      <link>https://gamefound.com:443/en/projects/dynamite-entertainment/puppet-master-escape-to-bodega-bay-inn-miniatures-board-game?ref=</link>
-      <guid isPermaLink="false">45294</guid>
-      <pubDate>Fri, 31 Oct 2025 20:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/c7adcf58-4775-4635-a2db-6a65395af75c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Erra - Resistance</title>
-      <link>https://gamefound.com:443/en/projects/oakgames/erra-resistance?ref=</link>
-      <guid isPermaLink="false">45293</guid>
-      <pubDate>Fri, 31 Oct 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6486/3fa1ef91-30cf-4ece-9513-07623ea429b4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Save Us All</title>
-      <link>https://gamefound.com:443/en/projects/saveusall/saveusall?ref=</link>
-      <guid isPermaLink="false">45292</guid>
-      <pubDate>Fri, 31 Oct 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4710/d91168fb-f088-4318-ad2a-a8482f41801d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Laužas</title>
-      <link>https://gamefound.com:443/en/projects/amblys/lauzas?ref=</link>
-      <guid isPermaLink="false">45291</guid>
-      <pubDate>Fri, 31 Oct 2025 16:30:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6387/62ea1d16-d725-4230-8390-47212fcad5ae.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Table Buster</title>
-      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster---willows-and-jaws?ref=</link>
-      <guid isPermaLink="false">45290</guid>
-      <pubDate>Fri, 31 Oct 2025 16:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5874/6e994a49-e81e-441b-86fb-9d0a8cc17256.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Puppet Master: Return to Bodega Bay Inn Miniatures Board Game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/dynamite-entertainment/puppet-master-escape-to-bodega-bay-inn-miniatures-board-game?ref=</link>
-      <guid isPermaLink="false">45289</guid>
-      <pubDate>Fri, 31 Oct 2025 14:12:09 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/c7adcf58-4775-4635-a2db-6a65395af75c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Echo Team: Spearhead</title>
-      <link>https://gamefound.com:443/en/projects/black-mask-verlag/echo-team-spearhead?ref=</link>
-      <guid isPermaLink="false">45288</guid>
-      <pubDate>Fri, 31 Oct 2025 13:11:29 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4726/1dc8d38b-b942-449e-9d49-240923f8b697.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Gond Dabar - The Age of War has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/pirata-games/gond-dabar---the-age-of-war?ref=</link>
-      <guid isPermaLink="false">45287</guid>
-      <pubDate>Fri, 31 Oct 2025 12:12:56 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5082/f9e813b3-cb67-47f3-b804-a7386e49b3de.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The Hidden Keys - An Urban Horror TTRPG has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
-      <guid isPermaLink="false">45286</guid>
-      <pubDate>Fri, 31 Oct 2025 12:08:50 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6635/9eb699b2-0568-4450-9f6e-99628c3c8348.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Joust King's Tournament (Collector's Box) has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/rogue-pioneer-games/joust-a-kings-tournament?ref=</link>
-      <guid isPermaLink="false">45285</guid>
-      <pubDate>Fri, 31 Oct 2025 11:37:30 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6562/b2e6f647-047b-4615-b1c7-79691bd4023e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Snowdonia: Grand Tour + Special Edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/naylorgames/snowdonia-grand-tour?ref=</link>
-      <guid isPermaLink="false">45284</guid>
-      <pubDate>Fri, 31 Oct 2025 11:31:32 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5150/0b0d1f70-5c02-4699-8f12-a0f3504c4e33.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Penance: Knightfall</title>
-      <link>https://gamefound.com:443/en/projects/david/penance-knightfall?ref=</link>
-      <guid isPermaLink="false">45283</guid>
-      <pubDate>Fri, 31 Oct 2025 11:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6390/589f57ff-9dbd-46cd-bc50-eb3391de3735.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Spiders The Game</title>
-      <link>https://gamefound.com:443/en/projects/spidersthegame/spiders-the-game?ref=</link>
-      <guid isPermaLink="false">45282</guid>
-      <pubDate>Fri, 31 Oct 2025 08:26:05 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/518d2cf4-99b1-4bd2-bb4a-157eeab874d0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] The Table of Adventure: The Official Dungeons and Dragons Game Table</title>
-      <link>https://gamefound.com:443/en/projects/game-theory-tables/table-of-adventure-official-dnd-game-table?ref=</link>
-      <guid isPermaLink="false">45281</guid>
-      <pubDate>Fri, 31 Oct 2025 07:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5939/92b9313a-7335-43e0-8f41-86a2906eb0cc.png" type="image/png" />
     </item>
   </channel>
 </rss>
