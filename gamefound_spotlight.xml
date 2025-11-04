@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 04 Nov 2025 14:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 15:13:22 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] X-ODUS, Rise of the Corruption - Second Edition</title>
+      <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
+      <guid isPermaLink="false">45315</guid>
+      <pubDate>Tue, 04 Nov 2025 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5800/833cf7b2-9fcc-4b9d-b3c8-f7c2159ef745.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Mix</title>
+      <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
+      <guid isPermaLink="false">45314</guid>
+      <pubDate>Tue, 04 Nov 2025 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4238/172c02a0-50a4-41c0-b770-5d9108e4ca25.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Button Shy Reprint Campaign - Late 2025</title>
       <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
@@ -109,54 +125,6 @@
       <pubDate>Sun, 02 Nov 2025 09:43:25 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5697/0dba8cd5-98de-4a37-8ffe-6a435e21a1d0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] PRIMAL HEX</title>
-      <link>https://gamefound.com:443/en/projects/smart-flamingo/primal-hex?ref=</link>
-      <guid isPermaLink="false">45300</guid>
-      <pubDate>Sat, 01 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4287/a545350e-d35a-43d8-812a-6d2d7babff50.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Los Banditos: The Train Heist Card Game</title>
-      <link>https://gamefound.com:443/en/projects/seriouslyboardgames/los-banditos-the-train-heist-card-game?ref=</link>
-      <guid isPermaLink="false">45299</guid>
-      <pubDate>Sat, 01 Nov 2025 18:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6184/b9d18df8-da92-46d6-8183-f91e2db8fdf8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Wilderness - A Game of Survival (2nd Edition)</title>
-      <link>https://gamefound.com:443/en/projects/fryxgames/wilderness?ref=</link>
-      <guid isPermaLink="false">45298</guid>
-      <pubDate>Sat, 01 Nov 2025 11:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6314/b6364862-3faa-4ba9-a922-c56e1ddd532c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Wizard Bar Fight</title>
-      <link>https://gamefound.com:443/en/projects/evilwizardgaming/wizard-bar-fight?ref=</link>
-      <guid isPermaLink="false">45297</guid>
-      <pubDate>Sat, 01 Nov 2025 06:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4804/d402c56f-56a7-4f94-955e-6d82de6c07de.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Dark Fantasy Narrative TTRPG and D&amp;D5e-compatible Setting: Sol Tyrannus</title>
-      <link>https://gamefound.com:443/en/projects/a-game-of-nerds/sol-tyrannus?ref=</link>
-      <guid isPermaLink="false">45296</guid>
-      <pubDate>Sat, 01 Nov 2025 04:07:06 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6177/9b398f87-2cb0-42df-9075-50e0d13c28b3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Kingdoms of Arkanis</title>
-      <link>https://gamefound.com:443/en/projects/alans_games/kingdoms-of-arkanis?ref=</link>
-      <guid isPermaLink="false">45295</guid>
-      <pubDate>Sat, 01 Nov 2025 03:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6007/ade28920-9329-429a-92b6-522df1baa7ac.png" type="image/png" />
     </item>
   </channel>
 </rss>
