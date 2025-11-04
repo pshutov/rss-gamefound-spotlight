@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 04 Nov 2025 16:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 16:45:36 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Borderlands: Mister Torgue's Arena of Badassery 2</title>
+      <link>https://gamefound.com:443/en/projects/monster-fight-club/borderlands-mister-torgues-arena-of-badassery-2?ref=</link>
+      <guid isPermaLink="false">45318</guid>
+      <pubDate>Tue, 04 Nov 2025 16:16:15 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5560/0f845bd9-713d-466a-9c02-62b7907ea2c2.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] The Mix</title>
       <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
@@ -117,30 +125,6 @@
       <pubDate>Mon, 03 Nov 2025 12:14:02 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5956/9f3bcdda-bf90-49e5-a80b-9c2f092bac93.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Crown and War</title>
-      <link>https://gamefound.com:443/en/projects/diogames/crown-and-war?ref=</link>
-      <guid isPermaLink="false">45303</guid>
-      <pubDate>Sun, 02 Nov 2025 23:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4672/269ad5ef-7449-478d-a26b-a337f8089849.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Akuma Shielding Season 2</title>
-      <link>https://gamefound.com:443/en/projects/akuma-shielding/akuma-shieldin-season-2?ref=</link>
-      <guid isPermaLink="false">45302</guid>
-      <pubDate>Sun, 02 Nov 2025 22:59:23 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5429/5b72898e-b45f-4008-ba85-5ed4ce6589bc.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Żerca: Gra Karciana</title>
-      <link>https://gamefound.com:443/en/projects/slovian-game-studios/powiernik-gra-karciana?ref=</link>
-      <guid isPermaLink="false">45301</guid>
-      <pubDate>Sun, 02 Nov 2025 09:43:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5697/0dba8cd5-98de-4a37-8ffe-6a435e21a1d0.png" type="image/png" />
     </item>
   </channel>
 </rss>
