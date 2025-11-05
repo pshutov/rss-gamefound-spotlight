@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 05 Nov 2025 18:47:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 19:10:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] The Hidden Keys - An Urban Horror TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
+      <guid isPermaLink="false">45335</guid>
+      <pubDate>Wed, 05 Nov 2025 19:03:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6635/9eb699b2-0568-4450-9f6e-99628c3c8348.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Rook &amp; Ruin</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/rookruin?ref=</link>
+      <guid isPermaLink="false">45334</guid>
+      <pubDate>Wed, 05 Nov 2025 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6444/c3b29709-a325-4436-adc5-ef758b530b28.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] B.E.L.O.W.: The Asylum</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/below-asylum?ref=</link>
+      <guid isPermaLink="false">45333</guid>
+      <pubDate>Wed, 05 Nov 2025 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5384/8ee01667-37fc-4d41-9d94-aef6b1cf9b88.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] The God That Crawls Again</title>
       <link>https://gamefound.com:443/en/projects/dark-eagle-games/the-god-that-crawls-again?ref=</link>
