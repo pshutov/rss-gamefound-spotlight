@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 05 Nov 2025 10:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 10:43:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Exö-Squad Röknaut Space Dwarf Miniatures has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
+      <guid isPermaLink="false">45329</guid>
+      <pubDate>Wed, 05 Nov 2025 10:35:34 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/d2e53ab6-69cb-4af4-8414-c349182c08b9.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Below: The Bunker</title>
       <link>https://gamefound.com:443/en/projects/amadeusgames/below-the-bunker?ref=</link>
