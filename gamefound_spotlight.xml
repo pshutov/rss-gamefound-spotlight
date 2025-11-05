@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 05 Nov 2025 19:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 19:34:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Escape from Site 19 - The SCP board game</title>
+      <link>https://gamefound.com:443/en/projects/escape-from-site-19/escape-from-site-19?ref=</link>
+      <guid isPermaLink="false">45336</guid>
+      <pubDate>Wed, 05 Nov 2025 19:23:55 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6553/3612840c-8289-4005-8019-4bbf328c2bb7.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] The Hidden Keys - An Urban Horror TTRPG</title>
       <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
