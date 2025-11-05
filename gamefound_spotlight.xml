@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 05 Nov 2025 14:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 14:43:29 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Crystal Echoes</title>
+      <link>https://gamefound.com:443/en/projects/knights_creations/crystal_echoes?ref=</link>
+      <guid isPermaLink="false">45331</guid>
+      <pubDate>Wed, 05 Nov 2025 14:15:56 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6531/d5b2a10d-e160-42a9-9a2c-02088a2d325f.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Die Splitter der Zeit: Ein DSA-Escape Room</title>
       <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
