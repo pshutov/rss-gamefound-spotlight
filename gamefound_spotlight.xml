@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 05 Nov 2025 17:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 18:17:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The God That Crawls Again</title>
+      <link>https://gamefound.com:443/en/projects/dark-eagle-games/the-god-that-crawls-again?ref=</link>
+      <guid isPermaLink="false">45332</guid>
+      <pubDate>Wed, 05 Nov 2025 17:55:21 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6708/203ca320-67c1-43c1-af30-fb4870428793.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Crystal Echoes</title>
       <link>https://gamefound.com:443/en/projects/knights_creations/crystal_echoes?ref=</link>
