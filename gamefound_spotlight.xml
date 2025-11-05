@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 05 Nov 2025 09:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 09:41:40 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Below: The Bunker</title>
+      <link>https://gamefound.com:443/en/projects/amadeusgames/below-the-bunker?ref=</link>
+      <guid isPermaLink="false">45328</guid>
+      <pubDate>Wed, 05 Nov 2025 09:29:57 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6061/c6ea7493-e04e-4c0c-a692-12ae22c32577.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Below: The Bunker</title>
       <link>https://gamefound.com:443/en/projects/amadeusgames/below-the-bunker?ref=</link>
