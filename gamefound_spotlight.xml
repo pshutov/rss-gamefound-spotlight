@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 05 Nov 2025 13:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 14:12:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Die Splitter der Zeit: Ein DSA-Escape Room</title>
+      <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
+      <guid isPermaLink="false">45330</guid>
+      <pubDate>Wed, 05 Nov 2025 14:12:26 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6543/5b3a1b77-880b-4790-a6ae-e445e96df57e.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Exö-Squad Röknaut Space Dwarf Miniatures has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
