@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 06 Nov 2025 09:13:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 09:41:13 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
+      <guid isPermaLink="false">47333</guid>
+      <pubDate>Thu, 06 Nov 2025 09:23:29 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6712/92de6353-7118-4392-b8c8-3fe15805150c.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Race to Essen</title>
       <link>https://gamefound.com:443/en/projects/arne-lorenz/race-for-essen?ref=</link>
@@ -117,158 +125,6 @@
       <pubDate>Wed, 05 Nov 2025 09:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6061/c6ea7493-e04e-4c0c-a692-12ae22c32577.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Duality of Life &amp; Death: A D&amp;D 5e Magic Item Deck</title>
-      <link>https://gamefound.com:443/en/projects/paper-quest/duality-of-life-and-death?ref=</link>
-      <guid isPermaLink="false">45326</guid>
-      <pubDate>Tue, 04 Nov 2025 19:10:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6634/dab0821c-2257-4688-ac79-361584c3f66b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Terra Mystica Special Edition</title>
-      <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
-      <guid isPermaLink="false">45325</guid>
-      <pubDate>Tue, 04 Nov 2025 18:13:17 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6236/8204a64b-de6e-44a0-8f07-d4b928e54730.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Movers &amp; Shakers</title>
-      <link>https://gamefound.com:443/en/projects/quined-games/movers-and-shakers?ref=</link>
-      <guid isPermaLink="false">45324</guid>
-      <pubDate>Tue, 04 Nov 2025 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6213/8333611f-5ff7-40ba-828e-f4b23f8863d4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Terra Mystica Special Edition</title>
-      <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
-      <guid isPermaLink="false">45323</guid>
-      <pubDate>Tue, 04 Nov 2025 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6236/8204a64b-de6e-44a0-8f07-d4b928e54730.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] X-ODUS, Rise of the Corruption - Second Edition</title>
-      <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
-      <guid isPermaLink="false">45322</guid>
-      <pubDate>Tue, 04 Nov 2025 17:51:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5800/833cf7b2-9fcc-4b9d-b3c8-f7c2159ef745.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Vampire Lords</title>
-      <link>https://gamefound.com:443/en/projects/couple-of-games/vampire-lords?ref=</link>
-      <guid isPermaLink="false">45321</guid>
-      <pubDate>Tue, 04 Nov 2025 17:07:26 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5785/728fc898-2e0b-4551-b117-d6f868a6f895.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Vampire Lords</title>
-      <link>https://gamefound.com:443/en/projects/couple-of-games/vampire-lords?ref=</link>
-      <guid isPermaLink="false">45320</guid>
-      <pubDate>Tue, 04 Nov 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5785/728fc898-2e0b-4551-b117-d6f868a6f895.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] 1793: Patriotas y Traidores</title>
-      <link>https://gamefound.com:443/en/projects/headquartergames/1793-patriotas-y-traidores?ref=</link>
-      <guid isPermaLink="false">45319</guid>
-      <pubDate>Tue, 04 Nov 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4719/6677ea99-f40c-401e-afb0-ebdd5e175f4b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Borderlands: Mister Torgue's Arena of Badassery 2</title>
-      <link>https://gamefound.com:443/en/projects/monster-fight-club/borderlands-mister-torgues-arena-of-badassery-2?ref=</link>
-      <guid isPermaLink="false">45318</guid>
-      <pubDate>Tue, 04 Nov 2025 16:16:15 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5560/0f845bd9-713d-466a-9c02-62b7907ea2c2.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] The Mix</title>
-      <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
-      <guid isPermaLink="false">45317</guid>
-      <pubDate>Tue, 04 Nov 2025 16:04:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4238/172c02a0-50a4-41c0-b770-5d9108e4ca25.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Borderlands: Mister Torgue's Arena of Badassery 2</title>
-      <link>https://gamefound.com:443/en/projects/monster-fight-club/borderlands-mister-torgues-arena-of-badassery-2?ref=</link>
-      <guid isPermaLink="false">45316</guid>
-      <pubDate>Tue, 04 Nov 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5560/0f845bd9-713d-466a-9c02-62b7907ea2c2.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] X-ODUS, Rise of the Corruption - Second Edition</title>
-      <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
-      <guid isPermaLink="false">45315</guid>
-      <pubDate>Tue, 04 Nov 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5800/833cf7b2-9fcc-4b9d-b3c8-f7c2159ef745.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] The Mix</title>
-      <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
-      <guid isPermaLink="false">45314</guid>
-      <pubDate>Tue, 04 Nov 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4238/172c02a0-50a4-41c0-b770-5d9108e4ca25.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Button Shy Reprint Campaign - Late 2025</title>
-      <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
-      <guid isPermaLink="false">45313</guid>
-      <pubDate>Tue, 04 Nov 2025 13:48:58 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6528/d239828c-1dce-49f0-a39e-2c35dd364bf9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Button Shy Reprint Campaign - Late 2025</title>
-      <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
-      <guid isPermaLink="false">45312</guid>
-      <pubDate>Tue, 04 Nov 2025 13:30:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6528/d239828c-1dce-49f0-a39e-2c35dd364bf9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Boaromia Festival has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/tureluurs-games/boaromia-festival?ref=</link>
-      <guid isPermaLink="false">45311</guid>
-      <pubDate>Tue, 04 Nov 2025 10:27:14 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6072/c4d323e7-9535-4449-aed8-684ef0a229e3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Traveller: Campañas navales</title>
-      <link>https://gamefound.com:443/en/projects/sugaar/traveller-campanas-navales?ref=</link>
-      <guid isPermaLink="false">45310</guid>
-      <pubDate>Tue, 04 Nov 2025 10:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6599/654cabde-1df2-419b-8326-d2cd3e76a696.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] The Mix has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
-      <guid isPermaLink="false">45309</guid>
-      <pubDate>Tue, 04 Nov 2025 07:48:09 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4238/172c02a0-50a4-41c0-b770-5d9108e4ca25.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Puppet Master: Return to Bodega Bay Inn Miniatures Board Game</title>
-      <link>https://gamefound.com:443/en/projects/dynamite-entertainment/puppet-master-escape-to-bodega-bay-inn-miniatures-board-game?ref=</link>
-      <guid isPermaLink="false">45308</guid>
-      <pubDate>Tue, 04 Nov 2025 02:08:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/c7adcf58-4775-4635-a2db-6a65395af75c.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
