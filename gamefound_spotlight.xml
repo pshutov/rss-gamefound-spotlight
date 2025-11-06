@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 06 Nov 2025 10:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 10:43:33 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Nocturnal Verses Dice set</title>
+      <link>https://gamefound.com:443/en/projects/4-sets-of-dice-with-the-theme-of-oriental-fantastic-beasts/nocturnal-verses?ref=</link>
+      <guid isPermaLink="false">47336</guid>
+      <pubDate>Thu, 06 Nov 2025 10:39:19 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6701/c6086f8f-fa68-491c-88e5-1d7559eaea52.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Catacombs - Cooperative Adventure Game</title>
       <link>https://gamefound.com:443/en/projects/catacombs/catacombs---cooperative-adventure-game?ref=</link>
