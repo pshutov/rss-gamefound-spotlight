@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 06 Nov 2025 00:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 02:41:48 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Movers &amp; Shakers</title>
+      <link>https://gamefound.com:443/en/projects/quined-games/movers-and-shakers?ref=</link>
+      <guid isPermaLink="false">46334</guid>
+      <pubDate>Thu, 06 Nov 2025 01:28:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6213/8333611f-5ff7-40ba-828e-f4b23f8863d4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Under the Table - A Sword &amp; Speakeasy Arthurian Gangster TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/muse-afire/under-the-table?ref=</link>
+      <guid isPermaLink="false">46333</guid>
+      <pubDate>Thu, 06 Nov 2025 00:56:24 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5993/0edbdb6b-eec9-4a37-aae0-3a45bdb2c263.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Brandywine 1777 - A Time for Heroes</title>
       <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
