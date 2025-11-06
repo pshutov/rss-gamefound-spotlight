@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 06 Nov 2025 08:46:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 09:13:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Race to Essen</title>
+      <link>https://gamefound.com:443/en/projects/arne-lorenz/race-for-essen?ref=</link>
+      <guid isPermaLink="false">47332</guid>
+      <pubDate>Thu, 06 Nov 2025 09:10:46 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6719/506b28bb-0cb8-4eeb-aafb-af4f25633733.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Movers &amp; Shakers</title>
       <link>https://gamefound.com:443/en/projects/quined-games/movers-and-shakers?ref=</link>
