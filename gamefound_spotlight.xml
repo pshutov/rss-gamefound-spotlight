@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 07 Nov 2025 15:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 16:13:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Rove: Anchorpoint + Rove Reprint has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/addax-games/rove-anchorpoint?ref=</link>
+      <guid isPermaLink="false">47348</guid>
+      <pubDate>Fri, 07 Nov 2025 16:00:09 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6022/d277d74a-0c1b-4ba8-8713-3ac7b8330766.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Eternitium - Race through time ! has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/haumea-games/eternitium?ref=</link>
+      <guid isPermaLink="false">47347</guid>
+      <pubDate>Fri, 07 Nov 2025 15:43:42 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/0a631d91-1e44-433e-ac16-546899413d48.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Jack: Shadows in the Fog</title>
       <link>https://gamefound.com:443/en/projects/paper-tigers/jack-shadows-in-the-fog?ref=</link>
