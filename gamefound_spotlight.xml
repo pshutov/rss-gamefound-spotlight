@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 07 Nov 2025 11:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 13:03:49 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Die Splitter der Zeit: Ein DSA-Escape Room has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
+      <guid isPermaLink="false">47344</guid>
+      <pubDate>Fri, 07 Nov 2025 11:49:32 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6543/5b3a1b77-880b-4790-a6ae-e445e96df57e.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] The God That Crawls Again has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/dark-eagle-games/the-god-that-crawls-again?ref=</link>
@@ -117,94 +125,6 @@
       <pubDate>Thu, 06 Nov 2025 00:56:24 +0000</pubDate>
       <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5993/0edbdb6b-eec9-4a37-aae0-3a45bdb2c263.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Brandywine 1777 - A Time for Heroes</title>
-      <link>https://gamefound.com:443/en/projects/les-3-zouaves/brandywine-1777-a-time-for-heroes?ref=</link>
-      <guid isPermaLink="false">46332</guid>
-      <pubDate>Wed, 05 Nov 2025 22:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5802/db07b019-84dc-4136-a8c4-4080e0b3645e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Escape from Site 19 - The SCP board game</title>
-      <link>https://gamefound.com:443/en/projects/escape-from-site-19/escape-from-site-19?ref=</link>
-      <guid isPermaLink="false">45336</guid>
-      <pubDate>Wed, 05 Nov 2025 19:23:55 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6553/3612840c-8289-4005-8019-4bbf328c2bb7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] The Hidden Keys - An Urban Horror TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
-      <guid isPermaLink="false">45335</guid>
-      <pubDate>Wed, 05 Nov 2025 19:03:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6635/9eb699b2-0568-4450-9f6e-99628c3c8348.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Rook &amp; Ruin</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/rookruin?ref=</link>
-      <guid isPermaLink="false">45334</guid>
-      <pubDate>Wed, 05 Nov 2025 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6444/f306a2e6-829c-4f32-97f0-664253ea4584.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] B.E.L.O.W.: The Asylum</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/below-asylum?ref=</link>
-      <guid isPermaLink="false">45333</guid>
-      <pubDate>Wed, 05 Nov 2025 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5384/8ee01667-37fc-4d41-9d94-aef6b1cf9b88.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] The God That Crawls Again</title>
-      <link>https://gamefound.com:443/en/projects/dark-eagle-games/the-god-that-crawls-again?ref=</link>
-      <guid isPermaLink="false">45332</guid>
-      <pubDate>Wed, 05 Nov 2025 17:55:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6708/203ca320-67c1-43c1-af30-fb4870428793.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Crystal Echoes</title>
-      <link>https://gamefound.com:443/en/projects/knights_creations/crystal_echoes?ref=</link>
-      <guid isPermaLink="false">45331</guid>
-      <pubDate>Wed, 05 Nov 2025 14:15:56 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6531/d5b2a10d-e160-42a9-9a2c-02088a2d325f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Die Splitter der Zeit: Ein DSA-Escape Room</title>
-      <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
-      <guid isPermaLink="false">45330</guid>
-      <pubDate>Wed, 05 Nov 2025 14:12:26 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6543/5b3a1b77-880b-4790-a6ae-e445e96df57e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Exö-Squad Röknaut Space Dwarf Miniatures has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
-      <guid isPermaLink="false">45329</guid>
-      <pubDate>Wed, 05 Nov 2025 10:35:34 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/d2e53ab6-69cb-4af4-8414-c349182c08b9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Below: The Bunker</title>
-      <link>https://gamefound.com:443/en/projects/amadeusgames/below-the-bunker?ref=</link>
-      <guid isPermaLink="false">45328</guid>
-      <pubDate>Wed, 05 Nov 2025 09:29:57 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6061/c6ea7493-e04e-4c0c-a692-12ae22c32577.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Below: The Bunker</title>
-      <link>https://gamefound.com:443/en/projects/amadeusgames/below-the-bunker?ref=</link>
-      <guid isPermaLink="false">45327</guid>
-      <pubDate>Wed, 05 Nov 2025 09:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6061/c6ea7493-e04e-4c0c-a692-12ae22c32577.png" type="image/png" />
     </item>
   </channel>
 </rss>
