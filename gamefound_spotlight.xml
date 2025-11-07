@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 07 Nov 2025 13:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 13:42:58 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Arena</title>
+      <link>https://gamefound.com:443/en/projects/ludarisgamesarena/arena?ref=</link>
+      <guid isPermaLink="false">47345</guid>
+      <pubDate>Fri, 07 Nov 2025 13:12:36 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6717/06f1811f-e33c-4bc7-be39-e649525e693e.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Die Splitter der Zeit: Ein DSA-Escape Room has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
