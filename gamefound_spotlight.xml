@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 09 Nov 2025 15:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 15:33:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The Challenge of Barletta</title>
+      <link>https://gamefound.com:443/en/projects/giochix/the-challenge-of-barletta?ref=</link>
+      <guid isPermaLink="false">47354</guid>
+      <pubDate>Sun, 09 Nov 2025 15:11:21 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6595/4040a330-18f4-4492-84c7-888877d1e78d.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] The WitchBorn Wailing Citadel</title>
       <link>https://gamefound.com:443/en/projects/the-witchborn/wailingcitadel?ref=</link>
