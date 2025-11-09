@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 09 Nov 2025 20:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 21:09:49 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] DECKO</title>
+      <link>https://gamefound.com:443/en/projects/gem-games/decko?ref=</link>
+      <guid isPermaLink="false">47355</guid>
+      <pubDate>Sun, 09 Nov 2025 21:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6279/49df2400-facf-4eb3-88c7-38dd333d5c83.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] The Challenge of Barletta</title>
       <link>https://gamefound.com:443/en/projects/giochix/the-challenge-of-barletta?ref=</link>
