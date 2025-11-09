@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 09 Nov 2025 22:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 23:10:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Elemental Dominion</title>
+      <link>https://gamefound.com:443/en/projects/norlys-tabletop-studio/elemental-dominion?ref=</link>
+      <guid isPermaLink="false">47356</guid>
+      <pubDate>Sun, 09 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6277/e8188c87-1796-4c1b-a22b-b4df2d73a65a.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] DECKO</title>
       <link>https://gamefound.com:443/en/projects/gem-games/decko?ref=</link>
@@ -117,102 +125,6 @@
       <pubDate>Fri, 07 Nov 2025 06:07:28 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6661/9bc583b1-e6d2-4d21-8676-6e3b2dd5942c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] 1793: Patriotas y Traidores</title>
-      <link>https://gamefound.com:443/en/projects/headquartergames/1793-patriotas-y-traidores?ref=</link>
-      <guid isPermaLink="false">47341</guid>
-      <pubDate>Thu, 06 Nov 2025 22:05:03 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4719/6677ea99-f40c-401e-afb0-ebdd5e175f4b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] DAVOS</title>
-      <link>https://gamefound.com:443/en/projects/martygames/davos?ref=</link>
-      <guid isPermaLink="false">47340</guid>
-      <pubDate>Thu, 06 Nov 2025 18:23:49 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4927/50be0df5-7ef0-4f8e-a149-cdec53497f9f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Bantam West (2E + Solo/Co-op) has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/bantam/bantam-west-is-back?ref=</link>
-      <guid isPermaLink="false">47339</guid>
-      <pubDate>Thu, 06 Nov 2025 12:53:08 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/0e96d3b9-b631-4d32-bcbd-ce35623c3b00.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Das Schwarze Auge - Kirchen Alverans has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/kirchenalverans?ref=</link>
-      <guid isPermaLink="false">47338</guid>
-      <pubDate>Thu, 06 Nov 2025 12:10:34 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5935/4cad5edb-324a-4fcf-bc72-b7a60e09b4aa.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Spiders The Game</title>
-      <link>https://gamefound.com:443/en/projects/spidersthegame/spiders-the-game?ref=</link>
-      <guid isPermaLink="false">47337</guid>
-      <pubDate>Thu, 06 Nov 2025 12:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6456/518d2cf4-99b1-4bd2-bb4a-157eeab874d0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Nocturnal Verses Dice set</title>
-      <link>https://gamefound.com:443/en/projects/4-sets-of-dice-with-the-theme-of-oriental-fantastic-beasts/nocturnal-verses?ref=</link>
-      <guid isPermaLink="false">47336</guid>
-      <pubDate>Thu, 06 Nov 2025 10:39:19 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6701/c6086f8f-fa68-491c-88e5-1d7559eaea52.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Catacombs - Cooperative Adventure Game</title>
-      <link>https://gamefound.com:443/en/projects/catacombs/catacombs---cooperative-adventure-game?ref=</link>
-      <guid isPermaLink="false">47335</guid>
-      <pubDate>Thu, 06 Nov 2025 09:47:26 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6676/88d38d89-41ea-4113-abb6-84f12c9a31af.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Sci-fi Battle Maps: Organic Invasion</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/sci-fi-battle-maps-organic-invasion?ref=</link>
-      <guid isPermaLink="false">47334</guid>
-      <pubDate>Thu, 06 Nov 2025 09:46:04 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6711/2851e415-348c-4360-a7f5-57fda6503e66.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
-      <guid isPermaLink="false">47333</guid>
-      <pubDate>Thu, 06 Nov 2025 09:23:29 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6712/92de6353-7118-4392-b8c8-3fe15805150c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Race to Essen</title>
-      <link>https://gamefound.com:443/en/projects/arne-lorenz/race-for-essen?ref=</link>
-      <guid isPermaLink="false">47332</guid>
-      <pubDate>Thu, 06 Nov 2025 09:10:46 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6719/506b28bb-0cb8-4eeb-aafb-af4f25633733.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Movers &amp; Shakers</title>
-      <link>https://gamefound.com:443/en/projects/quined-games/movers-and-shakers?ref=</link>
-      <guid isPermaLink="false">46334</guid>
-      <pubDate>Thu, 06 Nov 2025 01:28:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6213/8333611f-5ff7-40ba-828e-f4b23f8863d4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Under the Table - A Sword &amp; Speakeasy Arthurian Gangster TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/muse-afire/under-the-table?ref=</link>
-      <guid isPermaLink="false">46333</guid>
-      <pubDate>Thu, 06 Nov 2025 00:56:24 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5993/0edbdb6b-eec9-4a37-aae0-3a45bdb2c263.png" type="image/png" />
     </item>
   </channel>
 </rss>
