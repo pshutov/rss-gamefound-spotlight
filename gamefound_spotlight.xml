@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 10 Nov 2025 19:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 20:14:37 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] HeXXen 1733 - Jäger des Ewigen Eises</title>
