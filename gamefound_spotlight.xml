@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 11 Nov 2025 17:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 18:17:07 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Restless</title>
+      <link>https://gamefound.com:443/en/projects/restless-designs/restless?ref=</link>
+      <guid isPermaLink="false">47370</guid>
+      <pubDate>Tue, 11 Nov 2025 18:04:56 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4629/60559d0b-f8bb-4365-840a-885b6f4a87b6.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Bantam West (2E + Solo/Co-op)</title>
+      <link>https://gamefound.com:443/en/projects/bantam/bantam-west-is-back?ref=</link>
+      <guid isPermaLink="false">47369</guid>
+      <pubDate>Tue, 11 Nov 2025 17:40:49 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/d7eb2c8a-642c-4ae7-a9d2-c4050674d04b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Snowdonia: Grand Tour + Special Edition</title>
       <link>https://gamefound.com:443/en/projects/naylorgames/snowdonia-grand-tour?ref=</link>
@@ -28,7 +44,7 @@
       <guid isPermaLink="false">47366</guid>
       <pubDate>Tue, 11 Nov 2025 16:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/1943f3b9-aa3b-491c-886b-fca66b2b04ac.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/d7eb2c8a-642c-4ae7-a9d2-c4050674d04b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign start] Snowdonia: Grand Tour + Special Edition</title>
