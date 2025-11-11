@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 11 Nov 2025 10:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 10:44:13 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Moonwych</title>
+      <link>https://gamefound.com:443/en/projects/dfg/moonwych?ref=</link>
+      <guid isPermaLink="false">47364</guid>
+      <pubDate>Tue, 11 Nov 2025 10:22:58 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6004/df2ecc4a-8b55-43f7-a893-b2a5843d1278.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Arydia: The Paths We Dare Tread - Second Printing has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
