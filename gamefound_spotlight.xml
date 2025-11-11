@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 11 Nov 2025 15:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 16:15:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Bantam West (2E + Solo/Co-op)</title>
+      <link>https://gamefound.com:443/en/projects/bantam/bantam-west-is-back?ref=</link>
+      <guid isPermaLink="false">47366</guid>
+      <pubDate>Tue, 11 Nov 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/1943f3b9-aa3b-491c-886b-fca66b2b04ac.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Snowdonia: Grand Tour + Special Edition</title>
       <link>https://gamefound.com:443/en/projects/naylorgames/snowdonia-grand-tour?ref=</link>
@@ -117,86 +125,6 @@
       <pubDate>Sat, 08 Nov 2025 11:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6072/c4d323e7-9535-4449-aed8-684ef0a229e3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The Witcher: Legacy has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/go-on-board/the-witcher-legacy?ref=</link>
-      <guid isPermaLink="false">47351</guid>
-      <pubDate>Fri, 07 Nov 2025 22:37:51 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6154/1de3f3ee-62ab-44cf-9e50-d4e87f7f06ca.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] MoonWardens</title>
-      <link>https://gamefound.com:443/en/projects/heavengeek/moonwardens?ref=</link>
-      <guid isPermaLink="false">47350</guid>
-      <pubDate>Fri, 07 Nov 2025 20:36:39 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6610/4a95b41e-b136-4605-a580-165d4267b088.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
-      <guid isPermaLink="false">47349</guid>
-      <pubDate>Fri, 07 Nov 2025 16:15:51 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6712/92de6353-7118-4392-b8c8-3fe15805150c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Rove: Anchorpoint + Rove Reprint has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/addax-games/rove-anchorpoint?ref=</link>
-      <guid isPermaLink="false">47348</guid>
-      <pubDate>Fri, 07 Nov 2025 16:00:09 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6022/d277d74a-0c1b-4ba8-8713-3ac7b8330766.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Eternitium - Race through time ! has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/haumea-games/eternitium?ref=</link>
-      <guid isPermaLink="false">47347</guid>
-      <pubDate>Fri, 07 Nov 2025 15:43:42 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/0a631d91-1e44-433e-ac16-546899413d48.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Jack: Shadows in the Fog</title>
-      <link>https://gamefound.com:443/en/projects/paper-tigers/jack-shadows-in-the-fog?ref=</link>
-      <guid isPermaLink="false">47346</guid>
-      <pubDate>Fri, 07 Nov 2025 14:38:50 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6650/490b911a-e920-4411-82b7-f906809ecbdc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Arena</title>
-      <link>https://gamefound.com:443/en/projects/ludarisgamesarena/arena?ref=</link>
-      <guid isPermaLink="false">47345</guid>
-      <pubDate>Fri, 07 Nov 2025 13:12:36 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6717/06f1811f-e33c-4bc7-be39-e649525e693e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Die Splitter der Zeit: Ein DSA-Escape Room has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
-      <guid isPermaLink="false">47344</guid>
-      <pubDate>Fri, 07 Nov 2025 11:49:32 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6543/5b3a1b77-880b-4790-a6ae-e445e96df57e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The God That Crawls Again has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/dark-eagle-games/the-god-that-crawls-again?ref=</link>
-      <guid isPermaLink="false">47343</guid>
-      <pubDate>Fri, 07 Nov 2025 10:10:21 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6708/203ca320-67c1-43c1-af30-fb4870428793.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Magniscape: Dungeons &amp; Adventure</title>
-      <link>https://gamefound.com:443/en/projects/tabletoptime/magniscape-dungeons--adventure?ref=</link>
-      <guid isPermaLink="false">47342</guid>
-      <pubDate>Fri, 07 Nov 2025 06:07:28 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6661/9bc583b1-e6d2-4d21-8676-6e3b2dd5942c.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
