@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 11 Nov 2025 20:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 20:39:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Die Splitter der Zeit: Ein DSA-Escape Room</title>
+      <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
+      <guid isPermaLink="false">47371</guid>
+      <pubDate>Tue, 11 Nov 2025 20:14:18 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6543/5b3a1b77-880b-4790-a6ae-e445e96df57e.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Restless</title>
       <link>https://gamefound.com:443/en/projects/restless-designs/restless?ref=</link>
@@ -117,38 +125,6 @@
       <pubDate>Mon, 10 Nov 2025 08:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5398/9dd63d05-e08d-427d-bcd5-f8cdb33cbe4b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Elemental Dominion</title>
-      <link>https://gamefound.com:443/en/projects/norlys-tabletop-studio/elemental-dominion?ref=</link>
-      <guid isPermaLink="false">47356</guid>
-      <pubDate>Sun, 09 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6277/e8188c87-1796-4c1b-a22b-b4df2d73a65a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] DECKO</title>
-      <link>https://gamefound.com:443/en/projects/gem-games/decko?ref=</link>
-      <guid isPermaLink="false">47355</guid>
-      <pubDate>Sun, 09 Nov 2025 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6279/49df2400-facf-4eb3-88c7-38dd333d5c83.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Challenge of Barletta</title>
-      <link>https://gamefound.com:443/en/projects/giochix/the-challenge-of-barletta?ref=</link>
-      <guid isPermaLink="false">47354</guid>
-      <pubDate>Sun, 09 Nov 2025 15:11:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6595/4040a330-18f4-4492-84c7-888877d1e78d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] The WitchBorn Wailing Citadel</title>
-      <link>https://gamefound.com:443/en/projects/the-witchborn/wailingcitadel?ref=</link>
-      <guid isPermaLink="false">47353</guid>
-      <pubDate>Sun, 09 Nov 2025 06:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6248/4a588511-364d-4ab3-bf24-677c8cecd379.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
