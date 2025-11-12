@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 12 Nov 2025 20:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 21:11:54 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Vampire: The Masquerade - Palermo Conspiracies</title>
@@ -67,7 +67,7 @@
       <guid isPermaLink="false">47374</guid>
       <pubDate>Wed, 12 Nov 2025 10:26:36 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6750/4df5acce-a1b3-47a2-83d3-6b8427a214b3.webp" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6750/b933ac37-9b42-4d80-bbdf-5470a8dcee7e.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Launch date] BLOOD AND SKULLS: THE CRUCIBLE has a starting date.</title>
