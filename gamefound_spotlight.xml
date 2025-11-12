@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 12 Nov 2025 10:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 11:10:50 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] CATStories</title>
+      <link>https://gamefound.com:443/en/projects/xbearsworkshopx/catstories?ref=</link>
+      <guid isPermaLink="false">47376</guid>
+      <pubDate>Wed, 12 Nov 2025 10:55:12 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6620/ed96ce6b-a4d0-4c44-8665-7f58f5c6abcb.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/cthulhu-project/chants-for-the-old-ones-the-eye-of-dagon?ref=</link>
