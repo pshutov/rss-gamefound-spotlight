@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 12 Nov 2025 09:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 10:14:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] BLOOD AND SKULLS: THE CRUCIBLE has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/nocturna-models/bones?ref=</link>
+      <guid isPermaLink="false">47373</guid>
+      <pubDate>Wed, 12 Nov 2025 10:09:19 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5161/ee4d5b57-6196-41d9-8e95-71d2a1b54f96.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New Late Pledge] Air Raid 36/46-Expansion: The Aces!</title>
+      <link>https://gamefound.com:443/en/projects/babek-amelizadeh/air-raid-3646-expansion-the-aces?ref=</link>
+      <guid isPermaLink="false">47372</guid>
+      <pubDate>Wed, 12 Nov 2025 09:41:00 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6713/ed470812-1852-4d11-b9cb-593da2590803.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Die Splitter der Zeit: Ein DSA-Escape Room</title>
       <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
