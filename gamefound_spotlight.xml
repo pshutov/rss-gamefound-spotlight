@@ -4,8 +4,176 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 12 Nov 2025 22:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 23:12:06 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Urban Shadows: Algiers &amp; Angels</title>
+      <link>https://gamefound.com:443/en/projects/magpiegames/urban-shadows-algiers--angels?ref=</link>
+      <guid isPermaLink="false">47402</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6100/6bd1ac66-6f71-4848-a7f6-05835498abb2.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Moonwych</title>
+      <link>https://gamefound.com:443/en/projects/dfg/moonwych?ref=</link>
+      <guid isPermaLink="false">47401</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6004/df2ecc4a-8b55-43f7-a893-b2a5843d1278.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Punk Fried Chicken</title>
+      <link>https://gamefound.com:443/en/projects/quazerdale/punk-fried-chicken?ref=</link>
+      <guid isPermaLink="false">47400</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6001/4a051315-b24d-45fc-878a-9e624fc3651f.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Under the Table - A Sword &amp; Speakeasy Arthurian Gangster TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/muse-afire/under-the-table?ref=</link>
+      <guid isPermaLink="false">47399</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5993/0edbdb6b-eec9-4a37-aae0-3a45bdb2c263.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] The Wildsea: Tigers on the Wire</title>
+      <link>https://gamefound.com:443/en/projects/mythworks/the-wildsea-tigers-on-a-wire?ref=</link>
+      <guid isPermaLink="false">47398</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5989/3a8cb24b-31de-44bc-a656-303e4f85ad8e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Turn It Off: An Eldritch Horror Adventure</title>
+      <link>https://gamefound.com:443/en/projects/cloud-press-publishing/turn-it-off-an-eldritch-horror-adventure?ref=</link>
+      <guid isPermaLink="false">47397</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5975/11208375-4893-4666-9974-8b5da4b2f5e5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Trenchcoat Raccoons: A Chaotic, Fail-Forward Heist RPG</title>
+      <link>https://gamefound.com:443/en/projects/apot91/trenchcoat-raccoons?ref=</link>
+      <guid isPermaLink="false">47396</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5955/e6661675-b408-4c2a-9159-4bee9672887f.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Providence City Punks</title>
+      <link>https://gamefound.com:443/en/projects/brainfrogstudio/providencecitypunks?ref=</link>
+      <guid isPermaLink="false">47395</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5952/310cb2ed-061a-4301-96c2-a9a76755039e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Dreams of no Sleep</title>
+      <link>https://gamefound.com:443/en/projects/alexandre-chu/dreams-of-no-sleep?ref=</link>
+      <guid isPermaLink="false">47394</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5951/bcc98848-8520-4dc2-a0ac-5ae63846a858.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Twilight Sun</title>
+      <link>https://gamefound.com:443/en/projects/fibz/twilight-sun?ref=</link>
+      <guid isPermaLink="false">47393</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5948/01dc3714-3967-4a4c-ae5c-81fdfc871203.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Starot - A D20 and Tarot Based SciFi RPG with Physics-Based Space Combat</title>
+      <link>https://gamefound.com:443/en/projects/chaoticstupid/starot-ttrpg?ref=</link>
+      <guid isPermaLink="false">47392</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/b83561a1-58b5-444d-93c0-12711d1d0949.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Ambition</title>
+      <link>https://gamefound.com:443/en/projects/the-press-betwixt/ambition?ref=</link>
+      <guid isPermaLink="false">47391</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5937/500df145-b372-47e6-aeaa-5ed0b1e663d7.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] MUTANANNY</title>
+      <link>https://gamefound.com:443/en/projects/jake-eldritch/mutananny?ref=</link>
+      <guid isPermaLink="false">47390</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5931/b7d1a721-ee2b-44d5-b0af-ee3ed5231107.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] The Gnomes of Diccory - a cozy TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/roll-and-perish/diccory?ref=</link>
+      <guid isPermaLink="false">47389</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5926/07e60dbb-9399-42ee-9c73-d5a03bbf272e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Heliosail</title>
+      <link>https://gamefound.com:443/en/projects/quinnsilver-studios/heliosail?ref=</link>
+      <guid isPermaLink="false">47388</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5921/fd6f8ff5-9c3d-453e-9e51-12ee35c26369.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] You Will Die In This Place</title>
+      <link>https://gamefound.com:443/en/projects/shrike-studio/you-will-die-in-this-place?ref=</link>
+      <guid isPermaLink="false">47387</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5919/627cb70c-62a3-4e82-8f18-0fb8680071f9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Lies By Omission: A Tabletop RPG Inspired by Gothic Italian Horror</title>
+      <link>https://gamefound.com:443/en/projects/chain-assembly/lxo?ref=</link>
+      <guid isPermaLink="false">47386</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5917/11d15879-2a64-4c99-9056-b59fe0fd7d4e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Sewer Sanctuary</title>
+      <link>https://gamefound.com:443/en/projects/endlessforms/sewer-sanctuary?ref=</link>
+      <guid isPermaLink="false">47385</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5916/46acff12-45df-44eb-939c-7d65963fe035.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Strangers on the 'Net</title>
+      <link>https://gamefound.com:443/en/projects/softchaos/strangers-on-net?ref=</link>
+      <guid isPermaLink="false">47384</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5904/9e48cef2-8070-430e-b7b9-0330dc389bdf.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] The Girls of the Genziana Hotel</title>
+      <link>https://gamefound.com:443/en/projects/hendriktennapel/the-girls-of-the-genziana-hotel?ref=</link>
+      <guid isPermaLink="false">47383</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5903/e8ba593a-ff67-42a8-919c-84ba8cf90a00.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Sirens' Oath: Tides Turning</title>
+      <link>https://gamefound.com:443/en/projects/twisted-spire/sirens-oath-tides-turning?ref=</link>
+      <guid isPermaLink="false">47382</guid>
+      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5902/0b297306-a00a-42ad-ad08-7b930ef661bc.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Vampire: The Masquerade - Palermo Conspiracies</title>
       <link>https://gamefound.com:443/en/projects/xplored/vampire-the-masquerade---palermo-conspiracies?ref=</link>
@@ -84,94 +252,6 @@
       <pubDate>Wed, 12 Nov 2025 09:41:00 +0000</pubDate>
       <description>New Late Pledge</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6713/ed470812-1852-4d11-b9cb-593da2590803.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Die Splitter der Zeit: Ein DSA-Escape Room</title>
-      <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
-      <guid isPermaLink="false">47371</guid>
-      <pubDate>Tue, 11 Nov 2025 20:14:18 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6543/5b3a1b77-880b-4790-a6ae-e445e96df57e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Restless</title>
-      <link>https://gamefound.com:443/en/projects/restless-designs/restless?ref=</link>
-      <guid isPermaLink="false">47370</guid>
-      <pubDate>Tue, 11 Nov 2025 18:04:56 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4629/60559d0b-f8bb-4365-840a-885b6f4a87b6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Bantam West (2E + Solo/Co-op)</title>
-      <link>https://gamefound.com:443/en/projects/bantam/bantam-west-is-back?ref=</link>
-      <guid isPermaLink="false">47369</guid>
-      <pubDate>Tue, 11 Nov 2025 17:40:49 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/d7eb2c8a-642c-4ae7-a9d2-c4050674d04b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Snowdonia: Grand Tour + Special Edition</title>
-      <link>https://gamefound.com:443/en/projects/naylorgames/snowdonia-grand-tour?ref=</link>
-      <guid isPermaLink="false">47368</guid>
-      <pubDate>Tue, 11 Nov 2025 17:02:15 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5150/0b0d1f70-5c02-4699-8f12-a0f3504c4e33.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Restless</title>
-      <link>https://gamefound.com:443/en/projects/restless-designs/restless?ref=</link>
-      <guid isPermaLink="false">47367</guid>
-      <pubDate>Tue, 11 Nov 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4629/60559d0b-f8bb-4365-840a-885b6f4a87b6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Bantam West (2E + Solo/Co-op)</title>
-      <link>https://gamefound.com:443/en/projects/bantam/bantam-west-is-back?ref=</link>
-      <guid isPermaLink="false">47366</guid>
-      <pubDate>Tue, 11 Nov 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/d7eb2c8a-642c-4ae7-a9d2-c4050674d04b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Snowdonia: Grand Tour + Special Edition</title>
-      <link>https://gamefound.com:443/en/projects/naylorgames/snowdonia-grand-tour?ref=</link>
-      <guid isPermaLink="false">47365</guid>
-      <pubDate>Tue, 11 Nov 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5150/0b0d1f70-5c02-4699-8f12-a0f3504c4e33.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Moonwych</title>
-      <link>https://gamefound.com:443/en/projects/dfg/moonwych?ref=</link>
-      <guid isPermaLink="false">47364</guid>
-      <pubDate>Tue, 11 Nov 2025 10:22:58 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6004/df2ecc4a-8b55-43f7-a893-b2a5843d1278.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Arydia: The Paths We Dare Tread - Second Printing has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
-      <guid isPermaLink="false">47363</guid>
-      <pubDate>Tue, 11 Nov 2025 10:10:12 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6368/3bbcab43-8948-4453-b068-15e444ab52a3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Die Splitter der Zeit: Ein DSA-Escape Room</title>
-      <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
-      <guid isPermaLink="false">47362</guid>
-      <pubDate>Tue, 11 Nov 2025 07:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6543/5b3a1b77-880b-4790-a6ae-e445e96df57e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Cretaceous Rails Reprint and Cretaceous Seas Expansion</title>
-      <link>https://gamefound.com:443/en/projects/spielcraft-games/cretaceous-rails-reprint-and-cretaceous-seas-expansion?ref=</link>
-      <guid isPermaLink="false">47361</guid>
-      <pubDate>Tue, 11 Nov 2025 06:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6005/850eb294-a281-449f-b5b2-990cc8e7777e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
