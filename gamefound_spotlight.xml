@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 13 Nov 2025 22:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 22:39:32 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Eternitium - Race through time !</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="false">48394</guid>
       <pubDate>Thu, 13 Nov 2025 22:05:00 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/95bb82c3-fc82-4218-a5ac-620b17e5e2d9.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/50b6fed5-f97d-4c63-90c1-d6244be0b48f.png" type="image/png" />
     </item>
     <item>
       <title>[New project] 1943: Race to Rabaul</title>
@@ -28,7 +28,7 @@
       <guid isPermaLink="false">48392</guid>
       <pubDate>Thu, 13 Nov 2025 18:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/95bb82c3-fc82-4218-a5ac-620b17e5e2d9.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/50b6fed5-f97d-4c63-90c1-d6244be0b48f.png" type="image/png" />
     </item>
     <item>
       <title>[24 hours left] Altered - Seeds of Unity</title>
