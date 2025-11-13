@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 13 Nov 2025 16:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 16:46:05 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Picaria GDR</title>
+      <link>https://gamefound.com:443/en/projects/black-dice-lobby/picaria-un-vecchio-nuovo-mondo?ref=</link>
+      <guid isPermaLink="false">48386</guid>
+      <pubDate>Thu, 13 Nov 2025 16:29:33 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6170/328cbe07-a9fb-4932-b71b-2cd69ec8d102.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Joe Ravioli: The Cheesiest ImPASTA  "Underworld Empire" has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/i-create/joe-ravioli-the-cheesiest-impasta--underworld-empire?ref=</link>
