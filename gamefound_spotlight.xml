@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 13 Nov 2025 10:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 10:44:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Late Pledge] Artefacts</title>
+      <link>https://gamefound.com:443/en/projects/fabulist-factory/artefacts?ref=</link>
+      <guid isPermaLink="false">48380</guid>
+      <pubDate>Thu, 13 Nov 2025 10:28:23 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4724/f9ac087a-e73b-4a8c-a06c-44d8e0425995.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Helpdesk Hero has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/nostra-forja/helpdesk-hero?ref=</link>
