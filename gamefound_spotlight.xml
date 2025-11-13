@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 13 Nov 2025 17:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 18:17:29 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Eternitium - Race through time !</title>
+      <link>https://gamefound.com:443/en/projects/haumea-games/eternitium?ref=</link>
+      <guid isPermaLink="false">48392</guid>
+      <pubDate>Thu, 13 Nov 2025 18:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/95bb82c3-fc82-4218-a5ac-620b17e5e2d9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Altered - Seeds of Unity</title>
+      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
+      <guid isPermaLink="false">48391</guid>
+      <pubDate>Thu, 13 Nov 2025 18:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/cd744c8b-7031-45f9-99f9-48b272d50818.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Guardians of the Abyssal Waters Vol. I - STL FILES has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/miniversestl/guardians-of-the-abyssal-waters-vol-i?ref=</link>
+      <guid isPermaLink="false">48390</guid>
+      <pubDate>Thu, 13 Nov 2025 17:54:33 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6399/2b6029ca-a868-4067-ba23-b7251d9bee7f.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Karhorra RPG</title>
       <link>https://gamefound.com:443/en/projects/karhorra/karhorra-rpg?ref=</link>
@@ -101,253 +125,6 @@
       <pubDate>Thu, 13 Nov 2025 04:47:39 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6516/48033d25-f576-44c2-9b3e-5139546365d3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Urban Shadows: Algiers &amp; Angels</title>
-      <link>https://gamefound.com:443/en/projects/magpiegames/urban-shadows-algiers--angels?ref=</link>
-      <guid isPermaLink="false">47402</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6100/6bd1ac66-6f71-4848-a7f6-05835498abb2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Moonwych</title>
-      <link>https://gamefound.com:443/en/projects/dfg/moonwych?ref=</link>
-      <guid isPermaLink="false">47401</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6004/df2ecc4a-8b55-43f7-a893-b2a5843d1278.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Punk Fried Chicken</title>
-      <link>https://gamefound.com:443/en/projects/quazerdale/punk-fried-chicken?ref=</link>
-      <guid isPermaLink="false">47400</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6001/4a051315-b24d-45fc-878a-9e624fc3651f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Under the Table - A Sword &amp; Speakeasy Arthurian Gangster TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/muse-afire/under-the-table?ref=</link>
-      <guid isPermaLink="false">47399</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5993/0edbdb6b-eec9-4a37-aae0-3a45bdb2c263.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Wildsea: Tigers on the Wire</title>
-      <link>https://gamefound.com:443/en/projects/mythworks/the-wildsea-tigers-on-a-wire?ref=</link>
-      <guid isPermaLink="false">47398</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5989/3a8cb24b-31de-44bc-a656-303e4f85ad8e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Turn It Off: An Eldritch Horror Adventure</title>
-      <link>https://gamefound.com:443/en/projects/cloud-press-publishing/turn-it-off-an-eldritch-horror-adventure?ref=</link>
-      <guid isPermaLink="false">47397</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5975/11208375-4893-4666-9974-8b5da4b2f5e5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Trenchcoat Raccoons: A Chaotic, Fail-Forward Heist RPG</title>
-      <link>https://gamefound.com:443/en/projects/apot91/trenchcoat-raccoons?ref=</link>
-      <guid isPermaLink="false">47396</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5955/e6661675-b408-4c2a-9159-4bee9672887f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Providence City Punks</title>
-      <link>https://gamefound.com:443/en/projects/brainfrogstudio/providencecitypunks?ref=</link>
-      <guid isPermaLink="false">47395</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5952/310cb2ed-061a-4301-96c2-a9a76755039e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Dreams of no Sleep</title>
-      <link>https://gamefound.com:443/en/projects/alexandre-chu/dreams-of-no-sleep?ref=</link>
-      <guid isPermaLink="false">47394</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5951/bcc98848-8520-4dc2-a0ac-5ae63846a858.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Twilight Sun</title>
-      <link>https://gamefound.com:443/en/projects/fibz/twilight-sun?ref=</link>
-      <guid isPermaLink="false">47393</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5948/01dc3714-3967-4a4c-ae5c-81fdfc871203.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Starot - A D20 and Tarot Based SciFi RPG with Physics-Based Space Combat</title>
-      <link>https://gamefound.com:443/en/projects/chaoticstupid/starot-ttrpg?ref=</link>
-      <guid isPermaLink="false">47392</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5945/b83561a1-58b5-444d-93c0-12711d1d0949.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Ambition</title>
-      <link>https://gamefound.com:443/en/projects/the-press-betwixt/ambition?ref=</link>
-      <guid isPermaLink="false">47391</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5937/500df145-b372-47e6-aeaa-5ed0b1e663d7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] MUTANANNY</title>
-      <link>https://gamefound.com:443/en/projects/jake-eldritch/mutananny?ref=</link>
-      <guid isPermaLink="false">47390</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5931/b7d1a721-ee2b-44d5-b0af-ee3ed5231107.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Gnomes of Diccory - a cozy TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/roll-and-perish/diccory?ref=</link>
-      <guid isPermaLink="false">47389</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5926/07e60dbb-9399-42ee-9c73-d5a03bbf272e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Heliosail</title>
-      <link>https://gamefound.com:443/en/projects/quinnsilver-studios/heliosail?ref=</link>
-      <guid isPermaLink="false">47388</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5921/fd6f8ff5-9c3d-453e-9e51-12ee35c26369.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] You Will Die In This Place</title>
-      <link>https://gamefound.com:443/en/projects/shrike-studio/you-will-die-in-this-place?ref=</link>
-      <guid isPermaLink="false">47387</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5919/627cb70c-62a3-4e82-8f18-0fb8680071f9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Lies By Omission: A Tabletop RPG Inspired by Gothic Italian Horror</title>
-      <link>https://gamefound.com:443/en/projects/chain-assembly/lxo?ref=</link>
-      <guid isPermaLink="false">47386</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5917/11d15879-2a64-4c99-9056-b59fe0fd7d4e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Sewer Sanctuary</title>
-      <link>https://gamefound.com:443/en/projects/endlessforms/sewer-sanctuary?ref=</link>
-      <guid isPermaLink="false">47385</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5916/46acff12-45df-44eb-939c-7d65963fe035.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Strangers on the 'Net</title>
-      <link>https://gamefound.com:443/en/projects/softchaos/strangers-on-net?ref=</link>
-      <guid isPermaLink="false">47384</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5904/9e48cef2-8070-430e-b7b9-0330dc389bdf.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Girls of the Genziana Hotel</title>
-      <link>https://gamefound.com:443/en/projects/hendriktennapel/the-girls-of-the-genziana-hotel?ref=</link>
-      <guid isPermaLink="false">47383</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5903/e8ba593a-ff67-42a8-919c-84ba8cf90a00.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Sirens' Oath: Tides Turning</title>
-      <link>https://gamefound.com:443/en/projects/twisted-spire/sirens-oath-tides-turning?ref=</link>
-      <guid isPermaLink="false">47382</guid>
-      <pubDate>Wed, 12 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5902/0b297306-a00a-42ad-ad08-7b930ef661bc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Vampire: The Masquerade - Palermo Conspiracies</title>
-      <link>https://gamefound.com:443/en/projects/xplored/vampire-the-masquerade---palermo-conspiracies?ref=</link>
-      <guid isPermaLink="false">47381</guid>
-      <pubDate>Wed, 12 Nov 2025 18:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5611/80010a82-b26a-46f5-9754-f1a72f6fc4b3.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Heliosail</title>
-      <link>https://gamefound.com:443/en/projects/quinnsilver-studios/heliosail?ref=</link>
-      <guid isPermaLink="false">47380</guid>
-      <pubDate>Wed, 12 Nov 2025 16:09:53 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5921/fd6f8ff5-9c3d-453e-9e51-12ee35c26369.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New blog post] [Special] Last Chance to Join the RPG Party</title>
-      <link>https://gamefound.com/blog/post/rpg-party-last-chance</link>
-      <guid isPermaLink="false">47379</guid>
-      <pubDate>Wed, 12 Nov 2025 15:32:13 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[24 hours left] Badgers</title>
-      <link>https://gamefound.com:443/en/projects/interhuman-games/badgers?ref=</link>
-      <guid isPermaLink="false">47378</guid>
-      <pubDate>Wed, 12 Nov 2025 14:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5603/7504f8c2-014f-4bf8-8808-2a2a232dbfa3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Cluehound Deutsches Krimi-Duo</title>
-      <link>https://gamefound.com:443/en/projects/imperial-games/krimi-duo?ref=</link>
-      <guid isPermaLink="false">47377</guid>
-      <pubDate>Wed, 12 Nov 2025 12:49:24 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6762/2f4a95ed-73fd-490e-b860-bbaf4c53f580.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] CATStories</title>
-      <link>https://gamefound.com:443/en/projects/xbearsworkshopx/catstories?ref=</link>
-      <guid isPermaLink="false">47376</guid>
-      <pubDate>Wed, 12 Nov 2025 10:55:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6620/ed96ce6b-a4d0-4c44-8665-7f58f5c6abcb.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/cthulhu-project/chants-for-the-old-ones-the-eye-of-dagon?ref=</link>
-      <guid isPermaLink="false">47375</guid>
-      <pubDate>Wed, 12 Nov 2025 10:41:34 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6039/02c6be86-1be1-4b4e-a0e1-198bb4b05dc4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Aurigae</title>
-      <link>https://gamefound.com:443/en/projects/ludarisgamesarena/aurigae?ref=</link>
-      <guid isPermaLink="false">47374</guid>
-      <pubDate>Wed, 12 Nov 2025 10:26:36 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6750/b933ac37-9b42-4d80-bbdf-5470a8dcee7e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] BLOOD AND SKULLS: THE CRUCIBLE has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/nocturna-models/bones?ref=</link>
-      <guid isPermaLink="false">47373</guid>
-      <pubDate>Wed, 12 Nov 2025 10:09:19 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5161/ee4d5b57-6196-41d9-8e95-71d2a1b54f96.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Air Raid 36/46-Expansion: The Aces!</title>
-      <link>https://gamefound.com:443/en/projects/babek-amelizadeh/air-raid-3646-expansion-the-aces?ref=</link>
-      <guid isPermaLink="false">47372</guid>
-      <pubDate>Wed, 12 Nov 2025 09:41:00 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6713/ed470812-1852-4d11-b9cb-593da2590803.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
