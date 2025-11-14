@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 14 Nov 2025 18:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 19:09:50 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Late Pledge] The Monarchs of Lithuania — Late Pledge</title>
+      <link>https://gamefound.com:443/en/projects/monarchslt/the-monarchs-of-lithuania-the-royal-court?ref=</link>
+      <guid isPermaLink="false">48406</guid>
+      <pubDate>Fri, 14 Nov 2025 19:08:31 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6694/41244f12-48fb-4aee-bb20-6fefd204e3f2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Fantasy Terrain – Kingdom of Hyberia has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/battle-systems/fantasy-terrain-kingdom-of-hyberia?ref=</link>
+      <guid isPermaLink="false">48405</guid>
+      <pubDate>Fri, 14 Nov 2025 18:59:40 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6576/030ebdb0-3bad-4082-b15e-7f15c14df28a.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Byzantion has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
