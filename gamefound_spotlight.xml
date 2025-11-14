@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 14 Nov 2025 16:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 16:46:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Byzantion has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
+      <guid isPermaLink="false">48404</guid>
+      <pubDate>Fri, 14 Nov 2025 16:42:24 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/7c7f86b7-c202-4e00-893a-bedad46b266b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Button Shy Reprint Campaign - Late 2025</title>
       <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
