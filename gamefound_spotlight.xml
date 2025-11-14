@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 14 Nov 2025 09:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 10:14:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
+      <guid isPermaLink="false">48397</guid>
+      <pubDate>Fri, 14 Nov 2025 09:53:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6712/92de6353-7118-4392-b8c8-3fe15805150c.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Drawing Dead [Solo Game of the Month]</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
