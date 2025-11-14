@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 14 Nov 2025 13:04:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 13:44:12 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
+      <guid isPermaLink="false">48400</guid>
+      <pubDate>Fri, 14 Nov 2025 13:07:11 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6712/92de6353-7118-4392-b8c8-3fe15805150c.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Dark Fantasy Narrative TTRPG and D&amp;D5e-compatible Setting: Sol Tyrannus</title>
       <link>https://gamefound.com:443/en/projects/a-game-of-nerds/sol-tyrannus?ref=</link>
