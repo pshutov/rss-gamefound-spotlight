@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 14 Nov 2025 21:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 22:11:43 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] ArtPieces Jigsaw Puzzles</title>
+      <link>https://gamefound.com:443/en/projects/iconic-creations/artpieces-jigsaw-puzzles?ref=</link>
+      <guid isPermaLink="false">48408</guid>
+      <pubDate>Fri, 14 Nov 2025 22:09:25 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5956/9f3bcdda-bf90-49e5-a80b-9c2f092bac93.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Master of Fables - TTRPG for the whole family</title>
       <link>https://gamefound.com:443/en/projects/school-of-imagination/masteroffables?ref=</link>
