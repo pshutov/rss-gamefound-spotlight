@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 14 Nov 2025 12:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 13:04:32 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Dark Fantasy Narrative TTRPG and D&amp;D5e-compatible Setting: Sol Tyrannus</title>
+      <link>https://gamefound.com:443/en/projects/a-game-of-nerds/sol-tyrannus?ref=</link>
+      <guid isPermaLink="false">48399</guid>
+      <pubDate>Fri, 14 Nov 2025 13:00:02 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6177/9b398f87-2cb0-42df-9075-50e0d13c28b3.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Marcher: Empires at War First Edition has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
