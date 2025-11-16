@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 16 Nov 2025 06:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 07:11:08 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Fanorona-Tsivy from Solid Hardwood</title>
+      <link>https://gamefound.com:443/en/projects/archaic-games/solid-hardwood-fanorona-tsivy?ref=</link>
+      <guid isPermaLink="false">48410</guid>
+      <pubDate>Sun, 16 Nov 2025 07:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6544/6330652b-6c3c-4af2-bc22-0e79bacbb7f8.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Dungeon  Up + Below &amp; Inferno Expansions (Print &amp; Play)</title>
       <link>https://gamefound.com:443/en/projects/titan-boardgames/dungeon--up--below--inferno-expansions-print-and-play?ref=</link>
@@ -117,150 +125,6 @@
       <pubDate>Fri, 14 Nov 2025 06:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Akuma Shielding Season 2</title>
-      <link>https://gamefound.com:443/en/projects/akuma-shielding/akuma-shieldin-season-2?ref=</link>
-      <guid isPermaLink="false">48395</guid>
-      <pubDate>Thu, 13 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5429/5b72898e-b45f-4008-ba85-5ed4ce6589bc.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Eternitium - Race through time !</title>
-      <link>https://gamefound.com:443/en/projects/haumea-games/eternitium?ref=</link>
-      <guid isPermaLink="false">48394</guid>
-      <pubDate>Thu, 13 Nov 2025 22:05:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/50b6fed5-f97d-4c63-90c1-d6244be0b48f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] 1943: Race to Rabaul</title>
-      <link>https://gamefound.com:443/en/projects/phalanx/race-to-rabaul?ref=</link>
-      <guid isPermaLink="false">48393</guid>
-      <pubDate>Thu, 13 Nov 2025 21:37:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5500/6a0711ec-1c5c-47f2-9bf3-3cb5fededd07.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Eternitium - Race through time !</title>
-      <link>https://gamefound.com:443/en/projects/haumea-games/eternitium?ref=</link>
-      <guid isPermaLink="false">48392</guid>
-      <pubDate>Thu, 13 Nov 2025 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/50b6fed5-f97d-4c63-90c1-d6244be0b48f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Altered - Seeds of Unity</title>
-      <link>https://gamefound.com:443/en/projects/altered/seeds-of-unity?ref=</link>
-      <guid isPermaLink="false">48391</guid>
-      <pubDate>Thu, 13 Nov 2025 18:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6041/cd744c8b-7031-45f9-99f9-48b272d50818.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Guardians of the Abyssal Waters Vol. I - STL FILES has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/miniversestl/guardians-of-the-abyssal-waters-vol-i?ref=</link>
-      <guid isPermaLink="false">48390</guid>
-      <pubDate>Thu, 13 Nov 2025 17:54:33 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6399/2b6029ca-a868-4067-ba23-b7251d9bee7f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Karhorra RPG</title>
-      <link>https://gamefound.com:443/en/projects/karhorra/karhorra-rpg?ref=</link>
-      <guid isPermaLink="false">48389</guid>
-      <pubDate>Thu, 13 Nov 2025 17:37:02 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6262/6127d76a-69c7-4983-bcc8-bcef3bbbf8f1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] ArtPieces Jigsaw Puzzles</title>
-      <link>https://gamefound.com:443/en/projects/iconic-creations/artpieces-jigsaw-puzzles?ref=</link>
-      <guid isPermaLink="false">48388</guid>
-      <pubDate>Thu, 13 Nov 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5956/9f3bcdda-bf90-49e5-a80b-9c2f092bac93.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Raas: A Dance of Love</title>
-      <link>https://gamefound.com:443/en/projects/arcane-wonders/raas-a-dance-of-love?ref=</link>
-      <guid isPermaLink="false">48387</guid>
-      <pubDate>Thu, 13 Nov 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6421/dd413867-77ce-4695-b7d6-ec5da245a589.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Picaria GDR</title>
-      <link>https://gamefound.com:443/en/projects/black-dice-lobby/picaria-un-vecchio-nuovo-mondo?ref=</link>
-      <guid isPermaLink="false">48386</guid>
-      <pubDate>Thu, 13 Nov 2025 16:29:33 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6170/328cbe07-a9fb-4932-b71b-2cd69ec8d102.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Joe Ravioli: The Cheesiest ImPASTA  "Underworld Empire" has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/i-create/joe-ravioli-the-cheesiest-impasta--underworld-empire?ref=</link>
-      <guid isPermaLink="false">48385</guid>
-      <pubDate>Thu, 13 Nov 2025 16:10:12 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6270/5a71c131-4b6d-482e-89cf-24b1c1bcff05.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Cat Packs: Purrstock Festival</title>
-      <link>https://gamefound.com:443/en/projects/all-or-none-games/cat-packs-purrstock-festival?ref=</link>
-      <guid isPermaLink="false">48384</guid>
-      <pubDate>Thu, 13 Nov 2025 15:49:14 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6725/3792099a-2606-4dba-998a-bf18a7b349ce.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Exceed: Seventh Cross has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/level-99-games/exceed-seventh-cross?ref=</link>
-      <guid isPermaLink="false">48383</guid>
-      <pubDate>Thu, 13 Nov 2025 15:47:01 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6246/a70dad39-f533-4b1f-8d01-fd40ff7dbec0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The Hunters A. D. 1492 2nd Edition and Borderlands Expansion has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-and-borderlands-expansion?ref=</link>
-      <guid isPermaLink="false">48382</guid>
-      <pubDate>Thu, 13 Nov 2025 14:23:16 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6493/9f796854-00c8-4629-8b50-595d8cfa7bc0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] VoidRoll - A Year-Long Voyage has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
-      <guid isPermaLink="false">48381</guid>
-      <pubDate>Thu, 13 Nov 2025 10:41:02 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/fe585335-4ddb-4de4-a952-8d54f98ae17d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Artefacts</title>
-      <link>https://gamefound.com:443/en/projects/fabulist-factory/artefacts?ref=</link>
-      <guid isPermaLink="false">48380</guid>
-      <pubDate>Thu, 13 Nov 2025 10:28:23 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4724/f9ac087a-e73b-4a8c-a06c-44d8e0425995.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Helpdesk Hero has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/nostra-forja/helpdesk-hero?ref=</link>
-      <guid isPermaLink="false">48379</guid>
-      <pubDate>Thu, 13 Nov 2025 07:49:23 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5584/074826ca-c7a1-489d-b05a-6ca9d9f42447.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] 7 Ages Collectors Edition</title>
-      <link>https://gamefound.com:443/en/projects/australian-design-group/7-ages?ref=</link>
-      <guid isPermaLink="false">48378</guid>
-      <pubDate>Thu, 13 Nov 2025 04:47:39 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6516/48033d25-f576-44c2-9b3e-5139546365d3.png" type="image/png" />
     </item>
   </channel>
 </rss>
