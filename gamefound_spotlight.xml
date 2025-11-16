@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 16 Nov 2025 21:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 21:33:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] PInGS - Printable Interlocking Grid System</title>
+      <link>https://gamefound.com:443/en/projects/edoardo/pings---printable-interlocking-grid-system?ref=</link>
+      <guid isPermaLink="false">48411</guid>
+      <pubDate>Sun, 16 Nov 2025 21:18:07 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6645/86f2f3ee-d6d7-49df-808d-9f79cf1d419e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Fanorona-Tsivy from Solid Hardwood</title>
       <link>https://gamefound.com:443/en/projects/archaic-games/solid-hardwood-fanorona-tsivy?ref=</link>
