@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 17 Nov 2025 17:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 18:17:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Terra Mystica Special Edition</title>
+      <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
+      <guid isPermaLink="false">48423</guid>
+      <pubDate>Mon, 17 Nov 2025 18:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6236/8204a64b-de6e-44a0-8f07-d4b928e54730.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The God That Crawls Again</title>
+      <link>https://gamefound.com:443/en/projects/dark-eagle-games/the-god-that-crawls-again?ref=</link>
+      <guid isPermaLink="false">48422</guid>
+      <pubDate>Mon, 17 Nov 2025 18:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6708/203ca320-67c1-43c1-af30-fb4870428793.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Rove: Anchorpoint + Rove Reprint</title>
       <link>https://gamefound.com:443/en/projects/addax-games/rove-anchorpoint?ref=</link>
@@ -108,110 +124,6 @@
       <pubDate>Sat, 15 Nov 2025 20:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6321/520ada00-b1fb-481c-93c2-01457d25f552.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] ArtPieces Jigsaw Puzzles</title>
-      <link>https://gamefound.com:443/en/projects/iconic-creations/artpieces-jigsaw-puzzles?ref=</link>
-      <guid isPermaLink="false">48408</guid>
-      <pubDate>Fri, 14 Nov 2025 22:09:25 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5956/9f3bcdda-bf90-49e5-a80b-9c2f092bac93.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Master of Fables - TTRPG for the whole family</title>
-      <link>https://gamefound.com:443/en/projects/school-of-imagination/masteroffables?ref=</link>
-      <guid isPermaLink="false">48407</guid>
-      <pubDate>Fri, 14 Nov 2025 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4361/0dc0df8d-9f9e-4780-807a-a3c1d8799d2c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Late Pledge] The Monarchs of Lithuania — Late Pledge</title>
-      <link>https://gamefound.com:443/en/projects/monarchslt/the-monarchs-of-lithuania-the-royal-court?ref=</link>
-      <guid isPermaLink="false">48406</guid>
-      <pubDate>Fri, 14 Nov 2025 19:08:31 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6694/41244f12-48fb-4aee-bb20-6fefd204e3f2.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Fantasy Terrain – Kingdom of Hyberia has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/battle-systems/fantasy-terrain-kingdom-of-hyberia?ref=</link>
-      <guid isPermaLink="false">48405</guid>
-      <pubDate>Fri, 14 Nov 2025 18:59:40 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6576/030ebdb0-3bad-4082-b15e-7f15c14df28a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Byzantion has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
-      <guid isPermaLink="false">48404</guid>
-      <pubDate>Fri, 14 Nov 2025 16:42:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/7c7f86b7-c202-4e00-893a-bedad46b266b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Button Shy Reprint Campaign - Late 2025</title>
-      <link>https://gamefound.com:443/en/projects/button-shy-games/reprintcampaignlate2025?ref=</link>
-      <guid isPermaLink="false">48403</guid>
-      <pubDate>Fri, 14 Nov 2025 15:30:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6528/d239828c-1dce-49f0-a39e-2c35dd364bf9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Netherwatch</title>
-      <link>https://gamefound.com:443/en/projects/hexploreit/netherwatch?ref=</link>
-      <guid isPermaLink="false">48402</guid>
-      <pubDate>Fri, 14 Nov 2025 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5400/86b6590c-f861-4ddd-ad76-c0a99a8d26e1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Marcher: Empires at War First Edition</title>
-      <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
-      <guid isPermaLink="false">48401</guid>
-      <pubDate>Fri, 14 Nov 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6282/a77324f6-f3bb-4ace-b212-2215f02e0bba.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
-      <guid isPermaLink="false">48400</guid>
-      <pubDate>Fri, 14 Nov 2025 13:07:11 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6712/92de6353-7118-4392-b8c8-3fe15805150c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Dark Fantasy Narrative TTRPG and D&amp;D5e-compatible Setting: Sol Tyrannus</title>
-      <link>https://gamefound.com:443/en/projects/a-game-of-nerds/sol-tyrannus?ref=</link>
-      <guid isPermaLink="false">48399</guid>
-      <pubDate>Fri, 14 Nov 2025 13:00:02 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6177/9b398f87-2cb0-42df-9075-50e0d13c28b3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Marcher: Empires at War First Edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
-      <guid isPermaLink="false">48398</guid>
-      <pubDate>Fri, 14 Nov 2025 10:16:34 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6282/a77324f6-f3bb-4ace-b212-2215f02e0bba.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
-      <guid isPermaLink="false">48397</guid>
-      <pubDate>Fri, 14 Nov 2025 09:53:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6712/92de6353-7118-4392-b8c8-3fe15805150c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Drawing Dead [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/drawing-dead-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">48396</guid>
-      <pubDate>Fri, 14 Nov 2025 06:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6605/f6b7b763-57eb-4217-896a-7e999872552a.png" type="image/png" />
     </item>
   </channel>
 </rss>
