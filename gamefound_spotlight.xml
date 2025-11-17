@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 17 Nov 2025 13:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 14:12:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] VENATOR - Heroes of the Arena</title>
+      <link>https://gamefound.com:443/en/projects/red-kingdom-games/venator-heroes-of-the-arena?ref=</link>
+      <guid isPermaLink="false">48416</guid>
+      <pubDate>Mon, 17 Nov 2025 14:03:12 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6795/d435e676-d3e4-4b75-81a2-74d7b481301f.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] 7 Ages Collectors Edition has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/australian-design-group/7-ages?ref=</link>
