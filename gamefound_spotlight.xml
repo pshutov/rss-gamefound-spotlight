@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 17 Nov 2025 18:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 18:47:50 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Moonlight Brewers Triple Fermentation</title>
+      <link>https://gamefound.com:443/en/projects/yeast-games/moonlight-brewers-triple-fermentation?ref=</link>
+      <guid isPermaLink="false">48424</guid>
+      <pubDate>Mon, 17 Nov 2025 18:22:48 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5459/6405074b-9641-49e9-bad0-9158ab72d048.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Terra Mystica Special Edition</title>
       <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
@@ -116,14 +124,6 @@
       <pubDate>Sun, 16 Nov 2025 07:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6544/6330652b-6c3c-4af2-bc22-0e79bacbb7f8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Dungeon  Up + Below &amp; Inferno Expansions (Print &amp; Play)</title>
-      <link>https://gamefound.com:443/en/projects/titan-boardgames/dungeon--up--below--inferno-expansions-print-and-play?ref=</link>
-      <guid isPermaLink="false">48409</guid>
-      <pubDate>Sat, 15 Nov 2025 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6321/520ada00-b1fb-481c-93c2-01457d25f552.png" type="image/png" />
     </item>
   </channel>
 </rss>
