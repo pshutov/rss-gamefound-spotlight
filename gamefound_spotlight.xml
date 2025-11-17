@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 17 Nov 2025 22:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 23:11:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Exö-Squad Röknaut Space Dwarf Miniatures</title>
+      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
+      <guid isPermaLink="false">48426</guid>
+      <pubDate>Mon, 17 Nov 2025 23:02:22 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/d2e53ab6-69cb-4af4-8414-c349182c08b9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] BLOOD MOON II: THE FALLEN EXECUTIONER</title>
+      <link>https://gamefound.com:443/en/projects/brick-by-brick-games/blood-moon-ii-the-shoguns-executioner?ref=</link>
+      <guid isPermaLink="false">48425</guid>
+      <pubDate>Mon, 17 Nov 2025 22:44:23 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6470/f0345e30-ce00-4f90-8438-1e52669ca823.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New Pledge Manager] Moonlight Brewers Triple Fermentation</title>
       <link>https://gamefound.com:443/en/projects/yeast-games/moonlight-brewers-triple-fermentation?ref=</link>
@@ -108,22 +124,6 @@
       <guid isPermaLink="false">48412</guid>
       <pubDate>Mon, 17 Nov 2025 10:46:12 +0000</pubDate>
       <description>New Pledge Manager</description>
-    </item>
-    <item>
-      <title>[New project] PInGS - Printable Interlocking Grid System</title>
-      <link>https://gamefound.com:443/en/projects/edoardo/pings---printable-interlocking-grid-system?ref=</link>
-      <guid isPermaLink="false">48411</guid>
-      <pubDate>Sun, 16 Nov 2025 21:18:07 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6645/86f2f3ee-d6d7-49df-808d-9f79cf1d419e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Fanorona-Tsivy from Solid Hardwood</title>
-      <link>https://gamefound.com:443/en/projects/archaic-games/solid-hardwood-fanorona-tsivy?ref=</link>
-      <guid isPermaLink="false">48410</guid>
-      <pubDate>Sun, 16 Nov 2025 07:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6544/6330652b-6c3c-4af2-bc22-0e79bacbb7f8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
