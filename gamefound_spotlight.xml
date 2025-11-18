@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 15:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:16:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Arydia: The Paths We Dare Tread - Second Printing</title>
+      <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
+      <guid isPermaLink="false">48436</guid>
+      <pubDate>Tue, 18 Nov 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6368/3bbcab43-8948-4453-b068-15e444ab52a3.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] BLOOD AND SKULLS: THE CRUCIBLE</title>
+      <link>https://gamefound.com:443/en/projects/nocturna-models/bones?ref=</link>
+      <guid isPermaLink="false">48435</guid>
+      <pubDate>Tue, 18 Nov 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5161/ee4d5b57-6196-41d9-8e95-71d2a1b54f96.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Joe Ravioli: The Cheesiest ImPASTA  "Underworld Empire"</title>
       <link>https://gamefound.com:443/en/projects/i-create/joe-ravioli-the-cheesiest-impasta--underworld-empire?ref=</link>
@@ -183,11 +199,12 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5969/3ee0fea0-18a4-4379-a476-f2e10f9c56bc.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[New Pledge Manager]</title>
-      <link>https://gamefound.com</link>
+      <title>[New Pledge Manager] Tales of Myth and Legend Preorder</title>
+      <link>https://gamefound.com:443/en/projects/van-ryder-games/tales-of-myth-and-legend-preorder?ref=</link>
       <guid isPermaLink="false">48412</guid>
       <pubDate>Mon, 17 Nov 2025 10:46:12 +0000</pubDate>
       <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6536/afbadbf8-7a01-48fc-9f4e-0bdefe21bdac.png" type="image/png" />
     </item>
   </channel>
 </rss>
