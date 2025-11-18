@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 10:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 11:11:12 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] AVALON DEATHRAY</title>
+      <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/avalon-deathray?ref=</link>
+      <guid isPermaLink="false">48430</guid>
+      <pubDate>Tue, 18 Nov 2025 10:57:33 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6810/52fccbb6-ec85-4090-8e40-b35142aa4446.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] The Roundtable</title>
       <link>https://gamefound.com:443/en/projects/tanelkapp/the-roundtable?ref=</link>
