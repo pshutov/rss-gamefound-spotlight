@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 18:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 19:10:27 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Dragon Eclipse: The Grand Quest has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
+      <guid isPermaLink="false">48440</guid>
+      <pubDate>Tue, 18 Nov 2025 18:59:05 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5385/38ceb435-29d9-44b4-89ca-8401f8aeec6f.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Arydia: The Paths We Dare Tread - Second Printing</title>
       <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
