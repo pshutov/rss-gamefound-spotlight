@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 08:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 08:46:47 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Mage Potion Dice: Handcrafted liquid Core RPG dice</title>
+      <link>https://gamefound.com:443/en/projects/beardice/mage-potion-dice-handcrafted-liquid-core-rpg-dice?ref=</link>
+      <guid isPermaLink="false">48427</guid>
+      <pubDate>Tue, 18 Nov 2025 08:19:58 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/c7000678-79f7-4b92-9a2c-6321f959c6eb.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Exö-Squad Röknaut Space Dwarf Miniatures</title>
       <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
