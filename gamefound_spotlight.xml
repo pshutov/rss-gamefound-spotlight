@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 19:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 20:14:36 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Escape the Dark Castle (2nd Edition) &amp; Escape the Dark Forest</title>
+      <link>https://gamefound.com:443/en/projects/themeborne/escape-the-dark-castle-and-forest?ref=</link>
+      <guid isPermaLink="false">48441</guid>
+      <pubDate>Tue, 18 Nov 2025 20:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6492/5993acc2-f6f9-4828-b235-076eb518bfd4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Dragon Eclipse: The Grand Quest has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
@@ -117,126 +125,6 @@
       <pubDate>Tue, 18 Nov 2025 08:19:58 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/9199269f-f9f4-4330-8b85-c07af85339d5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Exö-Squad Röknaut Space Dwarf Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
-      <guid isPermaLink="false">48426</guid>
-      <pubDate>Mon, 17 Nov 2025 23:02:22 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/d2e53ab6-69cb-4af4-8414-c349182c08b9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] BLOOD MOON II: THE FALLEN EXECUTIONER</title>
-      <link>https://gamefound.com:443/en/projects/brick-by-brick-games/blood-moon-ii-the-shoguns-executioner?ref=</link>
-      <guid isPermaLink="false">48425</guid>
-      <pubDate>Mon, 17 Nov 2025 22:44:23 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6470/f0345e30-ce00-4f90-8438-1e52669ca823.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Moonlight Brewers Triple Fermentation</title>
-      <link>https://gamefound.com:443/en/projects/yeast-games/moonlight-brewers-triple-fermentation?ref=</link>
-      <guid isPermaLink="false">48424</guid>
-      <pubDate>Mon, 17 Nov 2025 18:22:48 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5459/6405074b-9641-49e9-bad0-9158ab72d048.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Terra Mystica Special Edition</title>
-      <link>https://gamefound.com:443/en/projects/steamforged-games/terra-mystica?ref=</link>
-      <guid isPermaLink="false">48423</guid>
-      <pubDate>Mon, 17 Nov 2025 18:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6236/8204a64b-de6e-44a0-8f07-d4b928e54730.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] The God That Crawls Again</title>
-      <link>https://gamefound.com:443/en/projects/dark-eagle-games/the-god-that-crawls-again?ref=</link>
-      <guid isPermaLink="false">48422</guid>
-      <pubDate>Mon, 17 Nov 2025 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6708/203ca320-67c1-43c1-af30-fb4870428793.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Rove: Anchorpoint + Rove Reprint</title>
-      <link>https://gamefound.com:443/en/projects/addax-games/rove-anchorpoint?ref=</link>
-      <guid isPermaLink="false">48421</guid>
-      <pubDate>Mon, 17 Nov 2025 17:18:33 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6022/d277d74a-0c1b-4ba8-8713-3ac7b8330766.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Rove: Anchorpoint + Rove Reprint</title>
-      <link>https://gamefound.com:443/en/projects/addax-games/rove-anchorpoint?ref=</link>
-      <guid isPermaLink="false">48420</guid>
-      <pubDate>Mon, 17 Nov 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6022/d277d74a-0c1b-4ba8-8713-3ac7b8330766.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Legends of the Seas</title>
-      <link>https://gamefound.com:443/en/projects/arkada-studio/legends-of-the-seas?ref=</link>
-      <guid isPermaLink="false">48419</guid>
-      <pubDate>Mon, 17 Nov 2025 16:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5532/c99fc67f-bf09-417b-8cc0-36fd5952bbd6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Balkanika: Safira's Escape has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/running-children/balkanika?ref=</link>
-      <guid isPermaLink="false">48418</guid>
-      <pubDate>Mon, 17 Nov 2025 15:08:20 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4772/cc5a84fa-e271-4ab9-b885-4d077244c100.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Exactly As Planned</title>
-      <link>https://gamefound.com:443/en/projects/no-sharks/exactly-as-planned?ref=</link>
-      <guid isPermaLink="false">48417</guid>
-      <pubDate>Mon, 17 Nov 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2413/f04be428-3d83-46af-943a-16b3c90e9642.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] VENATOR - Heroes of the Arena</title>
-      <link>https://gamefound.com:443/en/projects/red-kingdom-games/venator-heroes-of-the-arena?ref=</link>
-      <guid isPermaLink="false">48416</guid>
-      <pubDate>Mon, 17 Nov 2025 14:03:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6795/d435e676-d3e4-4b75-81a2-74d7b481301f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] 7 Ages Collectors Edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/australian-design-group/7-ages?ref=</link>
-      <guid isPermaLink="false">48415</guid>
-      <pubDate>Mon, 17 Nov 2025 12:11:39 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6516/48033d25-f576-44c2-9b3e-5139546365d3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Exö-Squad Röknaut Space Dwarf Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
-      <guid isPermaLink="false">48414</guid>
-      <pubDate>Mon, 17 Nov 2025 12:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/d2e53ab6-69cb-4af4-8414-c349182c08b9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Sudden Conflict</title>
-      <link>https://gamefound.com:443/en/projects/sudden-conflict/sudden-conflict?ref=</link>
-      <guid isPermaLink="false">48413</guid>
-      <pubDate>Mon, 17 Nov 2025 10:47:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5969/3ee0fea0-18a4-4379-a476-f2e10f9c56bc.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Tales of Myth and Legend Preorder</title>
-      <link>https://gamefound.com:443/en/projects/van-ryder-games/tales-of-myth-and-legend-preorder?ref=</link>
-      <guid isPermaLink="false">48412</guid>
-      <pubDate>Mon, 17 Nov 2025 10:46:12 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6536/afbadbf8-7a01-48fc-9f4e-0bdefe21bdac.png" type="image/png" />
     </item>
   </channel>
 </rss>
