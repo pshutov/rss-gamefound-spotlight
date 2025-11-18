@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 16:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 17:12:32 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Microrama Collection</title>
+      <link>https://gamefound.com:443/en/projects/juegorama/microrama-collection?ref=</link>
+      <guid isPermaLink="false">48437</guid>
+      <pubDate>Tue, 18 Nov 2025 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5644/476cf746-b174-4f5e-9d2e-08d7a03762d7.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Arydia: The Paths We Dare Tread - Second Printing</title>
       <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
