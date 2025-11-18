@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 23:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 23:32:58 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Master of Nations</title>
+      <link>https://gamefound.com:443/en/projects/makin/master-of-nations?ref=</link>
+      <guid isPermaLink="false">48443</guid>
+      <pubDate>Tue, 18 Nov 2025 23:19:52 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6800/027fd939-9591-42f1-a8b5-0e8f3a891c28.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Song of Silveranth</title>
       <link>https://gamefound.com:443/en/projects/red-raven-games/song-of-silveranth?ref=</link>
