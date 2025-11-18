@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 10:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 10:44:13 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The Roundtable</title>
+      <link>https://gamefound.com:443/en/projects/tanelkapp/the-roundtable?ref=</link>
+      <guid isPermaLink="false">48429</guid>
+      <pubDate>Tue, 18 Nov 2025 10:14:57 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6679/19cb64fc-14b2-4564-82b5-8d4f02f37fdb.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs</title>
       <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
@@ -20,7 +28,7 @@
       <guid isPermaLink="false">48427</guid>
       <pubDate>Tue, 18 Nov 2025 08:19:58 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/c7000678-79f7-4b92-9a2c-6321f959c6eb.webp" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/9199269f-f9f4-4330-8b85-c07af85339d5.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign is funded] Exö-Squad Röknaut Space Dwarf Miniatures</title>
