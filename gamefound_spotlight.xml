@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 18 Nov 2025 17:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 18:18:33 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Arydia: The Paths We Dare Tread - Second Printing</title>
+      <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
+      <guid isPermaLink="false">48439</guid>
+      <pubDate>Tue, 18 Nov 2025 18:12:37 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6368/3bbcab43-8948-4453-b068-15e444ab52a3.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Microrama Collection</title>
       <link>https://gamefound.com:443/en/projects/juegorama/microrama-collection?ref=</link>
