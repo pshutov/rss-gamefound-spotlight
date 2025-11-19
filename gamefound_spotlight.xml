@@ -4,8 +4,15 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 19 Nov 2025 13:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 14:12:18 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager]</title>
+      <link>https://gamefound.com</link>
+      <guid isPermaLink="false">48450</guid>
+      <pubDate>Wed, 19 Nov 2025 13:49:20 +0000</pubDate>
+      <description>New Pledge Manager</description>
+    </item>
     <item>
       <title>[Launch date] Sci-fi Battle Maps: Organic Invasion has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/agnesagraphic/sci-fi-battle-maps-organic-invasion?ref=</link>
