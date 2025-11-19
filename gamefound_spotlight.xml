@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 19 Nov 2025 22:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 22:39:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning</title>
+      <link>https://gamefound.com:443/en/projects/cthulhu-project/chants-for-the-old-ones-the-eye-of-dagon?ref=</link>
+      <guid isPermaLink="false">48456</guid>
+      <pubDate>Wed, 19 Nov 2025 22:11:45 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6039/02c6be86-1be1-4b4e-a0e1-198bb4b05dc4.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Pubes</title>
       <link>https://gamefound.com:443/en/projects/xeel/pubes?ref=</link>
