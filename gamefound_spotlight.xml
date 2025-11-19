@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 19 Nov 2025 16:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 17:12:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Exceed: Seventh Cross</title>
+      <link>https://gamefound.com:443/en/projects/level-99-games/exceed-seventh-cross?ref=</link>
+      <guid isPermaLink="false">48452</guid>
+      <pubDate>Wed, 19 Nov 2025 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6246/a70dad39-f533-4b1f-8d01-fd40ff7dbec0.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning</title>
       <link>https://gamefound.com:443/en/projects/cthulhu-project/chants-for-the-old-ones-the-eye-of-dagon?ref=</link>
