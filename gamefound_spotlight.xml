@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 19 Nov 2025 09:40:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 10:13:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Light and Darkness has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/kopergames/light-and-darkness?ref=</link>
+      <guid isPermaLink="false">48445</guid>
+      <pubDate>Wed, 19 Nov 2025 10:08:10 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6378/b4a67bc5-ff60-4ed1-bacf-5424a1c9f830.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Marcher: Empires at War First Edition</title>
       <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
