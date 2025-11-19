@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 19 Nov 2025 21:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 22:12:04 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Pubes</title>
+      <link>https://gamefound.com:443/en/projects/xeel/pubes?ref=</link>
+      <guid isPermaLink="false">48455</guid>
+      <pubDate>Wed, 19 Nov 2025 22:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5900/e3403bd6-2695-4302-94aa-0ab8f0d830e5.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Return of the Living Dead's Zombie Punk Panic (Reboot)</title>
       <link>https://gamefound.com:443/en/projects/evil-genius-games/return-of-the-living-deads-zombie-punk-panic-reboot?ref=</link>
