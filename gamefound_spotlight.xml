@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 20 Nov 2025 16:47:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:10:17 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Microcosm</title>
+      <link>https://gamefound.com:443/en/projects/microcosm-games/microcosm?ref=</link>
+      <guid isPermaLink="false">48462</guid>
+      <pubDate>Thu, 20 Nov 2025 16:51:51 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5999/27706b71-426a-4688-bab2-52621acda87c.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Rosa + Juliet limited physical edition</title>
       <link>https://gamefound.com:443/en/projects/renko-rodenburg/rosa--juliet-limited-edition-physical-copies?ref=</link>
