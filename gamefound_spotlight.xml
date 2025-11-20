@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 20 Nov 2025 22:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 23:11:33 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Sci-fi Battle Maps: Organic Invasion</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/sci-fi-battle-maps-organic-invasion?ref=</link>
+      <guid isPermaLink="false">48466</guid>
+      <pubDate>Thu, 20 Nov 2025 23:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6711/2851e415-348c-4360-a7f5-57fda6503e66.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] The Hunters A. D. 1492 2nd Edition and Borderlands Expansion</title>
       <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-and-borderlands-expansion?ref=</link>
