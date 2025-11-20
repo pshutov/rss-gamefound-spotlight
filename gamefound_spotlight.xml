@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 20 Nov 2025 13:44:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 14:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] WTC Foldable Sci-Fi Terrain Set</title>
+      <link>https://gamefound.com:443/en/projects/frto/wtc-foldable-terrain?ref=</link>
+      <guid isPermaLink="false">48459</guid>
+      <pubDate>Thu, 20 Nov 2025 13:49:05 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/571cc1bc-f314-4d05-bc02-f04dbbb7e6af.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Cluehound Deutsches Krimi-Duo has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/imperial-games/krimi-duo?ref=</link>
@@ -117,142 +125,6 @@
       <pubDate>Wed, 19 Nov 2025 02:51:34 +0000</pubDate>
       <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6282/a77324f6-f3bb-4ace-b212-2215f02e0bba.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Master of Nations</title>
-      <link>https://gamefound.com:443/en/projects/makin/master-of-nations?ref=</link>
-      <guid isPermaLink="false">48443</guid>
-      <pubDate>Tue, 18 Nov 2025 23:19:52 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6800/027fd939-9591-42f1-a8b5-0e8f3a891c28.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Song of Silveranth</title>
-      <link>https://gamefound.com:443/en/projects/red-raven-games/song-of-silveranth?ref=</link>
-      <guid isPermaLink="false">48442</guid>
-      <pubDate>Tue, 18 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5930/b6903e92-a232-4c0b-a1c7-ae3852cb2ff1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Escape the Dark Castle (2nd Edition) &amp; Escape the Dark Forest</title>
-      <link>https://gamefound.com:443/en/projects/themeborne/escape-the-dark-castle-and-forest?ref=</link>
-      <guid isPermaLink="false">48441</guid>
-      <pubDate>Tue, 18 Nov 2025 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6492/5993acc2-f6f9-4828-b235-076eb518bfd4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Dragon Eclipse: The Grand Quest has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
-      <guid isPermaLink="false">48440</guid>
-      <pubDate>Tue, 18 Nov 2025 18:59:05 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5385/38ceb435-29d9-44b4-89ca-8401f8aeec6f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Arydia: The Paths We Dare Tread - Second Printing</title>
-      <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
-      <guid isPermaLink="false">48439</guid>
-      <pubDate>Tue, 18 Nov 2025 18:12:37 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6368/3bbcab43-8948-4453-b068-15e444ab52a3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Microrama Collection</title>
-      <link>https://gamefound.com:443/en/projects/juegorama/microrama-collection?ref=</link>
-      <guid isPermaLink="false">48438</guid>
-      <pubDate>Tue, 18 Nov 2025 17:18:32 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5644/476cf746-b174-4f5e-9d2e-08d7a03762d7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Microrama Collection</title>
-      <link>https://gamefound.com:443/en/projects/juegorama/microrama-collection?ref=</link>
-      <guid isPermaLink="false">48437</guid>
-      <pubDate>Tue, 18 Nov 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5644/476cf746-b174-4f5e-9d2e-08d7a03762d7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Arydia: The Paths We Dare Tread - Second Printing</title>
-      <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
-      <guid isPermaLink="false">48436</guid>
-      <pubDate>Tue, 18 Nov 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6368/3bbcab43-8948-4453-b068-15e444ab52a3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] BLOOD AND SKULLS: THE CRUCIBLE</title>
-      <link>https://gamefound.com:443/en/projects/nocturna-models/bones?ref=</link>
-      <guid isPermaLink="false">48435</guid>
-      <pubDate>Tue, 18 Nov 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5161/ee4d5b57-6196-41d9-8e95-71d2a1b54f96.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Joe Ravioli: The Cheesiest ImPASTA  "Underworld Empire"</title>
-      <link>https://gamefound.com:443/en/projects/i-create/joe-ravioli-the-cheesiest-impasta--underworld-empire?ref=</link>
-      <guid isPermaLink="false">48434</guid>
-      <pubDate>Tue, 18 Nov 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6270/5a71c131-4b6d-482e-89cf-24b1c1bcff05.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Guardians of the Abyssal Waters Vol. I - STL FILES</title>
-      <link>https://gamefound.com:443/en/projects/miniversestl/guardians-of-the-abyssal-waters-vol-i?ref=</link>
-      <guid isPermaLink="false">48433</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6399/2b6029ca-a868-4067-ba23-b7251d9bee7f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Radiance [Solo Game of the Month] has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/radiance-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">48432</guid>
-      <pubDate>Tue, 18 Nov 2025 11:30:09 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6513/fb798390-12f4-4300-93e0-2c58330ab3ef.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Lords of the South Slavs - Roll &amp; Write has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/stoj-games/lords-of-the-south-slavs?ref=</link>
-      <guid isPermaLink="false">48431</guid>
-      <pubDate>Tue, 18 Nov 2025 11:21:43 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6510/3ee5a9e9-1c94-434c-8c5d-327a1b511bbd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] AVALON DEATHRAY</title>
-      <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/avalon-deathray?ref=</link>
-      <guid isPermaLink="false">48430</guid>
-      <pubDate>Tue, 18 Nov 2025 10:57:33 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6810/52fccbb6-ec85-4090-8e40-b35142aa4446.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] The Roundtable</title>
-      <link>https://gamefound.com:443/en/projects/tanelkapp/the-roundtable?ref=</link>
-      <guid isPermaLink="false">48429</guid>
-      <pubDate>Tue, 18 Nov 2025 10:14:57 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6679/19cb64fc-14b2-4564-82b5-8d4f02f37fdb.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] RPG Maps: 400 + Autumn Collection for VTT &amp; TTRPGs</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/rpg-maps-400--autumn-collection-for-vtt--ttrpgs?ref=</link>
-      <guid isPermaLink="false">48428</guid>
-      <pubDate>Tue, 18 Nov 2025 09:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6712/92de6353-7118-4392-b8c8-3fe15805150c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Mage Potion Dice: Handcrafted liquid Core RPG dice</title>
-      <link>https://gamefound.com:443/en/projects/beardice/mage-potion-dice-handcrafted-liquid-core-rpg-dice?ref=</link>
-      <guid isPermaLink="false">48427</guid>
-      <pubDate>Tue, 18 Nov 2025 08:19:58 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/9199269f-f9f4-4330-8b85-c07af85339d5.png" type="image/png" />
     </item>
   </channel>
 </rss>
