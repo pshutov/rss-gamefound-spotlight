@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 20 Nov 2025 02:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 03:31:07 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning</title>
