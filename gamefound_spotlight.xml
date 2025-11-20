@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 20 Nov 2025 16:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 16:47:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Rosa + Juliet limited physical edition</title>
+      <link>https://gamefound.com:443/en/projects/renko-rodenburg/rosa--juliet-limited-edition-physical-copies?ref=</link>
+      <guid isPermaLink="false">48461</guid>
+      <pubDate>Thu, 20 Nov 2025 16:30:40 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6780/5d77527c-43ad-4034-b43a-95620643a05d.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] X-ODUS, Rise of the Corruption - Second Edition</title>
       <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
