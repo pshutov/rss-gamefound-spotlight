@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 21 Nov 2025 17:38:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 18:17:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Movers &amp; Shakers</title>
+      <link>https://gamefound.com:443/en/projects/quined-games/movers-and-shakers?ref=</link>
+      <guid isPermaLink="false">48471</guid>
+      <pubDate>Fri, 21 Nov 2025 18:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6213/8333611f-5ff7-40ba-828e-f4b23f8863d4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Queen of Spies has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/saltandpepper/queen-of-spies?ref=</link>
@@ -117,102 +125,6 @@
       <pubDate>Thu, 20 Nov 2025 11:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4726/1dc8d38b-b942-449e-9d49-240923f8b697.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning</title>
-      <link>https://gamefound.com:443/en/projects/cthulhu-project/chants-for-the-old-ones-the-eye-of-dagon?ref=</link>
-      <guid isPermaLink="false">48456</guid>
-      <pubDate>Wed, 19 Nov 2025 22:11:45 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6039/02c6be86-1be1-4b4e-a0e1-198bb4b05dc4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Pubes</title>
-      <link>https://gamefound.com:443/en/projects/xeel/pubes?ref=</link>
-      <guid isPermaLink="false">48455</guid>
-      <pubDate>Wed, 19 Nov 2025 22:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5900/e3403bd6-2695-4302-94aa-0ab8f0d830e5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Return of the Living Dead's Zombie Punk Panic (Reboot)</title>
-      <link>https://gamefound.com:443/en/projects/evil-genius-games/return-of-the-living-deads-zombie-punk-panic-reboot?ref=</link>
-      <guid isPermaLink="false">48454</guid>
-      <pubDate>Wed, 19 Nov 2025 21:20:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6737/4e3c77d2-15f8-4b9c-afed-c92ed250bc71.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Exceed: Seventh Cross</title>
-      <link>https://gamefound.com:443/en/projects/level-99-games/exceed-seventh-cross?ref=</link>
-      <guid isPermaLink="false">48453</guid>
-      <pubDate>Wed, 19 Nov 2025 18:18:39 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6246/a70dad39-f533-4b1f-8d01-fd40ff7dbec0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Exceed: Seventh Cross</title>
-      <link>https://gamefound.com:443/en/projects/level-99-games/exceed-seventh-cross?ref=</link>
-      <guid isPermaLink="false">48452</guid>
-      <pubDate>Wed, 19 Nov 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6246/a70dad39-f533-4b1f-8d01-fd40ff7dbec0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning</title>
-      <link>https://gamefound.com:443/en/projects/cthulhu-project/chants-for-the-old-ones-the-eye-of-dagon?ref=</link>
-      <guid isPermaLink="false">48451</guid>
-      <pubDate>Wed, 19 Nov 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6039/02c6be86-1be1-4b4e-a0e1-198bb4b05dc4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Sci-fi Battle Maps: Organic Invasion has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/sci-fi-battle-maps-organic-invasion?ref=</link>
-      <guid isPermaLink="false">48449</guid>
-      <pubDate>Wed, 19 Nov 2025 11:31:11 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6711/2851e415-348c-4360-a7f5-57fda6503e66.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] AVALON DEATHRAY has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/avalon-deathray?ref=</link>
-      <guid isPermaLink="false">48448</guid>
-      <pubDate>Wed, 19 Nov 2025 10:57:35 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6810/52fccbb6-ec85-4090-8e40-b35142aa4446.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] 1130+ Fantasy Battle maps for TTRPG and VTTRPG</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/1130-fantasy-battle-maps-for-ttrpg-and-vttrpg?ref=</link>
-      <guid isPermaLink="false">48447</guid>
-      <pubDate>Wed, 19 Nov 2025 10:50:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6769/49917341-0c0c-479c-91db-95bf28f74986.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Cthulhu 2050: Whispers Beyond The Stars has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/otherworlds/whispers-beyond-the-stars?ref=</link>
-      <guid isPermaLink="false">48446</guid>
-      <pubDate>Wed, 19 Nov 2025 10:45:10 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6197/2f725689-fe6e-4ff2-9293-6516229891da.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Light and Darkness has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/kopergames/light-and-darkness?ref=</link>
-      <guid isPermaLink="false">48445</guid>
-      <pubDate>Wed, 19 Nov 2025 10:08:10 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6378/b4a67bc5-ff60-4ed1-bacf-5424a1c9f830.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Marcher: Empires at War First Edition</title>
-      <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
-      <guid isPermaLink="false">48444</guid>
-      <pubDate>Wed, 19 Nov 2025 02:51:34 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6282/a77324f6-f3bb-4ace-b212-2215f02e0bba.png" type="image/png" />
     </item>
   </channel>
 </rss>
