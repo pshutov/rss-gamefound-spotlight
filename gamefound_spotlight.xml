@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 21 Nov 2025 21:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 22:11:50 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] 7 Ages Collectors Edition</title>
+      <link>https://gamefound.com:443/en/projects/australian-design-group/7-ages?ref=</link>
+      <guid isPermaLink="false">48472</guid>
+      <pubDate>Fri, 21 Nov 2025 22:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6516/48033d25-f576-44c2-9b3e-5139546365d3.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Movers &amp; Shakers</title>
       <link>https://gamefound.com:443/en/projects/quined-games/movers-and-shakers?ref=</link>
