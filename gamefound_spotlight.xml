@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 22 Nov 2025 15:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 16:13:19 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Joust King's Tournament (Collector's Box)</title>
+      <link>https://gamefound.com:443/en/projects/rogue-pioneer-games/joust-a-kings-tournament?ref=</link>
+      <guid isPermaLink="false">48474</guid>
+      <pubDate>Sat, 22 Nov 2025 16:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6562/b2e6f647-047b-4615-b1c7-79691bd4023e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] 7 Ages Collectors Edition</title>
       <link>https://gamefound.com:443/en/projects/australian-design-group/7-ages?ref=</link>
