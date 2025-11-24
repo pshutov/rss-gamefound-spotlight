@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 24 Nov 2025 22:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 23:11:30 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Odds Chronicles</title>
+      <link>https://gamefound.com:443/en/projects/teammojogames/odds-chronicles?ref=</link>
+      <guid isPermaLink="false">48488</guid>
+      <pubDate>Mon, 24 Nov 2025 22:46:34 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6300/b4b88465-7670-4fdb-9de9-417e8499862e.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Gone to Gaia</title>
       <link>https://gamefound.com:443/en/projects/rose-gauntlet-entertainment/gone-to-gaia?ref=</link>
