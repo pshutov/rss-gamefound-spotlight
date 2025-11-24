@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 24 Nov 2025 20:14:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 20:39:10 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Gone to Gaia</title>
+      <link>https://gamefound.com:443/en/projects/rose-gauntlet-entertainment/gone-to-gaia?ref=</link>
+      <guid isPermaLink="false">48487</guid>
+      <pubDate>Mon, 24 Nov 2025 20:30:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4858/d09175ab-b0ca-4943-bc62-5fa6b4a322bd.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Joyride: Full Throttle</title>
       <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
@@ -117,54 +125,6 @@
       <pubDate>Sat, 22 Nov 2025 03:10:29 +0000</pubDate>
       <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6516/48033d25-f576-44c2-9b3e-5139546365d3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] 7 Ages Collectors Edition</title>
-      <link>https://gamefound.com:443/en/projects/australian-design-group/7-ages?ref=</link>
-      <guid isPermaLink="false">48472</guid>
-      <pubDate>Fri, 21 Nov 2025 22:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6516/48033d25-f576-44c2-9b3e-5139546365d3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Movers &amp; Shakers</title>
-      <link>https://gamefound.com:443/en/projects/quined-games/movers-and-shakers?ref=</link>
-      <guid isPermaLink="false">48471</guid>
-      <pubDate>Fri, 21 Nov 2025 18:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6213/8333611f-5ff7-40ba-828e-f4b23f8863d4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Queen of Spies has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/saltandpepper/queen-of-spies?ref=</link>
-      <guid isPermaLink="false">48470</guid>
-      <pubDate>Fri, 21 Nov 2025 12:11:23 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6392/364f1fa3-07cf-4161-92ba-82af0414722d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] TerraForge</title>
-      <link>https://gamefound.com:443/en/projects/adventuretogether/terraforge?ref=</link>
-      <guid isPermaLink="false">48469</guid>
-      <pubDate>Fri, 21 Nov 2025 11:40:29 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5434/306e8200-6c4a-49d1-94a6-84325b13c34a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Vora</title>
-      <link>https://gamefound.com:443/en/projects/bluebird/vora?ref=</link>
-      <guid isPermaLink="false">48468</guid>
-      <pubDate>Fri, 21 Nov 2025 09:15:22 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4947/d48876a9-ed73-419d-8446-df66cd1e7a56.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Dice Tower Defenders</title>
-      <link>https://gamefound.com:443/en/projects/brothersshirley/dice-tower-defenders?ref=</link>
-      <guid isPermaLink="false">48467</guid>
-      <pubDate>Fri, 21 Nov 2025 00:45:23 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3894/fbfed2c0-47b0-4e3d-bb65-531913215c95.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
