@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 24 Nov 2025 14:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 14:43:06 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Menú del día</title>
+      <link>https://gamefound.com:443/en/projects/caravan-games/menu-del-dia?ref=</link>
+      <guid isPermaLink="false">48481</guid>
+      <pubDate>Mon, 24 Nov 2025 14:20:32 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6696/94d27357-0376-4a49-9cba-f5ac74891375.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] No Escape Until Dawn</title>
       <link>https://gamefound.com:443/en/projects/knights_creations/noescapeuntildawn?ref=</link>
@@ -117,86 +125,6 @@
       <pubDate>Fri, 21 Nov 2025 00:45:23 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3894/fbfed2c0-47b0-4e3d-bb65-531913215c95.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Sci-fi Battle Maps: Organic Invasion</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/sci-fi-battle-maps-organic-invasion?ref=</link>
-      <guid isPermaLink="false">48466</guid>
-      <pubDate>Thu, 20 Nov 2025 23:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6711/2851e415-348c-4360-a7f5-57fda6503e66.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] The Hunters A. D. 1492 2nd Edition and Borderlands Expansion</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-and-borderlands-expansion?ref=</link>
-      <guid isPermaLink="false">48465</guid>
-      <pubDate>Thu, 20 Nov 2025 20:40:31 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6493/9f796854-00c8-4629-8b50-595d8cfa7bc0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] The Hunters A. D. 1492 2nd Edition and Borderlands Expansion</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-and-borderlands-expansion?ref=</link>
-      <guid isPermaLink="false">48464</guid>
-      <pubDate>Thu, 20 Nov 2025 20:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6493/9f796854-00c8-4629-8b50-595d8cfa7bc0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Threshold</title>
-      <link>https://gamefound.com:443/en/projects/oomm-games/threshold?ref=</link>
-      <guid isPermaLink="false">48463</guid>
-      <pubDate>Thu, 20 Nov 2025 20:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5187/7fd2c39f-a1e3-4da1-a81c-40296442dbf0.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Microcosm</title>
-      <link>https://gamefound.com:443/en/projects/microcosm-games/microcosm?ref=</link>
-      <guid isPermaLink="false">48462</guid>
-      <pubDate>Thu, 20 Nov 2025 16:51:51 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5999/27706b71-426a-4688-bab2-52621acda87c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Rosa + Juliet limited physical edition</title>
-      <link>https://gamefound.com:443/en/projects/renko-rodenburg/rosa--juliet-limited-edition-physical-copies?ref=</link>
-      <guid isPermaLink="false">48461</guid>
-      <pubDate>Thu, 20 Nov 2025 16:30:40 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6780/5d77527c-43ad-4034-b43a-95620643a05d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] X-ODUS, Rise of the Corruption - Second Edition</title>
-      <link>https://gamefound.com:443/en/projects/bored-game-ink/x-odus-second-edition?ref=</link>
-      <guid isPermaLink="false">48460</guid>
-      <pubDate>Thu, 20 Nov 2025 16:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5800/833cf7b2-9fcc-4b9d-b3c8-f7c2159ef745.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] WTC Foldable Sci-Fi Terrain Set</title>
-      <link>https://gamefound.com:443/en/projects/frto/wtc-foldable-terrain?ref=</link>
-      <guid isPermaLink="false">48459</guid>
-      <pubDate>Thu, 20 Nov 2025 13:49:05 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/571cc1bc-f314-4d05-bc02-f04dbbb7e6af.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Cluehound Deutsches Krimi-Duo has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/imperial-games/krimi-duo?ref=</link>
-      <guid isPermaLink="false">48458</guid>
-      <pubDate>Thu, 20 Nov 2025 12:58:10 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6762/2f4a95ed-73fd-490e-b860-bbaf4c53f580.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Echo Team: Spearhead</title>
-      <link>https://gamefound.com:443/en/projects/black-mask-verlag/echo-team-spearhead?ref=</link>
-      <guid isPermaLink="false">48457</guid>
-      <pubDate>Thu, 20 Nov 2025 11:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4726/1dc8d38b-b942-449e-9d49-240923f8b697.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
