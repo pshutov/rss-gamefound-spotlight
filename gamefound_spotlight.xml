@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 24 Nov 2025 05:41:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 06:19:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Propuh II: The Bevanda of Judgement</title>
+      <link>https://gamefound.com:443/en/projects/interhuman-games/propuh-ii-the-bevanda-of-judgement?ref=</link>
+      <guid isPermaLink="false">48479</guid>
+      <pubDate>Mon, 24 Nov 2025 06:14:04 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6681/b280eae3-2075-469b-b659-49e55d493bb9.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Cluehound Deutsches Krimi-Duo</title>
       <link>https://gamefound.com:443/en/projects/imperial-games/krimi-duo?ref=</link>
