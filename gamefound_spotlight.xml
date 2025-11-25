@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 25 Nov 2025 13:48:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 14:12:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] The Witcher: Legacy</title>
+      <link>https://gamefound.com:443/en/projects/go-on-board/the-witcher-legacy?ref=</link>
+      <guid isPermaLink="false">48494</guid>
+      <pubDate>Tue, 25 Nov 2025 14:04:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6154/1de3f3ee-62ab-44cf-9e50-d4e87f7f06ca.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Witcher: Legacy</title>
+      <link>https://gamefound.com:443/en/projects/go-on-board/the-witcher-legacy?ref=</link>
+      <guid isPermaLink="false">48493</guid>
+      <pubDate>Tue, 25 Nov 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6154/1de3f3ee-62ab-44cf-9e50-d4e87f7f06ca.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Great Again: Democracy At All Costs</title>
       <link>https://gamefound.com:443/en/projects/lorekick/great-again-democracy-at-all-costs?ref=</link>
@@ -117,30 +133,6 @@
       <pubDate>Mon, 24 Nov 2025 06:14:04 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6681/b280eae3-2075-469b-b659-49e55d493bb9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Cluehound Deutsches Krimi-Duo</title>
-      <link>https://gamefound.com:443/en/projects/imperial-games/krimi-duo?ref=</link>
-      <guid isPermaLink="false">48478</guid>
-      <pubDate>Sun, 23 Nov 2025 09:00:23 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6762/2f4a95ed-73fd-490e-b860-bbaf4c53f580.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Cluehound Deutsches Krimi-Duo</title>
-      <link>https://gamefound.com:443/en/projects/imperial-games/krimi-duo?ref=</link>
-      <guid isPermaLink="false">48477</guid>
-      <pubDate>Sun, 23 Nov 2025 09:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6762/2f4a95ed-73fd-490e-b860-bbaf4c53f580.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Pawn's Gambit: A chess card game</title>
-      <link>https://gamefound.com:443/en/projects/david-melo/the-pawns-gambit-a-chess-card-game?ref=</link>
-      <guid isPermaLink="false">48476</guid>
-      <pubDate>Sun, 23 Nov 2025 00:00:02 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4206/9ddec2e8-872d-4bdf-906f-5e293a6aae36.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
