@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 26 Nov 2025 13:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 14:13:12 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Into Light: Light Well</title>
+      <link>https://gamefound.com:443/en/projects/into-light-games/into-light-light-well?ref=</link>
+      <guid isPermaLink="false">48502</guid>
+      <pubDate>Wed, 26 Nov 2025 14:01:21 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6779/8a8c42bc-5c59-4fa4-a514-59f250e85ee7.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Stefan Feld City Collection</title>
       <link>https://gamefound.com:443/en/projects/queengames/sfcc-classicspecial-deluxe?ref=</link>
