@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 26 Nov 2025 15:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 16:15:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] HOOD: Troubles in Sherwood</title>
+      <link>https://gamefound.com:443/en/projects/phalanx/hood?ref=</link>
+      <guid isPermaLink="false">48503</guid>
+      <pubDate>Wed, 26 Nov 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5497/1e121aad-c609-4a3c-a643-a8ab5b384cd2.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Into Light: Light Well</title>
       <link>https://gamefound.com:443/en/projects/into-light-games/into-light-light-well?ref=</link>
@@ -117,86 +125,6 @@
       <pubDate>Tue, 25 Nov 2025 11:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6209/1787e1fb-5906-4bf2-bc54-42be84c62b17.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Odds Chronicles</title>
-      <link>https://gamefound.com:443/en/projects/teammojogames/odds-chronicles?ref=</link>
-      <guid isPermaLink="false">48488</guid>
-      <pubDate>Mon, 24 Nov 2025 22:46:34 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6300/b4b88465-7670-4fdb-9de9-417e8499862e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Gone to Gaia</title>
-      <link>https://gamefound.com:443/en/projects/rose-gauntlet-entertainment/gone-to-gaia?ref=</link>
-      <guid isPermaLink="false">48487</guid>
-      <pubDate>Mon, 24 Nov 2025 20:30:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4858/d09175ab-b0ca-4943-bc62-5fa6b4a322bd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Joyride: Full Throttle</title>
-      <link>https://gamefound.com:443/en/projects/rebellionunplugged/joyride-full-throttle?ref=</link>
-      <guid isPermaLink="false">48486</guid>
-      <pubDate>Mon, 24 Nov 2025 20:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6102/3bfd788b-69cd-4ae5-b17f-e10b5d5c5172.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Ikusa Samurai Swords 40th Anniversary Edition</title>
-      <link>https://gamefound.com:443/en/projects/renegade-game-studios/ikusa?ref=</link>
-      <guid isPermaLink="false">48485</guid>
-      <pubDate>Mon, 24 Nov 2025 20:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5877/c92df219-3e99-4796-bac6-bceb23a355e7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Radiance [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/radiance-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">48484</guid>
-      <pubDate>Mon, 24 Nov 2025 16:06:28 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6513/fb798390-12f4-4300-93e0-2c58330ab3ef.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Radiance [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/radiance-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">48483</guid>
-      <pubDate>Mon, 24 Nov 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6513/fb798390-12f4-4300-93e0-2c58330ab3ef.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Sci-fi Battle Maps: Organic Invasion</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/sci-fi-battle-maps-organic-invasion?ref=</link>
-      <guid isPermaLink="false">48482</guid>
-      <pubDate>Mon, 24 Nov 2025 15:31:23 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6711/2851e415-348c-4360-a7f5-57fda6503e66.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Menú del día</title>
-      <link>https://gamefound.com:443/en/projects/caravan-games/menu-del-dia?ref=</link>
-      <guid isPermaLink="false">48481</guid>
-      <pubDate>Mon, 24 Nov 2025 14:20:32 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6696/94d27357-0376-4a49-9cba-f5ac74891375.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] No Escape Until Dawn</title>
-      <link>https://gamefound.com:443/en/projects/knights_creations/noescapeuntildawn?ref=</link>
-      <guid isPermaLink="false">48480</guid>
-      <pubDate>Mon, 24 Nov 2025 09:30:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6637/fb91ee09-f609-4e9e-aaa8-b08bbbebe393.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Propuh II: The Bevanda of Judgement</title>
-      <link>https://gamefound.com:443/en/projects/interhuman-games/propuh-ii-the-bevanda-of-judgement?ref=</link>
-      <guid isPermaLink="false">48479</guid>
-      <pubDate>Mon, 24 Nov 2025 06:14:04 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6681/b280eae3-2075-469b-b659-49e55d493bb9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
