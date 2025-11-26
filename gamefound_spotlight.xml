@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 26 Nov 2025 17:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 18:15:57 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Traveller: Campañas navales</title>
+      <link>https://gamefound.com:443/en/projects/sugaar/traveller-campanas-navales?ref=</link>
+      <guid isPermaLink="false">48506</guid>
+      <pubDate>Wed, 26 Nov 2025 18:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6599/654cabde-1df2-419b-8326-d2cd3e76a696.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] HOOD: Troubles in Sherwood</title>
       <link>https://gamefound.com:443/en/projects/phalanx/hood?ref=</link>
