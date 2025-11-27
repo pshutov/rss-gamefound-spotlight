@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 27 Nov 2025 02:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 03:32:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] The Mix</title>
+      <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
+      <guid isPermaLink="false">48509</guid>
+      <pubDate>Thu, 27 Nov 2025 03:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4238/9465e41b-c304-4da0-becb-10a58e864d5c.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Vampire Lords</title>
       <link>https://gamefound.com:443/en/projects/couple-of-games/vampire-lords?ref=</link>
