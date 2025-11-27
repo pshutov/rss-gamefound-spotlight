@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 27 Nov 2025 13:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 13:47:13 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] THE LAST IN THE WOODS has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/blackthorn/the-last-in-the-woods?ref=</link>
+      <guid isPermaLink="false">48510</guid>
+      <pubDate>Thu, 27 Nov 2025 13:21:06 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6173/d6567526-eb53-42ee-8739-e05496f57ef5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] The Mix</title>
       <link>https://gamefound.com:443/en/projects/guime/the-mix?ref=</link>
