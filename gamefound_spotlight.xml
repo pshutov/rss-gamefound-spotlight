@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 28 Nov 2025 13:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 13:44:48 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] MEMORA</title>
+      <link>https://gamefound.com:443/en/projects/wordbridge/word-bridge---memora?ref=</link>
+      <guid isPermaLink="false">48516</guid>
+      <pubDate>Fri, 28 Nov 2025 13:28:14 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6733/665293d4-1f15-4ed3-a4a9-7aca8fa63400.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Behind the Trenches</title>
       <link>https://gamefound.com:443/en/projects/f1fighterpilot/behind-the-trenches?ref=</link>
