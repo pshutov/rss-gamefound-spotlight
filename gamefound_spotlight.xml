@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 28 Nov 2025 22:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 23:11:18 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Below: The Bunker</title>
+      <link>https://gamefound.com:443/en/projects/amadeusgames/below-the-bunker?ref=</link>
+      <guid isPermaLink="false">48519</guid>
+      <pubDate>Fri, 28 Nov 2025 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6061/c6ea7493-e04e-4c0c-a692-12ae22c32577.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Regents - A Tile-Based TableTop Journeys Original</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-journeys/regents?ref=</link>
+      <guid isPermaLink="false">48518</guid>
+      <pubDate>Fri, 28 Nov 2025 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5958/bdc5601c-1c33-4bc8-b48c-daac4a830ef2.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] Taranwyth: Higly Detailed Tabletop Terrain</title>
       <link>https://gamefound.com:443/en/projects/archvillain-games/taranwyth-higly-detailed-tabletop-terrain?ref=</link>
