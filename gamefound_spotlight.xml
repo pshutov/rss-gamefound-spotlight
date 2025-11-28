@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 27 Nov 2025 23:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 00:56:00 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Exö-Squad Röknaut Space Dwarf Miniatures</title>
+      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
+      <guid isPermaLink="false">48514</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/e6fc9b57-c317-4ccc-9864-7427b64d2da3.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Rosa + Juliet limited physical edition</title>
       <link>https://gamefound.com:443/en/projects/renko-rodenburg/rosa--juliet-limited-edition-physical-copies?ref=</link>
