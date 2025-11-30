@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 30 Nov 2025 07:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 07:33:20 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] APEX CLASH - The Game</title>
+      <link>https://gamefound.com:443/en/projects/gysar-studios/apexclash?ref=</link>
+      <guid isPermaLink="false">48524</guid>
+      <pubDate>Sun, 30 Nov 2025 07:29:30 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6209/1787e1fb-5906-4bf2-bc54-42be84c62b17.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Kingdoms of Arkanis</title>
       <link>https://gamefound.com:443/en/projects/alans_games/kingdoms-of-arkanis?ref=</link>
