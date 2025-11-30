@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 30 Nov 2025 01:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 03:09:21 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Kingdoms of Arkanis</title>
+      <link>https://gamefound.com:443/en/projects/alans_games/kingdoms-of-arkanis?ref=</link>
+      <guid isPermaLink="false">48523</guid>
+      <pubDate>Sun, 30 Nov 2025 03:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6007/ade28920-9329-429a-92b6-522df1baa7ac.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Picaria GDR</title>
       <link>https://gamefound.com:443/en/projects/black-dice-lobby/picaria-un-vecchio-nuovo-mondo?ref=</link>
@@ -117,86 +125,6 @@
       <pubDate>Thu, 27 Nov 2025 03:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4238/9465e41b-c304-4da0-becb-10a58e864d5c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Vampire Lords</title>
-      <link>https://gamefound.com:443/en/projects/couple-of-games/vampire-lords?ref=</link>
-      <guid isPermaLink="false">48508</guid>
-      <pubDate>Wed, 26 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5785/728fc898-2e0b-4551-b117-d6f868a6f895.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Colt Express: The Complete Collection</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
-      <guid isPermaLink="false">48507</guid>
-      <pubDate>Wed, 26 Nov 2025 21:48:56 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/d8366bfd-ea87-434c-a80f-70a40c3262b1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Traveller: Campañas navales</title>
-      <link>https://gamefound.com:443/en/projects/sugaar/traveller-campanas-navales?ref=</link>
-      <guid isPermaLink="false">48506</guid>
-      <pubDate>Wed, 26 Nov 2025 18:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6599/654cabde-1df2-419b-8326-d2cd3e76a696.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] HOOD: Troubles in Sherwood</title>
-      <link>https://gamefound.com:443/en/projects/phalanx/hood?ref=</link>
-      <guid isPermaLink="false">48505</guid>
-      <pubDate>Wed, 26 Nov 2025 16:53:01 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5497/1e121aad-c609-4a3c-a643-a8ab5b384cd2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Nightmare Busters Rebirth</title>
-      <link>https://gamefound.com:443/en/projects/pixn-love-games/nightmare-busters-rebirth?ref=</link>
-      <guid isPermaLink="false">48504</guid>
-      <pubDate>Wed, 26 Nov 2025 16:43:30 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6172/dfec0a78-1222-47de-bc53-32cbdab332f6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] HOOD: Troubles in Sherwood</title>
-      <link>https://gamefound.com:443/en/projects/phalanx/hood?ref=</link>
-      <guid isPermaLink="false">48503</guid>
-      <pubDate>Wed, 26 Nov 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5497/1e121aad-c609-4a3c-a643-a8ab5b384cd2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Into Light: Light Well</title>
-      <link>https://gamefound.com:443/en/projects/into-light-games/into-light-light-well?ref=</link>
-      <guid isPermaLink="false">48502</guid>
-      <pubDate>Wed, 26 Nov 2025 14:01:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6779/8a8c42bc-5c59-4fa4-a514-59f250e85ee7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Stefan Feld City Collection</title>
-      <link>https://gamefound.com:443/en/projects/queengames/sfcc-classicspecial-deluxe?ref=</link>
-      <guid isPermaLink="false">48501</guid>
-      <pubDate>Wed, 26 Nov 2025 12:54:47 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5033/6371a669-552c-4a9a-92b0-23ccf839fd0d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Rosa + Juliet limited physical edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/renko-rodenburg/rosa--juliet-limited-edition-physical-copies?ref=</link>
-      <guid isPermaLink="false">48500</guid>
-      <pubDate>Wed, 26 Nov 2025 08:37:54 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6780/5d77527c-43ad-4034-b43a-95620643a05d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Traveller: Campañas navales</title>
-      <link>https://gamefound.com:443/en/projects/sugaar/traveller-campanas-navales?ref=</link>
-      <guid isPermaLink="false">48499</guid>
-      <pubDate>Wed, 26 Nov 2025 07:05:24 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6599/654cabde-1df2-419b-8326-d2cd3e76a696.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
