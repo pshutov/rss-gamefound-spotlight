@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 01 Dec 2025 07:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 08:19:53 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Goldrush 1850</title>
@@ -79,7 +79,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5958/bdc5601c-1c33-4bc8-b48c-daac4a830ef2.png" type="image/png" />
     </item>
     <item>
-      <title>[New Pledge Manager] Taranwyth: Higly Detailed Tabletop Terrain</title>
+      <title>[New Pledge Manager] Taranwyth: Highly Detailed Tabletop Terrain</title>
       <link>https://gamefound.com:443/en/projects/archvillain-games/taranwyth-higly-detailed-tabletop-terrain?ref=</link>
       <guid isPermaLink="false">48517</guid>
       <pubDate>Fri, 28 Nov 2025 16:19:34 +0000</pubDate>
