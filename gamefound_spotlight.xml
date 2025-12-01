@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 01 Dec 2025 16:51:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 17:14:16 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] 1793: Patriotas y Traidores</title>
+      <link>https://gamefound.com:443/en/projects/headquartergames/1793-patriotas-y-traidores?ref=</link>
+      <guid isPermaLink="false">48530</guid>
+      <pubDate>Mon, 01 Dec 2025 17:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4719/6677ea99-f40c-401e-afb0-ebdd5e175f4b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Bantam West (2E + Solo/Co-op)</title>
+      <link>https://gamefound.com:443/en/projects/bantam/bantam-west-is-back?ref=</link>
+      <guid isPermaLink="false">48529</guid>
+      <pubDate>Mon, 01 Dec 2025 17:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/d7eb2c8a-642c-4ae7-a9d2-c4050674d04b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Christmas Union</title>
       <link>https://gamefound.com:443/en/projects/fagner-lima/christmas-union?ref=</link>
