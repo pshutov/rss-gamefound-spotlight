@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 18:19:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 18:53:10 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Ready, Set, Encounter! - Vol. 1 - The Dragoning</title>
+      <link>https://gamefound.com:443/en/projects/everon-games/ready-set-encounter-vol-1?ref=</link>
+      <guid isPermaLink="false">48551</guid>
+      <pubDate>Tue, 02 Dec 2025 18:37:20 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6702/8f96333c-9ad5-4460-8d0e-46215d6ad780.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Cthulhu 2050: Whispers Beyond The Stars</title>
       <link>https://gamefound.com:443/en/projects/otherworlds/whispers-beyond-the-stars?ref=</link>
