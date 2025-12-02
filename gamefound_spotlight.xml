@@ -4,8 +4,40 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 15:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 16:17:13 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Byzantion</title>
+      <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
+      <guid isPermaLink="false">48544</guid>
+      <pubDate>Tue, 02 Dec 2025 16:12:36 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/d8a8c9a7-5d0a-463d-97fe-0f15c82b3cc8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] VoidRoll - A Year-Long Voyage</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
+      <guid isPermaLink="false">48543</guid>
+      <pubDate>Tue, 02 Dec 2025 16:07:23 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/7f695cbd-256f-4fd6-8edb-adbf3e0f2321.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Byzantion</title>
+      <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
+      <guid isPermaLink="false">48542</guid>
+      <pubDate>Tue, 02 Dec 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/d8a8c9a7-5d0a-463d-97fe-0f15c82b3cc8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Exactly As Planned</title>
+      <link>https://gamefound.com:443/en/projects/no-sharks/exactly-as-planned?ref=</link>
+      <guid isPermaLink="false">48541</guid>
+      <pubDate>Tue, 02 Dec 2025 15:49:38 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2413/dfaa59ae-0531-4a5c-a3c2-a39c62981e49.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] VoidRoll - A Year-Long Voyage</title>
       <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
@@ -116,38 +148,6 @@
       <pubDate>Mon, 01 Dec 2025 08:22:34 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6769/49917341-0c0c-479c-91db-95bf28f74986.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Goldrush 1850</title>
-      <link>https://gamefound.com:443/en/projects/waldegames/goldrush-1850?ref=</link>
-      <guid isPermaLink="false">48526</guid>
-      <pubDate>Sun, 30 Nov 2025 17:53:47 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5472/d637a912-ec3a-48aa-998a-98a01333e4d6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] AVALON DEATHRAY</title>
-      <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/avalon-deathray?ref=</link>
-      <guid isPermaLink="false">48525</guid>
-      <pubDate>Sun, 30 Nov 2025 11:06:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6810/8187ae25-18f5-49c1-8af7-5c5b14184528.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] APEX CLASH - The Game</title>
-      <link>https://gamefound.com:443/en/projects/gysar-studios/apexclash?ref=</link>
-      <guid isPermaLink="false">48524</guid>
-      <pubDate>Sun, 30 Nov 2025 07:29:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6209/1787e1fb-5906-4bf2-bc54-42be84c62b17.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Kingdoms of Arkanis</title>
-      <link>https://gamefound.com:443/en/projects/alans_games/kingdoms-of-arkanis?ref=</link>
-      <guid isPermaLink="false">48523</guid>
-      <pubDate>Sun, 30 Nov 2025 03:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6007/ade28920-9329-429a-92b6-522df1baa7ac.png" type="image/png" />
     </item>
   </channel>
 </rss>
