@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 18:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 19:13:48 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New Pledge Manager] Ready, Set, Encounter! - Vol. 1 - The Dragoning</title>
@@ -68,7 +68,7 @@
       <guid isPermaLink="false">48544</guid>
       <pubDate>Tue, 02 Dec 2025 16:12:36 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/d8a8c9a7-5d0a-463d-97fe-0f15c82b3cc8.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/1e6cd017-99f0-466d-8305-00a408711c3d.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign is funded] VoidRoll - A Year-Long Voyage</title>
@@ -84,7 +84,7 @@
       <guid isPermaLink="false">48542</guid>
       <pubDate>Tue, 02 Dec 2025 16:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/d8a8c9a7-5d0a-463d-97fe-0f15c82b3cc8.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/1e6cd017-99f0-466d-8305-00a408711c3d.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign is funded] Exactly As Planned</title>
