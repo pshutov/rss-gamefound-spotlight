@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 19:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 19:37:36 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New Pledge Manager] Ready, Set, Encounter! - Vol. 1 - The Dragoning</title>
