@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 23:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 23:36:38 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] Ravohria has a starting date.</title>
@@ -108,7 +108,7 @@
       <guid isPermaLink="false">48541</guid>
       <pubDate>Tue, 02 Dec 2025 15:49:38 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2413/dfaa59ae-0531-4a5c-a3c2-a39c62981e49.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2413/ac538261-1fc0-46eb-b0c7-0cff43771bdd.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] VoidRoll - A Year-Long Voyage</title>
