@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 13:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 14:13:56 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Helpdesk Hero</title>
+      <link>https://gamefound.com:443/en/projects/nostra-forja/helpdesk-hero?ref=</link>
+      <guid isPermaLink="false">48536</guid>
+      <pubDate>Tue, 02 Dec 2025 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5584/074826ca-c7a1-489d-b05a-6ca9d9f42447.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Austerlitz, 1805 - Un Coup de Tonnerre</title>
       <link>https://gamefound.com:443/en/projects/les-3-zouaves/austerlitz-1805---un-coup-de-tonnerre?ref=</link>
