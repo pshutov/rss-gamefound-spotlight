@@ -4,8 +4,40 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 16:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 17:15:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Dragon Eclipse: The Grand Quest</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
+      <guid isPermaLink="false">48548</guid>
+      <pubDate>Tue, 02 Dec 2025 17:09:01 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5385/6a422aac-29d4-4dfe-b28c-13615e2af649.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Vileborn - Das düster-heroische Rollenspiel</title>
+      <link>https://gamefound.com:443/en/projects/ulisses-spiele/vilebornde?ref=</link>
+      <guid isPermaLink="false">48547</guid>
+      <pubDate>Tue, 02 Dec 2025 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6235/53f35661-0c5e-42ef-8b63-2f0f365f7a2a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Dragon Eclipse: The Grand Quest</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
+      <guid isPermaLink="false">48546</guid>
+      <pubDate>Tue, 02 Dec 2025 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5385/6a422aac-29d4-4dfe-b28c-13615e2af649.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Microrama Collection</title>
+      <link>https://gamefound.com:443/en/projects/juegorama/microrama-collection?ref=</link>
+      <guid isPermaLink="false">48545</guid>
+      <pubDate>Tue, 02 Dec 2025 17:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5644/476cf746-b174-4f5e-9d2e-08d7a03762d7.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Byzantion</title>
       <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
@@ -100,54 +132,6 @@
       <pubDate>Tue, 02 Dec 2025 00:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6635/9eb699b2-0568-4450-9f6e-99628c3c8348.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Die Splitter der Zeit: Ein DSA-Escape Room</title>
-      <link>https://gamefound.com:443/en/projects/zum-flinken-frettchen/die-splitter-der-zeit-ein-dsa-escape-room?ref=</link>
-      <guid isPermaLink="false">48532</guid>
-      <pubDate>Mon, 01 Dec 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6543/5b3a1b77-880b-4790-a6ae-e445e96df57e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Dark Order</title>
-      <link>https://gamefound.com:443/en/projects/czacha-games/dark-order?ref=</link>
-      <guid isPermaLink="false">48531</guid>
-      <pubDate>Mon, 01 Dec 2025 19:38:03 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6908/1026cef5-4088-4a7e-bf20-0e9b41e594ac.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] 1793: Patriotas y Traidores</title>
-      <link>https://gamefound.com:443/en/projects/headquartergames/1793-patriotas-y-traidores?ref=</link>
-      <guid isPermaLink="false">48530</guid>
-      <pubDate>Mon, 01 Dec 2025 17:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4719/6677ea99-f40c-401e-afb0-ebdd5e175f4b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Bantam West (2E + Solo/Co-op)</title>
-      <link>https://gamefound.com:443/en/projects/bantam/bantam-west-is-back?ref=</link>
-      <guid isPermaLink="false">48529</guid>
-      <pubDate>Mon, 01 Dec 2025 17:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5739/d7eb2c8a-642c-4ae7-a9d2-c4050674d04b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Christmas Union</title>
-      <link>https://gamefound.com:443/en/projects/fagner-lima/christmas-union?ref=</link>
-      <guid isPermaLink="false">48528</guid>
-      <pubDate>Mon, 01 Dec 2025 16:34:58 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6743/b4cb16a8-c3c1-447f-87ec-7b587b287b6c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] 1130+ Fantasy Battle maps for TTRPG and VTTRPG has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/agnesagraphic/1130-fantasy-battle-maps-for-ttrpg-and-vttrpg?ref=</link>
-      <guid isPermaLink="false">48527</guid>
-      <pubDate>Mon, 01 Dec 2025 08:22:34 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6769/49917341-0c0c-479c-91db-95bf28f74986.png" type="image/png" />
     </item>
   </channel>
 </rss>
