@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 19:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 20:14:47 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Ravohria has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/ninety-one-games/ravohria?ref=</link>
+      <guid isPermaLink="false">48553</guid>
+      <pubDate>Tue, 02 Dec 2025 19:59:24 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4407/f188d3ba-fd82-4a8e-a0ac-a1c9ec3d5b2e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Vileborn - Das düster-heroische Rollenspiel</title>
+      <link>https://gamefound.com:443/en/projects/ulisses-spiele/vilebornde?ref=</link>
+      <guid isPermaLink="false">48552</guid>
+      <pubDate>Tue, 02 Dec 2025 19:37:26 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6235/53f35661-0c5e-42ef-8b63-2f0f365f7a2a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New Pledge Manager] Ready, Set, Encounter! - Vol. 1 - The Dragoning</title>
       <link>https://gamefound.com:443/en/projects/everon-games/ready-set-encounter-vol-1?ref=</link>
