@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 04:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 05:13:20 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Puppet Master: Return to Bodega Bay Inn Miniatures Board Game</title>
+      <link>https://gamefound.com:443/en/projects/dynamite-entertainment/puppet-master-escape-to-bodega-bay-inn-miniatures-board-game?ref=</link>
+      <guid isPermaLink="false">48534</guid>
+      <pubDate>Tue, 02 Dec 2025 05:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/c7adcf58-4775-4635-a2db-6a65395af75c.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] The Hidden Keys - An Urban Horror TTRPG</title>
       <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
@@ -117,54 +125,6 @@
       <pubDate>Sat, 29 Nov 2025 17:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6762/6b17baed-b06e-463d-b970-0d4387abdf89.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Below: The Bunker</title>
-      <link>https://gamefound.com:443/en/projects/amadeusgames/below-the-bunker?ref=</link>
-      <guid isPermaLink="false">48519</guid>
-      <pubDate>Fri, 28 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6061/c6ea7493-e04e-4c0c-a692-12ae22c32577.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Regents - A Tile-Based TableTop Journeys Original</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-journeys/regents?ref=</link>
-      <guid isPermaLink="false">48518</guid>
-      <pubDate>Fri, 28 Nov 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5958/bdc5601c-1c33-4bc8-b48c-daac4a830ef2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Taranwyth: Highly Detailed Tabletop Terrain</title>
-      <link>https://gamefound.com:443/en/projects/archvillain-games/taranwyth-higly-detailed-tabletop-terrain?ref=</link>
-      <guid isPermaLink="false">48517</guid>
-      <pubDate>Fri, 28 Nov 2025 16:19:34 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6360/6d1ec79e-ba7b-4a45-93ca-78ad76906ebb.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] MEMORA</title>
-      <link>https://gamefound.com:443/en/projects/wordbridge/word-bridge---memora?ref=</link>
-      <guid isPermaLink="false">48516</guid>
-      <pubDate>Fri, 28 Nov 2025 13:28:14 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6733/665293d4-1f15-4ed3-a4a9-7aca8fa63400.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Behind the Trenches</title>
-      <link>https://gamefound.com:443/en/projects/f1fighterpilot/behind-the-trenches?ref=</link>
-      <guid isPermaLink="false">48515</guid>
-      <pubDate>Fri, 28 Nov 2025 06:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5971/c0763814-ed85-424d-b0b3-24bbda202732.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Exö-Squad Röknaut Space Dwarf Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/ontos-games/exo-squad-roknauts?ref=</link>
-      <guid isPermaLink="false">48514</guid>
-      <pubDate>Fri, 28 Nov 2025 00:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6588/e6fc9b57-c317-4ccc-9864-7427b64d2da3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
