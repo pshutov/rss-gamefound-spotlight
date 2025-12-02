@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 17:44:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 18:19:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Cthulhu 2050: Whispers Beyond The Stars</title>
+      <link>https://gamefound.com:443/en/projects/otherworlds/whispers-beyond-the-stars?ref=</link>
+      <guid isPermaLink="false">48550</guid>
+      <pubDate>Tue, 02 Dec 2025 18:13:49 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6197/7f96878a-5de4-4bc3-b5f8-4b0ebc856a3f.png" type="image/png" />
+    </item>
     <item>
       <title>[New Late Pledge] Super Lucha!</title>
       <link>https://gamefound.com:443/en/projects/steve-resk/super-lucha?ref=</link>
