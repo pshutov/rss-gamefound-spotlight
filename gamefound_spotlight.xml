@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 17:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 17:44:02 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Late Pledge] Super Lucha!</title>
+      <link>https://gamefound.com:443/en/projects/steve-resk/super-lucha?ref=</link>
+      <guid isPermaLink="false">48549</guid>
+      <pubDate>Tue, 02 Dec 2025 17:34:19 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5809/859af6d5-4a64-4093-a13e-45de3e6ef7f7.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Dragon Eclipse: The Grand Quest</title>
       <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
