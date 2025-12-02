@@ -4,8 +4,39 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 02 Dec 2025 14:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 15:14:16 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] VoidRoll - A Year-Long Voyage</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
+      <guid isPermaLink="false">48540</guid>
+      <pubDate>Tue, 02 Dec 2025 15:05:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/7f695cbd-256f-4fd6-8edb-adbf3e0f2321.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New blog post] [What's New] Facebook CAPI &amp; Feast Applications Open!</title>
+      <link>https://gamefound.com/blog/post/capi-feast</link>
+      <guid isPermaLink="false">48539</guid>
+      <pubDate>Tue, 02 Dec 2025 15:04:53 +0000</pubDate>
+      <description>New blog post</description>
+    </item>
+    <item>
+      <title>[New project] Grassfed: A Farm to Tabletop Game</title>
+      <link>https://gamefound.com:443/en/projects/stoneblade/grassfed?ref=</link>
+      <guid isPermaLink="false">48538</guid>
+      <pubDate>Tue, 02 Dec 2025 15:03:16 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5102/c8601e9e-d33d-4334-9cc0-5c1f88c92436.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Cthulhu 2050: Whispers Beyond The Stars</title>
+      <link>https://gamefound.com:443/en/projects/otherworlds/whispers-beyond-the-stars?ref=</link>
+      <guid isPermaLink="false">48537</guid>
+      <pubDate>Tue, 02 Dec 2025 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6197/7f96878a-5de4-4bc3-b5f8-4b0ebc856a3f.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Helpdesk Hero</title>
       <link>https://gamefound.com:443/en/projects/nostra-forja/helpdesk-hero?ref=</link>
@@ -117,30 +148,6 @@
       <pubDate>Sun, 30 Nov 2025 03:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6007/ade28920-9329-429a-92b6-522df1baa7ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Picaria GDR</title>
-      <link>https://gamefound.com:443/en/projects/black-dice-lobby/picaria-un-vecchio-nuovo-mondo?ref=</link>
-      <guid isPermaLink="false">48522</guid>
-      <pubDate>Sat, 29 Nov 2025 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6170/328cbe07-a9fb-4932-b71b-2cd69ec8d102.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Save Us All</title>
-      <link>https://gamefound.com:443/en/projects/saveusall/saveusall?ref=</link>
-      <guid isPermaLink="false">48521</guid>
-      <pubDate>Sat, 29 Nov 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4710/d91168fb-f088-4318-ad2a-a8482f41801d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Cluehound Deutsches Krimi-Duo</title>
-      <link>https://gamefound.com:443/en/projects/imperial-games/krimi-duo?ref=</link>
-      <guid isPermaLink="false">48520</guid>
-      <pubDate>Sat, 29 Nov 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6762/6b17baed-b06e-463d-b970-0d4387abdf89.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
