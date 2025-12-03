@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 03 Dec 2025 07:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 08:18:08 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] Mage Potion Dice: Handcrafted liquid Core RPG dice has a starting date.</title>
@@ -36,7 +36,7 @@
       <guid isPermaLink="false">48551</guid>
       <pubDate>Tue, 02 Dec 2025 18:37:20 +0000</pubDate>
       <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6702/8f96333c-9ad5-4460-8d0e-46215d6ad780.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6702/1eb16a63-2176-4eb4-9069-faae04b947e4.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign is funded] Cthulhu 2050: Whispers Beyond The Stars</title>
