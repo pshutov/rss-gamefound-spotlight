@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 03 Dec 2025 08:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 08:49:26 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Micro Architects: Big City Vacation has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/thistroygames/micro-architects-big-city-vacation?ref=</link>
+      <guid isPermaLink="false">48555</guid>
+      <pubDate>Wed, 03 Dec 2025 08:34:45 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5653/abbb175d-24a5-43dc-901d-50dcc65023ac.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Mage Potion Dice: Handcrafted liquid Core RPG dice has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/beardice/mage-potion-dice-handcrafted-liquid-core-rpg-dice?ref=</link>
