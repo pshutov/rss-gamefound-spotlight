@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 03 Dec 2025 09:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 10:14:49 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] HexTerrain - printable gaming board -</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
+      <guid isPermaLink="false">48556</guid>
+      <pubDate>Wed, 03 Dec 2025 10:06:49 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6624/feda7754-4762-4573-ac1d-e05ffcb48446.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Micro Architects: Big City Vacation has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/thistroygames/micro-architects-big-city-vacation?ref=</link>
