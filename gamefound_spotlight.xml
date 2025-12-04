@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 04 Dec 2025 16:51:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 17:16:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Exceed: Seventh Cross</title>
+      <link>https://gamefound.com:443/en/projects/level-99-games/exceed-seventh-cross?ref=</link>
+      <guid isPermaLink="false">48568</guid>
+      <pubDate>Thu, 04 Dec 2025 17:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6246/a70dad39-f533-4b1f-8d01-fd40ff7dbec0.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Queen of Spies</title>
       <link>https://gamefound.com:443/en/projects/saltandpepper/queen-of-spies?ref=</link>
@@ -117,173 +125,6 @@
       <pubDate>Wed, 03 Dec 2025 07:23:55 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/9199269f-f9f4-4330-8b85-c07af85339d5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Ravohria has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/ninety-one-games/ravohria?ref=</link>
-      <guid isPermaLink="false">48553</guid>
-      <pubDate>Tue, 02 Dec 2025 19:59:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4407/f188d3ba-fd82-4a8e-a0ac-a1c9ec3d5b2e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Vileborn - Das düster-heroische Rollenspiel</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/vilebornde?ref=</link>
-      <guid isPermaLink="false">48552</guid>
-      <pubDate>Tue, 02 Dec 2025 19:37:26 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6235/53f35661-0c5e-42ef-8b63-2f0f365f7a2a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Ready, Set, Encounter! - Vol. 1 - The Dragoning</title>
-      <link>https://gamefound.com:443/en/projects/everon-games/ready-set-encounter-vol-1?ref=</link>
-      <guid isPermaLink="false">48551</guid>
-      <pubDate>Tue, 02 Dec 2025 18:37:20 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6702/1eb16a63-2176-4eb4-9069-faae04b947e4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Cthulhu 2050: Whispers Beyond The Stars</title>
-      <link>https://gamefound.com:443/en/projects/otherworlds/whispers-beyond-the-stars?ref=</link>
-      <guid isPermaLink="false">48550</guid>
-      <pubDate>Tue, 02 Dec 2025 18:13:49 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6197/7f96878a-5de4-4bc3-b5f8-4b0ebc856a3f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Super Lucha!</title>
-      <link>https://gamefound.com:443/en/projects/steve-resk/super-lucha?ref=</link>
-      <guid isPermaLink="false">48549</guid>
-      <pubDate>Tue, 02 Dec 2025 17:34:19 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5809/859af6d5-4a64-4093-a13e-45de3e6ef7f7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Dragon Eclipse: The Grand Quest</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
-      <guid isPermaLink="false">48548</guid>
-      <pubDate>Tue, 02 Dec 2025 17:09:01 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5385/6a422aac-29d4-4dfe-b28c-13615e2af649.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Vileborn - Das düster-heroische Rollenspiel</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/vilebornde?ref=</link>
-      <guid isPermaLink="false">48547</guid>
-      <pubDate>Tue, 02 Dec 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6235/53f35661-0c5e-42ef-8b63-2f0f365f7a2a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Dragon Eclipse: The Grand Quest</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
-      <guid isPermaLink="false">48546</guid>
-      <pubDate>Tue, 02 Dec 2025 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5385/6a422aac-29d4-4dfe-b28c-13615e2af649.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Microrama Collection</title>
-      <link>https://gamefound.com:443/en/projects/juegorama/microrama-collection?ref=</link>
-      <guid isPermaLink="false">48545</guid>
-      <pubDate>Tue, 02 Dec 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5644/476cf746-b174-4f5e-9d2e-08d7a03762d7.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Byzantion</title>
-      <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
-      <guid isPermaLink="false">48544</guid>
-      <pubDate>Tue, 02 Dec 2025 16:12:36 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/1e6cd017-99f0-466d-8305-00a408711c3d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] VoidRoll - A Year-Long Voyage</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
-      <guid isPermaLink="false">48543</guid>
-      <pubDate>Tue, 02 Dec 2025 16:07:23 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/7f695cbd-256f-4fd6-8edb-adbf3e0f2321.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Byzantion</title>
-      <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
-      <guid isPermaLink="false">48542</guid>
-      <pubDate>Tue, 02 Dec 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/1e6cd017-99f0-466d-8305-00a408711c3d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Exactly As Planned</title>
-      <link>https://gamefound.com:443/en/projects/no-sharks/exactly-as-planned?ref=</link>
-      <guid isPermaLink="false">48541</guid>
-      <pubDate>Tue, 02 Dec 2025 15:49:38 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2413/ac538261-1fc0-46eb-b0c7-0cff43771bdd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] VoidRoll - A Year-Long Voyage</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
-      <guid isPermaLink="false">48540</guid>
-      <pubDate>Tue, 02 Dec 2025 15:05:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/7f695cbd-256f-4fd6-8edb-adbf3e0f2321.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New blog post] [What's New] Facebook CAPI &amp; Feast Applications Open!</title>
-      <link>https://gamefound.com/blog/post/capi-feast</link>
-      <guid isPermaLink="false">48539</guid>
-      <pubDate>Tue, 02 Dec 2025 15:04:53 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[New project] Grassfed: A Farm to Tabletop Game</title>
-      <link>https://gamefound.com:443/en/projects/stoneblade/grassfed?ref=</link>
-      <guid isPermaLink="false">48538</guid>
-      <pubDate>Tue, 02 Dec 2025 15:03:16 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5102/c8601e9e-d33d-4334-9cc0-5c1f88c92436.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Cthulhu 2050: Whispers Beyond The Stars</title>
-      <link>https://gamefound.com:443/en/projects/otherworlds/whispers-beyond-the-stars?ref=</link>
-      <guid isPermaLink="false">48537</guid>
-      <pubDate>Tue, 02 Dec 2025 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6197/7f96878a-5de4-4bc3-b5f8-4b0ebc856a3f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Helpdesk Hero</title>
-      <link>https://gamefound.com:443/en/projects/nostra-forja/helpdesk-hero?ref=</link>
-      <guid isPermaLink="false">48536</guid>
-      <pubDate>Tue, 02 Dec 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5584/074826ca-c7a1-489d-b05a-6ca9d9f42447.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Austerlitz, 1805 - Un Coup de Tonnerre</title>
-      <link>https://gamefound.com:443/en/projects/les-3-zouaves/austerlitz-1805---un-coup-de-tonnerre?ref=</link>
-      <guid isPermaLink="false">48535</guid>
-      <pubDate>Tue, 02 Dec 2025 08:03:26 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6906/3f7bf428-4c94-4dca-93c9-425b917cc624.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Puppet Master: Return to Bodega Bay Inn Miniatures Board Game</title>
-      <link>https://gamefound.com:443/en/projects/dynamite-entertainment/puppet-master-escape-to-bodega-bay-inn-miniatures-board-game?ref=</link>
-      <guid isPermaLink="false">48534</guid>
-      <pubDate>Tue, 02 Dec 2025 05:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5563/c7adcf58-4775-4635-a2db-6a65395af75c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] The Hidden Keys - An Urban Horror TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/triplecastgames/the-hidden-keys-ttrpg?ref=</link>
-      <guid isPermaLink="false">48533</guid>
-      <pubDate>Tue, 02 Dec 2025 00:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6635/9eb699b2-0568-4450-9f6e-99628c3c8348.png" type="image/png" />
     </item>
   </channel>
 </rss>
