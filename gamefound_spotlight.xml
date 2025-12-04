@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 04 Dec 2025 11:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 12:26:42 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Licensed Inserts for Ludus Magnus Studio Games</title>
+      <link>https://gamefound.com:443/en/projects/polandgames/licensed-inserts-for-ludus-magnus-studio-games?ref=</link>
+      <guid isPermaLink="false">48565</guid>
+      <pubDate>Thu, 04 Dec 2025 12:04:20 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6828/856b3099-016b-4931-a2d7-99575bf4df5f.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] HexTerrain - printable gaming board - has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
