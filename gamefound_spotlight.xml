@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 04 Dec 2025 15:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 15:43:20 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Queen of Spies</title>
@@ -52,7 +52,7 @@
       <guid isPermaLink="false">48561</guid>
       <pubDate>Wed, 03 Dec 2025 18:46:16 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6789/e66bd325-3de7-45e2-ac06-76313e59de9c.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6789/f3006bac-f69f-42dd-8983-281e754a86c2.png" type="image/png" />
     </item>
     <item>
       <title>[24 hours left] Snowdonia: Grand Tour + Special Edition</title>
