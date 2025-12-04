@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 04 Dec 2025 09:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 10:15:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] HexTerrain - printable gaming board - has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
+      <guid isPermaLink="false">48564</guid>
+      <pubDate>Thu, 04 Dec 2025 09:44:48 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6624/feda7754-4762-4573-ac1d-e05ffcb48446.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Restless</title>
       <link>https://gamefound.com:443/en/projects/restless-designs/restless?ref=</link>
