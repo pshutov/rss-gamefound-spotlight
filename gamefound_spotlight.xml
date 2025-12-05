@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 05 Dec 2025 12:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 13:06:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Boktor: Explore, Fight, Evolve has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest?ref=</link>
+      <guid isPermaLink="false">48571</guid>
+      <pubDate>Fri, 05 Dec 2025 12:27:07 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/18e7d7b6-da06-4ef4-b2a1-00b6e1a1495f.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Great Again: Democracy At All Costs</title>
       <link>https://gamefound.com:443/en/projects/lorekick/great-again-democracy-at-all-costs?ref=</link>
