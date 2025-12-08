@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 08 Dec 2025 05:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 06:21:50 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Exactly As Planned</title>
