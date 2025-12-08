@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 08 Dec 2025 15:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 15:41:33 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] 1130+ Fantasy Battle maps for TTRPG and VTTRPG</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/1130-fantasy-battle-maps-for-ttrpg-and-vttrpg?ref=</link>
+      <guid isPermaLink="false">48579</guid>
+      <pubDate>Mon, 08 Dec 2025 15:35:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6769/49917341-0c0c-479c-91db-95bf28f74986.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] EcoLogic North America</title>
       <link>https://gamefound.com:443/en/projects/istota-rzeczy-borys-binkowski-/ecologic-north-america?ref=</link>
