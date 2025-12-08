@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 08 Dec 2025 13:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 14:14:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] EcoLogic North America</title>
+      <link>https://gamefound.com:443/en/projects/istota-rzeczy-borys-binkowski-/ecologic-north-america?ref=</link>
+      <guid isPermaLink="false">48578</guid>
+      <pubDate>Mon, 08 Dec 2025 14:02:32 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6897/1ca0c2f6-f990-40e0-9735-d721927946c7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Guardians of the Abyssal Waters Vol. I - STL FILES</title>
+      <link>https://gamefound.com:443/en/projects/miniversestl/guardians-of-the-abyssal-waters-vol-i?ref=</link>
+      <guid isPermaLink="false">48577</guid>
+      <pubDate>Mon, 08 Dec 2025 14:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6399/2b6029ca-a868-4067-ba23-b7251d9bee7f.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Christmas Union has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/fagner-lima/christmas-union?ref=</link>
@@ -109,86 +125,6 @@
       <pubDate>Thu, 04 Dec 2025 09:44:48 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6624/feda7754-4762-4573-ac1d-e05ffcb48446.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Restless</title>
-      <link>https://gamefound.com:443/en/projects/restless-designs/restless?ref=</link>
-      <guid isPermaLink="false">48563</guid>
-      <pubDate>Wed, 03 Dec 2025 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4629/60559d0b-f8bb-4365-840a-885b6f4a87b6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Crossroads Wargame 'Principalities and Powers'</title>
-      <link>https://gamefound.com:443/en/projects/crossroads-wargame/principalities-and-powers?ref=</link>
-      <guid isPermaLink="false">48562</guid>
-      <pubDate>Wed, 03 Dec 2025 19:31:52 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6773/60db826b-7282-4629-8a9a-b6c418f5c514.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Age of Outlanders</title>
-      <link>https://gamefound.com:443/en/projects/burcu-alexandru/age-of-outlanders?ref=</link>
-      <guid isPermaLink="false">48561</guid>
-      <pubDate>Wed, 03 Dec 2025 18:46:16 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6789/f3006bac-f69f-42dd-8983-281e754a86c2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Snowdonia: Grand Tour + Special Edition</title>
-      <link>https://gamefound.com:443/en/projects/naylorgames/snowdonia-grand-tour?ref=</link>
-      <guid isPermaLink="false">48560</guid>
-      <pubDate>Wed, 03 Dec 2025 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5150/0b0d1f70-5c02-4699-8f12-a0f3504c4e33.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Mage Potion Dice: Handcrafted liquid Core RPG dice</title>
-      <link>https://gamefound.com:443/en/projects/beardice/mage-potion-dice-handcrafted-liquid-core-rpg-dice?ref=</link>
-      <guid isPermaLink="false">48559</guid>
-      <pubDate>Wed, 03 Dec 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/9199269f-f9f4-4330-8b85-c07af85339d5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Northgard: Uncharted Horizons - Expansion</title>
-      <link>https://gamefound.com:443/en/projects/open-sesame-games/northgard-uncharted-horizons---expansion?ref=</link>
-      <guid isPermaLink="false">48558</guid>
-      <pubDate>Wed, 03 Dec 2025 13:33:22 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6554/94ca3ea7-5bbf-4e33-8c17-0712b4751344.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Great Again: Democracy At All Costs has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/lorekick/great-again-democracy-at-all-costs?ref=</link>
-      <guid isPermaLink="false">48557</guid>
-      <pubDate>Wed, 03 Dec 2025 12:49:21 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6672/58db935f-89b3-461d-830f-1e58ced91783.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] HexTerrain - printable gaming board -</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
-      <guid isPermaLink="false">48556</guid>
-      <pubDate>Wed, 03 Dec 2025 10:06:49 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6624/feda7754-4762-4573-ac1d-e05ffcb48446.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Micro Architects: Big City Vacation has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/thistroygames/micro-architects-big-city-vacation?ref=</link>
-      <guid isPermaLink="false">48555</guid>
-      <pubDate>Wed, 03 Dec 2025 08:34:45 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5653/abbb175d-24a5-43dc-901d-50dcc65023ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Mage Potion Dice: Handcrafted liquid Core RPG dice has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/beardice/mage-potion-dice-handcrafted-liquid-core-rpg-dice?ref=</link>
-      <guid isPermaLink="false">48554</guid>
-      <pubDate>Wed, 03 Dec 2025 07:23:55 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/9199269f-f9f4-4330-8b85-c07af85339d5.png" type="image/png" />
     </item>
   </channel>
 </rss>
