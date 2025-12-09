@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 09 Dec 2025 10:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 11:12:10 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Penance: Knightfall</title>
+      <link>https://gamefound.com:443/en/projects/david/penance-knightfall?ref=</link>
+      <guid isPermaLink="false">48585</guid>
+      <pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6390/589f57ff-9dbd-46cd-bc50-eb3391de3735.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Arydia: The Paths We Dare Tread - Second Printing</title>
       <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
