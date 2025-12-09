@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 09 Dec 2025 15:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 16:20:55 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Heropolis - Hero of the day!</title>
+      <link>https://gamefound.com:443/en/projects/mischi_matth/heropolis-hero-of-the-day?ref=</link>
+      <guid isPermaLink="false">48588</guid>
+      <pubDate>Tue, 09 Dec 2025 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5250/f11783dd-9c0b-4a4d-92cb-d83ca01e50cc.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Mage Noir - Black &amp; Gold Edition</title>
       <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition?ref=</link>
@@ -117,46 +125,6 @@
       <pubDate>Sun, 07 Dec 2025 22:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6516/6aa123bf-f902-4b39-9384-4da568cabb49.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Small Time Heroes Reprint and Expansion [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/small-time-heroes-reprint-and-expansion-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">48573</guid>
-      <pubDate>Fri, 05 Dec 2025 23:04:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6817/c43e75a4-8d4c-40db-ba31-2eda26c5ca8c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Hymnen der Zwölf - Musik für die Kirchen Alverans</title>
-      <link>https://gamefound.com:443/en/projects/trilobeat-studios/hymnen-der-zwoelf?ref=</link>
-      <guid isPermaLink="false">48572</guid>
-      <pubDate>Fri, 05 Dec 2025 14:37:17 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6849/29f0b38a-3a72-4c45-8385-bc06c71507c5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Boktor: Explore, Fight, Evolve has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest?ref=</link>
-      <guid isPermaLink="false">48571</guid>
-      <pubDate>Fri, 05 Dec 2025 12:27:07 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/18e7d7b6-da06-4ef4-b2a1-00b6e1a1495f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Great Again: Democracy At All Costs</title>
-      <link>https://gamefound.com:443/en/projects/lorekick/great-again-democracy-at-all-costs?ref=</link>
-      <guid isPermaLink="false">48570</guid>
-      <pubDate>Fri, 05 Dec 2025 09:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6672/58db935f-89b3-461d-830f-1e58ced91783.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Wizard Bar Fight</title>
-      <link>https://gamefound.com:443/en/projects/evilwizardgaming/wizard-bar-fight?ref=</link>
-      <guid isPermaLink="false">48569</guid>
-      <pubDate>Fri, 05 Dec 2025 00:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4804/d402c56f-56a7-4f94-955e-6d82de6c07de.png" type="image/png" />
     </item>
   </channel>
 </rss>
