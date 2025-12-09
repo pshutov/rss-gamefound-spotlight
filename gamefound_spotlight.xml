@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 08 Dec 2025 23:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 00:59:09 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Light and Darkness</title>
