@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 09 Dec 2025 20:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 20:38:05 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Heropolis - Hero of the day!</title>
+      <link>https://gamefound.com:443/en/projects/mischi_matth/heropolis-hero-of-the-day?ref=</link>
+      <guid isPermaLink="false">48590</guid>
+      <pubDate>Tue, 09 Dec 2025 20:24:45 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5250/f11783dd-9c0b-4a4d-92cb-d83ca01e50cc.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] The Hunters A. D. 1492 2nd Edition and Borderlands Expansion</title>
       <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-and-borderlands-expansion?ref=</link>
