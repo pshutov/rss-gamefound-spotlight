@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 09 Dec 2025 13:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 14:14:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Mage Noir - Black &amp; Gold Edition</title>
+      <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition?ref=</link>
+      <guid isPermaLink="false">48587</guid>
+      <pubDate>Tue, 09 Dec 2025 13:57:08 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6941/7d37f566-9d1c-4c77-94ba-3b2b8955246c.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Jack: Shadows in the Fog has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/paper-tigers/jack-shadows-in-the-fog?ref=</link>
