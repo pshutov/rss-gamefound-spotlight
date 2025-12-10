@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 10 Dec 2025 16:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 16:49:16 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Micro Architects: Big City Vacation</title>
