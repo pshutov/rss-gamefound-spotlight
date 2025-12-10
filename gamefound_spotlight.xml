@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 10 Dec 2025 18:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 19:12:02 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] VoidRoll - A Year-Long Voyage</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
+      <guid isPermaLink="false">48594</guid>
+      <pubDate>Wed, 10 Dec 2025 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/7f695cbd-256f-4fd6-8edb-adbf3e0f2321.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Micro Architects: Big City Vacation</title>
       <link>https://gamefound.com:443/en/projects/thistroygames/micro-architects-big-city-vacation?ref=</link>
