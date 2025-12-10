@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 10 Dec 2025 14:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 15:16:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Christmas Union</title>
+      <link>https://gamefound.com:443/en/projects/fagner-lima/christmas-union?ref=</link>
+      <guid isPermaLink="false">48592</guid>
+      <pubDate>Wed, 10 Dec 2025 15:10:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6743/b4cb16a8-c3c1-447f-87ec-7b587b287b6c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Tinctura</title>
+      <link>https://gamefound.com:443/en/projects/skellig-games/tinctura?ref=</link>
+      <guid isPermaLink="false">48591</guid>
+      <pubDate>Wed, 10 Dec 2025 15:06:09 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6934/1cfccd4b-dcd8-46f0-87a4-a8b9784abb01.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Heropolis - Hero of the day!</title>
       <link>https://gamefound.com:443/en/projects/mischi_matth/heropolis-hero-of-the-day?ref=</link>
