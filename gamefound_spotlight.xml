@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 11 Dec 2025 11:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 11:39:05 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Hymnen der Zwölf - Musik für die Kirchen Alverans has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/trilobeat-studios/hymnen-der-zwoelf?ref=</link>
+      <guid isPermaLink="false">48602</guid>
+      <pubDate>Thu, 11 Dec 2025 11:10:06 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6849/29f0b38a-3a72-4c45-8385-bc06c71507c5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] HexTerrain - printable gaming board -</title>
       <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
