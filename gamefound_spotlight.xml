@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 12 Dec 2025 01:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 03:04:47 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Slavic Spirits Tarot: Deck Inspired by Ancient Knowledge</title>
+      <link>https://gamefound.com:443/en/projects/anastasiia-zelenska/slavic-spirits-tarot?ref=</link>
+      <guid isPermaLink="false">48605</guid>
+      <pubDate>Fri, 12 Dec 2025 01:32:20 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6924/ca17fe15-2674-4c53-83ec-8ba00500fdc4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning</title>
       <link>https://gamefound.com:443/en/projects/cthulhu-project/chants-for-the-old-ones-the-eye-of-dagon?ref=</link>
@@ -117,62 +125,6 @@
       <pubDate>Wed, 10 Dec 2025 15:06:09 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6934/1cfccd4b-dcd8-46f0-87a4-a8b9784abb01.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Heropolis - Hero of the day!</title>
-      <link>https://gamefound.com:443/en/projects/mischi_matth/heropolis-hero-of-the-day?ref=</link>
-      <guid isPermaLink="false">48590</guid>
-      <pubDate>Tue, 09 Dec 2025 20:24:45 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5250/f11783dd-9c0b-4a4d-92cb-d83ca01e50cc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Hunters A. D. 1492 2nd Edition and Borderlands Expansion</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-and-borderlands-expansion?ref=</link>
-      <guid isPermaLink="false">48589</guid>
-      <pubDate>Tue, 09 Dec 2025 20:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6493/9f796854-00c8-4629-8b50-595d8cfa7bc0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Heropolis - Hero of the day!</title>
-      <link>https://gamefound.com:443/en/projects/mischi_matth/heropolis-hero-of-the-day?ref=</link>
-      <guid isPermaLink="false">48588</guid>
-      <pubDate>Tue, 09 Dec 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5250/f11783dd-9c0b-4a4d-92cb-d83ca01e50cc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Mage Noir - Black &amp; Gold Edition</title>
-      <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition?ref=</link>
-      <guid isPermaLink="false">48587</guid>
-      <pubDate>Tue, 09 Dec 2025 13:57:08 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6941/7d37f566-9d1c-4c77-94ba-3b2b8955246c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Jack: Shadows in the Fog has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/paper-tigers/jack-shadows-in-the-fog?ref=</link>
-      <guid isPermaLink="false">48586</guid>
-      <pubDate>Tue, 09 Dec 2025 12:56:54 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6650/490b911a-e920-4411-82b7-f906809ecbdc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Penance: Knightfall</title>
-      <link>https://gamefound.com:443/en/projects/david/penance-knightfall?ref=</link>
-      <guid isPermaLink="false">48585</guid>
-      <pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6390/589f57ff-9dbd-46cd-bc50-eb3391de3735.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Arydia: The Paths We Dare Tread - Second Printing</title>
-      <link>https://gamefound.com:443/en/projects/far-off-games/arydia-2nd-printing?ref=</link>
-      <guid isPermaLink="false">48584</guid>
-      <pubDate>Tue, 09 Dec 2025 02:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6368/3bbcab43-8948-4453-b068-15e444ab52a3.png" type="image/png" />
     </item>
   </channel>
 </rss>
