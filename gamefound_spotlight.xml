@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 13 Dec 2025 23:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 23:36:58 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Blood Economy [A Solo Vampire Card Game]</title>
+      <link>https://gamefound.com:443/en/projects/mod-games/blood-economy?ref=</link>
+      <guid isPermaLink="false">49611</guid>
+      <pubDate>Sat, 13 Dec 2025 23:21:11 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/89318178-59e2-4e9c-996f-f9121b4ee75b.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Hymnen der Zwölf - Musik für die Kirchen Alverans</title>
       <link>https://gamefound.com:443/en/projects/trilobeat-studios/hymnen-der-zwoelf?ref=</link>
@@ -117,62 +125,6 @@
       <pubDate>Thu, 11 Dec 2025 06:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6282/a77324f6-f3bb-4ace-b212-2215f02e0bba.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Fantasy Terrain – Kingdom of Hyberia</title>
-      <link>https://gamefound.com:443/en/projects/battle-systems/fantasy-terrain-kingdom-of-hyberia?ref=</link>
-      <guid isPermaLink="false">48597</guid>
-      <pubDate>Wed, 10 Dec 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6576/030ebdb0-3bad-4082-b15e-7f15c14df28a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Eternitium - Race through time !</title>
-      <link>https://gamefound.com:443/en/projects/haumea-games/eternitium?ref=</link>
-      <guid isPermaLink="false">48596</guid>
-      <pubDate>Wed, 10 Dec 2025 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6107/50b6fed5-f97d-4c63-90c1-d6244be0b48f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] ArtPieces Jigsaw Puzzles</title>
-      <link>https://gamefound.com:443/en/projects/iconic-creations/artpieces-jigsaw-puzzles?ref=</link>
-      <guid isPermaLink="false">48595</guid>
-      <pubDate>Wed, 10 Dec 2025 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5956/9f3bcdda-bf90-49e5-a80b-9c2f092bac93.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] VoidRoll - A Year-Long Voyage</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/voidroll?ref=</link>
-      <guid isPermaLink="false">48594</guid>
-      <pubDate>Wed, 10 Dec 2025 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6522/7f695cbd-256f-4fd6-8edb-adbf3e0f2321.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Micro Architects: Big City Vacation</title>
-      <link>https://gamefound.com:443/en/projects/thistroygames/micro-architects-big-city-vacation?ref=</link>
-      <guid isPermaLink="false">48593</guid>
-      <pubDate>Wed, 10 Dec 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5653/abbb175d-24a5-43dc-901d-50dcc65023ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Christmas Union</title>
-      <link>https://gamefound.com:443/en/projects/fagner-lima/christmas-union?ref=</link>
-      <guid isPermaLink="false">48592</guid>
-      <pubDate>Wed, 10 Dec 2025 15:10:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6743/b4cb16a8-c3c1-447f-87ec-7b587b287b6c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Tinctura</title>
-      <link>https://gamefound.com:443/en/projects/skellig-games/tinctura?ref=</link>
-      <guid isPermaLink="false">48591</guid>
-      <pubDate>Wed, 10 Dec 2025 15:06:09 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6934/1cfccd4b-dcd8-46f0-87a4-a8b9784abb01.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
