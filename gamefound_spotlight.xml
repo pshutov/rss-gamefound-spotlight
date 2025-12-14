@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 14 Dec 2025 11:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 12:31:32 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Blood Economy [A Solo Vampire Card Game]</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="false">49611</guid>
       <pubDate>Sat, 13 Dec 2025 23:21:11 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/89318178-59e2-4e9c-996f-f9121b4ee75b.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/9ad3528d-abc1-47a7-b562-a1d90d12660d.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign is funded] Hymnen der Zwölf - Musik für die Kirchen Alverans</title>
