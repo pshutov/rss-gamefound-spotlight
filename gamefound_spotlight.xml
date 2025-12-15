@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 15 Dec 2025 13:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 14:24:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] WTC Foldable Sci-Fi Terrain Set has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/frto/wtc-foldable-terrain?ref=</link>
+      <guid isPermaLink="false">49613</guid>
+      <pubDate>Mon, 15 Dec 2025 14:19:36 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/571cc1bc-f314-4d05-bc02-f04dbbb7e6af.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Amass 2nd Edition</title>
       <link>https://gamefound.com:443/en/projects/dfg/amass-second-ed?ref=</link>
