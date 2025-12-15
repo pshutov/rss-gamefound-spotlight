@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 15 Dec 2025 16:54:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 17:18:32 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Das Schwarze Auge - Kirchen Alverans</title>
+      <link>https://gamefound.com:443/en/projects/ulisses-spiele/kirchenalverans?ref=</link>
+      <guid isPermaLink="false">49614</guid>
+      <pubDate>Mon, 15 Dec 2025 17:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5935/4cad5edb-324a-4fcf-bc72-b7a60e09b4aa.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] WTC Foldable Sci-Fi Terrain Set has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/frto/wtc-foldable-terrain?ref=</link>
