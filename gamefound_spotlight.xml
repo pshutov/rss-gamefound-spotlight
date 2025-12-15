@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 15 Dec 2025 16:19:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 16:54:58 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] WTC Foldable Sci-Fi Terrain Set has a starting date.</title>
