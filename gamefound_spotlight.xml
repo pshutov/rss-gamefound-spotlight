@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 16 Dec 2025 15:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 15:42:53 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Room 25 : 5th edition</title>
+      <link>https://gamefound.com:443/en/projects/matagot/room-25--5th-edition?ref=</link>
+      <guid isPermaLink="false">49617</guid>
+      <pubDate>Tue, 16 Dec 2025 15:26:29 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6942/9896dfbc-2165-4295-acaa-740a967ef0b4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Elves' War has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/redclouds/elves-war?ref=</link>
