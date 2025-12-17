@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 17 Dec 2025 12:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 13:12:04 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] WTC Foldable Sci-Fi Terrain Set</title>
+      <link>https://gamefound.com:443/en/projects/frto/wtc-foldable-terrain?ref=</link>
+      <guid isPermaLink="false">49620</guid>
+      <pubDate>Wed, 17 Dec 2025 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/571cc1bc-f314-4d05-bc02-f04dbbb7e6af.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
+      <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map?ref=</link>
+      <guid isPermaLink="false">49619</guid>
+      <pubDate>Wed, 17 Dec 2025 12:49:23 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/6809cf67-09c7-4291-9c31-3bd9af047362.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New Late Pledge] Far Far Out - Late Pledge &amp; Pledge Manager</title>
       <link>https://gamefound.com:443/en/projects/studio-infinitus/far-far-out-pm?ref=</link>
