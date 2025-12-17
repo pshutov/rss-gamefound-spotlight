@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 17 Dec 2025 10:16:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 10:46:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Late Pledge] Far Far Out - Late Pledge &amp; Pledge Manager</title>
+      <link>https://gamefound.com:443/en/projects/studio-infinitus/far-far-out-pm?ref=</link>
+      <guid isPermaLink="false">49618</guid>
+      <pubDate>Wed, 17 Dec 2025 10:20:06 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6829/f9ff13c2-9f49-4747-a907-71aac2b54365.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Room 25 : 5th edition</title>
       <link>https://gamefound.com:443/en/projects/matagot/room-25--5th-edition?ref=</link>
@@ -117,62 +125,6 @@
       <pubDate>Fri, 12 Dec 2025 01:32:20 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6924/ca17fe15-2674-4c53-83ec-8ba00500fdc4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Chants for the Old Ones: The Eye of Dagon &amp; New Orders Reckoning</title>
-      <link>https://gamefound.com:443/en/projects/cthulhu-project/chants-for-the-old-ones-the-eye-of-dagon?ref=</link>
-      <guid isPermaLink="false">48604</guid>
-      <pubDate>Thu, 11 Dec 2025 22:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6039/02c6be86-1be1-4b4e-a0e1-198bb4b05dc4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Strife and Valor has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/green-eyed-angel-ltd/strife-and-valor?ref=</link>
-      <guid isPermaLink="false">48603</guid>
-      <pubDate>Thu, 11 Dec 2025 13:21:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3883/48abfdfb-823c-4637-95a5-ead430b68f3a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Hymnen der Zwölf - Musik für die Kirchen Alverans has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/trilobeat-studios/hymnen-der-zwoelf?ref=</link>
-      <guid isPermaLink="false">48602</guid>
-      <pubDate>Thu, 11 Dec 2025 11:10:06 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6849/29f0b38a-3a72-4c45-8385-bc06c71507c5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] HexTerrain - printable gaming board -</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
-      <guid isPermaLink="false">48601</guid>
-      <pubDate>Thu, 11 Dec 2025 11:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6624/feda7754-4762-4573-ac1d-e05ffcb48446.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] HEYtrace Battle Mat — Traceable Reusable Curl-Free D&amp;D Mat</title>
-      <link>https://gamefound.com:443/en/projects/heyii/heytrace-battle-mat?ref=</link>
-      <guid isPermaLink="false">48600</guid>
-      <pubDate>Thu, 11 Dec 2025 10:54:14 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6895/2e4c077a-9997-4854-8a79-52152b659eb7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Metal RPG Class Coins - The Twelve Classes has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/skullsspirals/rpg-class-coins?ref=</link>
-      <guid isPermaLink="false">48599</guid>
-      <pubDate>Thu, 11 Dec 2025 08:11:30 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6115/048f6b25-2bf3-4a70-845c-601ada33aabb.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Marcher: Empires at War First Edition</title>
-      <link>https://gamefound.com:443/en/projects/golden-dragon-games-inc/marcher-empires-at-war-first-edition?ref=</link>
-      <guid isPermaLink="false">48598</guid>
-      <pubDate>Thu, 11 Dec 2025 06:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6282/a77324f6-f3bb-4ace-b212-2215f02e0bba.png" type="image/png" />
     </item>
   </channel>
 </rss>
