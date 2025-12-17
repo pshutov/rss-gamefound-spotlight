@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 17 Dec 2025 07:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 07:41:05 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Room 25 : 5th edition</title>
