@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 18 Dec 2025 07:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 08:18:22 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Night Race has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/rpg-board-game/night-race?ref=</link>
+      <guid isPermaLink="false">49627</guid>
+      <pubDate>Thu, 18 Dec 2025 08:17:14 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5715/14bc3be9-0adc-4293-9eb9-0a0e4984dcde.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] HOOD: Troubles in Sherwood</title>
       <link>https://gamefound.com:443/en/projects/phalanx/hood?ref=</link>
@@ -31,7 +39,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6987/2b9de929-82fd-4a02-ad3a-7af0051245a5.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[New blog post] [What's New] Guest Following &amp; Unpaid Orders Improvemens</title>
+      <title>[New blog post] [What's New] Guest Following &amp; Unpaid Orders Improvements</title>
       <link>https://gamefound.com/blog/post/guest-following-unpaid-order-handling</link>
       <guid isPermaLink="false">49622</guid>
       <pubDate>Wed, 17 Dec 2025 16:09:48 +0000</pubDate>
@@ -59,7 +67,7 @@
       <guid isPermaLink="false">49619</guid>
       <pubDate>Wed, 17 Dec 2025 12:49:23 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/6809cf67-09c7-4291-9c31-3bd9af047362.jpeg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/185c171d-1e7d-4aab-be15-48c4dfaae1de.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[New Late Pledge] Far Far Out - Late Pledge &amp; Pledge Manager</title>
@@ -108,38 +116,6 @@
       <pubDate>Mon, 15 Dec 2025 14:19:36 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/571cc1bc-f314-4d05-bc02-f04dbbb7e6af.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Amass 2nd Edition</title>
-      <link>https://gamefound.com:443/en/projects/dfg/amass-second-ed?ref=</link>
-      <guid isPermaLink="false">49612</guid>
-      <pubDate>Sun, 14 Dec 2025 17:10:00 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5774/c339deaf-9b0d-4d9a-b7cc-1af39ce1a51f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Blood Economy [A Solo Vampire Card Game]</title>
-      <link>https://gamefound.com:443/en/projects/mod-games/blood-economy?ref=</link>
-      <guid isPermaLink="false">49611</guid>
-      <pubDate>Sat, 13 Dec 2025 23:21:11 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/9ad3528d-abc1-47a7-b562-a1d90d12660d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Hymnen der Zwölf - Musik für die Kirchen Alverans</title>
-      <link>https://gamefound.com:443/en/projects/trilobeat-studios/hymnen-der-zwoelf?ref=</link>
-      <guid isPermaLink="false">49610</guid>
-      <pubDate>Sat, 13 Dec 2025 12:54:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6849/29f0b38a-3a72-4c45-8385-bc06c71507c5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Hymnen der Zwölf - Musik für die Kirchen Alverans</title>
-      <link>https://gamefound.com:443/en/projects/trilobeat-studios/hymnen-der-zwoelf?ref=</link>
-      <guid isPermaLink="false">49609</guid>
-      <pubDate>Sat, 13 Dec 2025 12:12:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6849/29f0b38a-3a72-4c45-8385-bc06c71507c5.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
