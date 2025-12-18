@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 18 Dec 2025 22:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 22:41:33 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New Late Pledge] Garage Rock</title>
@@ -83,7 +83,7 @@
       <guid isPermaLink="false">49620</guid>
       <pubDate>Wed, 17 Dec 2025 13:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/571cc1bc-f314-4d05-bc02-f04dbbb7e6af.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/bc27ab87-8e12-473f-a6c1-0c400ebadfca.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[New project] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">49613</guid>
       <pubDate>Mon, 15 Dec 2025 14:19:36 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/571cc1bc-f314-4d05-bc02-f04dbbb7e6af.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/bc27ab87-8e12-473f-a6c1-0c400ebadfca.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
