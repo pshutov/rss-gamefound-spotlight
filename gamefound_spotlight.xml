@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 18 Dec 2025 08:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 08:50:48 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] Night Race has a starting date.</title>
@@ -67,7 +67,7 @@
       <guid isPermaLink="false">49619</guid>
       <pubDate>Wed, 17 Dec 2025 12:49:23 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/185c171d-1e7d-4aab-be15-48c4dfaae1de.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/b2f811ea-de70-4cb5-a066-aa5b0bff902a.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[New Late Pledge] Far Far Out - Late Pledge &amp; Pledge Manager</title>
