@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 19 Dec 2025 13:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 13:48:32 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] World of Dabado has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/viktor-mazhlekov/world-of-dabado?ref=</link>
+      <guid isPermaLink="false">49636</guid>
+      <pubDate>Fri, 19 Dec 2025 13:11:26 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6987/2b9de929-82fd-4a02-ad3a-7af0051245a5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Aurigae has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/ludarisgamesarena/aurigae?ref=</link>
