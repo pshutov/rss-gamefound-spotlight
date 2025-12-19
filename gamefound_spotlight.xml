@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 18 Dec 2025 23:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 01:01:38 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Christmas Union</title>
+      <link>https://gamefound.com:443/en/projects/fagner-lima/christmas-union?ref=</link>
+      <guid isPermaLink="false">49631</guid>
+      <pubDate>Fri, 19 Dec 2025 00:31:34 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6743/b4cb16a8-c3c1-447f-87ec-7b587b287b6c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] The Teller System + Campaign Scenarios</title>
+      <link>https://gamefound.com:443/en/projects/blood-moon-games-ltd/the-teller-system?ref=</link>
+      <guid isPermaLink="false">49630</guid>
+      <pubDate>Fri, 19 Dec 2025 00:30:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5979/8623a32f-4475-4ff1-8ac1-0be275867125.png" type="image/png" />
+    </item>
     <item>
       <title>[New Late Pledge] Garage Rock</title>
       <link>https://gamefound.com:443/en/projects/mariposa-games/garage-rock-pm?ref=</link>
@@ -116,30 +132,6 @@
       <pubDate>Tue, 16 Dec 2025 10:15:44 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6453/b5c9c626-d7bc-445f-88c4-b93d9db6bca7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] The Witcher: Legacy</title>
-      <link>https://gamefound.com:443/en/projects/go-on-board/the-witcher-legacy?ref=</link>
-      <guid isPermaLink="false">49615</guid>
-      <pubDate>Mon, 15 Dec 2025 21:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6154/1de3f3ee-62ab-44cf-9e50-d4e87f7f06ca.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Das Schwarze Auge - Kirchen Alverans</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/kirchenalverans?ref=</link>
-      <guid isPermaLink="false">49614</guid>
-      <pubDate>Mon, 15 Dec 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5935/4cad5edb-324a-4fcf-bc72-b7a60e09b4aa.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] WTC Foldable Sci-Fi Terrain Set has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/frto/wtc-foldable-terrain?ref=</link>
-      <guid isPermaLink="false">49613</guid>
-      <pubDate>Mon, 15 Dec 2025 14:19:36 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/bc27ab87-8e12-473f-a6c1-0c400ebadfca.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
