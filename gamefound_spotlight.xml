@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 19 Dec 2025 19:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 20:14:39 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] World of Dabado has a starting date.</title>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">49620</guid>
       <pubDate>Wed, 17 Dec 2025 13:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/bc27ab87-8e12-473f-a6c1-0c400ebadfca.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/d0659c7d-efe4-4929-aec1-aa27aac33ae6.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[New project] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
