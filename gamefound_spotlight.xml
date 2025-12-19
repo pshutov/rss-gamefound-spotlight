@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 19 Dec 2025 09:22:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 09:43:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Tycoon Games Licensed Game Inserts</title>
+      <link>https://gamefound.com:443/en/projects/e-raptor/tycoon-games-licensed-game-inserts?ref=</link>
+      <guid isPermaLink="false">49633</guid>
+      <pubDate>Fri, 19 Dec 2025 09:31:38 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6997/18842a04-28b9-464d-b116-18c7964537b3.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Radiance [Solo Game of the Month]</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/radiance-solo-game-of-the-month?ref=</link>
