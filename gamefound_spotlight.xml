@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 19 Dec 2025 07:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 07:39:32 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Radiance [Solo Game of the Month]</title>
@@ -44,7 +44,7 @@
       <guid isPermaLink="false">49628</guid>
       <pubDate>Thu, 18 Dec 2025 09:50:42 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8028/2d50f43e-9fc3-443d-bc86-1d447f3931ee.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8028/5b1d609c-2cf2-4fd2-ac70-80a9ba6abc28.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Launch date] Night Race has a starting date.</title>
