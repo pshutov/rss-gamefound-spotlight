@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 20 Dec 2025 21:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 21:34:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Behind the Trenches</title>
+      <link>https://gamefound.com:443/en/projects/f1fighterpilot/behind-the-trenches?ref=</link>
+      <guid isPermaLink="false">49640</guid>
+      <pubDate>Sat, 20 Dec 2025 21:11:45 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5971/c0763814-ed85-424d-b0b3-24bbda202732.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Night Race</title>
       <link>https://gamefound.com:443/en/projects/rpg-board-game/night-race?ref=</link>
@@ -117,69 +125,6 @@
       <pubDate>Thu, 18 Dec 2025 07:45:36 +0000</pubDate>
       <description>New Pledge Manager</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6827/e3de283f-022c-436b-a8dc-4f9a504696f3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] HOOD: Troubles in Sherwood</title>
-      <link>https://gamefound.com:443/en/projects/phalanx/hood?ref=</link>
-      <guid isPermaLink="false">49625</guid>
-      <pubDate>Wed, 17 Dec 2025 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5497/75a0c460-d611-4cdb-a267-c1345c5f6ee3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Byzantion</title>
-      <link>https://gamefound.com:443/en/projects/meeple-pug/byzantion?ref=</link>
-      <guid isPermaLink="false">49624</guid>
-      <pubDate>Wed, 17 Dec 2025 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6117/1e6cd017-99f0-466d-8305-00a408711c3d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] World of Dabado</title>
-      <link>https://gamefound.com:443/en/projects/viktor-mazhlekov/world-of-dabado?ref=</link>
-      <guid isPermaLink="false">49623</guid>
-      <pubDate>Wed, 17 Dec 2025 16:46:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6987/2b9de929-82fd-4a02-ad3a-7af0051245a5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New blog post] [What's New] Guest Following &amp; Unpaid Orders Improvements</title>
-      <link>https://gamefound.com/blog/post/guest-following-unpaid-order-handling</link>
-      <guid isPermaLink="false">49622</guid>
-      <pubDate>Wed, 17 Dec 2025 16:09:48 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[Campaign start] Metal RPG Class Coins - The Twelve Classes</title>
-      <link>https://gamefound.com:443/en/projects/skullsspirals/rpg-class-coins?ref=</link>
-      <guid isPermaLink="false">49621</guid>
-      <pubDate>Wed, 17 Dec 2025 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6115/27123a50-cd4c-41cf-ab29-cbe76cff3621.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] WTC Foldable Sci-Fi Terrain Set</title>
-      <link>https://gamefound.com:443/en/projects/frto/wtc-foldable-terrain?ref=</link>
-      <guid isPermaLink="false">49620</guid>
-      <pubDate>Wed, 17 Dec 2025 13:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/cf68a124-de48-4e7e-a0ad-35cdf625a78c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
-      <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map?ref=</link>
-      <guid isPermaLink="false">49619</guid>
-      <pubDate>Wed, 17 Dec 2025 12:49:23 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/b2f811ea-de70-4cb5-a066-aa5b0bff902a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Far Far Out - Late Pledge &amp; Pledge Manager</title>
-      <link>https://gamefound.com:443/en/projects/studio-infinitus/far-far-out-pm?ref=</link>
-      <guid isPermaLink="false">49618</guid>
-      <pubDate>Wed, 17 Dec 2025 10:20:06 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6829/f9ff13c2-9f49-4747-a907-71aac2b54365.png" type="image/png" />
     </item>
   </channel>
 </rss>
