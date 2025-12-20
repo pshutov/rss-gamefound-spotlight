@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 20 Dec 2025 04:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 05:12:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Night Race</title>
+      <link>https://gamefound.com:443/en/projects/rpg-board-game/night-race?ref=</link>
+      <guid isPermaLink="false">49639</guid>
+      <pubDate>Sat, 20 Dec 2025 05:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5715/14bc3be9-0adc-4293-9eb9-0a0e4984dcde.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Elves' War</title>
       <link>https://gamefound.com:443/en/projects/redclouds/elves-war?ref=</link>
