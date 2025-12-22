@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 22 Dec 2025 10:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 11:14:29 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Aurigae</title>
+      <link>https://gamefound.com:443/en/projects/ludarisgamesarena/aurigae?ref=</link>
+      <guid isPermaLink="false">49642</guid>
+      <pubDate>Mon, 22 Dec 2025 11:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6750/6c3ba298-fe0a-48b3-b2f8-cf50ff67e34a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Night Race</title>
       <link>https://gamefound.com:443/en/projects/rpg-board-game/night-race?ref=</link>
