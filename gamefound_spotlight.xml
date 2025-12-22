@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 22 Dec 2025 18:51:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 19:11:30 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Dragon Eclipse: The Grand Quest</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
+      <guid isPermaLink="false">49644</guid>
+      <pubDate>Mon, 22 Dec 2025 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5385/6a422aac-29d4-4dfe-b28c-13615e2af649.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Vileborn - Das düster-heroische Rollenspiel</title>
       <link>https://gamefound.com:443/en/projects/ulisses-spiele/vilebornde?ref=</link>
@@ -117,38 +125,6 @@
       <pubDate>Fri, 19 Dec 2025 00:30:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5979/8623a32f-4475-4ff1-8ac1-0be275867125.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Garage Rock</title>
-      <link>https://gamefound.com:443/en/projects/mariposa-games/garage-rock-pm?ref=</link>
-      <guid isPermaLink="false">49629</guid>
-      <pubDate>Thu, 18 Dec 2025 16:01:01 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7012/48d65bc3-ac77-4caa-ac7d-3517b820a73e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] BARZONE Cocktail Card Game</title>
-      <link>https://gamefound.com:443/en/projects/barzoneccg/barzone?ref=</link>
-      <guid isPermaLink="false">49628</guid>
-      <pubDate>Thu, 18 Dec 2025 09:50:42 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8028/5b1d609c-2cf2-4fd2-ac70-80a9ba6abc28.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Night Race has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/rpg-board-game/night-race?ref=</link>
-      <guid isPermaLink="false">49627</guid>
-      <pubDate>Thu, 18 Dec 2025 08:17:14 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5715/f2eadd06-0213-4909-9926-250f0c8c973e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Geeknson Project Vault</title>
-      <link>https://gamefound.com:443/en/projects/geeknson-team/geeknson-project-vault?ref=</link>
-      <guid isPermaLink="false">49626</guid>
-      <pubDate>Thu, 18 Dec 2025 07:45:36 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6827/e3de283f-022c-436b-a8dc-4f9a504696f3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
