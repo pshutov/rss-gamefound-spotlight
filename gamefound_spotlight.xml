@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 23 Dec 2025 03:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 04:10:21 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New Pledge Manager] Immediate Murder Professionals: A Helluva Boss Official Game</title>
