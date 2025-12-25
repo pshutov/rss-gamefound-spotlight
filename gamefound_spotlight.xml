@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 25 Dec 2025 21:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 22:12:32 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Helpdesk Hero</title>
