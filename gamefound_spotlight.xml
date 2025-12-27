@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 27 Dec 2025 09:38:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 10:12:55 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] soccerone</title>
+      <link>https://gamefound.com:443/en/projects/soccerone-official/soccerone?ref=</link>
+      <guid isPermaLink="false">49654</guid>
+      <pubDate>Sat, 27 Dec 2025 10:06:17 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6758/0d6d691a-894b-4334-846e-b91789926b42.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Rosa + Juliet limited physical edition</title>
       <link>https://gamefound.com:443/en/projects/renko-rodenburg/rosa--juliet-limited-edition-physical-copies?ref=</link>
