@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 27 Dec 2025 05:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 05:53:00 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Rosa + Juliet limited physical edition</title>
