@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 29 Dec 2025 20:43:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 21:11:48 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] 1130+ Fantasy Battle maps for TTRPG and VTTRPG</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/1130-fantasy-battle-maps-for-ttrpg-and-vttrpg?ref=</link>
+      <guid isPermaLink="false">49656</guid>
+      <pubDate>Mon, 29 Dec 2025 21:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6769/49917341-0c0c-479c-91db-95bf28f74986.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Jack: Shadows in the Fog</title>
       <link>https://gamefound.com:443/en/projects/paper-tigers/jack-shadows-in-the-fog?ref=</link>
@@ -117,14 +125,6 @@
       <pubDate>Mon, 22 Dec 2025 11:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6750/6c3ba298-fe0a-48b3-b2f8-cf50ff67e34a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Night Race</title>
-      <link>https://gamefound.com:443/en/projects/rpg-board-game/night-race?ref=</link>
-      <guid isPermaLink="false">49641</guid>
-      <pubDate>Sun, 21 Dec 2025 13:20:29 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5715/f2eadd06-0213-4909-9926-250f0c8c973e.png" type="image/png" />
     </item>
   </channel>
 </rss>
