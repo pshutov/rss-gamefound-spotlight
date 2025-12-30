@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 30 Dec 2025 10:45:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 11:12:43 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Metal RPG Class Coins - The Twelve Classes</title>
+      <link>https://gamefound.com:443/en/projects/skullsspirals/rpg-class-coins?ref=</link>
+      <guid isPermaLink="false">49657</guid>
+      <pubDate>Tue, 30 Dec 2025 11:00:02 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6115/27123a50-cd4c-41cf-ab29-cbe76cff3621.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] 1130+ Fantasy Battle maps for TTRPG and VTTRPG</title>
       <link>https://gamefound.com:443/en/projects/agnesagraphic/1130-fantasy-battle-maps-for-ttrpg-and-vttrpg?ref=</link>
