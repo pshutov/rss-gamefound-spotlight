@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 30 Dec 2025 17:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 18:20:18 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Tasuo World: Draconian Rise: V:1: Wyvern Ways has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/tasuo-showdown/wyvern-ways?ref=</link>
+      <guid isPermaLink="false">49660</guid>
+      <pubDate>Tue, 30 Dec 2025 18:17:27 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2726/81bb86db-9c0a-43d7-8c00-8c05ff6ccb99.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Gond Dabar - The Age of War</title>
       <link>https://gamefound.com:443/en/projects/pirata-games/gond-dabar---the-age-of-war?ref=</link>
@@ -117,38 +125,6 @@
       <pubDate>Tue, 23 Dec 2025 13:19:51 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8022/bfa8148e-3dcf-44c8-8aa5-e63280496c36.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Immediate Murder Professionals: A Helluva Boss Official Game</title>
-      <link>https://gamefound.com:443/en/projects/creatist-games/helluvabossgame?ref=</link>
-      <guid isPermaLink="false">49645</guid>
-      <pubDate>Mon, 22 Dec 2025 21:33:08 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6698/0cc338fa-ab92-4d07-9535-f06fe38c6225.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Dragon Eclipse: The Grand Quest</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/dragon-eclipse-the-grand-quest?ref=</link>
-      <guid isPermaLink="false">49644</guid>
-      <pubDate>Mon, 22 Dec 2025 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5385/6a422aac-29d4-4dfe-b28c-13615e2af649.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Vileborn - Das düster-heroische Rollenspiel</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/vilebornde?ref=</link>
-      <guid isPermaLink="false">49643</guid>
-      <pubDate>Mon, 22 Dec 2025 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6235/53f35661-0c5e-42ef-8b63-2f0f365f7a2a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Aurigae</title>
-      <link>https://gamefound.com:443/en/projects/ludarisgamesarena/aurigae?ref=</link>
-      <guid isPermaLink="false">49642</guid>
-      <pubDate>Mon, 22 Dec 2025 11:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6750/6c3ba298-fe0a-48b3-b2f8-cf50ff67e34a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
