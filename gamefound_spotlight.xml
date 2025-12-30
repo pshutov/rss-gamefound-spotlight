@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 30 Dec 2025 14:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 14:44:14 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Gond Dabar - The Age of War</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="false">49659</guid>
       <pubDate>Tue, 30 Dec 2025 14:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5082/f82cea9c-c38c-4c7a-b94a-5f14832d2fea.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5082/5ff57e7d-1984-4c2e-9622-92d8ce176d38.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] soccerone has a starting date.</title>
