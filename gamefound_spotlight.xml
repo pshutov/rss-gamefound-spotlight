@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 31 Dec 2025 13:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 13:48:07 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Caster's Cup – The Pocket-Sized Spellsinging Game</title>
+      <link>https://gamefound.com:443/en/projects/beaverlicious-games/casters-cup?ref=</link>
+      <guid isPermaLink="false">49665</guid>
+      <pubDate>Wed, 31 Dec 2025 13:27:24 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5378/8396bb18-bef4-4d28-837c-68b8735d73d2.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] HexTerrain - printable gaming board -</title>
       <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
