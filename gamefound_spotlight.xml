@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 31 Dec 2025 22:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 23:12:58 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Crown and War</title>
+      <link>https://gamefound.com:443/en/projects/diogames/crown-and-war?ref=</link>
+      <guid isPermaLink="false">49666</guid>
+      <pubDate>Wed, 31 Dec 2025 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4672/269ad5ef-7449-478d-a26b-a337f8089849.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Caster's Cup – The Pocket-Sized Spellsinging Game</title>
       <link>https://gamefound.com:443/en/projects/beaverlicious-games/casters-cup?ref=</link>
@@ -117,22 +125,6 @@
       <pubDate>Fri, 26 Dec 2025 11:35:16 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6946/363d7a98-9649-4dba-98be-89cb4085a5c6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Helpdesk Hero</title>
-      <link>https://gamefound.com:443/en/projects/nostra-forja/helpdesk-hero?ref=</link>
-      <guid isPermaLink="false">49651</guid>
-      <pubDate>Wed, 24 Dec 2025 14:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5584/074826ca-c7a1-489d-b05a-6ca9d9f42447.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Rosa + Juliet limited physical edition</title>
-      <link>https://gamefound.com:443/en/projects/renko-rodenburg/rosa--juliet-limited-edition-physical-copies?ref=</link>
-      <guid isPermaLink="false">49650</guid>
-      <pubDate>Wed, 24 Dec 2025 02:45:10 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6780/5d77527c-43ad-4034-b43a-95620643a05d.png" type="image/png" />
     </item>
   </channel>
 </rss>
