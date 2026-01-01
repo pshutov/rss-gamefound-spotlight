@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 01 Jan 2026 15:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 16:17:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Micro Architects: Big City Vacation</title>
+      <link>https://gamefound.com:443/en/projects/thistroygames/micro-architects-big-city-vacation?ref=</link>
+      <guid isPermaLink="false">49670</guid>
+      <pubDate>Thu, 01 Jan 2026 16:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5653/abbb175d-24a5-43dc-901d-50dcc65023ac.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Mage Potion Dice: Handcrafted liquid Core RPG dice</title>
+      <link>https://gamefound.com:443/en/projects/beardice/mage-potion-dice-handcrafted-liquid-core-rpg-dice?ref=</link>
+      <guid isPermaLink="false">49669</guid>
+      <pubDate>Thu, 01 Jan 2026 16:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/9199269f-f9f4-4330-8b85-c07af85339d5.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Behind the Trenches</title>
       <link>https://gamefound.com:443/en/projects/f1fighterpilot/behind-the-trenches?ref=</link>
@@ -109,22 +125,6 @@
       <pubDate>Mon, 29 Dec 2025 21:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6769/49917341-0c0c-479c-91db-95bf28f74986.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Jack: Shadows in the Fog</title>
-      <link>https://gamefound.com:443/en/projects/paper-tigers/jack-shadows-in-the-fog?ref=</link>
-      <guid isPermaLink="false">49655</guid>
-      <pubDate>Sun, 28 Dec 2025 09:06:48 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6650/490b911a-e920-4411-82b7-f906809ecbdc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] soccerone</title>
-      <link>https://gamefound.com:443/en/projects/soccerone-official/soccerone?ref=</link>
-      <guid isPermaLink="false">49654</guid>
-      <pubDate>Sat, 27 Dec 2025 10:06:17 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6758/0d6d691a-894b-4334-846e-b91789926b42.png" type="image/png" />
     </item>
   </channel>
 </rss>
