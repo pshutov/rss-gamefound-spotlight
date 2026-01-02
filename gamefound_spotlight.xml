@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 02 Jan 2026 15:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 16:15:56 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Boaromia Festival</title>
+      <link>https://gamefound.com:443/en/projects/tureluurs-games/boaromia-festival?ref=</link>
+      <guid isPermaLink="false">49674</guid>
+      <pubDate>Fri, 02 Jan 2026 15:45:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6072/d92ba799-7721-4314-9d99-1b9dfcffac95.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Dice Tower Pledge Drive 2026 has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
