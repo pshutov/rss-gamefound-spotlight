@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 05 Jan 2026 22:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 22:43:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Cthulhu 2050: Whispers Beyond The Stars</title>
+      <link>https://gamefound.com:443/en/projects/otherworlds/whispers-beyond-the-stars?ref=</link>
+      <guid isPermaLink="false">49681</guid>
+      <pubDate>Mon, 05 Jan 2026 22:30:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6197/7f96878a-5de4-4bc3-b5f8-4b0ebc856a3f.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Strife and Valor</title>
       <link>https://gamefound.com:443/en/projects/green-eyed-angel-ltd/strife-and-valor?ref=</link>
@@ -117,22 +125,6 @@
       <pubDate>Thu, 01 Jan 2026 00:35:45 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6077/275fb3de-03a6-4739-a314-3c9dc893287e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Crown and War</title>
-      <link>https://gamefound.com:443/en/projects/diogames/crown-and-war?ref=</link>
-      <guid isPermaLink="false">49666</guid>
-      <pubDate>Wed, 31 Dec 2025 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4672/269ad5ef-7449-478d-a26b-a337f8089849.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Caster's Cup – The Pocket-Sized Spellsinging Game</title>
-      <link>https://gamefound.com:443/en/projects/beaverlicious-games/casters-cup?ref=</link>
-      <guid isPermaLink="false">49665</guid>
-      <pubDate>Wed, 31 Dec 2025 13:27:24 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5378/8396bb18-bef4-4d28-837c-68b8735d73d2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
