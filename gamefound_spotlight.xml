@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 05 Jan 2026 16:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 17:15:50 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Gùgōng: The Imperial Architects</title>
+      <link>https://gamefound.com:443/en/projects/the-gugong-legacy/gugong-the-imperial-architects?ref=</link>
+      <guid isPermaLink="false">49679</guid>
+      <pubDate>Mon, 05 Jan 2026 16:55:04 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6625/5e039753-7e66-48eb-8652-4b38269e742f.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Star Empires - 10 Year Anniversary Edition</title>
       <link>https://gamefound.com:443/en/projects/archona-games/star-empires?ref=</link>
@@ -117,70 +125,6 @@
       <pubDate>Wed, 31 Dec 2025 13:27:24 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5378/8396bb18-bef4-4d28-837c-68b8735d73d2.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] HexTerrain - printable gaming board -</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
-      <guid isPermaLink="false">49664</guid>
-      <pubDate>Tue, 30 Dec 2025 23:14:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6624/feda7754-4762-4573-ac1d-e05ffcb48446.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Dice Tower Pledge Drive 2026</title>
-      <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
-      <guid isPermaLink="false">49663</guid>
-      <pubDate>Tue, 30 Dec 2025 21:25:58 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6820/7614265e-d7ae-42db-b083-18b1f71f3b51.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Super Team Tactical Football Board Game</title>
-      <link>https://gamefound.com:443/en/projects/roomiz-games/super-team-tactical-football-board-game?ref=</link>
-      <guid isPermaLink="false">49662</guid>
-      <pubDate>Tue, 30 Dec 2025 20:49:24 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6938/afaf98cb-c28e-47b3-8ed3-03de06982453.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Tasuo World: Draconian Rise: V:1: Wyvern Ways</title>
-      <link>https://gamefound.com:443/en/projects/tasuo-showdown/wyvern-ways?ref=</link>
-      <guid isPermaLink="false">49661</guid>
-      <pubDate>Tue, 30 Dec 2025 18:55:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2726/81bb86db-9c0a-43d7-8c00-8c05ff6ccb99.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Tasuo World: Draconian Rise: V:1: Wyvern Ways has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/tasuo-showdown/wyvern-ways?ref=</link>
-      <guid isPermaLink="false">49660</guid>
-      <pubDate>Tue, 30 Dec 2025 18:17:27 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2726/81bb86db-9c0a-43d7-8c00-8c05ff6ccb99.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Gond Dabar - The Age of War</title>
-      <link>https://gamefound.com:443/en/projects/pirata-games/gond-dabar---the-age-of-war?ref=</link>
-      <guid isPermaLink="false">49659</guid>
-      <pubDate>Tue, 30 Dec 2025 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5082/5ff57e7d-1984-4c2e-9622-92d8ce176d38.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] soccerone has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/soccerone-official/soccerone?ref=</link>
-      <guid isPermaLink="false">49658</guid>
-      <pubDate>Tue, 30 Dec 2025 12:28:23 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6758/0d6d691a-894b-4334-846e-b91789926b42.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Metal RPG Class Coins - The Twelve Classes</title>
-      <link>https://gamefound.com:443/en/projects/skullsspirals/rpg-class-coins?ref=</link>
-      <guid isPermaLink="false">49657</guid>
-      <pubDate>Tue, 30 Dec 2025 11:00:02 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6115/27123a50-cd4c-41cf-ab29-cbe76cff3621.png" type="image/png" />
     </item>
   </channel>
 </rss>
