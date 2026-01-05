@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 05 Jan 2026 11:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 12:28:26 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Rurik Second Edition has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/fantasia-games/rurik-2nd-edition?ref=</link>
+      <guid isPermaLink="false">49676</guid>
+      <pubDate>Mon, 05 Jan 2026 12:08:30 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6103/07bea3d9-0343-4e53-bb80-95ce3a7ba7a4.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] APEX CLASH - The Game</title>
       <link>https://gamefound.com:443/en/projects/gysar-studios/apexclash?ref=</link>
