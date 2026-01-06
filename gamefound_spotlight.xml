@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 06 Jan 2026 15:43:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 16:17:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Invincible: Aftermath - Season 2</title>
+      <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/invincible-aftermath---season-2?ref=</link>
+      <guid isPermaLink="false">49687</guid>
+      <pubDate>Tue, 06 Jan 2026 16:13:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7010/51d51a5b-4661-4992-b508-00ca3af1bb7b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Invincible: Aftermath - Season 2</title>
+      <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/invincible-aftermath---season-2?ref=</link>
+      <guid isPermaLink="false">49686</guid>
+      <pubDate>Tue, 06 Jan 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7010/51d51a5b-4661-4992-b508-00ca3af1bb7b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Queen of Spies</title>
       <link>https://gamefound.com:443/en/projects/saltandpepper/queen-of-spies?ref=</link>
@@ -117,46 +133,6 @@
       <pubDate>Fri, 02 Jan 2026 11:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6072/d92ba799-7721-4314-9d99-1b9dfcffac95.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Dead Man's Chess - Print &amp; Play STLs</title>
-      <link>https://gamefound.com:443/en/projects/spyglass-game/dead-mans-chess?ref=</link>
-      <guid isPermaLink="false">49671</guid>
-      <pubDate>Thu, 01 Jan 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5669/8c1c9b8a-18e9-4a42-8122-cbd6d0949e80.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Micro Architects: Big City Vacation</title>
-      <link>https://gamefound.com:443/en/projects/thistroygames/micro-architects-big-city-vacation?ref=</link>
-      <guid isPermaLink="false">49670</guid>
-      <pubDate>Thu, 01 Jan 2026 16:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5653/abbb175d-24a5-43dc-901d-50dcc65023ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Mage Potion Dice: Handcrafted liquid Core RPG dice</title>
-      <link>https://gamefound.com:443/en/projects/beardice/mage-potion-dice-handcrafted-liquid-core-rpg-dice?ref=</link>
-      <guid isPermaLink="false">49669</guid>
-      <pubDate>Thu, 01 Jan 2026 16:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6695/9199269f-f9f4-4330-8b85-c07af85339d5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Behind the Trenches</title>
-      <link>https://gamefound.com:443/en/projects/f1fighterpilot/behind-the-trenches?ref=</link>
-      <guid isPermaLink="false">49668</guid>
-      <pubDate>Thu, 01 Jan 2026 05:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5971/c0763814-ed85-424d-b0b3-24bbda202732.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] AnARKey: Total AnARKey Edition</title>
-      <link>https://gamefound.com:443/en/projects/nerdcraft-games/anarkey-total-anarkey-edition?ref=</link>
-      <guid isPermaLink="false">49667</guid>
-      <pubDate>Thu, 01 Jan 2026 00:35:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6077/275fb3de-03a6-4739-a314-3c9dc893287e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
