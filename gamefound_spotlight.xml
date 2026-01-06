@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 06 Jan 2026 12:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 13:11:22 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game</title>
+      <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest?ref=</link>
+      <guid isPermaLink="false">49684</guid>
+      <pubDate>Tue, 06 Jan 2026 13:04:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5687/42ad85c2-550d-4754-9f63-95b7d042086c.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game</title>
+      <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest?ref=</link>
+      <guid isPermaLink="false">49683</guid>
+      <pubDate>Tue, 06 Jan 2026 12:55:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5687/42ad85c2-550d-4754-9f63-95b7d042086c.png" type="image/png" />
+    </item>
     <item>
       <title>[New Late Pledge] Monster Scenery: Metropolis 2.0</title>
       <link>https://gamefound.com:443/en/projects/monster-fight-club/monster-scenery-metropolis-2?ref=</link>
