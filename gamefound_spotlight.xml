@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 06 Jan 2026 14:46:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 15:14:14 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Queen of Spies</title>
+      <link>https://gamefound.com:443/en/projects/saltandpepper/queen-of-spies?ref=</link>
+      <guid isPermaLink="false">49685</guid>
+      <pubDate>Tue, 06 Jan 2026 15:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6392/364f1fa3-07cf-4161-92ba-82af0414722d.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game</title>
       <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest?ref=</link>
