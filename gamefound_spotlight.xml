@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 07 Jan 2026 15:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 16:19:21 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Jack: Shadows in the Fog</title>
+      <link>https://gamefound.com:443/en/projects/paper-tigers/jack-shadows-in-the-fog?ref=</link>
+      <guid isPermaLink="false">49692</guid>
+      <pubDate>Wed, 07 Jan 2026 16:00:02 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6650/490b911a-e920-4411-82b7-f906809ecbdc.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Female Elf Miniature STL, 32mm-75mm scale 3D Printable Tabletop RPG Model</title>
       <link>https://gamefound.com:443/en/projects/arcaminis/female-elf-miniature-stl-32mm-75mm-scale-3d-printable-tabletop-rpg-model?ref=</link>
