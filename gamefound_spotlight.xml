@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 07 Jan 2026 08:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:51:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Female Elf Miniature STL, 32mm-75mm scale 3D Printable Tabletop RPG Model has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/arcaminis/female-elf-miniature-stl-32mm-75mm-scale-3d-printable-tabletop-rpg-model?ref=</link>
+      <guid isPermaLink="false">49688</guid>
+      <pubDate>Wed, 07 Jan 2026 08:32:33 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8022/bfa8148e-3dcf-44c8-8aa5-e63280496c36.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Invincible: Aftermath - Season 2</title>
       <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/invincible-aftermath---season-2?ref=</link>
