@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 07 Jan 2026 19:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 20:15:21 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Heropolis - Hero of the day!</title>
+      <link>https://gamefound.com:443/en/projects/mischi_matth/heropolis-hero-of-the-day?ref=</link>
+      <guid isPermaLink="false">49695</guid>
+      <pubDate>Wed, 07 Jan 2026 20:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5250/f11783dd-9c0b-4a4d-92cb-d83ca01e50cc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Dazzling Dungeon Decks</title>
+      <link>https://gamefound.com:443/en/projects/jason-anarchy/dazzling-dungeon-decks?ref=</link>
+      <guid isPermaLink="false">49694</guid>
+      <pubDate>Wed, 07 Jan 2026 19:44:17 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8147/e12270c9-e076-4d3d-bf15-37c1408861f2.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Dice Tower Pledge Drive 2026</title>
       <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
