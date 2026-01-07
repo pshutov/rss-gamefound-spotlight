@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 07 Jan 2026 08:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 09:21:06 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] The Bad Patch</title>
+      <link>https://gamefound.com:443/en/projects/black-vault/the-bad-patch?ref=</link>
+      <guid isPermaLink="false">49689</guid>
+      <pubDate>Wed, 07 Jan 2026 08:57:25 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6056/29b8efd9-31a3-4894-974a-bfc91f11c2f8.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Female Elf Miniature STL, 32mm-75mm scale 3D Printable Tabletop RPG Model has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/arcaminis/female-elf-miniature-stl-32mm-75mm-scale-3d-printable-tabletop-rpg-model?ref=</link>
@@ -117,30 +125,6 @@
       <pubDate>Sun, 04 Jan 2026 23:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6209/2b959f5b-be15-4abc-8105-e18af57785eb.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Boaromia Festival</title>
-      <link>https://gamefound.com:443/en/projects/tureluurs-games/boaromia-festival?ref=</link>
-      <guid isPermaLink="false">49674</guid>
-      <pubDate>Fri, 02 Jan 2026 15:45:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6072/d92ba799-7721-4314-9d99-1b9dfcffac95.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Dice Tower Pledge Drive 2026 has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
-      <guid isPermaLink="false">49673</guid>
-      <pubDate>Fri, 02 Jan 2026 13:16:36 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6820/7614265e-d7ae-42db-b083-18b1f71f3b51.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Boaromia Festival</title>
-      <link>https://gamefound.com:443/en/projects/tureluurs-games/boaromia-festival?ref=</link>
-      <guid isPermaLink="false">49672</guid>
-      <pubDate>Fri, 02 Jan 2026 11:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6072/d92ba799-7721-4314-9d99-1b9dfcffac95.png" type="image/png" />
     </item>
   </channel>
 </rss>
