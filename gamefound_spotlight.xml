@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 07 Jan 2026 10:46:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 11:13:19 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] All Time Wrestling - Women's Edition</title>
+      <link>https://gamefound.com:443/en/projects/cation-arts/atw-womens-edition?ref=</link>
+      <guid isPermaLink="false">49690</guid>
+      <pubDate>Wed, 07 Jan 2026 10:48:46 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6950/8d1d7e7d-3cb4-402d-b37c-44c8238c80ed.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] The Bad Patch</title>
       <link>https://gamefound.com:443/en/projects/black-vault/the-bad-patch?ref=</link>
@@ -117,14 +125,6 @@
       <pubDate>Mon, 05 Jan 2026 12:08:30 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6103/07bea3d9-0343-4e53-bb80-95ce3a7ba7a4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] APEX CLASH - The Game</title>
-      <link>https://gamefound.com:443/en/projects/gysar-studios/apexclash?ref=</link>
-      <guid isPermaLink="false">49675</guid>
-      <pubDate>Sun, 04 Jan 2026 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6209/2b959f5b-be15-4abc-8105-e18af57785eb.png" type="image/png" />
     </item>
   </channel>
 </rss>
