@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 08 Jan 2026 08:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 08:51:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Beetle Battle has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle?ref=</link>
+      <guid isPermaLink="false">49698</guid>
+      <pubDate>Thu, 08 Jan 2026 08:33:29 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5980/21bf4cd2-ccc4-414a-a938-a64f83cbf48d.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] DeckHand: Race for Infamy has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy?ref=</link>
