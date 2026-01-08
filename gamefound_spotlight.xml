@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 08 Jan 2026 11:39:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 12:28:12 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] SHADOWS DEEP</title>
+      <link>https://gamefound.com:443/en/projects/themoongrel/shadows-deep?ref=</link>
+      <guid isPermaLink="false">49701</guid>
+      <pubDate>Thu, 08 Jan 2026 12:04:17 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6501/a951e3ca-1dcf-4271-927d-eff48954ce4f.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Runecall: Battle for Runes</title>
+      <link>https://gamefound.com:443/en/projects/plaimai-games/runecall-battle-for-runes?ref=</link>
+      <guid isPermaLink="false">49700</guid>
+      <pubDate>Thu, 08 Jan 2026 11:49:16 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8074/b59098cc-859a-419d-a6a4-058d6778378d.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Karhorra RPG has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/karhorra/karhorra-rpg?ref=</link>
