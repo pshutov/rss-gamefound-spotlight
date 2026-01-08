@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 08 Jan 2026 07:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 08:19:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] DeckHand: Race for Infamy has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy?ref=</link>
+      <guid isPermaLink="false">49697</guid>
+      <pubDate>Thu, 08 Jan 2026 08:08:38 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5335/4e9afeb3-361e-4665-8288-518092002d2b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] PnP Mega Book</title>
+      <link>https://gamefound.com:443/en/projects/alien-games/pnp-mega-book?ref=</link>
+      <guid isPermaLink="false">49696</guid>
+      <pubDate>Thu, 08 Jan 2026 08:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5398/9dd63d05-e08d-427d-bcd5-f8cdb33cbe4b.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Heropolis - Hero of the day!</title>
       <link>https://gamefound.com:443/en/projects/mischi_matth/heropolis-hero-of-the-day?ref=</link>
@@ -117,54 +133,6 @@
       <pubDate>Tue, 06 Jan 2026 11:13:30 +0000</pubDate>
       <description>New Late Pledge</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6791/0ad65f0a-c807-4075-8a25-9c25ec06003b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Cthulhu 2050: Whispers Beyond The Stars</title>
-      <link>https://gamefound.com:443/en/projects/otherworlds/whispers-beyond-the-stars?ref=</link>
-      <guid isPermaLink="false">49681</guid>
-      <pubDate>Mon, 05 Jan 2026 22:30:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6197/7f96878a-5de4-4bc3-b5f8-4b0ebc856a3f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Strife and Valor</title>
-      <link>https://gamefound.com:443/en/projects/green-eyed-angel-ltd/strife-and-valor?ref=</link>
-      <guid isPermaLink="false">49680</guid>
-      <pubDate>Mon, 05 Jan 2026 20:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3883/48abfdfb-823c-4637-95a5-ead430b68f3a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Gùgōng: The Imperial Architects</title>
-      <link>https://gamefound.com:443/en/projects/the-gugong-legacy/gugong-the-imperial-architects?ref=</link>
-      <guid isPermaLink="false">49679</guid>
-      <pubDate>Mon, 05 Jan 2026 16:55:04 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6625/5e039753-7e66-48eb-8652-4b38269e742f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Star Empires - 10 Year Anniversary Edition</title>
-      <link>https://gamefound.com:443/en/projects/archona-games/star-empires?ref=</link>
-      <guid isPermaLink="false">49678</guid>
-      <pubDate>Mon, 05 Jan 2026 12:51:30 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8064/daac06e5-5fee-4a7b-8e3e-6e8ad7cc0edf.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Inferno 1348 Deluxe &amp; Inferno Deluxe Reprint has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/red-mojo-games/inferno-1348-deluxe-edition?ref=</link>
-      <guid isPermaLink="false">49677</guid>
-      <pubDate>Mon, 05 Jan 2026 12:25:40 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6459/ca4af471-f428-4922-b93d-cae149e7054f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Rurik Second Edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/fantasia-games/rurik-2nd-edition?ref=</link>
-      <guid isPermaLink="false">49676</guid>
-      <pubDate>Mon, 05 Jan 2026 12:08:30 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6103/07bea3d9-0343-4e53-bb80-95ce3a7ba7a4.png" type="image/png" />
     </item>
   </channel>
 </rss>
