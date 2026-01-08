@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 08 Jan 2026 12:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 13:14:05 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Mage Noir - Black &amp; Gold Edition has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition?ref=</link>
+      <guid isPermaLink="false">49703</guid>
+      <pubDate>Thu, 08 Jan 2026 12:41:14 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6941/0163ecbc-d124-47ed-8a36-e534934197ac.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Small Time Heroes Reprint and Expansion [Solo Game of the Month] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/small-time-heroes-reprint-and-expansion-solo-game-of-the-month?ref=</link>
+      <guid isPermaLink="false">49702</guid>
+      <pubDate>Thu, 08 Jan 2026 12:35:12 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6817/c43e75a4-8d4c-40db-ba31-2eda26c5ca8c.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] SHADOWS DEEP</title>
       <link>https://gamefound.com:443/en/projects/themoongrel/shadows-deep?ref=</link>
@@ -117,54 +133,6 @@
       <pubDate>Wed, 07 Jan 2026 08:32:33 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8022/bfa8148e-3dcf-44c8-8aa5-e63280496c36.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Invincible: Aftermath - Season 2</title>
-      <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/invincible-aftermath---season-2?ref=</link>
-      <guid isPermaLink="false">49687</guid>
-      <pubDate>Tue, 06 Jan 2026 16:13:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7010/51d51a5b-4661-4992-b508-00ca3af1bb7b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Invincible: Aftermath - Season 2</title>
-      <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/invincible-aftermath---season-2?ref=</link>
-      <guid isPermaLink="false">49686</guid>
-      <pubDate>Tue, 06 Jan 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7010/51d51a5b-4661-4992-b508-00ca3af1bb7b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Queen of Spies</title>
-      <link>https://gamefound.com:443/en/projects/saltandpepper/queen-of-spies?ref=</link>
-      <guid isPermaLink="false">49685</guid>
-      <pubDate>Tue, 06 Jan 2026 15:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6392/364f1fa3-07cf-4161-92ba-82af0414722d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game</title>
-      <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest?ref=</link>
-      <guid isPermaLink="false">49684</guid>
-      <pubDate>Tue, 06 Jan 2026 13:04:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5687/d6bdcf3c-3885-4fa7-806b-802544d49a96.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game</title>
-      <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest?ref=</link>
-      <guid isPermaLink="false">49683</guid>
-      <pubDate>Tue, 06 Jan 2026 12:55:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5687/d6bdcf3c-3885-4fa7-806b-802544d49a96.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Monster Scenery: Metropolis 2.0</title>
-      <link>https://gamefound.com:443/en/projects/monster-fight-club/monster-scenery-metropolis-2?ref=</link>
-      <guid isPermaLink="false">49682</guid>
-      <pubDate>Tue, 06 Jan 2026 11:13:30 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6791/0ad65f0a-c807-4075-8a25-9c25ec06003b.png" type="image/png" />
     </item>
   </channel>
 </rss>
