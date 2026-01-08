@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 08 Jan 2026 14:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 15:17:13 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] Mage Noir - Black &amp; Gold Edition has a starting date.</title>
@@ -36,7 +36,7 @@
       <guid isPermaLink="false">49700</guid>
       <pubDate>Thu, 08 Jan 2026 11:49:16 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8074/b59098cc-859a-419d-a6a4-058d6778378d.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8074/955d78f3-3896-4e9c-98ad-76c3ec786480.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] Karhorra RPG has a starting date.</title>
