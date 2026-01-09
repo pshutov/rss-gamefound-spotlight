@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 09 Jan 2026 14:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 15:14:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Dicequest has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/skytear/dicequest?ref=</link>
+      <guid isPermaLink="false">49707</guid>
+      <pubDate>Fri, 09 Jan 2026 15:07:14 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/6d81f0eb-0dfa-4e2d-9e88-086a74ad25f1.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Sheol 2.0 - Midnight Odyssey has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/lunar-oak-studio/sheol-20---midnight-odyssey?ref=</link>
