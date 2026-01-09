@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 09 Jan 2026 18:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 18:53:04 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Late Pledge] Vice: Magic City Mayhem</title>
+      <link>https://gamefound.com:443/en/projects/jurassic-sunset-games/vice-magic-city-mayhem?ref=</link>
+      <guid isPermaLink="false">49708</guid>
+      <pubDate>Fri, 09 Jan 2026 18:48:30 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6747/4b141bb2-63b1-49f8-bc3f-7ed5fed0fa49.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Dicequest has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/skytear/dicequest?ref=</link>
