@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 09 Jan 2026 19:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 19:37:50 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Table Buster: Reforge has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge?ref=</link>
+      <guid isPermaLink="false">49709</guid>
+      <pubDate>Fri, 09 Jan 2026 19:17:56 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6608/931c5e8d-08b9-4dea-aa8f-ef6eaf573542.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New Late Pledge] Vice: Magic City Mayhem</title>
       <link>https://gamefound.com:443/en/projects/jurassic-sunset-games/vice-magic-city-mayhem?ref=</link>
