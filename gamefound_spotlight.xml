@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 09 Jan 2026 22:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 23:12:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] HexTerrain - printable gaming board -</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
+      <guid isPermaLink="false">49710</guid>
+      <pubDate>Fri, 09 Jan 2026 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6624/feda7754-4762-4573-ac1d-e05ffcb48446.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Table Buster: Reforge has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge?ref=</link>
@@ -117,70 +125,6 @@
       <pubDate>Thu, 08 Jan 2026 08:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5398/9dd63d05-e08d-427d-bcd5-f8cdb33cbe4b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Heropolis - Hero of the day!</title>
-      <link>https://gamefound.com:443/en/projects/mischi_matth/heropolis-hero-of-the-day?ref=</link>
-      <guid isPermaLink="false">49695</guid>
-      <pubDate>Wed, 07 Jan 2026 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5250/f11783dd-9c0b-4a4d-92cb-d83ca01e50cc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Dazzling Dungeon Decks</title>
-      <link>https://gamefound.com:443/en/projects/jason-anarchy/dazzling-dungeon-decks?ref=</link>
-      <guid isPermaLink="false">49694</guid>
-      <pubDate>Wed, 07 Jan 2026 19:44:17 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8147/e12270c9-e076-4d3d-bf15-37c1408861f2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Dice Tower Pledge Drive 2026</title>
-      <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
-      <guid isPermaLink="false">49693</guid>
-      <pubDate>Wed, 07 Jan 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6820/7614265e-d7ae-42db-b083-18b1f71f3b51.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Jack: Shadows in the Fog</title>
-      <link>https://gamefound.com:443/en/projects/paper-tigers/jack-shadows-in-the-fog?ref=</link>
-      <guid isPermaLink="false">49692</guid>
-      <pubDate>Wed, 07 Jan 2026 16:00:02 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6650/490b911a-e920-4411-82b7-f906809ecbdc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Female Elf Miniature STL, 32mm-75mm scale 3D Printable Tabletop RPG Model</title>
-      <link>https://gamefound.com:443/en/projects/arcaminis/female-elf-miniature-stl-32mm-75mm-scale-3d-printable-tabletop-rpg-model?ref=</link>
-      <guid isPermaLink="false">49691</guid>
-      <pubDate>Wed, 07 Jan 2026 13:51:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8022/bfa8148e-3dcf-44c8-8aa5-e63280496c36.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] All Time Wrestling - Women's Edition</title>
-      <link>https://gamefound.com:443/en/projects/cation-arts/atw-womens-edition?ref=</link>
-      <guid isPermaLink="false">49690</guid>
-      <pubDate>Wed, 07 Jan 2026 10:48:46 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6950/8d1d7e7d-3cb4-402d-b37c-44c8238c80ed.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] The Bad Patch</title>
-      <link>https://gamefound.com:443/en/projects/black-vault/the-bad-patch?ref=</link>
-      <guid isPermaLink="false">49689</guid>
-      <pubDate>Wed, 07 Jan 2026 08:57:25 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6056/29b8efd9-31a3-4894-974a-bfc91f11c2f8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Female Elf Miniature STL, 32mm-75mm scale 3D Printable Tabletop RPG Model has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/arcaminis/female-elf-miniature-stl-32mm-75mm-scale-3d-printable-tabletop-rpg-model?ref=</link>
-      <guid isPermaLink="false">49688</guid>
-      <pubDate>Wed, 07 Jan 2026 08:32:33 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8022/bfa8148e-3dcf-44c8-8aa5-e63280496c36.png" type="image/png" />
     </item>
   </channel>
 </rss>
