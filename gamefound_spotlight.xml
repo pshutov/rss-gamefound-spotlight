@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 10 Jan 2026 10:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 11:11:21 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] 1809: Talavera</title>
+      <link>https://gamefound.com:443/en/projects/tactical-workshop/1809-talavera?ref=</link>
+      <guid isPermaLink="false">49712</guid>
+      <pubDate>Sat, 10 Jan 2026 10:56:07 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8024/264c130a-3511-4060-b7d9-03406f32f7c8.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Live or Di(c)e</title>
+      <link>https://gamefound.com:443/en/projects/bromagineboardgame/live-or-dice?ref=</link>
+      <guid isPermaLink="false">49711</guid>
+      <pubDate>Sat, 10 Jan 2026 10:48:47 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8130/85bd4968-1793-496e-9f9a-637d08edacad.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] HexTerrain - printable gaming board -</title>
       <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
