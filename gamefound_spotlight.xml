@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 10 Jan 2026 18:48:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 19:09:47 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] WTC Foldable Sci-Fi Terrain Set</title>
+      <link>https://gamefound.com:443/en/projects/frto/wtc-foldable-terrain?ref=</link>
+      <guid isPermaLink="false">49713</guid>
+      <pubDate>Sat, 10 Jan 2026 19:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6767/cf68a124-de48-4e7e-a0ad-35cdf625a78c.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] 1809: Talavera</title>
       <link>https://gamefound.com:443/en/projects/tactical-workshop/1809-talavera?ref=</link>
