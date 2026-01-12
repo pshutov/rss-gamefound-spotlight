@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 12 Jan 2026 10:49:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 11:17:06 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] I Agree Hells Terms has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/amadeusgames/agree-hells-terms?ref=</link>
+      <guid isPermaLink="false">49718</guid>
+      <pubDate>Mon, 12 Jan 2026 11:11:01 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6353/576cb00c-725d-48e6-8e03-cef7f399dd8e.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] Kavango &amp; Lodges Expansion</title>
       <link>https://gamefound.com:443/en/projects/mazaza-games/httpsgamefoundcomenprojectsmazaza-gameskavango-and-lodges-expansion?ref=</link>
