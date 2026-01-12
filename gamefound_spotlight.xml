@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 12 Jan 2026 13:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 14:19:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Gemüsegarten</title>
+      <link>https://gamefound.com:443/en/projects/board-bear-games/gemuesegarten?ref=</link>
+      <guid isPermaLink="false">49719</guid>
+      <pubDate>Mon, 12 Jan 2026 14:03:51 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6979/cf39681e-6f9a-4320-b2dc-efd09123cbad.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] I Agree Hells Terms has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/amadeusgames/agree-hells-terms?ref=</link>
