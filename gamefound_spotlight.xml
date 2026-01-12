@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 12 Jan 2026 14:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 14:51:04 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Felicity</title>
+      <link>https://gamefound.com:443/en/projects/piotr-kurek/felicity?ref=</link>
+      <guid isPermaLink="false">49720</guid>
+      <pubDate>Mon, 12 Jan 2026 14:48:19 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6436/3be64a66-f1db-41c7-a032-d143af2dc513.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Gemüsegarten</title>
       <link>https://gamefound.com:443/en/projects/board-bear-games/gemuesegarten?ref=</link>
@@ -117,86 +125,6 @@
       <pubDate>Fri, 09 Jan 2026 08:31:56 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4995/a17d1efc-28d0-4b5a-bbf4-2bfef31b53c3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Essentia 21</title>
-      <link>https://gamefound.com:443/en/projects/ko_games/essentia-21?ref=</link>
-      <guid isPermaLink="false">49705</guid>
-      <pubDate>Thu, 08 Jan 2026 18:01:22 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7001/0989b9e5-416a-4936-abdd-5358f466eb86.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] THE LAST IN THE WOODS</title>
-      <link>https://gamefound.com:443/en/projects/blackthorn/the-last-in-the-woods?ref=</link>
-      <guid isPermaLink="false">49704</guid>
-      <pubDate>Thu, 08 Jan 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6173/d6567526-eb53-42ee-8739-e05496f57ef5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Mage Noir - Black &amp; Gold Edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition?ref=</link>
-      <guid isPermaLink="false">49703</guid>
-      <pubDate>Thu, 08 Jan 2026 12:41:14 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6941/0163ecbc-d124-47ed-8a36-e534934197ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Small Time Heroes Reprint and Expansion [Solo Game of the Month] has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/small-time-heroes-reprint-and-expansion-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">49702</guid>
-      <pubDate>Thu, 08 Jan 2026 12:35:12 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6817/c43e75a4-8d4c-40db-ba31-2eda26c5ca8c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] SHADOWS DEEP</title>
-      <link>https://gamefound.com:443/en/projects/themoongrel/shadows-deep?ref=</link>
-      <guid isPermaLink="false">49701</guid>
-      <pubDate>Thu, 08 Jan 2026 12:04:17 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6501/a951e3ca-1dcf-4271-927d-eff48954ce4f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Runecall: Battle for Runes</title>
-      <link>https://gamefound.com:443/en/projects/plaimai-games/runecall-battle-for-runes?ref=</link>
-      <guid isPermaLink="false">49700</guid>
-      <pubDate>Thu, 08 Jan 2026 11:49:16 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8074/955d78f3-3896-4e9c-98ad-76c3ec786480.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Karhorra RPG has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/karhorra/karhorra-rpg?ref=</link>
-      <guid isPermaLink="false">49699</guid>
-      <pubDate>Thu, 08 Jan 2026 10:53:39 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6262/6127d76a-69c7-4983-bcc8-bcef3bbbf8f1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Beetle Battle has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle?ref=</link>
-      <guid isPermaLink="false">49698</guid>
-      <pubDate>Thu, 08 Jan 2026 08:33:29 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5980/21bf4cd2-ccc4-414a-a938-a64f83cbf48d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] DeckHand: Race for Infamy has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy?ref=</link>
-      <guid isPermaLink="false">49697</guid>
-      <pubDate>Thu, 08 Jan 2026 08:08:38 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5335/4e9afeb3-361e-4665-8288-518092002d2b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] PnP Mega Book</title>
-      <link>https://gamefound.com:443/en/projects/alien-games/pnp-mega-book?ref=</link>
-      <guid isPermaLink="false">49696</guid>
-      <pubDate>Thu, 08 Jan 2026 08:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5398/9dd63d05-e08d-427d-bcd5-f8cdb33cbe4b.png" type="image/png" />
     </item>
   </channel>
 </rss>
