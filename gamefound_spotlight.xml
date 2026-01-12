@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 12 Jan 2026 10:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 10:49:14 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Kavango &amp; Lodges Expansion</title>
+      <link>https://gamefound.com:443/en/projects/mazaza-games/httpsgamefoundcomenprojectsmazaza-gameskavango-and-lodges-expansion?ref=</link>
+      <guid isPermaLink="false">49717</guid>
+      <pubDate>Mon, 12 Jan 2026 10:14:31 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8068/626f9ae4-d8df-46ed-8255-d9099aa32640.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Go Viking has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/crackling-creations/go-viking?ref=</link>
