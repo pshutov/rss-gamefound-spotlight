@@ -4,15 +4,23 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 13 Jan 2026 14:50:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 15:16:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Gooooal!!! has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/goooaaal/gooooal?ref=</link>
+      <guid isPermaLink="false">49731</guid>
+      <pubDate>Tue, 13 Jan 2026 14:48:45 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4728/10d87c26-8499-42e6-b290-cf76664584b9.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Colt Express: The Complete Collection</title>
       <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
       <guid isPermaLink="false">49730</guid>
       <pubDate>Tue, 13 Jan 2026 14:29:26 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/d8366bfd-ea87-434c-a80f-70a40c3262b1.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Colt Express: The Complete Collection</title>
@@ -20,7 +28,7 @@
       <guid isPermaLink="false">49729</guid>
       <pubDate>Tue, 13 Jan 2026 14:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/d8366bfd-ea87-434c-a80f-70a40c3262b1.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign is funded] HEYtrace Battle Mat — Traceable Reusable Curl-Free D&amp;D Mat</title>
@@ -36,7 +44,7 @@
       <guid isPermaLink="false">49727</guid>
       <pubDate>Tue, 13 Jan 2026 13:12:26 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/d8366bfd-ea87-434c-a80f-70a40c3262b1.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] Blood Economy [A Solo Vampire Card Game] has a starting date.</title>
