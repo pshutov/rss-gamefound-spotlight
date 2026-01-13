@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 13 Jan 2026 14:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 14:50:49 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Colt Express: The Complete Collection</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
+      <guid isPermaLink="false">49730</guid>
+      <pubDate>Tue, 13 Jan 2026 14:29:26 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/d8366bfd-ea87-434c-a80f-70a40c3262b1.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Colt Express: The Complete Collection</title>
       <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
@@ -117,14 +125,6 @@
       <pubDate>Mon, 12 Jan 2026 10:12:44 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/80f5c087-ae8b-4260-9a76-d5380c27c1b9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Speciation : A Narrative First Cyber Savage TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/speciation/speciation--a-narrative-first-cyber-scrap-ttrpg?ref=</link>
-      <guid isPermaLink="false">49715</guid>
-      <pubDate>Sun, 11 Jan 2026 15:16:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5929/01c576cb-d43a-4ec4-a36c-d480c011f8cb.png" type="image/png" />
     </item>
   </channel>
 </rss>
