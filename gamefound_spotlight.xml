@@ -4,8 +4,15 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 13 Jan 2026 16:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 16:55:00 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New blog post] [What's New] Fulfillment Information Form</title>
+      <link>https://gamefound.com/blog/post/whats-new-fulfillment-information-form</link>
+      <guid isPermaLink="false">49734</guid>
+      <pubDate>Tue, 13 Jan 2026 16:35:08 +0000</pubDate>
+      <description>New blog post</description>
+    </item>
     <item>
       <title>[Campaign is funded] Small Time Heroes Reprint and Expansion [Solo Game of the Month]</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/small-time-heroes-reprint-and-expansion-solo-game-of-the-month?ref=</link>
