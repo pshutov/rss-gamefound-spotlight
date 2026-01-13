@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 13 Jan 2026 16:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 17:20:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] ERA TCG</title>
+      <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg?ref=</link>
+      <guid isPermaLink="false">49735</guid>
+      <pubDate>Tue, 13 Jan 2026 17:06:43 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/5b215526-68b4-44cf-b1e5-e8d17f845e00.png" type="image/png" />
+    </item>
     <item>
       <title>[New blog post] [What's New] Fulfillment Information Form</title>
       <link>https://gamefound.com/blog/post/whats-new-fulfillment-information-form</link>
