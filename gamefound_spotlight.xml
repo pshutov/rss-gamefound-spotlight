@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 13 Jan 2026 08:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:52:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Jano - A Pawsome Adventure has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/aszaki/jano---a-pawsome-adventure?ref=</link>
+      <guid isPermaLink="false">49722</guid>
+      <pubDate>Tue, 13 Jan 2026 08:38:57 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5995/c2f43563-2716-43ca-87ec-7ec61d5b6410.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Lunar: The Tabletop Roleplaying Game</title>
       <link>https://gamefound.com:443/en/projects/black-site-studios/lunar-the-tabletop-roleplaying-game?ref=</link>
