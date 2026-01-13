@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 13 Jan 2026 11:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 12:28:08 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Blood Economy [A Solo Vampire Card Game] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/mod-games/blood-economy?ref=</link>
+      <guid isPermaLink="false">49726</guid>
+      <pubDate>Tue, 13 Jan 2026 12:19:56 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/5acb9a5a-1442-475b-a3f3-d17a96c67384.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] HEYtrace Battle Mat — Traceable Reusable Curl-Free D&amp;D Mat</title>
+      <link>https://gamefound.com:443/en/projects/heyii/heytrace-battle-mat?ref=</link>
+      <guid isPermaLink="false">49725</guid>
+      <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6895/2e4c077a-9997-4854-8a79-52152b659eb7.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] PACT</title>
       <link>https://gamefound.com:443/en/projects/wulfhorngames/pact?ref=</link>
@@ -117,46 +133,6 @@
       <pubDate>Sat, 10 Jan 2026 10:48:47 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8130/85bd4968-1793-496e-9f9a-637d08edacad.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] HexTerrain - printable gaming board -</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-modellbau/hexterrain---printable-gaming-board?ref=</link>
-      <guid isPermaLink="false">49710</guid>
-      <pubDate>Fri, 09 Jan 2026 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6624/feda7754-4762-4573-ac1d-e05ffcb48446.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Table Buster: Reforge has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge?ref=</link>
-      <guid isPermaLink="false">49709</guid>
-      <pubDate>Fri, 09 Jan 2026 19:17:56 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6608/931c5e8d-08b9-4dea-aa8f-ef6eaf573542.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Vice: Magic City Mayhem</title>
-      <link>https://gamefound.com:443/en/projects/jurassic-sunset-games/vice-magic-city-mayhem?ref=</link>
-      <guid isPermaLink="false">49708</guid>
-      <pubDate>Fri, 09 Jan 2026 18:48:30 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6747/4b141bb2-63b1-49f8-bc3f-7ed5fed0fa49.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Dicequest has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/skytear/dicequest?ref=</link>
-      <guid isPermaLink="false">49707</guid>
-      <pubDate>Fri, 09 Jan 2026 15:07:14 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/6d81f0eb-0dfa-4e2d-9e88-086a74ad25f1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Sheol 2.0 - Midnight Odyssey has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/lunar-oak-studio/sheol-20---midnight-odyssey?ref=</link>
-      <guid isPermaLink="false">49706</guid>
-      <pubDate>Fri, 09 Jan 2026 08:31:56 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4995/a17d1efc-28d0-4b5a-bbf4-2bfef31b53c3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
