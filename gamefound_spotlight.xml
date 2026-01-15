@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 15 Jan 2026 16:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 17:01:47 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New blog post] [Special] Gamefound Winter Feast - live on January 20th!</title>
