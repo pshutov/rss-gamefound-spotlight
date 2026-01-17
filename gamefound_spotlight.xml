@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 17 Jan 2026 14:12:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 14:40:54 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Ascendant Blades: Wuxia Skirmish</title>
@@ -178,7 +178,7 @@
       <guid isPermaLink="false">49726</guid>
       <pubDate>Tue, 13 Jan 2026 12:19:56 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/5acb9a5a-1442-475b-a3f3-d17a96c67384.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/347b0f52-9f35-4dfb-8b1b-02bd60b45a17.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] HEYtrace Battle Mat — Traceable Reusable Curl-Free D&amp;D Mat</title>
