@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 17 Jan 2026 21:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 22:11:57 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Pubes</title>
+      <link>https://gamefound.com:443/en/projects/xeel/pubes?ref=</link>
+      <guid isPermaLink="false">50747</guid>
+      <pubDate>Sat, 17 Jan 2026 22:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5900/e3403bd6-2695-4302-94aa-0ab8f0d830e5.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Great Again: Democracy At All Costs</title>
       <link>https://gamefound.com:443/en/projects/lorekick/great-again-democracy-at-all-costs?ref=</link>
