@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 19 Jan 2026 12:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 13:27:03 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Live or Di(c)e has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/bromagineboardgame/live-or-dice?ref=</link>
+      <guid isPermaLink="false">50751</guid>
+      <pubDate>Mon, 19 Jan 2026 13:00:07 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8130/85bd4968-1793-496e-9f9a-637d08edacad.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Tinctura has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/skellig-games/tinctura?ref=</link>
+      <guid isPermaLink="false">50750</guid>
+      <pubDate>Mon, 19 Jan 2026 12:50:15 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6934/1cfccd4b-dcd8-46f0-87a4-a8b9784abb01.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] The Void Unveiled: Echoes of Arkham has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/dark-gate-games/echoes-of-arkham?ref=</link>
@@ -116,22 +132,6 @@
       <pubDate>Thu, 15 Jan 2026 01:08:43 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8205/762f0cf2-59d0-465d-b82c-958a3746bbb7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Demon Castle Mononoke has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/cardboard-revolution/demon-castle-mononoke?ref=</link>
-      <guid isPermaLink="false">49737</guid>
-      <pubDate>Wed, 14 Jan 2026 12:42:05 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/1933/99b33e08-daee-4b56-ac28-995a68ae51c4.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] THE LAST IN THE WOODS</title>
-      <link>https://gamefound.com:443/en/projects/blackthorn/the-last-in-the-woods?ref=</link>
-      <guid isPermaLink="false">49736</guid>
-      <pubDate>Wed, 14 Jan 2026 08:08:41 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6173/d6567526-eb53-42ee-8739-e05496f57ef5.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
