@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 19 Jan 2026 10:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 11:15:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] The Void Unveiled: Echoes of Arkham has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/dark-gate-games/echoes-of-arkham?ref=</link>
+      <guid isPermaLink="false">50749</guid>
+      <pubDate>Mon, 19 Jan 2026 11:07:36 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6043/46ba597b-1938-42fe-9a47-c84480329656.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Night Race</title>
       <link>https://gamefound.com:443/en/projects/rpg-board-game/night-race?ref=</link>
