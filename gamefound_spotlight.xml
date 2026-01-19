@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 19 Jan 2026 05:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 05:54:16 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Night Race</title>
+      <link>https://gamefound.com:443/en/projects/rpg-board-game/night-race?ref=</link>
+      <guid isPermaLink="false">50748</guid>
+      <pubDate>Mon, 19 Jan 2026 05:30:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5715/f2eadd06-0213-4909-9926-250f0c8c973e.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Pubes</title>
       <link>https://gamefound.com:443/en/projects/xeel/pubes?ref=</link>
@@ -116,117 +124,6 @@
       <pubDate>Wed, 14 Jan 2026 08:08:41 +0000</pubDate>
       <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6173/d6567526-eb53-42ee-8739-e05496f57ef5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] ERA TCG</title>
-      <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg?ref=</link>
-      <guid isPermaLink="false">49735</guid>
-      <pubDate>Tue, 13 Jan 2026 17:06:43 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/13752737-f52a-40f9-8a44-18c8e2b69ba3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New blog post] [What's New] Fulfillment Information Form</title>
-      <link>https://gamefound.com/blog/post/whats-new-fulfillment-information-form</link>
-      <guid isPermaLink="false">49734</guid>
-      <pubDate>Tue, 13 Jan 2026 16:35:08 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[Campaign is funded] Small Time Heroes Reprint and Expansion [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/small-time-heroes-reprint-and-expansion-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">49733</guid>
-      <pubDate>Tue, 13 Jan 2026 16:03:34 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6817/c43e75a4-8d4c-40db-ba31-2eda26c5ca8c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Small Time Heroes Reprint and Expansion [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/small-time-heroes-reprint-and-expansion-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">49732</guid>
-      <pubDate>Tue, 13 Jan 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6817/c43e75a4-8d4c-40db-ba31-2eda26c5ca8c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Gooooal!!! has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/goooaaal/gooooal?ref=</link>
-      <guid isPermaLink="false">49731</guid>
-      <pubDate>Tue, 13 Jan 2026 14:48:45 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4728/10d87c26-8499-42e6-b290-cf76664584b9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Colt Express: The Complete Collection</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
-      <guid isPermaLink="false">49730</guid>
-      <pubDate>Tue, 13 Jan 2026 14:29:26 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Colt Express: The Complete Collection</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
-      <guid isPermaLink="false">49729</guid>
-      <pubDate>Tue, 13 Jan 2026 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] HEYtrace Battle Mat — Traceable Reusable Curl-Free D&amp;D Mat</title>
-      <link>https://gamefound.com:443/en/projects/heyii/heytrace-battle-mat?ref=</link>
-      <guid isPermaLink="false">49728</guid>
-      <pubDate>Tue, 13 Jan 2026 13:15:31 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6895/2e4c077a-9997-4854-8a79-52152b659eb7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Colt Express: The Complete Collection has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
-      <guid isPermaLink="false">49727</guid>
-      <pubDate>Tue, 13 Jan 2026 13:12:26 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Blood Economy [A Solo Vampire Card Game] has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/mod-games/blood-economy?ref=</link>
-      <guid isPermaLink="false">49726</guid>
-      <pubDate>Tue, 13 Jan 2026 12:19:56 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/347b0f52-9f35-4dfb-8b1b-02bd60b45a17.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] HEYtrace Battle Mat — Traceable Reusable Curl-Free D&amp;D Mat</title>
-      <link>https://gamefound.com:443/en/projects/heyii/heytrace-battle-mat?ref=</link>
-      <guid isPermaLink="false">49725</guid>
-      <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6895/2e4c077a-9997-4854-8a79-52152b659eb7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] PACT</title>
-      <link>https://gamefound.com:443/en/projects/wulfhorngames/pact?ref=</link>
-      <guid isPermaLink="false">49724</guid>
-      <pubDate>Tue, 13 Jan 2026 09:55:04 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8122/bb365fbb-14d0-4171-b70f-ebc46872f90f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Essentia 21 has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/ko_games/essentia-21?ref=</link>
-      <guid isPermaLink="false">49723</guid>
-      <pubDate>Tue, 13 Jan 2026 09:15:28 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7001/926062cf-f933-44e6-b85d-9a4717157a19.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Jano - A Pawsome Adventure has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/aszaki/jano---a-pawsome-adventure?ref=</link>
-      <guid isPermaLink="false">49722</guid>
-      <pubDate>Tue, 13 Jan 2026 08:38:57 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5995/c2f43563-2716-43ca-87ec-7ec61d5b6410.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
