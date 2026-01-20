@@ -4,8 +4,64 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 20 Jan 2026 16:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 16:57:38 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Tales of London</title>
+      <link>https://gamefound.com:443/en/projects/dont-panic-games/tales-of-london?ref=</link>
+      <guid isPermaLink="false">50777</guid>
+      <pubDate>Tue, 20 Jan 2026 16:30:57 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6898/d9ce7048-35f6-4a99-bc14-1607feb2fe2d.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Flockers</title>
+      <link>https://gamefound.com:443/en/projects/odd-bird/flockers?ref=</link>
+      <guid isPermaLink="false">50776</guid>
+      <pubDate>Tue, 20 Jan 2026 16:30:50 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6013/f1cf1a3c-995f-4ba7-9272-17ac3e64fa24.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Shōgun</title>
+      <link>https://gamefound.com:443/en/projects/phalanx/shogun?ref=</link>
+      <guid isPermaLink="false">50775</guid>
+      <pubDate>Tue, 20 Jan 2026 16:23:52 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8200/898e5ca4-566a-4c20-af26-23db1fec8ad8.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Dust in the Wind</title>
+      <link>https://gamefound.com:443/en/projects/phalanx/dust-in-the-wind?ref=</link>
+      <guid isPermaLink="false">50774</guid>
+      <pubDate>Tue, 20 Jan 2026 16:23:44 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8199/8b681d45-3932-4487-a14e-f4de83cbd944.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] MegaGame Library</title>
+      <link>https://gamefound.com:443/en/projects/level-99-games/megagame-library?ref=</link>
+      <guid isPermaLink="false">50773</guid>
+      <pubDate>Tue, 20 Jan 2026 16:23:38 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6290/9a43eee0-f522-40b9-a661-b8f561efb962.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] STORM FEATHERS - A Worker Placement &amp; Dungeon Crawler Hybrid</title>
+      <link>https://gamefound.com:443/en/projects/godotgames/stormfeathers?ref=</link>
+      <guid isPermaLink="false">50772</guid>
+      <pubDate>Tue, 20 Jan 2026 16:23:32 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5449/766a7796-7ff3-47e5-b723-ef913b56d3c4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] HOXFALL</title>
+      <link>https://gamefound.com:443/en/projects/xplored/hoxfall?ref=</link>
+      <guid isPermaLink="false">50771</guid>
+      <pubDate>Tue, 20 Jan 2026 16:23:25 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8192/152c04ee-b56c-420d-abea-9c49d1331f18.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] The Victor – Everyday Gaming Table by Geeknson</title>
       <link>https://gamefound.com:443/en/projects/geeknson-team/the-victor--everyday-gaming-table?ref=</link>
