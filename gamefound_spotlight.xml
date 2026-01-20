@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 20 Jan 2026 06:23:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 06:58:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Fox Flip</title>
+      <link>https://gamefound.com:443/en/projects/ryandaniele/foxflip?ref=</link>
+      <guid isPermaLink="false">50754</guid>
+      <pubDate>Tue, 20 Jan 2026 06:43:08 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6258/e269e25c-9e88-4ed7-a250-ef378c2e8838.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] ava - keep it nordic</title>
       <link>https://gamefound.com:443/en/projects/kvasirstudio/ava---keep-it-nordic?ref=</link>
@@ -116,37 +124,6 @@
       <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5995/c2f43563-2716-43ca-87ec-7ec61d5b6410.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Urban Warfare &amp; Armed Resistance</title>
-      <link>https://gamefound.com:443/en/projects/uwar/uwar?ref=</link>
-      <guid isPermaLink="false">49741</guid>
-      <pubDate>Thu, 15 Jan 2026 18:26:07 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6965/a91efa4b-4496-4a96-b002-0bc0449d8eb3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New blog post] [Special] Gamefound Winter Feast - live on January 20th!</title>
-      <link>https://gamefound.com/blog/post/gamefound-winter-feast---live-on-january-20th</link>
-      <guid isPermaLink="false">49740</guid>
-      <pubDate>Thu, 15 Jan 2026 11:28:03 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[New project] Pasteles &amp; Conservas: Exotic Tides</title>
-      <link>https://gamefound.com:443/en/projects/saltandpepper/pasteles--conservas-exotic-tides?ref=</link>
-      <guid isPermaLink="false">49739</guid>
-      <pubDate>Thu, 15 Jan 2026 07:20:50 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8150/5c01558a-1b4e-4c93-8406-457dbd934c10.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Outlaws: The Curse of Sherwood Forest</title>
-      <link>https://gamefound.com:443/en/projects/black-site-studios/outlaws-the-curse-of-sherwood-forest?ref=</link>
-      <guid isPermaLink="false">49738</guid>
-      <pubDate>Thu, 15 Jan 2026 01:08:43 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8205/762f0cf2-59d0-465d-b82c-958a3746bbb7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
