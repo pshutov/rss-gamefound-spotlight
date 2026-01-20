@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 20 Jan 2026 03:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 04:28:50 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] ava - keep it nordic</title>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">49744</guid>
       <pubDate>Fri, 16 Jan 2026 15:07:01 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/4c1debf5-fef5-4189-be65-500615b98b3b.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/3ac881a7-57e8-4819-ad1a-1c06c1ec0163.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[New project] Savage Beastmasters by Rampage Miniatures</title>
