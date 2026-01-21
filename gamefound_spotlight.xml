@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 21 Jan 2026 08:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:52:58 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] Colleagues has a starting date.</title>
@@ -100,7 +100,7 @@
       <guid isPermaLink="false">50769</guid>
       <pubDate>Tue, 20 Jan 2026 16:16:12 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8177/8b22c20a-c3c9-4e28-8564-f551d73e923c.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8177/4aeb1fc1-e5ac-476b-9873-a72e0d6279eb.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Last Arc: Tactics Analogue</title>
