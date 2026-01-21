@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 21 Jan 2026 08:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 09:25:08 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Fall Dawn</title>
+      <link>https://gamefound.com:443/en/projects/dustiny-games/fall-dawn?ref=</link>
+      <guid isPermaLink="false">50781</guid>
+      <pubDate>Wed, 21 Jan 2026 08:55:03 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6675/18cb6856-d885-4556-bbd3-ad68565321bc.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Colleagues has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/creardo/colleagues?ref=</link>
