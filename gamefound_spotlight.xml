@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 21 Jan 2026 14:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 14:54:45 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] Heroes of the Shire: Light &amp; Shadow has a starting date.</title>
@@ -124,7 +124,7 @@
       <guid isPermaLink="false">50769</guid>
       <pubDate>Tue, 20 Jan 2026 16:16:12 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8177/4aeb1fc1-e5ac-476b-9873-a72e0d6279eb.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8177/fcc80f71-4384-4d47-85ac-f178cf59c9be.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Last Arc: Tactics Analogue</title>
