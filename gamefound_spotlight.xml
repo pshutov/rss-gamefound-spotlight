@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 21 Jan 2026 18:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 19:20:07 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Farwald: Fallen Gods</title>
+      <link>https://gamefound.com:443/en/projects/mr_luke82/farwald?ref=</link>
+      <guid isPermaLink="false">50786</guid>
+      <pubDate>Wed, 21 Jan 2026 19:06:23 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8113/6a16555a-02ed-41d7-a0fd-6dbc549c66a3.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] ANYScape RPG - First Publication</title>
+      <link>https://gamefound.com:443/en/projects/anyscape-rpg/anyscape-rpg---first-publication?ref=</link>
+      <guid isPermaLink="false">50785</guid>
+      <pubDate>Wed, 21 Jan 2026 18:59:55 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5936/5958257b-9581-4652-928a-66a79e9488e5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] There Will Be Oil</title>
+      <link>https://gamefound.com:443/en/projects/peak-studios/there-will-be-oil?ref=</link>
+      <guid isPermaLink="false">50784</guid>
+      <pubDate>Wed, 21 Jan 2026 18:48:16 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8244/b1c586fd-8f3c-43c9-ac00-8e292aaa0d66.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Heroes of the Shire: Light &amp; Shadow has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/senior-games/heroes-of-the-shire-light-shadow?ref=</link>
