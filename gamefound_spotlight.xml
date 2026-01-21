@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 21 Jan 2026 19:47:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 20:21:13 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Pirouette: Figure Skating Solitaire Game</title>
+      <link>https://gamefound.com:443/en/projects/weighteddicegames/pirouette-figure-skating-solitaire-game?ref=</link>
+      <guid isPermaLink="false">50787</guid>
+      <pubDate>Wed, 21 Jan 2026 20:10:43 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8125/25f539f8-1f4b-4af4-9732-dd1c3a54e7a9.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Farwald: Fallen Gods</title>
       <link>https://gamefound.com:443/en/projects/mr_luke82/farwald?ref=</link>
