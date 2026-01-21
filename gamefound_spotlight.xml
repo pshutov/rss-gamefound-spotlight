@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 21 Jan 2026 01:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 03:14:05 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Sheol 2.0 - Midnight Odyssey</title>
@@ -108,7 +108,7 @@
       <guid isPermaLink="false">50767</guid>
       <pubDate>Tue, 20 Jan 2026 16:13:53 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6858/5d394edc-c747-464f-aa8a-92b94b342d05.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6858/64b58f5d-1dcd-41b4-9f1b-006434f886a4.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Hitman: The Board Game</title>
