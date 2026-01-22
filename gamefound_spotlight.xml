@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 22 Jan 2026 15:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 16:23:04 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Vault Zero</title>
+      <link>https://gamefound.com:443/en/projects/horse-thief-games/vault_zero?ref=</link>
+      <guid isPermaLink="false">50792</guid>
+      <pubDate>Thu, 22 Jan 2026 16:04:59 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8141/f733eca0-d604-4642-932c-c24b838176a4.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Toki &amp; Bloki – A Family Card Game About Emotions &amp; Trust</title>
       <link>https://gamefound.com:443/en/projects/markus-goffin/toki--bloki--a-family-card-game-about-emotions--trust?ref=</link>
