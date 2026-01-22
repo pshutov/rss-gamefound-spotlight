@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 22 Jan 2026 09:52:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 10:18:41 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Cloud Jumpers - The Board Game has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/gabrielfaint/cloud-jumpers---the-board-game?ref=</link>
+      <guid isPermaLink="false">50790</guid>
+      <pubDate>Thu, 22 Jan 2026 09:53:53 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6149/f4ef4287-007b-4b0f-b0b4-61e4d3c12fe1.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Dark Ages: Wars Of The Fallen Races</title>
       <link>https://gamefound.com:443/en/projects/simonadarko/dark-ages-wars-of-the-fallen-races?ref=</link>
