@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 22 Jan 2026 18:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 19:21:40 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Fetching Feathers &amp; D.O.T</title>
+      <link>https://gamefound.com:443/en/projects/unfringed/fetching-feathers?ref=</link>
+      <guid isPermaLink="false">50794</guid>
+      <pubDate>Thu, 22 Jan 2026 18:56:36 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8033/684f9804-ddf2-44d5-9f2b-ce17ccca661a.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Beetle Battle</title>
       <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle?ref=</link>
@@ -117,214 +125,6 @@
       <pubDate>Wed, 21 Jan 2026 08:04:40 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5539/2c5e2f66-15cb-4bd5-991a-4809717d7526.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Sheol 2.0 - Midnight Odyssey</title>
-      <link>https://gamefound.com:443/en/projects/lunar-oak-studio/sheol-20---midnight-odyssey?ref=</link>
-      <guid isPermaLink="false">50779</guid>
-      <pubDate>Tue, 20 Jan 2026 17:28:15 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4995/ccb233b2-2ede-43c0-9145-589eaf207d59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Sheol 2.0 - Midnight Odyssey</title>
-      <link>https://gamefound.com:443/en/projects/lunar-oak-studio/sheol-20---midnight-odyssey?ref=</link>
-      <guid isPermaLink="false">50778</guid>
-      <pubDate>Tue, 20 Jan 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4995/ccb233b2-2ede-43c0-9145-589eaf207d59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Tales of London</title>
-      <link>https://gamefound.com:443/en/projects/dont-panic-games/tales-of-london?ref=</link>
-      <guid isPermaLink="false">50777</guid>
-      <pubDate>Tue, 20 Jan 2026 16:30:57 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6898/d9ce7048-35f6-4a99-bc14-1607feb2fe2d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Flockers</title>
-      <link>https://gamefound.com:443/en/projects/odd-bird/flockers?ref=</link>
-      <guid isPermaLink="false">50776</guid>
-      <pubDate>Tue, 20 Jan 2026 16:30:50 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6013/f1cf1a3c-995f-4ba7-9272-17ac3e64fa24.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Shōgun</title>
-      <link>https://gamefound.com:443/en/projects/phalanx/shogun?ref=</link>
-      <guid isPermaLink="false">50775</guid>
-      <pubDate>Tue, 20 Jan 2026 16:23:52 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8200/898e5ca4-566a-4c20-af26-23db1fec8ad8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Dust in the Wind</title>
-      <link>https://gamefound.com:443/en/projects/phalanx/dust-in-the-wind?ref=</link>
-      <guid isPermaLink="false">50774</guid>
-      <pubDate>Tue, 20 Jan 2026 16:23:44 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8199/8b681d45-3932-4487-a14e-f4de83cbd944.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] MegaGame Library</title>
-      <link>https://gamefound.com:443/en/projects/level-99-games/megagame-library?ref=</link>
-      <guid isPermaLink="false">50773</guid>
-      <pubDate>Tue, 20 Jan 2026 16:23:38 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6290/9a43eee0-f522-40b9-a661-b8f561efb962.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] STORM FEATHERS - A Worker Placement &amp; Dungeon Crawler Hybrid</title>
-      <link>https://gamefound.com:443/en/projects/godotgames/stormfeathers?ref=</link>
-      <guid isPermaLink="false">50772</guid>
-      <pubDate>Tue, 20 Jan 2026 16:23:32 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5449/766a7796-7ff3-47e5-b723-ef913b56d3c4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] HOXFALL</title>
-      <link>https://gamefound.com:443/en/projects/xplored/hoxfall?ref=</link>
-      <guid isPermaLink="false">50771</guid>
-      <pubDate>Tue, 20 Jan 2026 16:23:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8192/152c04ee-b56c-420d-abea-9c49d1331f18.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Victor – Everyday Gaming Table by Geeknson</title>
-      <link>https://gamefound.com:443/en/projects/geeknson-team/the-victor--everyday-gaming-table?ref=</link>
-      <guid isPermaLink="false">50770</guid>
-      <pubDate>Tue, 20 Jan 2026 16:16:19 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8051/3b05b283-eb5d-411d-bc32-bec9be58e606.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Archvillain Encounters: Death &amp; Beyond</title>
-      <link>https://gamefound.com:443/en/projects/archvillain-games/archvillain-encounters-death--beyond?ref=</link>
-      <guid isPermaLink="false">50769</guid>
-      <pubDate>Tue, 20 Jan 2026 16:16:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8177/fcc80f71-4384-4d47-85ac-f178cf59c9be.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Last Arc: Tactics Analogue</title>
-      <link>https://gamefound.com:443/en/projects/succubus-publishing/last-arc-tactics-analogue?ref=</link>
-      <guid isPermaLink="false">50768</guid>
-      <pubDate>Tue, 20 Jan 2026 16:16:00 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6569/1e9e99e7-9bb5-43b1-a4c8-eba5057eefc5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Neopia Quest</title>
-      <link>https://gamefound.com:443/en/projects/ghostfire-gaming/neopia-quest?ref=</link>
-      <guid isPermaLink="false">50767</guid>
-      <pubDate>Tue, 20 Jan 2026 16:13:53 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6858/64b58f5d-1dcd-41b4-9f1b-006434f886a4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Hitman: The Board Game</title>
-      <link>https://gamefound.com:443/en/projects/mood-publishing/hitman-the-board-game?ref=</link>
-      <guid isPermaLink="false">50766</guid>
-      <pubDate>Tue, 20 Jan 2026 16:13:44 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6626/d776f5a8-2af4-4b90-907b-63906e1e1152.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Altered - Roots of Corruption</title>
-      <link>https://gamefound.com:443/en/projects/altered/altered-roots-of-corruption?ref=</link>
-      <guid isPermaLink="false">50765</guid>
-      <pubDate>Tue, 20 Jan 2026 16:08:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/8e7afbad-0fdb-4390-b940-c6835cdf61f4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Bullet Galaxy: Two New Expansions for Bullet!</title>
-      <link>https://gamefound.com:443/en/projects/level-99-games/bullet-galaxy?ref=</link>
-      <guid isPermaLink="false">50764</guid>
-      <pubDate>Tue, 20 Jan 2026 16:08:06 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6292/153da926-592b-412e-8bdc-a0e1b79ea9c4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Onward: Twisted (Solo Expansion)</title>
-      <link>https://gamefound.com:443/en/projects/skytear/onward-twisted?ref=</link>
-      <guid isPermaLink="false">50763</guid>
-      <pubDate>Tue, 20 Jan 2026 16:07:59 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6124/6474ff73-7968-48ef-9e14-0a3cd93166f2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Chronicles of Drunagor: Aftermath</title>
-      <link>https://gamefound.com:443/en/projects/wearecgs/chronicles-of-drunagor-aftermath?ref=</link>
-      <guid isPermaLink="false">50762</guid>
-      <pubDate>Tue, 20 Jan 2026 16:07:51 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6846/3ecc5ccc-c057-4bb3-a143-66b5af0e5d89.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Marco Polo Deluxe Master Set</title>
-      <link>https://gamefound.com:443/en/projects/board-and-dice/marco-polo-deluxe-master-set?ref=</link>
-      <guid isPermaLink="false">50761</guid>
-      <pubDate>Tue, 20 Jan 2026 16:04:20 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8165/bd1aa39b-a1aa-427a-9bcb-87dcd657a790.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Zombicide: Dead Men Tales</title>
-      <link>https://gamefound.com:443/en/projects/asmodee/dead-men-tales?ref=</link>
-      <guid isPermaLink="false">50760</guid>
-      <pubDate>Tue, 20 Jan 2026 16:04:09 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8203/cc8ea4be-f795-48dc-ac05-254c04466bee.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] 7 Wonders - Deluxe Series</title>
-      <link>https://gamefound.com:443/en/projects/reposproduction/7-wonders-deluxe-series?ref=</link>
-      <guid isPermaLink="false">50759</guid>
-      <pubDate>Tue, 20 Jan 2026 16:03:17 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8262/a1ea9263-f3e2-47c7-b557-0ca4d7fb3d29.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Sky Empire - New Dawn has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/greymarsh-games-preben/sky-empire-reloaded?ref=</link>
-      <guid isPermaLink="false">50758</guid>
-      <pubDate>Tue, 20 Jan 2026 12:01:10 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6079/10f87d41-cab0-448a-8fa7-e9d6fdadf746.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Ascendant Blades: Wuxia Skirmish has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/prismnrune/ascendant-blades-wuxia-skirmish?ref=</link>
-      <guid isPermaLink="false">50757</guid>
-      <pubDate>Tue, 20 Jan 2026 10:36:40 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6867/af7ec25e-47e6-4823-89bd-10b13173c0d4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Save Us All</title>
-      <link>https://gamefound.com:443/en/projects/saveusall/save-us-all?ref=</link>
-      <guid isPermaLink="false">50756</guid>
-      <pubDate>Tue, 20 Jan 2026 09:58:47 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8242/cfc3140c-2a05-4804-b8f7-b0561160d869.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Urban Warfare &amp; Armed Resistance has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/uwar/uwar?ref=</link>
-      <guid isPermaLink="false">50755</guid>
-      <pubDate>Tue, 20 Jan 2026 08:53:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6965/a91efa4b-4496-4a96-b002-0bc0449d8eb3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Fox Flip</title>
-      <link>https://gamefound.com:443/en/projects/ryandaniele/foxflip?ref=</link>
-      <guid isPermaLink="false">50754</guid>
-      <pubDate>Tue, 20 Jan 2026 06:43:08 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6258/e269e25c-9e88-4ed7-a250-ef378c2e8838.png" type="image/png" />
     </item>
   </channel>
 </rss>
