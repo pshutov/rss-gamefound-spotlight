@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 22 Jan 2026 07:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 08:24:31 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Dark Ages: Wars Of The Fallen Races</title>
@@ -68,7 +68,7 @@
       <guid isPermaLink="false">50782</guid>
       <pubDate>Wed, 21 Jan 2026 09:41:37 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6439/fe22b8a0-132f-491d-994d-8118b8d27422.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6439/c8c74e16-3a38-4e8c-81bb-17698ae3e5dd.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Fall Dawn</title>
