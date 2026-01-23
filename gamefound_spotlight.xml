@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 22 Jan 2026 23:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 01:04:12 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] The Great Library by Vital Lacerda with Art by Ian O'Toole</title>
+      <link>https://gamefound.com:443/en/projects/eagle-gryphon-games/the-great-library?ref=</link>
+      <guid isPermaLink="false">50796</guid>
+      <pubDate>Fri, 23 Jan 2026 00:06:35 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6802/a3827ebe-2ddf-4761-87a4-035976fe14c3.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Beetle Battle</title>
       <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle?ref=</link>
