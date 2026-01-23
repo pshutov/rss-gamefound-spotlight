@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 23 Jan 2026 17:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 17:45:00 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Symphony Of Gods</title>
+      <link>https://gamefound.com:443/en/projects/sogteam/symphony-of-gods?ref=</link>
+      <guid isPermaLink="false">50798</guid>
+      <pubDate>Fri, 23 Jan 2026 17:22:04 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6967/cded5f20-a8c9-4567-a891-819bad53cb13.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] The Travel Bug Card Game</title>
       <link>https://gamefound.com:443/en/projects/dominotracks/the-travel-bug-card-game?ref=</link>
