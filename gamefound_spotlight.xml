@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 23 Jan 2026 14:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 14:50:00 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The Travel Bug Card Game</title>
+      <link>https://gamefound.com:443/en/projects/dominotracks/the-travel-bug-card-game?ref=</link>
+      <guid isPermaLink="false">50797</guid>
+      <pubDate>Fri, 23 Jan 2026 14:32:01 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8277/12c1c168-1b61-45f0-86f7-e1ab32f22dd5.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] The Great Library by Vital Lacerda with Art by Ian O'Toole</title>
       <link>https://gamefound.com:443/en/projects/eagle-gryphon-games/the-great-library?ref=</link>
