@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 26 Jan 2026 13:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 14:00:29 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Savage Beastmasters by Rampage Miniatures has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters?ref=</link>
+      <guid isPermaLink="false">50809</guid>
+      <pubDate>Mon, 26 Jan 2026 13:36:46 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8183/1d7ac0d8-fd8a-4c1d-8fa2-47ed70545b44.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] RADIOACTIVE BEES DUEL has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/radioactive-bees/radiactive-bees-duel?ref=</link>
