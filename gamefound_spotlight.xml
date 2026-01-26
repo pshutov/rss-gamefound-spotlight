@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 26 Jan 2026 10:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:15:02 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Memory Royale</title>
+      <link>https://gamefound.com:443/en/projects/memory-royale/memory-game?ref=</link>
+      <guid isPermaLink="false">50806</guid>
+      <pubDate>Mon, 26 Jan 2026 11:01:33 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8114/d4d084bd-c331-4f9b-9875-7847f7713052.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Ancient Empires has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/archona-games/small-ancient-empires?ref=</link>
