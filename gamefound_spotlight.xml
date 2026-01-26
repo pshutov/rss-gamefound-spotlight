@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 26 Jan 2026 22:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 23:14:29 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The Hunters A. D. 1492 2nd Edition i dodatek Borderlands (edycja polska)</title>
+      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-i-dodatek-borderlands-edycja-polska?ref=</link>
+      <guid isPermaLink="false">50813</guid>
+      <pubDate>Mon, 26 Jan 2026 22:52:01 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8324/cf940147-e0e7-4e98-8d2e-f408a2a37e08.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Blood Economy [A Solo Vampire Card Game]</title>
       <link>https://gamefound.com:443/en/projects/mod-games/blood-economy?ref=</link>
@@ -117,30 +125,6 @@
       <pubDate>Sat, 24 Jan 2026 05:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6867/af7ec25e-47e6-4823-89bd-10b13173c0d4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Symphony Of Gods</title>
-      <link>https://gamefound.com:443/en/projects/sogteam/symphony-of-gods?ref=</link>
-      <guid isPermaLink="false">50798</guid>
-      <pubDate>Fri, 23 Jan 2026 17:22:04 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6967/cded5f20-a8c9-4567-a891-819bad53cb13.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Travel Bug Card Game</title>
-      <link>https://gamefound.com:443/en/projects/dominotracks/the-travel-bug-card-game?ref=</link>
-      <guid isPermaLink="false">50797</guid>
-      <pubDate>Fri, 23 Jan 2026 14:32:01 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8277/12c1c168-1b61-45f0-86f7-e1ab32f22dd5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] The Great Library by Vital Lacerda with Art by Ian O'Toole</title>
-      <link>https://gamefound.com:443/en/projects/eagle-gryphon-games/the-great-library?ref=</link>
-      <guid isPermaLink="false">50796</guid>
-      <pubDate>Fri, 23 Jan 2026 00:06:35 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6802/a3827ebe-2ddf-4761-87a4-035976fe14c3.png" type="image/png" />
     </item>
   </channel>
 </rss>
