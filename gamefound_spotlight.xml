@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 26 Jan 2026 14:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 14:54:44 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Comber Cat has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/gamedolflimited/comber-cat?ref=</link>
+      <guid isPermaLink="false">50810</guid>
+      <pubDate>Mon, 26 Jan 2026 14:44:41 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8225/15440acf-6210-4128-9450-799e0cac7b99.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Savage Beastmasters by Rampage Miniatures has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters?ref=</link>
@@ -117,62 +125,6 @@
       <pubDate>Fri, 23 Jan 2026 00:06:35 +0000</pubDate>
       <description>New Pledge Manager</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6802/a3827ebe-2ddf-4761-87a4-035976fe14c3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Beetle Battle</title>
-      <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle?ref=</link>
-      <guid isPermaLink="false">50795</guid>
-      <pubDate>Thu, 22 Jan 2026 21:43:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5980/21bf4cd2-ccc4-414a-a938-a64f83cbf48d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Fetching Feathers &amp; D.O.T</title>
-      <link>https://gamefound.com:443/en/projects/unfringed/fetching-feathers?ref=</link>
-      <guid isPermaLink="false">50794</guid>
-      <pubDate>Thu, 22 Jan 2026 18:56:36 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8033/684f9804-ddf2-44d5-9f2b-ce17ccca661a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Beetle Battle</title>
-      <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle?ref=</link>
-      <guid isPermaLink="false">50793</guid>
-      <pubDate>Thu, 22 Jan 2026 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5980/21bf4cd2-ccc4-414a-a938-a64f83cbf48d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Vault Zero</title>
-      <link>https://gamefound.com:443/en/projects/horse-thief-games/vault_zero?ref=</link>
-      <guid isPermaLink="false">50792</guid>
-      <pubDate>Thu, 22 Jan 2026 16:04:59 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8141/f733eca0-d604-4642-932c-c24b838176a4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Toki &amp; Bloki – A Family Card Game About Emotions &amp; Trust</title>
-      <link>https://gamefound.com:443/en/projects/markus-goffin/toki--bloki--a-family-card-game-about-emotions--trust?ref=</link>
-      <guid isPermaLink="false">50791</guid>
-      <pubDate>Thu, 22 Jan 2026 15:09:31 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8265/d945585d-170d-4303-b914-3a3abd68252b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Cloud Jumpers - The Board Game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gabrielfaint/cloud-jumpers---the-board-game?ref=</link>
-      <guid isPermaLink="false">50790</guid>
-      <pubDate>Thu, 22 Jan 2026 09:53:53 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6149/940abc79-3d2d-43cb-b519-a1a43b39940b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Dark Ages: Wars Of The Fallen Races</title>
-      <link>https://gamefound.com:443/en/projects/simonadarko/dark-ages-wars-of-the-fallen-races?ref=</link>
-      <guid isPermaLink="false">50789</guid>
-      <pubDate>Thu, 22 Jan 2026 06:02:31 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8082/bc834b42-9eca-45a1-b39b-202a01d2fd81.png" type="image/png" />
     </item>
   </channel>
 </rss>
