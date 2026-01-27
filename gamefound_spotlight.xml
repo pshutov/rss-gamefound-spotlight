@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 27 Jan 2026 17:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 18:26:44 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
+      <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map?ref=</link>
+      <guid isPermaLink="false">50831</guid>
+      <pubDate>Tue, 27 Jan 2026 18:09:15 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/3ac881a7-57e8-4819-ad1a-1c06c1ec0163.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Tinctura</title>
       <link>https://gamefound.com:443/en/projects/skellig-games/tinctura?ref=</link>
