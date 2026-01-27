@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 27 Jan 2026 15:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 15:49:11 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Boktor: Explore, Fight, Evolve</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="false">50823</guid>
       <pubDate>Tue, 27 Jan 2026 15:17:35 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/8a8f7641-2cf2-4c14-8008-0c83a370f107.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/f969cfec-cd98-41f7-90aa-6e7cfb159ad9.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
@@ -28,7 +28,7 @@
       <guid isPermaLink="false">50821</guid>
       <pubDate>Tue, 27 Jan 2026 14:59:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/8a8f7641-2cf2-4c14-8008-0c83a370f107.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/f969cfec-cd98-41f7-90aa-6e7cfb159ad9.png" type="image/png" />
     </item>
     <item>
       <title>[New project] The Warcode</title>
