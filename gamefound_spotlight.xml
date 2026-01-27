@@ -4,8 +4,48 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 27 Jan 2026 15:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 16:19:42 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Dicequest</title>
+      <link>https://gamefound.com:443/en/projects/skytear/dicequest?ref=</link>
+      <guid isPermaLink="false">50828</guid>
+      <pubDate>Tue, 27 Jan 2026 16:11:21 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/2bdda12b-e050-4ce6-81c5-811b850cd809.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Siege Perilous</title>
+      <link>https://gamefound.com:443/en/projects/play-to-z/siege-perilous?ref=</link>
+      <guid isPermaLink="false">50827</guid>
+      <pubDate>Tue, 27 Jan 2026 16:11:04 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8264/cd4f1e36-2b36-4939-a63c-4dce20e5d2e2.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Mage Noir - Black &amp; Gold Edition</title>
+      <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition?ref=</link>
+      <guid isPermaLink="false">50826</guid>
+      <pubDate>Tue, 27 Jan 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6941/0163ecbc-d124-47ed-8a36-e534934197ac.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Dicequest</title>
+      <link>https://gamefound.com:443/en/projects/skytear/dicequest?ref=</link>
+      <guid isPermaLink="false">50825</guid>
+      <pubDate>Tue, 27 Jan 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/2bdda12b-e050-4ce6-81c5-811b850cd809.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Tinctura</title>
+      <link>https://gamefound.com:443/en/projects/skellig-games/tinctura?ref=</link>
+      <guid isPermaLink="false">50824</guid>
+      <pubDate>Tue, 27 Jan 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6934/1cfccd4b-dcd8-46f0-87a4-a8b9784abb01.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Boktor: Explore, Fight, Evolve</title>
       <link>https://gamefound.com:443/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest?ref=</link>
