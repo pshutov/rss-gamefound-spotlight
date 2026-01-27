@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 27 Jan 2026 13:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 14:01:55 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] The Warcode</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="false">50820</guid>
       <pubDate>Tue, 27 Jan 2026 13:19:12 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8252/072e1bca-5241-4512-9eba-fdc94410f5e7.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8252/4d55515c-17b5-4bfd-99e9-6120725e6f8a.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Launch date] Astromythos has a starting date.</title>
