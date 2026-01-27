@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 27 Jan 2026 09:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 09:53:20 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] THE FAMILY DECK — Indestructible Mafia-Themed Poker Playing Cards has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/papagaming/the-family-deck--indestructible-mafia-themed-poker-playing-cards?ref=</link>
+      <guid isPermaLink="false">50816</guid>
+      <pubDate>Tue, 27 Jan 2026 09:50:40 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8091/55039d84-97fd-40c3-aa69-75be63874e6c.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Apophenia - A Human-first Solo TTRPG</title>
       <link>https://gamefound.com:443/en/projects/roll-and-perish/apophenia?ref=</link>
