@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 26 Jan 2026 23:41:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 01:07:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Apophenia - A Human-first Solo TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/roll-and-perish/apophenia?ref=</link>
+      <guid isPermaLink="false">50815</guid>
+      <pubDate>Tue, 27 Jan 2026 01:00:42 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8311/7c2054ce-17d2-4d6f-b33e-c394e31f3eb1.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Glades Emperor</title>
+      <link>https://gamefound.com:443/en/projects/zilverspar-games/glades-emperor?ref=</link>
+      <guid isPermaLink="false">50814</guid>
+      <pubDate>Mon, 26 Jan 2026 23:39:32 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8142/8b98ac6c-1ccc-41d9-8fb1-7d2d7ad410e2.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] The Hunters A. D. 1492 2nd Edition i dodatek Borderlands (edycja polska)</title>
       <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-i-dodatek-borderlands-edycja-polska?ref=</link>
