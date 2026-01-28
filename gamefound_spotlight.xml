@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 28 Jan 2026 08:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 09:26:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Mentoras - RPG Productivity Game</title>
+      <link>https://gamefound.com:443/en/projects/mentoras/mentoras---rpg-productivity-game?ref=</link>
+      <guid isPermaLink="false">50832</guid>
+      <pubDate>Wed, 28 Jan 2026 09:21:48 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8062/15a57ca5-56c4-45c1-8721-217b988d6a2b.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
       <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map?ref=</link>
