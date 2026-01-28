@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 28 Jan 2026 10:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 11:16:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Grifoni - Blades for Hire</title>
+      <link>https://gamefound.com:443/en/projects/lms/grifoni_blades-for-hire?ref=</link>
+      <guid isPermaLink="false">50835</guid>
+      <pubDate>Wed, 28 Jan 2026 11:07:28 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8235/827ea798-6d2a-4a1d-9865-60d4e9729acb.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] The Smoky Valley</title>
+      <link>https://gamefound.com:443/en/projects/fentasy-games/the-smoky-valley?ref=</link>
+      <guid isPermaLink="false">50834</guid>
+      <pubDate>Wed, 28 Jan 2026 11:04:42 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8334/62fba464-bd14-474f-bbf5-afdd51c70032.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Stefan Feld City Collection has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/queengames/sfcc-classicspecial-deluxe?ref=</link>
