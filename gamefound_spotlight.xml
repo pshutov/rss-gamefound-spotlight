@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 28 Jan 2026 18:58:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 19:28:59 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Dungeon Universalis Second Edition</title>
+      <link>https://gamefound.com:443/en/projects/ludic-dragon-games/dungeon-universalis-second-edition?ref=</link>
+      <guid isPermaLink="false">50841</guid>
+      <pubDate>Wed, 28 Jan 2026 19:02:45 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6552/1cbd533b-847b-4ce3-830d-47ed86acf969.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] The Dawnless Necropolis: A Dark Medieval Gamebook</title>
       <link>https://gamefound.com:443/en/projects/last-dawn-press/the-dawnless-necropolis?ref=</link>
