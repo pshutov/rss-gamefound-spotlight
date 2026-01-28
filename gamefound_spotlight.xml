@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 28 Jan 2026 17:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 17:56:10 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The Dawnless Necropolis: A Dark Medieval Gamebook</title>
+      <link>https://gamefound.com:443/en/projects/last-dawn-press/the-dawnless-necropolis?ref=</link>
+      <guid isPermaLink="false">50840</guid>
+      <pubDate>Wed, 28 Jan 2026 17:43:21 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8151/0e57ca99-fc61-4a0d-94ab-fc7079214517.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Colleagues</title>
       <link>https://gamefound.com:443/en/projects/creardo/colleagues?ref=</link>
