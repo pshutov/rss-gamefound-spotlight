@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 29 Jan 2026 12:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 13:52:59 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Gateway has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/tentacula/gateway?ref=</link>
+      <guid isPermaLink="false">50846</guid>
+      <pubDate>Thu, 29 Jan 2026 13:18:15 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6327/2c5ec47c-3870-4e35-abe2-fd42bb884f32.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Pirouette: Figure Skating Solitaire Game has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/weighteddicegames/pirouette-figure-skating-solitaire-game?ref=</link>
@@ -116,142 +124,6 @@
       <pubDate>Wed, 28 Jan 2026 09:21:48 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8062/15a57ca5-56c4-45c1-8721-217b988d6a2b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
-      <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map?ref=</link>
-      <guid isPermaLink="false">50831</guid>
-      <pubDate>Tue, 27 Jan 2026 18:09:15 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/3ac881a7-57e8-4819-ad1a-1c06c1ec0163.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Tinctura</title>
-      <link>https://gamefound.com:443/en/projects/skellig-games/tinctura?ref=</link>
-      <guid isPermaLink="false">50830</guid>
-      <pubDate>Tue, 27 Jan 2026 16:32:56 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6934/1cfccd4b-dcd8-46f0-87a4-a8b9784abb01.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Mage Noir - Black &amp; Gold Edition</title>
-      <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition?ref=</link>
-      <guid isPermaLink="false">50829</guid>
-      <pubDate>Tue, 27 Jan 2026 16:30:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6941/0163ecbc-d124-47ed-8a36-e534934197ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Dicequest</title>
-      <link>https://gamefound.com:443/en/projects/skytear/dicequest?ref=</link>
-      <guid isPermaLink="false">50828</guid>
-      <pubDate>Tue, 27 Jan 2026 16:11:21 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/2bdda12b-e050-4ce6-81c5-811b850cd809.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Siege Perilous</title>
-      <link>https://gamefound.com:443/en/projects/play-to-z/siege-perilous?ref=</link>
-      <guid isPermaLink="false">50827</guid>
-      <pubDate>Tue, 27 Jan 2026 16:11:04 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8264/cd4f1e36-2b36-4939-a63c-4dce20e5d2e2.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Mage Noir - Black &amp; Gold Edition</title>
-      <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition?ref=</link>
-      <guid isPermaLink="false">50826</guid>
-      <pubDate>Tue, 27 Jan 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6941/0163ecbc-d124-47ed-8a36-e534934197ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Dicequest</title>
-      <link>https://gamefound.com:443/en/projects/skytear/dicequest?ref=</link>
-      <guid isPermaLink="false">50825</guid>
-      <pubDate>Tue, 27 Jan 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/2bdda12b-e050-4ce6-81c5-811b850cd809.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Tinctura</title>
-      <link>https://gamefound.com:443/en/projects/skellig-games/tinctura?ref=</link>
-      <guid isPermaLink="false">50824</guid>
-      <pubDate>Tue, 27 Jan 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6934/1cfccd4b-dcd8-46f0-87a4-a8b9784abb01.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Boktor: Explore, Fight, Evolve</title>
-      <link>https://gamefound.com:443/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest?ref=</link>
-      <guid isPermaLink="false">50823</guid>
-      <pubDate>Tue, 27 Jan 2026 15:17:35 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/f969cfec-cd98-41f7-90aa-6e7cfb159ad9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
-      <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map?ref=</link>
-      <guid isPermaLink="false">50822</guid>
-      <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/3ac881a7-57e8-4819-ad1a-1c06c1ec0163.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Boktor: Explore, Fight, Evolve</title>
-      <link>https://gamefound.com:443/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest?ref=</link>
-      <guid isPermaLink="false">50821</guid>
-      <pubDate>Tue, 27 Jan 2026 14:59:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/f969cfec-cd98-41f7-90aa-6e7cfb159ad9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Warcode</title>
-      <link>https://gamefound.com:443/en/projects/redmakers/the-warcode?ref=</link>
-      <guid isPermaLink="false">50820</guid>
-      <pubDate>Tue, 27 Jan 2026 13:19:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8252/4d55515c-17b5-4bfd-99e9-6120725e6f8a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Astromythos has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/jsideriadis/astromythos?ref=</link>
-      <guid isPermaLink="false">50819</guid>
-      <pubDate>Tue, 27 Jan 2026 10:44:00 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6227/af38647a-27dd-429d-a16a-2f7ec41fc342.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Goldrush 1850 has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/waldegames/goldrush-1850?ref=</link>
-      <guid isPermaLink="false">50818</guid>
-      <pubDate>Tue, 27 Jan 2026 10:42:02 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5472/d637a912-ec3a-48aa-998a-98a01333e4d6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Toki &amp; Bloki – A Family Card Game About Emotions &amp; Trust has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/markus-goffin/toki--bloki--a-family-card-game-about-emotions--trust?ref=</link>
-      <guid isPermaLink="false">50817</guid>
-      <pubDate>Tue, 27 Jan 2026 10:41:46 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8265/d945585d-170d-4303-b914-3a3abd68252b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] THE FAMILY DECK — Indestructible Mafia-Themed Poker Playing Cards has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/papagaming/the-family-deck--indestructible-mafia-themed-poker-playing-cards?ref=</link>
-      <guid isPermaLink="false">50816</guid>
-      <pubDate>Tue, 27 Jan 2026 09:50:40 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8091/55039d84-97fd-40c3-aa69-75be63874e6c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Apophenia - A Human-first Solo TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/roll-and-perish/apophenia?ref=</link>
-      <guid isPermaLink="false">50815</guid>
-      <pubDate>Tue, 27 Jan 2026 01:00:42 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8311/7c2054ce-17d2-4d6f-b33e-c394e31f3eb1.png" type="image/png" />
     </item>
   </channel>
 </rss>
