@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 29 Jan 2026 07:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 07:58:05 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Colleagues</title>
+      <link>https://gamefound.com:443/en/projects/creardo/colleagues?ref=</link>
+      <guid isPermaLink="false">50843</guid>
+      <pubDate>Thu, 29 Jan 2026 07:47:57 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5539/2c5e2f66-15cb-4bd5-991a-4809717d7526.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Colt Express: The Complete Collection</title>
       <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
