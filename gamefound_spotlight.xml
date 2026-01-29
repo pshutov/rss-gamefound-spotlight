@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 29 Jan 2026 05:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 06:03:40 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Colt Express: The Complete Collection</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
+      <guid isPermaLink="false">50842</guid>
+      <pubDate>Thu, 29 Jan 2026 05:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Dungeon Universalis Second Edition</title>
       <link>https://gamefound.com:443/en/projects/ludic-dragon-games/dungeon-universalis-second-edition?ref=</link>
