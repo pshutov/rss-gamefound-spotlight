@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 30 Jan 2026 22:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:17:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] The Travel Bug Card Game</title>
+      <link>https://gamefound.com:443/en/projects/dominotracks/the-travel-bug-card-game?ref=</link>
+      <guid isPermaLink="false">50859</guid>
+      <pubDate>Fri, 30 Jan 2026 23:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8277/12c1c168-1b61-45f0-86f7-e1ab32f22dd5.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Toki &amp; Bloki – A Family Card Game About Emotions &amp; Trust</title>
       <link>https://gamefound.com:443/en/projects/markus-goffin/toki--bloki--a-family-card-game-about-emotions--trust?ref=</link>
