@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 29 Jan 2026 23:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 01:12:32 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Invincible: Aftermath - Season 2</title>
+      <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/invincible-aftermath---season-2?ref=</link>
+      <guid isPermaLink="false">50852</guid>
+      <pubDate>Fri, 30 Jan 2026 01:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7010/51d51a5b-4661-4992-b508-00ca3af1bb7b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Coffee Tycoon</title>
+      <link>https://gamefound.com:443/en/projects/babak/coffee-tycoon?ref=</link>
+      <guid isPermaLink="false">50851</guid>
+      <pubDate>Fri, 30 Jan 2026 00:34:59 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6226/c9219d67-e5d1-42a4-8ff8-818e7f7dde4d.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] L Word Love Letters</title>
       <link>https://gamefound.com:443/en/projects/allisonkcole/l-word-love-letters?ref=</link>
