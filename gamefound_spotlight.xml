@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 30 Jan 2026 12:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 13:49:05 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Toki &amp; Bloki – A Family Card Game About Emotions &amp; Trust</title>
+      <link>https://gamefound.com:443/en/projects/markus-goffin/toki--bloki--a-family-card-game-about-emotions--trust?ref=</link>
+      <guid isPermaLink="false">50858</guid>
+      <pubDate>Fri, 30 Jan 2026 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8265/d945585d-170d-4303-b914-3a3abd68252b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] The Lobbyist</title>
+      <link>https://gamefound.com:443/en/projects/dot-lab-games/the_lobbyst?ref=</link>
+      <guid isPermaLink="false">50857</guid>
+      <pubDate>Fri, 30 Jan 2026 12:45:12 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8269/24d90bb6-7a33-4897-864c-75c2d1204367.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Flip Chess</title>
       <link>https://gamefound.com:443/en/projects/jarnos/flip-chess?ref=</link>
