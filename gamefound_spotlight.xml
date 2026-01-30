@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 30 Jan 2026 11:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 12:34:08 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Flip Chess</title>
+      <link>https://gamefound.com:443/en/projects/jarnos/flip-chess?ref=</link>
+      <guid isPermaLink="false">50856</guid>
+      <pubDate>Fri, 30 Jan 2026 11:58:09 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8301/1dd78ec9-85c3-486a-84b5-6fb195e7bf20.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Dice Tower Pledge Drive 2026</title>
       <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
@@ -117,85 +125,6 @@
       <pubDate>Thu, 29 Jan 2026 05:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Dungeon Universalis Second Edition</title>
-      <link>https://gamefound.com:443/en/projects/ludic-dragon-games/dungeon-universalis-second-edition?ref=</link>
-      <guid isPermaLink="false">50841</guid>
-      <pubDate>Wed, 28 Jan 2026 19:02:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6552/1cbd533b-847b-4ce3-830d-47ed86acf969.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] The Dawnless Necropolis: A Dark Medieval Gamebook</title>
-      <link>https://gamefound.com:443/en/projects/last-dawn-press/the-dawnless-necropolis?ref=</link>
-      <guid isPermaLink="false">50840</guid>
-      <pubDate>Wed, 28 Jan 2026 17:43:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8151/0e57ca99-fc61-4a0d-94ab-fc7079214517.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Colleagues</title>
-      <link>https://gamefound.com:443/en/projects/creardo/colleagues?ref=</link>
-      <guid isPermaLink="false">50839</guid>
-      <pubDate>Wed, 28 Jan 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5539/2c5e2f66-15cb-4bd5-991a-4809717d7526.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New blog post] [What's New] New Currencies, Improvements &amp; Feast Summary!</title>
-      <link>https://gamefound.com/blog/post/new-currencies-feast-summary</link>
-      <guid isPermaLink="false">50838</guid>
-      <pubDate>Wed, 28 Jan 2026 16:00:40 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[New Late Pledge] The Great Harbor</title>
-      <link>https://gamefound.com:443/en/projects/archona-games/the-great-harbor?ref=</link>
-      <guid isPermaLink="false">50837</guid>
-      <pubDate>Wed, 28 Jan 2026 15:35:14 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6526/d51fe093-a13b-4ae6-91dc-8fdf9589052a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Quest &amp; Request has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/qdss/quest-and-request?ref=</link>
-      <guid isPermaLink="false">50836</guid>
-      <pubDate>Wed, 28 Jan 2026 12:36:49 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6168/58dad8cc-b90e-4097-bb1f-dd24a1039ccc.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Grifoni - Blades for Hire</title>
-      <link>https://gamefound.com:443/en/projects/lms/grifoni_blades-for-hire?ref=</link>
-      <guid isPermaLink="false">50835</guid>
-      <pubDate>Wed, 28 Jan 2026 11:07:28 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8235/827ea798-6d2a-4a1d-9865-60d4e9729acb.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] The Smoky Valley</title>
-      <link>https://gamefound.com:443/en/projects/fentasy-games/the-smoky-valley?ref=</link>
-      <guid isPermaLink="false">50834</guid>
-      <pubDate>Wed, 28 Jan 2026 11:04:42 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8334/2e041bbc-59be-43af-a578-2de6ee370405.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Stefan Feld City Collection has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/queengames/sfcc-classicspecial-deluxe?ref=</link>
-      <guid isPermaLink="false">50833</guid>
-      <pubDate>Wed, 28 Jan 2026 10:43:54 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5033/6371a669-552c-4a9a-92b0-23ccf839fd0d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Mentoras - RPG Productivity Game</title>
-      <link>https://gamefound.com:443/en/projects/mentoras/mentoras---rpg-productivity-game?ref=</link>
-      <guid isPermaLink="false">50832</guid>
-      <pubDate>Wed, 28 Jan 2026 09:21:48 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8062/15a57ca5-56c4-45c1-8721-217b988d6a2b.png" type="image/png" />
     </item>
   </channel>
 </rss>
