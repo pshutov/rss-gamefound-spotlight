@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 30 Jan 2026 03:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 05:03:59 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Small Time Heroes Reprint and Expansion [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/small-time-heroes-reprint-and-expansion-solo-game-of-the-month?ref=</link>
+      <guid isPermaLink="false">50854</guid>
+      <pubDate>Fri, 30 Jan 2026 05:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6817/c43e75a4-8d4c-40db-ba31-2eda26c5ca8c.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Dice Tower Pledge Drive 2026</title>
+      <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
+      <guid isPermaLink="false">50853</guid>
+      <pubDate>Fri, 30 Jan 2026 04:30:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6820/7614265e-d7ae-42db-b083-18b1f71f3b51.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Invincible: Aftermath - Season 2</title>
       <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/invincible-aftermath---season-2?ref=</link>
