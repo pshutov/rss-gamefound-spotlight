@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 30 Jan 2026 23:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 01:09:33 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Dead Man's Chess - Print &amp; Play STLs</title>
+      <link>https://gamefound.com:443/en/projects/spyglass-game/dead-mans-chess?ref=</link>
+      <guid isPermaLink="false">50861</guid>
+      <pubDate>Sat, 31 Jan 2026 01:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5669/8c1c9b8a-18e9-4a42-8122-cbd6d0949e80.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Astra Imperium [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month?ref=</link>
+      <guid isPermaLink="false">50860</guid>
+      <pubDate>Fri, 30 Jan 2026 23:50:59 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] The Travel Bug Card Game</title>
       <link>https://gamefound.com:443/en/projects/dominotracks/the-travel-bug-card-game?ref=</link>
