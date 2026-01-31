@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 31 Jan 2026 16:16:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 16:51:26 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Blood Economy [A Solo Vampire Card Game]</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="false">50863</guid>
       <pubDate>Sat, 31 Jan 2026 15:44:52 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/347b0f52-9f35-4dfb-8b1b-02bd60b45a17.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/447eb036-70ce-468c-ab8e-7cf60fa0fbb6.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] THE FAMILY DECK — Indestructible Mafia-Themed Poker Playing Cards</title>
