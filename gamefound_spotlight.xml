@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 01 Feb 2026 11:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 12:29:11 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The 30's</title>
+      <link>https://gamefound.com:443/en/projects/darkkena/the-30s?ref=</link>
+      <guid isPermaLink="false">51852</guid>
+      <pubDate>Sun, 01 Feb 2026 11:59:47 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8184/7d475d97-491f-4de4-8c86-88ae8cdb0d72.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] soccerone</title>
       <link>https://gamefound.com:443/en/projects/soccerone-official/soccerone?ref=</link>
@@ -117,78 +125,6 @@
       <pubDate>Fri, 30 Jan 2026 00:34:59 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6226/c9219d67-e5d1-42a4-8ff8-818e7f7dde4d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] L Word Love Letters</title>
-      <link>https://gamefound.com:443/en/projects/allisonkcole/l-word-love-letters?ref=</link>
-      <guid isPermaLink="false">50850</guid>
-      <pubDate>Thu, 29 Jan 2026 19:32:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8295/ab0c4169-e5d8-484a-b211-8c80c2e4fc61.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Scrapyard and Recycling Simulator: Make a Profit from Trash!</title>
-      <link>https://gamefound.com:443/en/projects/hugoferreira25/scrapyard--recycling-simulator?ref=</link>
-      <guid isPermaLink="false">50849</guid>
-      <pubDate>Thu, 29 Jan 2026 18:09:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8305/3d3783c2-f13f-4a65-9e71-ae3b3d71197f.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Jump Masters!</title>
-      <link>https://gamefound.com:443/en/projects/chip-theory-games/jump-masters?ref=</link>
-      <guid isPermaLink="false">50848</guid>
-      <pubDate>Thu, 29 Jan 2026 17:31:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] 20 Strong: Nemesis, Tainted Grail, &amp; Etherfields</title>
-      <link>https://gamefound.com:443/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis?ref=</link>
-      <guid isPermaLink="false">50847</guid>
-      <pubDate>Thu, 29 Jan 2026 17:29:37 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8333/1e063a68-31d7-40f3-ac05-a33db81b2436.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Gateway has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/tentacula/gateway?ref=</link>
-      <guid isPermaLink="false">50846</guid>
-      <pubDate>Thu, 29 Jan 2026 13:18:15 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6327/2c5ec47c-3870-4e35-abe2-fd42bb884f32.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Pirouette: Figure Skating Solitaire Game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/weighteddicegames/pirouette-figure-skating-solitaire-game?ref=</link>
-      <guid isPermaLink="false">50845</guid>
-      <pubDate>Thu, 29 Jan 2026 12:03:52 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8125/ce20e2dd-bd68-4bdb-857c-f98c0ee655f8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Beast: Ashfall</title>
-      <link>https://gamefound.com:443/en/projects/studio-midhall/beast-ashfall?ref=</link>
-      <guid isPermaLink="false">50844</guid>
-      <pubDate>Thu, 29 Jan 2026 09:51:00 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8330/adf4664f-74de-483b-b6fb-2365dcbd841b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Colleagues</title>
-      <link>https://gamefound.com:443/en/projects/creardo/colleagues?ref=</link>
-      <guid isPermaLink="false">50843</guid>
-      <pubDate>Thu, 29 Jan 2026 07:47:57 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5539/2c5e2f66-15cb-4bd5-991a-4809717d7526.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Colt Express: The Complete Collection</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-tycoon/colt-express-the-complete-collection?ref=</link>
-      <guid isPermaLink="false">50842</guid>
-      <pubDate>Thu, 29 Jan 2026 05:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6853/2b6ac893-0c26-4751-93b8-58811bef60c1.png" type="image/png" />
     </item>
   </channel>
 </rss>
