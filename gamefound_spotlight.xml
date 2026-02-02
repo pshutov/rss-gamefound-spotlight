@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 02 Feb 2026 06:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 07:43:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Scarab Sands</title>
+      <link>https://gamefound.com:443/en/projects/stranger-games-studio/scarab-sands?ref=</link>
+      <guid isPermaLink="false">51853</guid>
+      <pubDate>Mon, 02 Feb 2026 06:54:11 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8260/ec752a37-121f-4df6-8b91-c5a5cabd6e71.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] The 30's</title>
       <link>https://gamefound.com:443/en/projects/darkkena/the-30s?ref=</link>
