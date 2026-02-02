@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 02 Feb 2026 12:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 13:55:57 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Comber Cat</title>
+      <link>https://gamefound.com:443/en/projects/gamedolflimited/comber-cat?ref=</link>
+      <guid isPermaLink="false">51855</guid>
+      <pubDate>Mon, 02 Feb 2026 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8225/15440acf-6210-4128-9450-799e0cac7b99.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Space Qubes Relaunch has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/kagu-spiele/space-qubes-relaunch?ref=</link>
+      <guid isPermaLink="false">51854</guid>
+      <pubDate>Mon, 02 Feb 2026 12:49:00 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6572/11e9a8e6-0aef-4431-96a2-d662dd5b78d5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Scarab Sands</title>
       <link>https://gamefound.com:443/en/projects/stranger-games-studio/scarab-sands?ref=</link>
