@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 03 Feb 2026 08:39:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 09:31:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Ludicurrus</title>
+      <link>https://gamefound.com:443/en/projects/iconiq-studios/ludicurrus?ref=</link>
+      <guid isPermaLink="false">51857</guid>
+      <pubDate>Tue, 03 Feb 2026 08:46:19 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6850/d8718b15-c677-4110-be54-4d6fcd37d372.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Savage Beastmasters by Rampage Miniatures</title>
       <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters?ref=</link>
