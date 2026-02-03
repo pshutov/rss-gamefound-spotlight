@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 03 Feb 2026 17:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 18:42:58 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Brawl on Olympus</title>
+      <link>https://gamefound.com:443/en/projects/journoskillz/brawl-on-olympus?ref=</link>
+      <guid isPermaLink="false">51863</guid>
+      <pubDate>Tue, 03 Feb 2026 18:10:08 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8292/94659311-2c72-49f7-8b84-03fc2d14de85.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] DeckHand: Race for Infamy</title>
+      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy?ref=</link>
+      <guid isPermaLink="false">51862</guid>
+      <pubDate>Tue, 03 Feb 2026 18:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5335/4e9afeb3-361e-4665-8288-518092002d2b.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Table Buster: Reforge</title>
       <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge?ref=</link>
@@ -117,86 +133,6 @@
       <pubDate>Sat, 31 Jan 2026 01:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5669/8c1c9b8a-18e9-4a42-8122-cbd6d0949e80.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Astra Imperium [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">50860</guid>
-      <pubDate>Fri, 30 Jan 2026 23:50:59 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] The Travel Bug Card Game</title>
-      <link>https://gamefound.com:443/en/projects/dominotracks/the-travel-bug-card-game?ref=</link>
-      <guid isPermaLink="false">50859</guid>
-      <pubDate>Fri, 30 Jan 2026 23:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8277/12c1c168-1b61-45f0-86f7-e1ab32f22dd5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Toki &amp; Bloki – A Family Card Game About Emotions &amp; Trust</title>
-      <link>https://gamefound.com:443/en/projects/markus-goffin/toki--bloki--a-family-card-game-about-emotions--trust?ref=</link>
-      <guid isPermaLink="false">50858</guid>
-      <pubDate>Fri, 30 Jan 2026 13:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8265/d945585d-170d-4303-b914-3a3abd68252b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Lobbyist</title>
-      <link>https://gamefound.com:443/en/projects/dot-lab-games/the_lobbyst?ref=</link>
-      <guid isPermaLink="false">50857</guid>
-      <pubDate>Fri, 30 Jan 2026 12:45:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8269/24d90bb6-7a33-4897-864c-75c2d1204367.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Flip Chess</title>
-      <link>https://gamefound.com:443/en/projects/jarnos/flip-chess?ref=</link>
-      <guid isPermaLink="false">50856</guid>
-      <pubDate>Fri, 30 Jan 2026 11:58:09 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8301/1dd78ec9-85c3-486a-84b5-6fb195e7bf20.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Dice Tower Pledge Drive 2026</title>
-      <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
-      <guid isPermaLink="false">50855</guid>
-      <pubDate>Fri, 30 Jan 2026 05:08:33 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6820/7614265e-d7ae-42db-b083-18b1f71f3b51.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Small Time Heroes Reprint and Expansion [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/small-time-heroes-reprint-and-expansion-solo-game-of-the-month?ref=</link>
-      <guid isPermaLink="false">50854</guid>
-      <pubDate>Fri, 30 Jan 2026 05:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6817/c43e75a4-8d4c-40db-ba31-2eda26c5ca8c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Dice Tower Pledge Drive 2026</title>
-      <link>https://gamefound.com:443/en/projects/dice-tower/dice-tower-pledge-drive-2026?ref=</link>
-      <guid isPermaLink="false">50853</guid>
-      <pubDate>Fri, 30 Jan 2026 04:30:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6820/7614265e-d7ae-42db-b083-18b1f71f3b51.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Invincible: Aftermath - Season 2</title>
-      <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/invincible-aftermath---season-2?ref=</link>
-      <guid isPermaLink="false">50852</guid>
-      <pubDate>Fri, 30 Jan 2026 01:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7010/51d51a5b-4661-4992-b508-00ca3af1bb7b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Coffee Tycoon</title>
-      <link>https://gamefound.com:443/en/projects/babak/coffee-tycoon?ref=</link>
-      <guid isPermaLink="false">50851</guid>
-      <pubDate>Fri, 30 Jan 2026 00:34:59 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6226/c9219d67-e5d1-42a4-8ff8-818e7f7dde4d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
