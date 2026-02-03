@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 03 Feb 2026 20:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 21:01:59 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Gdynia 1926 has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/gdynia1926/gdynia-1926?ref=</link>
+      <guid isPermaLink="false">51864</guid>
+      <pubDate>Tue, 03 Feb 2026 20:26:35 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5433/0438cc9c-2a02-48b8-ace5-410344d418ca.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Brawl on Olympus</title>
       <link>https://gamefound.com:443/en/projects/journoskillz/brawl-on-olympus?ref=</link>
