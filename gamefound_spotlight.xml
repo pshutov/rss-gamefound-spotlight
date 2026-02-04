@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 04 Feb 2026 18:36:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 19:33:00 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Batikan - Filipino PC RPG</title>
+      <link>https://gamefound.com:443/en/projects/dalluyon-studio/batikan?ref=</link>
+      <guid isPermaLink="false">51868</guid>
+      <pubDate>Wed, 04 Feb 2026 19:27:39 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8307/84483ef4-ec3b-4511-936e-d6b5ee519602.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] RACE TEAM TCG</title>
       <link>https://gamefound.com:443/en/projects/jraventures/race-team-tcg?ref=</link>
