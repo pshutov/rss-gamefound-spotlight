@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 05 Feb 2026 12:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 13:59:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Hexblem: Beating the Unbeatable has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/hexblem-board-games/hexblem-beating-the-unbeatable</link>
+      <guid isPermaLink="false">51872</guid>
+      <pubDate>Thu, 05 Feb 2026 13:51:05 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/3ce8bbc0-fed6-44c4-8aeb-f23c1cac3501.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] The Stone of Madness - Dicefall has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/undigital/the-stone-of-madness-dicefall</link>
+      <guid isPermaLink="false">51871</guid>
+      <pubDate>Thu, 05 Feb 2026 13:09:12 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5631/e97da384-73b5-4f42-b314-c02caf7988a8.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Astra Imperium [Solo Game of the Month] has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
