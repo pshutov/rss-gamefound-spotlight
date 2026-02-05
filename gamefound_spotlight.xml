@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 05 Feb 2026 22:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 23:16:29 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Light and Darkness</title>
+      <link>https://gamefound.com:443/en/projects/kopergames/light-and-darkness</link>
+      <guid isPermaLink="false">51879</guid>
+      <pubDate>Thu, 05 Feb 2026 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6378/b4a67bc5-ff60-4ed1-bacf-5424a1c9f830.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game</title>
       <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest</link>
@@ -116,78 +124,6 @@
       <pubDate>Wed, 04 Feb 2026 09:44:47 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2895/5475aaf1-152f-4f28-87a2-991c497a9677.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Gdynia 1926 has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gdynia1926/gdynia-1926</link>
-      <guid isPermaLink="false">51864</guid>
-      <pubDate>Tue, 03 Feb 2026 20:26:35 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5433/0438cc9c-2a02-48b8-ace5-410344d418ca.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Brawl on Olympus</title>
-      <link>https://gamefound.com:443/en/projects/journoskillz/brawl-on-olympus</link>
-      <guid isPermaLink="false">51863</guid>
-      <pubDate>Tue, 03 Feb 2026 18:10:08 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8292/94659311-2c72-49f7-8b84-03fc2d14de85.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] DeckHand: Race for Infamy</title>
-      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy</link>
-      <guid isPermaLink="false">51862</guid>
-      <pubDate>Tue, 03 Feb 2026 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5335/4e9afeb3-361e-4665-8288-518092002d2b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Table Buster: Reforge</title>
-      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge</link>
-      <guid isPermaLink="false">51861</guid>
-      <pubDate>Tue, 03 Feb 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6608/931c5e8d-08b9-4dea-aa8f-ef6eaf573542.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Astromythos</title>
-      <link>https://gamefound.com:443/en/projects/jsideriadis/astromythos</link>
-      <guid isPermaLink="false">51860</guid>
-      <pubDate>Tue, 03 Feb 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6227/0e2bf0aa-b19e-4c26-ac18-1f25c18c3a5b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Possess Me, Satan</title>
-      <link>https://gamefound.com:443/en/projects/dukes-of-nukes-gaming/possess-me-satan</link>
-      <guid isPermaLink="false">51859</guid>
-      <pubDate>Tue, 03 Feb 2026 11:36:12 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8342/dabadbf0-3504-4918-9586-d5f58ceeea44.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Savage Beastmasters by Rampage Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters</link>
-      <guid isPermaLink="false">51858</guid>
-      <pubDate>Tue, 03 Feb 2026 10:07:25 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8183/a9d9e04d-a8af-42fd-909e-506c2cbde41f.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Ludicurrus</title>
-      <link>https://gamefound.com:443/en/projects/iconiq-studios/ludicurrus</link>
-      <guid isPermaLink="false">51857</guid>
-      <pubDate>Tue, 03 Feb 2026 08:46:19 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6850/d8718b15-c677-4110-be54-4d6fcd37d372.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Savage Beastmasters by Rampage Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters</link>
-      <guid isPermaLink="false">51856</guid>
-      <pubDate>Tue, 03 Feb 2026 07:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8183/a9d9e04d-a8af-42fd-909e-506c2cbde41f.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
