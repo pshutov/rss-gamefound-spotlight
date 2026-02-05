@@ -4,11 +4,19 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 05 Feb 2026 07:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 08:31:59 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
+      <title>[Launch date] Jump Masters has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/chip-theory-games/jump-masters</link>
+      <guid isPermaLink="false">51869</guid>
+      <pubDate>Thu, 05 Feb 2026 08:26:07 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
+    </item>
+    <item>
       <title>[New project] Batikan - Filipino PC RPG</title>
-      <link>https://gamefound.com:443/en/projects/dalluyon-studio/batikan?ref=</link>
+      <link>https://gamefound.com:443/en/projects/dalluyon-studio/batikan</link>
       <guid isPermaLink="false">51868</guid>
       <pubDate>Wed, 04 Feb 2026 19:27:39 +0000</pubDate>
       <description>New project</description>
@@ -16,7 +24,7 @@
     </item>
     <item>
       <title>[New project] RACE TEAM TCG</title>
-      <link>https://gamefound.com:443/en/projects/jraventures/race-team-tcg?ref=</link>
+      <link>https://gamefound.com:443/en/projects/jraventures/race-team-tcg</link>
       <guid isPermaLink="false">51867</guid>
       <pubDate>Wed, 04 Feb 2026 18:14:15 +0000</pubDate>
       <description>New project</description>
@@ -24,7 +32,7 @@
     </item>
     <item>
       <title>[Launch date] L Word Love Letters has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/allisonkcole/l-word-love-letters?ref=</link>
+      <link>https://gamefound.com:443/en/projects/allisonkcole/l-word-love-letters</link>
       <guid isPermaLink="false">51866</guid>
       <pubDate>Wed, 04 Feb 2026 18:04:31 +0000</pubDate>
       <description>Launch date</description>
@@ -32,7 +40,7 @@
     </item>
     <item>
       <title>[Launch date] The Old King's Crown Second Printing &amp; New Songs of Home Expansion has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/eerie-idol-games/the-old-kings-crown?ref=</link>
+      <link>https://gamefound.com:443/en/projects/eerie-idol-games/the-old-kings-crown</link>
       <guid isPermaLink="false">51865</guid>
       <pubDate>Wed, 04 Feb 2026 09:44:47 +0000</pubDate>
       <description>Launch date</description>
@@ -40,7 +48,7 @@
     </item>
     <item>
       <title>[Launch date] Gdynia 1926 has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gdynia1926/gdynia-1926?ref=</link>
+      <link>https://gamefound.com:443/en/projects/gdynia1926/gdynia-1926</link>
       <guid isPermaLink="false">51864</guid>
       <pubDate>Tue, 03 Feb 2026 20:26:35 +0000</pubDate>
       <description>Launch date</description>
@@ -48,7 +56,7 @@
     </item>
     <item>
       <title>[New project] Brawl on Olympus</title>
-      <link>https://gamefound.com:443/en/projects/journoskillz/brawl-on-olympus?ref=</link>
+      <link>https://gamefound.com:443/en/projects/journoskillz/brawl-on-olympus</link>
       <guid isPermaLink="false">51863</guid>
       <pubDate>Tue, 03 Feb 2026 18:10:08 +0000</pubDate>
       <description>New project</description>
@@ -56,7 +64,7 @@
     </item>
     <item>
       <title>[Campaign start] DeckHand: Race for Infamy</title>
-      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy?ref=</link>
+      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy</link>
       <guid isPermaLink="false">51862</guid>
       <pubDate>Tue, 03 Feb 2026 18:00:00 +0000</pubDate>
       <description>Campaign start</description>
@@ -64,7 +72,7 @@
     </item>
     <item>
       <title>[Campaign start] Table Buster: Reforge</title>
-      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge?ref=</link>
+      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge</link>
       <guid isPermaLink="false">51861</guid>
       <pubDate>Tue, 03 Feb 2026 16:00:00 +0000</pubDate>
       <description>Campaign start</description>
@@ -72,7 +80,7 @@
     </item>
     <item>
       <title>[Campaign start] Astromythos</title>
-      <link>https://gamefound.com:443/en/projects/jsideriadis/astromythos?ref=</link>
+      <link>https://gamefound.com:443/en/projects/jsideriadis/astromythos</link>
       <guid isPermaLink="false">51860</guid>
       <pubDate>Tue, 03 Feb 2026 15:00:00 +0000</pubDate>
       <description>Campaign start</description>
@@ -80,7 +88,7 @@
     </item>
     <item>
       <title>[New project] Possess Me, Satan</title>
-      <link>https://gamefound.com:443/en/projects/dukes-of-nukes-gaming/possess-me-satan?ref=</link>
+      <link>https://gamefound.com:443/en/projects/dukes-of-nukes-gaming/possess-me-satan</link>
       <guid isPermaLink="false">51859</guid>
       <pubDate>Tue, 03 Feb 2026 11:36:12 +0000</pubDate>
       <description>New project</description>
@@ -88,7 +96,7 @@
     </item>
     <item>
       <title>[Campaign is funded] Savage Beastmasters by Rampage Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters?ref=</link>
+      <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters</link>
       <guid isPermaLink="false">51858</guid>
       <pubDate>Tue, 03 Feb 2026 10:07:25 +0000</pubDate>
       <description>Campaign is funded</description>
@@ -96,7 +104,7 @@
     </item>
     <item>
       <title>[New project] Ludicurrus</title>
-      <link>https://gamefound.com:443/en/projects/iconiq-studios/ludicurrus?ref=</link>
+      <link>https://gamefound.com:443/en/projects/iconiq-studios/ludicurrus</link>
       <guid isPermaLink="false">51857</guid>
       <pubDate>Tue, 03 Feb 2026 08:46:19 +0000</pubDate>
       <description>New project</description>
@@ -104,7 +112,7 @@
     </item>
     <item>
       <title>[Campaign start] Savage Beastmasters by Rampage Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters?ref=</link>
+      <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters</link>
       <guid isPermaLink="false">51856</guid>
       <pubDate>Tue, 03 Feb 2026 07:00:00 +0000</pubDate>
       <description>Campaign start</description>
@@ -112,7 +120,7 @@
     </item>
     <item>
       <title>[Campaign start] Comber Cat</title>
-      <link>https://gamefound.com:443/en/projects/gamedolflimited/comber-cat?ref=</link>
+      <link>https://gamefound.com:443/en/projects/gamedolflimited/comber-cat</link>
       <guid isPermaLink="false">51855</guid>
       <pubDate>Mon, 02 Feb 2026 13:00:00 +0000</pubDate>
       <description>Campaign start</description>
@@ -120,7 +128,7 @@
     </item>
     <item>
       <title>[Launch date] Space Qubes Relaunch has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/kagu-spiele/space-qubes-relaunch?ref=</link>
+      <link>https://gamefound.com:443/en/projects/kagu-spiele/space-qubes-relaunch</link>
       <guid isPermaLink="false">51854</guid>
       <pubDate>Mon, 02 Feb 2026 12:49:00 +0000</pubDate>
       <description>Launch date</description>
@@ -128,7 +136,7 @@
     </item>
     <item>
       <title>[New project] Scarab Sands</title>
-      <link>https://gamefound.com:443/en/projects/stranger-games-studio/scarab-sands?ref=</link>
+      <link>https://gamefound.com:443/en/projects/stranger-games-studio/scarab-sands</link>
       <guid isPermaLink="false">51853</guid>
       <pubDate>Mon, 02 Feb 2026 06:54:11 +0000</pubDate>
       <description>New project</description>
