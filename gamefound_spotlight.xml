@@ -4,8 +4,31 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 05 Feb 2026 14:46:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 15:33:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New blog post] [Special] Happy Birthday, Adfound! Summary and case studies</title>
+      <link>https://gamefound.com/blog/post/happy-birthday-adfound</link>
+      <guid isPermaLink="false">51876</guid>
+      <pubDate>Thu, 05 Feb 2026 15:10:57 +0000</pubDate>
+      <description>New blog post</description>
+    </item>
+    <item>
+      <title>[Campaign start] Go Viking</title>
+      <link>https://gamefound.com:443/en/projects/crackling-creations/go-viking</link>
+      <guid isPermaLink="false">51875</guid>
+      <pubDate>Thu, 05 Feb 2026 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/378deedd-f9bc-4f70-8fc3-65287c509a36.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] 1809: Talavera has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/tactical-workshop/1809-talavera</link>
+      <guid isPermaLink="false">51874</guid>
+      <pubDate>Thu, 05 Feb 2026 14:49:24 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8024/264c130a-3511-4060-b7d9-03406f32f7c8.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Dribble 'n' Dice</title>
       <link>https://gamefound.com:443/en/projects/runner-games/dribble--dice</link>
