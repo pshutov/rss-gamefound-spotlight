@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 05 Feb 2026 17:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 18:37:35 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Stefan Feld City Collection</title>
+      <link>https://gamefound.com:443/en/projects/queengames/sfcc-classicspecial-deluxe</link>
+      <guid isPermaLink="false">51877</guid>
+      <pubDate>Thu, 05 Feb 2026 18:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5033/6371a669-552c-4a9a-92b0-23ccf839fd0d.png" type="image/png" />
+    </item>
     <item>
       <title>[New blog post] [Special] Happy Birthday, Adfound! Summary and case studies</title>
       <link>https://gamefound.com/blog/post/happy-birthday-adfound</link>
