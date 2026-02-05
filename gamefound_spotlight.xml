@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 05 Feb 2026 20:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 21:24:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game</title>
+      <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest</link>
+      <guid isPermaLink="false">51878</guid>
+      <pubDate>Thu, 05 Feb 2026 21:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5687/df19a027-f9ae-44a9-8174-4221bfe725b4.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Stefan Feld City Collection</title>
       <link>https://gamefound.com:443/en/projects/queengames/sfcc-classicspecial-deluxe</link>
