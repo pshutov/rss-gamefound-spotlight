@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 05 Feb 2026 13:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 14:46:56 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Dribble 'n' Dice</title>
+      <link>https://gamefound.com:443/en/projects/runner-games/dribble--dice</link>
+      <guid isPermaLink="false">51873</guid>
+      <pubDate>Thu, 05 Feb 2026 14:30:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5938/9bc3ec5a-e047-44dd-81de-04a6255ac588.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Hexblem: Beating the Unbeatable has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/hexblem-board-games/hexblem-beating-the-unbeatable</link>
