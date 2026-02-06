@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 06 Feb 2026 14:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 15:32:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Rolling in Wonderland</title>
+      <link>https://gamefound.com:443/en/projects/bellows-intent/rolling-in-wonderland</link>
+      <guid isPermaLink="false">51885</guid>
+      <pubDate>Fri, 06 Feb 2026 14:46:24 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6838/7f339a57-d045-4745-8b96-127ef310aa2d.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Brass: Pittsburgh has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/roxley/brass-pittsburgh</link>
