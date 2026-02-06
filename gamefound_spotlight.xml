@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 06 Feb 2026 11:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 11:52:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Board Game Apparel from Mr Meeple has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/mrmeeple/meeple</link>
+      <guid isPermaLink="false">51883</guid>
+      <pubDate>Fri, 06 Feb 2026 11:24:37 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6560/4e78aff0-0715-4ba4-a3fc-68afc358dcb1.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Fighting Fantasy Quest - The Warlock of Firetop Mountain has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/ulisses-spiele/ffq_warlock</link>
@@ -116,38 +124,6 @@
       <pubDate>Thu, 05 Feb 2026 08:26:07 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Batikan - Filipino PC RPG</title>
-      <link>https://gamefound.com:443/en/projects/dalluyon-studio/batikan</link>
-      <guid isPermaLink="false">51868</guid>
-      <pubDate>Wed, 04 Feb 2026 19:27:39 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8307/84483ef4-ec3b-4511-936e-d6b5ee519602.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] RACE TEAM TCG</title>
-      <link>https://gamefound.com:443/en/projects/jraventures/race-team-tcg</link>
-      <guid isPermaLink="false">51867</guid>
-      <pubDate>Wed, 04 Feb 2026 18:14:15 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8197/80a5cf4f-5ae6-4e94-b6c9-de5f2c1f1559.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] L Word Love Letters has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/allisonkcole/l-word-love-letters</link>
-      <guid isPermaLink="false">51866</guid>
-      <pubDate>Wed, 04 Feb 2026 18:04:31 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8295/ab0c4169-e5d8-484a-b211-8c80c2e4fc61.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The Old King's Crown Second Printing &amp; New Songs of Home Expansion has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/eerie-idol-games/the-old-kings-crown</link>
-      <guid isPermaLink="false">51865</guid>
-      <pubDate>Wed, 04 Feb 2026 09:44:47 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2895/5475aaf1-152f-4f28-87a2-991c497a9677.png" type="image/png" />
     </item>
   </channel>
 </rss>
