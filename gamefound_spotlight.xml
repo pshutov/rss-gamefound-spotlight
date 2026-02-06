@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 06 Feb 2026 09:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 10:04:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] ATHEOI - VAEMPIRE PERPETUAL SOVEREIGNS</title>
+      <link>https://gamefound.com:443/en/projects/uazzo-perpetual-games/atheoi-vaempire-perpetual-sovereigns</link>
+      <guid isPermaLink="false">51881</guid>
+      <pubDate>Fri, 06 Feb 2026 09:11:46 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6682/dd7d95b6-d213-4610-bbd5-d1124261c39c.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Ascendant Blades: Wuxia Skirmish</title>
       <link>https://gamefound.com:443/en/projects/prismnrune/ascendant-blades-wuxia-skirmish</link>
