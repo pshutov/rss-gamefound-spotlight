@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 06 Feb 2026 10:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 11:05:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Fighting Fantasy Quest - The Warlock of Firetop Mountain has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ffq_warlock</link>
+      <guid isPermaLink="false">51882</guid>
+      <pubDate>Fri, 06 Feb 2026 10:23:34 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4581/78625ba5-d663-431d-8eee-41365372a5fd.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] ATHEOI - VAEMPIRE PERPETUAL SOVEREIGNS</title>
       <link>https://gamefound.com:443/en/projects/uazzo-perpetual-games/atheoi-vaempire-perpetual-sovereigns</link>
