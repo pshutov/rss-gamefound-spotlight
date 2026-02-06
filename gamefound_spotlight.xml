@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 06 Feb 2026 03:42:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 05:11:10 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Ascendant Blades: Wuxia Skirmish</title>
+      <link>https://gamefound.com:443/en/projects/prismnrune/ascendant-blades-wuxia-skirmish</link>
+      <guid isPermaLink="false">51880</guid>
+      <pubDate>Fri, 06 Feb 2026 05:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6867/7160b258-4aff-4990-8b51-182b649c5245.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Light and Darkness</title>
       <link>https://gamefound.com:443/en/projects/kopergames/light-and-darkness</link>
