@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 07 Feb 2026 06:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 07:05:38 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Go Viking</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="false">51887</guid>
       <pubDate>Sat, 07 Feb 2026 04:20:49 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/378deedd-f9bc-4f70-8fc3-65287c509a36.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/66dec358-2c0a-474b-b202-8b20801113c2.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Pirouette: Figure Skating Solitaire Game</title>
@@ -107,7 +107,7 @@
       <guid isPermaLink="false">51875</guid>
       <pubDate>Thu, 05 Feb 2026 15:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/378deedd-f9bc-4f70-8fc3-65287c509a36.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/66dec358-2c0a-474b-b202-8b20801113c2.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] 1809: Talavera has a starting date.</title>
