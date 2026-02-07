@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 07 Feb 2026 14:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 14:50:13 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Table Buster: Reforge</title>
+      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge</link>
+      <guid isPermaLink="false">51888</guid>
+      <pubDate>Sat, 07 Feb 2026 14:43:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6608/931c5e8d-08b9-4dea-aa8f-ef6eaf573542.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Go Viking</title>
       <link>https://gamefound.com:443/en/projects/crackling-creations/go-viking</link>
