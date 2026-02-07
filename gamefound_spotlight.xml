@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 07 Feb 2026 17:49:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 18:23:02 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] THE LAST IN THE WOODS</title>
+      <link>https://gamefound.com:443/en/projects/blackthorn/the-last-in-the-woods</link>
+      <guid isPermaLink="false">51889</guid>
+      <pubDate>Sat, 07 Feb 2026 18:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6173/d6567526-eb53-42ee-8739-e05496f57ef5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Table Buster: Reforge</title>
       <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge</link>
