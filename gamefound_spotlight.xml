@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 08 Feb 2026 13:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 13:59:18 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Flying Gang</title>
+      <link>https://gamefound.com:443/en/projects/hornigold/flying-gang</link>
+      <guid isPermaLink="false">51891</guid>
+      <pubDate>Sun, 08 Feb 2026 13:31:00 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5830/8a2794b4-068d-48a5-b685-f0e0bdecd483.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Realm Brew: Into The Depths [Production Run #2]</title>
       <link>https://gamefound.com:443/en/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2</link>
