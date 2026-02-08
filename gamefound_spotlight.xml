@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 08 Feb 2026 12:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 13:26:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Realm Brew: Into The Depths [Production Run #2]</title>
+      <link>https://gamefound.com:443/en/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2</link>
+      <guid isPermaLink="false">51890</guid>
+      <pubDate>Sun, 08 Feb 2026 12:51:41 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8294/2e10972d-8104-4df6-8ef4-1c75560d0bd9.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] THE LAST IN THE WOODS</title>
       <link>https://gamefound.com:443/en/projects/blackthorn/the-last-in-the-woods</link>
