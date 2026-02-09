@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 09 Feb 2026 01:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 04:02:25 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Mage Noir - Black &amp; Gold Edition</title>
@@ -52,7 +52,7 @@
       <guid isPermaLink="false">51887</guid>
       <pubDate>Sat, 07 Feb 2026 04:20:49 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/ac728731-dba9-48f0-92d4-f2cdff8fcdd2.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/f038cd08-3002-4cb6-9fbd-db386296efce.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Pirouette: Figure Skating Solitaire Game</title>
@@ -147,7 +147,7 @@
       <guid isPermaLink="false">51875</guid>
       <pubDate>Thu, 05 Feb 2026 15:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/ac728731-dba9-48f0-92d4-f2cdff8fcdd2.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/f038cd08-3002-4cb6-9fbd-db386296efce.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] 1809: Talavera has a starting date.</title>
