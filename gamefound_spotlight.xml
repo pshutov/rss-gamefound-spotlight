@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 09 Feb 2026 10:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 11:39:21 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] The Dawnless Necropolis: A Dark Medieval Gamebook has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/last-dawn-press/the-dawnless-necropolis</link>
+      <guid isPermaLink="false">51895</guid>
+      <pubDate>Mon, 09 Feb 2026 11:29:37 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8151/0e57ca99-fc61-4a0d-94ab-fc7079214517.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Falcon's Formula Racing has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/falcon-games/falcons-formula-racing-board-game</link>
+      <guid isPermaLink="false">51894</guid>
+      <pubDate>Mon, 09 Feb 2026 11:22:18 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6381/046e2dcc-7e37-4681-8495-10f845b4610c.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] ERA TCG has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg</link>
@@ -117,93 +133,6 @@
       <pubDate>Fri, 06 Feb 2026 05:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6867/7160b258-4aff-4990-8b51-182b649c5245.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Light and Darkness</title>
-      <link>https://gamefound.com:443/en/projects/kopergames/light-and-darkness</link>
-      <guid isPermaLink="false">51879</guid>
-      <pubDate>Thu, 05 Feb 2026 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6378/b4a67bc5-ff60-4ed1-bacf-5424a1c9f830.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] YOKAI FOREST DUEL - A Quick &amp; Dirty Tournament Game</title>
-      <link>https://gamefound.com:443/en/projects/godotgames/yokaiforest</link>
-      <guid isPermaLink="false">51878</guid>
-      <pubDate>Thu, 05 Feb 2026 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5687/df19a027-f9ae-44a9-8174-4221bfe725b4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Stefan Feld City Collection</title>
-      <link>https://gamefound.com:443/en/projects/queengames/sfcc-classicspecial-deluxe</link>
-      <guid isPermaLink="false">51877</guid>
-      <pubDate>Thu, 05 Feb 2026 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5033/6371a669-552c-4a9a-92b0-23ccf839fd0d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New blog post] [Special] Happy Birthday, Adfound! Summary and case studies</title>
-      <link>https://gamefound.com/blog/post/happy-birthday-adfound</link>
-      <guid isPermaLink="false">51876</guid>
-      <pubDate>Thu, 05 Feb 2026 15:10:57 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[Campaign start] Go Viking</title>
-      <link>https://gamefound.com:443/en/projects/crackling-creations/go-viking</link>
-      <guid isPermaLink="false">51875</guid>
-      <pubDate>Thu, 05 Feb 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/2da1f3d9-8433-45a0-8f0b-5f9c360a7a37.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] 1809: Talavera has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/tactical-workshop/1809-talavera</link>
-      <guid isPermaLink="false">51874</guid>
-      <pubDate>Thu, 05 Feb 2026 14:49:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8024/264c130a-3511-4060-b7d9-03406f32f7c8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Dribble 'n' Dice</title>
-      <link>https://gamefound.com:443/en/projects/runner-games/dribble--dice</link>
-      <guid isPermaLink="false">51873</guid>
-      <pubDate>Thu, 05 Feb 2026 14:30:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5938/a143e442-3134-4dd8-9314-e73a7be01459.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Hexblem: Beating the Unbeatable has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/hexblem-board-games/hexblem-beating-the-unbeatable</link>
-      <guid isPermaLink="false">51872</guid>
-      <pubDate>Thu, 05 Feb 2026 13:51:05 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/6cea2632-367b-4007-97ae-348a1fbac078.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] The Stone of Madness - Dicefall has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/undigital/the-stone-of-madness-dicefall</link>
-      <guid isPermaLink="false">51871</guid>
-      <pubDate>Thu, 05 Feb 2026 13:09:12 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5631/e97da384-73b5-4f42-b314-c02caf7988a8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Astra Imperium [Solo Game of the Month] has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
-      <guid isPermaLink="false">51870</guid>
-      <pubDate>Thu, 05 Feb 2026 09:19:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Jump Masters! has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/chip-theory-games/jump-masters</link>
-      <guid isPermaLink="false">51869</guid>
-      <pubDate>Thu, 05 Feb 2026 08:26:07 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
     </item>
   </channel>
 </rss>
