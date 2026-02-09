@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 09 Feb 2026 08:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 09:53:02 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] ERA TCG has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg</link>
+      <guid isPermaLink="false">51893</guid>
+      <pubDate>Mon, 09 Feb 2026 09:25:31 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/e5906c6b-124b-42df-8989-339e2c8f7119.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Mage Noir - Black &amp; Gold Edition</title>
       <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition</link>
@@ -28,7 +36,7 @@
       <guid isPermaLink="false">51890</guid>
       <pubDate>Sun, 08 Feb 2026 12:51:41 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8294/2e10972d-8104-4df6-8ef4-1c75560d0bd9.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8294/5b44b81a-8489-408e-8f7c-6300cd8b7e3e.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[24 hours left] THE LAST IN THE WOODS</title>
@@ -52,7 +60,7 @@
       <guid isPermaLink="false">51887</guid>
       <pubDate>Sat, 07 Feb 2026 04:20:49 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/f038cd08-3002-4cb6-9fbd-db386296efce.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/2da1f3d9-8433-45a0-8f0b-5f9c360a7a37.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Pirouette: Figure Skating Solitaire Game</title>
@@ -147,7 +155,7 @@
       <guid isPermaLink="false">51875</guid>
       <pubDate>Thu, 05 Feb 2026 15:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/f038cd08-3002-4cb6-9fbd-db386296efce.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/2da1f3d9-8433-45a0-8f0b-5f9c360a7a37.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] 1809: Talavera has a starting date.</title>
@@ -171,7 +179,7 @@
       <guid isPermaLink="false">51872</guid>
       <pubDate>Thu, 05 Feb 2026 13:51:05 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/3ce8bbc0-fed6-44c4-8aeb-f23c1cac3501.webp" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/6cea2632-367b-4007-97ae-348a1fbac078.webp" type="image/jpeg" />
     </item>
     <item>
       <title>[Launch date] The Stone of Madness - Dicefall has a starting date.</title>
