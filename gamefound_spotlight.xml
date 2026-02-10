@@ -4,8 +4,56 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Feb 2026 16:54:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 17:54:43 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Fighting Fantasy Quest - The Warlock of Firetop Mountain</title>
+      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ffq_warlock</link>
+      <guid isPermaLink="false">51916</guid>
+      <pubDate>Tue, 10 Feb 2026 17:42:30 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4581/78625ba5-d663-431d-8eee-41365372a5fd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] The Void Unveiled: Echoes of Arkham</title>
+      <link>https://gamefound.com:443/en/projects/dark-gate-games/echoes-of-arkham</link>
+      <guid isPermaLink="false">51915</guid>
+      <pubDate>Tue, 10 Feb 2026 17:23:31 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6043/46ba597b-1938-42fe-9a47-c84480329656.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] ERA TCG</title>
+      <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg</link>
+      <guid isPermaLink="false">51914</guid>
+      <pubDate>Tue, 10 Feb 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/e5906c6b-124b-42df-8989-339e2c8f7119.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] The Void Unveiled: Echoes of Arkham</title>
+      <link>https://gamefound.com:443/en/projects/dark-gate-games/echoes-of-arkham</link>
+      <guid isPermaLink="false">51913</guid>
+      <pubDate>Tue, 10 Feb 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6043/46ba597b-1938-42fe-9a47-c84480329656.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Fighting Fantasy Quest - The Warlock of Firetop Mountain</title>
+      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ffq_warlock</link>
+      <guid isPermaLink="false">51912</guid>
+      <pubDate>Tue, 10 Feb 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4581/78625ba5-d663-431d-8eee-41365372a5fd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Sheol 2.0 - Midnight Odyssey</title>
+      <link>https://gamefound.com:443/en/projects/lunar-oak-studio/sheol-20---midnight-odyssey</link>
+      <guid isPermaLink="false">51911</guid>
+      <pubDate>Tue, 10 Feb 2026 17:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4995/ccb233b2-2ede-43c0-9145-589eaf207d59.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Astra Imperium [Solo Game of the Month]</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
@@ -101,54 +149,6 @@
       <pubDate>Tue, 10 Feb 2026 07:15:15 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2023/21baf250-3f52-47fe-b3cb-7df4e16a62e4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] The Elements</title>
-      <link>https://gamefound.com:443/en/projects/elementorum-studio/the-elements</link>
-      <guid isPermaLink="false">51898</guid>
-      <pubDate>Mon, 09 Feb 2026 15:20:57 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6947/bddbd94b-52f2-4f18-9bc5-336480659f19.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Save your World -The Biotech Board Game</title>
-      <link>https://gamefound.com:443/en/projects/save-your-world-/save-your-world--the-biotech-board-game</link>
-      <guid isPermaLink="false">51897</guid>
-      <pubDate>Mon, 09 Feb 2026 15:00:44 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8377/bf993e6b-8692-41f3-a7e6-5b535688f44a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] L Word Love Letters</title>
-      <link>https://gamefound.com:443/en/projects/allisonkcole/l-word-love-letters</link>
-      <guid isPermaLink="false">51896</guid>
-      <pubDate>Mon, 09 Feb 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8295/ab0c4169-e5d8-484a-b211-8c80c2e4fc61.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The Dawnless Necropolis: A Dark Medieval Gamebook has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/last-dawn-press/the-dawnless-necropolis</link>
-      <guid isPermaLink="false">51895</guid>
-      <pubDate>Mon, 09 Feb 2026 11:29:37 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8151/0e57ca99-fc61-4a0d-94ab-fc7079214517.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Falcon's Formula Racing - Relaunch has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/falcon-games/falcons-formula-racing-board-game</link>
-      <guid isPermaLink="false">51894</guid>
-      <pubDate>Mon, 09 Feb 2026 11:22:18 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6381/046e2dcc-7e37-4681-8495-10f845b4610c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] ERA TCG has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg</link>
-      <guid isPermaLink="false">51893</guid>
-      <pubDate>Mon, 09 Feb 2026 09:25:31 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/e5906c6b-124b-42df-8989-339e2c8f7119.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
