@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Feb 2026 17:54:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 18:54:08 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Ancient Empires</title>
+      <link>https://gamefound.com:443/en/projects/archona-games/small-ancient-empires</link>
+      <guid isPermaLink="false">51919</guid>
+      <pubDate>Tue, 10 Feb 2026 18:50:30 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6042/5149f79e-b469-4c84-a40f-012681cabc0e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Gdynia 1926</title>
+      <link>https://gamefound.com:443/en/projects/gdynia1926/gdynia-1926</link>
+      <guid isPermaLink="false">51918</guid>
+      <pubDate>Tue, 10 Feb 2026 18:26:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5433/0438cc9c-2a02-48b8-ace5-410344d418ca.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Ancient Empires</title>
+      <link>https://gamefound.com:443/en/projects/archona-games/small-ancient-empires</link>
+      <guid isPermaLink="false">51917</guid>
+      <pubDate>Tue, 10 Feb 2026 18:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6042/5149f79e-b469-4c84-a40f-012681cabc0e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Fighting Fantasy Quest - The Warlock of Firetop Mountain</title>
       <link>https://gamefound.com:443/en/projects/ulisses-spiele/ffq_warlock</link>
