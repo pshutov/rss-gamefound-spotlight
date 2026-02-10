@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 09 Feb 2026 23:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 02:11:58 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] The Elements</title>
@@ -100,7 +100,7 @@
       <guid isPermaLink="false">51887</guid>
       <pubDate>Sat, 07 Feb 2026 04:20:49 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/39797cd1-6317-4882-a681-6d81cb2432a0.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/ff89bc18-f340-4e43-a56e-8940482ee1d1.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Pirouette: Figure Skating Solitaire Game</title>
