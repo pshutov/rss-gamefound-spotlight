@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Feb 2026 07:35:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 08:40:55 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Launch date] Scattered Nexus: Solis War has a starting date.</title>
@@ -47,7 +47,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8151/0e57ca99-fc61-4a0d-94ab-fc7079214517.png" type="image/png" />
     </item>
     <item>
-      <title>[Launch date] Falcon's Formula Racing has a starting date.</title>
+      <title>[Launch date] Falcon's Formula Racing - Relaunch has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/falcon-games/falcons-formula-racing-board-game</link>
       <guid isPermaLink="false">51894</guid>
       <pubDate>Mon, 09 Feb 2026 11:22:18 +0000</pubDate>
@@ -108,7 +108,7 @@
       <guid isPermaLink="false">51887</guid>
       <pubDate>Sat, 07 Feb 2026 04:20:49 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/ff89bc18-f340-4e43-a56e-8940482ee1d1.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/adf65867-5023-4582-860b-b981dfdd8327.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Pirouette: Figure Skating Solitaire Game</title>
