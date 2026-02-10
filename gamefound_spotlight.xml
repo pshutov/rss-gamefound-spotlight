@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Feb 2026 12:51:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 15:39:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] STACKUP – startegy duel to stay on top</title>
+      <link>https://gamefound.com:443/en/projects/stackup/stackup---startegy-duel-to-stay-on-top</link>
+      <guid isPermaLink="false">51903</guid>
+      <pubDate>Tue, 10 Feb 2026 15:17:47 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8202/b8f8bce7-39b9-4bab-aa0c-36b4544bfcc3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] The Malice of Light Adventures has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/twin-tale-studios/the-malice-of-light-adventures</link>
+      <guid isPermaLink="false">51902</guid>
+      <pubDate>Tue, 10 Feb 2026 14:33:57 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6223/d366464b-8bc7-486d-934e-361355366ae9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Wyrmhunt</title>
+      <link>https://gamefound.com:443/en/projects/woodpecker/wyrmhunt</link>
+      <guid isPermaLink="false">51901</guid>
+      <pubDate>Tue, 10 Feb 2026 13:01:45 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8129/64d611d9-2bff-4460-8d23-65f98658d11a.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Scrapyard and Recycling Simulator: Make a Profit from Trash! has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/hugoferreira25/scrapyard--recycling-simulator</link>
@@ -117,62 +141,6 @@
       <pubDate>Sat, 07 Feb 2026 04:20:49 +0000</pubDate>
       <description>Campaign is funded</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/adf65867-5023-4582-860b-b981dfdd8327.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Pirouette: Figure Skating Solitaire Game</title>
-      <link>https://gamefound.com:443/en/projects/weighteddicegames/pirouette-figure-skating-solitaire-game</link>
-      <guid isPermaLink="false">51886</guid>
-      <pubDate>Fri, 06 Feb 2026 19:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8125/ce20e2dd-bd68-4bdb-857c-f98c0ee655f8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Rolling in Wonderland</title>
-      <link>https://gamefound.com:443/en/projects/bellows-intent/rolling-in-wonderland</link>
-      <guid isPermaLink="false">51885</guid>
-      <pubDate>Fri, 06 Feb 2026 14:46:24 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6838/7f339a57-d045-4745-8b96-127ef310aa2d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Brass: Pittsburgh has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/roxley/brass-pittsburgh</link>
-      <guid isPermaLink="false">51884</guid>
-      <pubDate>Fri, 06 Feb 2026 11:54:57 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6169/23a15374-7d51-42fd-9b9e-08747ec6c5dd.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Board Game Apparel from Mr Meeple has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/mrmeeple/meeple</link>
-      <guid isPermaLink="false">51883</guid>
-      <pubDate>Fri, 06 Feb 2026 11:24:37 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6560/4e78aff0-0715-4ba4-a3fc-68afc358dcb1.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Fighting Fantasy Quest - The Warlock of Firetop Mountain has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ffq_warlock</link>
-      <guid isPermaLink="false">51882</guid>
-      <pubDate>Fri, 06 Feb 2026 10:23:34 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4581/78625ba5-d663-431d-8eee-41365372a5fd.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] ATHEOI - VAEMPIRE PERPETUAL SOVEREIGNS</title>
-      <link>https://gamefound.com:443/en/projects/uazzo-perpetual-games/atheoi-vaempire-perpetual-sovereigns</link>
-      <guid isPermaLink="false">51881</guid>
-      <pubDate>Fri, 06 Feb 2026 09:11:46 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6682/dd7d95b6-d213-4610-bbd5-d1124261c39c.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Ascendant Blades: Wuxia Skirmish</title>
-      <link>https://gamefound.com:443/en/projects/prismnrune/ascendant-blades-wuxia-skirmish</link>
-      <guid isPermaLink="false">51880</guid>
-      <pubDate>Fri, 06 Feb 2026 05:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6867/7160b258-4aff-4990-8b51-182b649c5245.png" type="image/png" />
     </item>
   </channel>
 </rss>
