@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Feb 2026 06:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 07:35:57 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Scattered Nexus: Solis War has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/slim-studio/scattered-nexus25</link>
+      <guid isPermaLink="false">51899</guid>
+      <pubDate>Tue, 10 Feb 2026 07:15:15 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2023/21baf250-3f52-47fe-b3cb-7df4e16a62e4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] The Elements</title>
       <link>https://gamefound.com:443/en/projects/elementorum-studio/the-elements</link>
