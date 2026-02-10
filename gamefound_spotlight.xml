@@ -4,8 +4,64 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Feb 2026 15:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 16:54:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Astra Imperium [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
+      <guid isPermaLink="false">51910</guid>
+      <pubDate>Tue, 10 Feb 2026 16:26:58 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Rurik Second Edition</title>
+      <link>https://gamefound.com:443/en/projects/fantasia-games/rurik-2nd-edition</link>
+      <guid isPermaLink="false">51909</guid>
+      <pubDate>Tue, 10 Feb 2026 16:23:13 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6103/07bea3d9-0343-4e53-bb80-95ce3a7ba7a4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Jump Masters!</title>
+      <link>https://gamefound.com:443/en/projects/chip-theory-games/jump-masters</link>
+      <guid isPermaLink="false">51908</guid>
+      <pubDate>Tue, 10 Feb 2026 16:23:03 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Astra Imperium [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
+      <guid isPermaLink="false">51907</guid>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Jump Masters!</title>
+      <link>https://gamefound.com:443/en/projects/chip-theory-games/jump-masters</link>
+      <guid isPermaLink="false">51906</guid>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Rurik Second Edition</title>
+      <link>https://gamefound.com:443/en/projects/fantasia-games/rurik-2nd-edition</link>
+      <guid isPermaLink="false">51905</guid>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6103/07bea3d9-0343-4e53-bb80-95ce3a7ba7a4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Stone of Madness - Dicefall</title>
+      <link>https://gamefound.com:443/en/projects/undigital/the-stone-of-madness-dicefall</link>
+      <guid isPermaLink="false">51904</guid>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5631/e97da384-73b5-4f42-b314-c02caf7988a8.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] STACKUP – startegy duel to stay on top</title>
       <link>https://gamefound.com:443/en/projects/stackup/stackup---startegy-duel-to-stay-on-top</link>
@@ -93,54 +149,6 @@
       <pubDate>Mon, 09 Feb 2026 09:25:31 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/e5906c6b-124b-42df-8989-339e2c8f7119.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Mage Noir - Black &amp; Gold Edition</title>
-      <link>https://gamefound.com:443/en/projects/double-combo-games/mage-noir-black-and-gold-edition</link>
-      <guid isPermaLink="false">51892</guid>
-      <pubDate>Sun, 08 Feb 2026 16:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6941/0163ecbc-d124-47ed-8a36-e534934197ac.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Flying Gang</title>
-      <link>https://gamefound.com:443/en/projects/hornigold/flying-gang</link>
-      <guid isPermaLink="false">51891</guid>
-      <pubDate>Sun, 08 Feb 2026 13:31:00 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5830/8a2794b4-068d-48a5-b685-f0e0bdecd483.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Realm Brew: Into The Depths [Production Run #2]</title>
-      <link>https://gamefound.com:443/en/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2</link>
-      <guid isPermaLink="false">51890</guid>
-      <pubDate>Sun, 08 Feb 2026 12:51:41 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8294/5b44b81a-8489-408e-8f7c-6300cd8b7e3e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] THE LAST IN THE WOODS</title>
-      <link>https://gamefound.com:443/en/projects/blackthorn/the-last-in-the-woods</link>
-      <guid isPermaLink="false">51889</guid>
-      <pubDate>Sat, 07 Feb 2026 18:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6173/d6567526-eb53-42ee-8739-e05496f57ef5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Table Buster: Reforge</title>
-      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge</link>
-      <guid isPermaLink="false">51888</guid>
-      <pubDate>Sat, 07 Feb 2026 14:43:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6608/931c5e8d-08b9-4dea-aa8f-ef6eaf573542.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Go Viking</title>
-      <link>https://gamefound.com:443/en/projects/crackling-creations/go-viking</link>
-      <guid isPermaLink="false">51887</guid>
-      <pubDate>Sat, 07 Feb 2026 04:20:49 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/adf65867-5023-4582-860b-b981dfdd8327.png" type="image/png" />
     </item>
   </channel>
 </rss>
