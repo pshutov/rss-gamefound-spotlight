@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 11 Feb 2026 15:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 16:54:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Cysmic - Second Printing and New Expansions</title>
+      <link>https://gamefound.com:443/en/projects/star-reach-games/cysmic---second-printing-and-new-expansions</link>
+      <guid isPermaLink="false">51924</guid>
+      <pubDate>Wed, 11 Feb 2026 16:34:41 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8380/93e095d5-a00b-4996-b869-595e68707db4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Dicequest</title>
+      <link>https://gamefound.com:443/en/projects/skytear/dicequest</link>
+      <guid isPermaLink="false">51923</guid>
+      <pubDate>Wed, 11 Feb 2026 16:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/2bdda12b-e050-4ce6-81c5-811b850cd809.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Quakey's Adventure AR Board Game</title>
       <link>https://gamefound.com:443/en/projects/quakeycollective/quakeys-adventure-ar-board-game</link>
@@ -100,7 +116,7 @@
       <guid isPermaLink="false">51911</guid>
       <pubDate>Tue, 10 Feb 2026 17:00:01 +0000</pubDate>
       <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4995/ccb233b2-2ede-43c0-9145-589eaf207d59.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4995/b357c671-0f50-4950-8ea1-a81872a1cd60.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign is funded] Astra Imperium [Solo Game of the Month]</title>
