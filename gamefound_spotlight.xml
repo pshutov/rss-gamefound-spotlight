@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 11 Feb 2026 08:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 09:42:54 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Archmage's Gate: A Solo RPG Adventure Gamebook has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/arispen/archmages-gate</link>
+      <guid isPermaLink="false">51921</guid>
+      <pubDate>Wed, 11 Feb 2026 08:54:37 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5414/31767f9d-c234-47fd-8daf-a3cf633e442e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Scrapyard and Recycling Simulator: Make a Profit from Trash!</title>
       <link>https://gamefound.com:443/en/projects/hugoferreira25/scrapyard--recycling-simulator</link>
