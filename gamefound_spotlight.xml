@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Feb 2026 08:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 09:38:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Crossroads Wargame 'Principalities and Powers' has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/crossroads-wargame/principalities-and-powers</link>
+      <guid isPermaLink="false">51928</guid>
+      <pubDate>Thu, 12 Feb 2026 08:55:11 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6773/a4943b9c-7482-4451-9a73-c83f40bf648f.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] The Realm of Silvanus has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/silvanus-metaverse/the-realm-of-silvanus</link>
+      <guid isPermaLink="false">51927</guid>
+      <pubDate>Thu, 12 Feb 2026 08:40:16 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6480/2e2d398c-bb7a-482d-b9a2-a53fbe4672ae.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] HEYtrace Battle Mat — Traceable Reusable Curl-Free D&amp;D Mat</title>
       <link>https://gamefound.com:443/en/projects/heyii/heytrace-battle-mat</link>
