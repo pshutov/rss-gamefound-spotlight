@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Feb 2026 12:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 14:05:13 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Eqular: Allegiance</title>
+      <link>https://gamefound.com:443/en/projects/levesquebrothersgamesllc/eqular-allegiance</link>
+      <guid isPermaLink="false">51933</guid>
+      <pubDate>Thu, 12 Feb 2026 13:51:23 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7008/fb0893f2-3a24-4153-ae4a-2d4674d9cf54.png" type="image/png" />
+    </item>
     <item>
       <title>[New Late Pledge] Heroes of Might and Magic TTRPG</title>
       <link>https://gamefound.com:443/en/projects/lmpublishing/heroesttrpg</link>
