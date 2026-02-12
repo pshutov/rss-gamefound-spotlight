@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Feb 2026 22:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 23:20:57 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] PANDORA CELESTE: Pirates &amp; Salvage has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/guntower-mike/pandora-celeste-pirates--salvage</link>
+      <guid isPermaLink="false">51938</guid>
+      <pubDate>Thu, 12 Feb 2026 22:46:00 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6415/c4b7d45f-2936-4ed3-b2e4-d96209bc5fe9.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Savage Beastmasters by Rampage Miniatures</title>
       <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters</link>
