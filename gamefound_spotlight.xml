@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Feb 2026 16:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 17:32:02 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Bloodwork: The Reckoning</title>
+      <link>https://gamefound.com:443/en/projects/i-demo-games/bloodwork-the-reckoning</link>
+      <guid isPermaLink="false">51936</guid>
+      <pubDate>Thu, 12 Feb 2026 16:12:46 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8094/b0ac4425-7728-435e-b1df-a0203d56a2b6.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Pocket Picks – 7 Micro Games in Cartridge Cases</title>
       <link>https://gamefound.com:443/en/projects/beaverlicious-games/pocket-picks--7-micro-games-in-cartridge-cases</link>
