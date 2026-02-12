@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Feb 2026 15:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 16:13:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Pocket Picks – 7 Micro Games in Cartridge Cases</title>
+      <link>https://gamefound.com:443/en/projects/beaverlicious-games/pocket-picks--7-micro-games-in-cartridge-cases</link>
+      <guid isPermaLink="false">51935</guid>
+      <pubDate>Thu, 12 Feb 2026 16:09:57 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8421/8ac5c817-5cf0-4437-a283-60ca24d6b3e1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] BYTE:SHIFT – A Competitive Hacking Game [Dynamic PnP of the Month &amp; Gamebook]</title>
+      <link>https://gamefound.com:443/en/projects/beaverlicious-games/byte-shift-competitive-hacking-game-dpnp</link>
+      <guid isPermaLink="false">51934</guid>
+      <pubDate>Thu, 12 Feb 2026 16:07:54 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6146/39a34289-f269-4cb1-8062-f6273c388af5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Eqular: Allegiance</title>
       <link>https://gamefound.com:443/en/projects/levesquebrothersgamesllc/eqular-allegiance</link>
@@ -108,182 +124,6 @@
       <pubDate>Wed, 11 Feb 2026 08:54:37 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5414/31767f9d-c234-47fd-8daf-a3cf633e442e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Scrapyard and Recycling Simulator: Make a Profit from Trash!</title>
-      <link>https://gamefound.com:443/en/projects/hugoferreira25/scrapyard--recycling-simulator</link>
-      <guid isPermaLink="false">51920</guid>
-      <pubDate>Tue, 10 Feb 2026 23:50:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8305/3d3783c2-f13f-4a65-9e71-ae3b3d71197f.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Ancient Empires</title>
-      <link>https://gamefound.com:443/en/projects/archona-games/small-ancient-empires</link>
-      <guid isPermaLink="false">51919</guid>
-      <pubDate>Tue, 10 Feb 2026 18:50:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6042/5149f79e-b469-4c84-a40f-012681cabc0e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Gdynia 1926</title>
-      <link>https://gamefound.com:443/en/projects/gdynia1926/gdynia-1926</link>
-      <guid isPermaLink="false">51918</guid>
-      <pubDate>Tue, 10 Feb 2026 18:26:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5433/0438cc9c-2a02-48b8-ace5-410344d418ca.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Ancient Empires</title>
-      <link>https://gamefound.com:443/en/projects/archona-games/small-ancient-empires</link>
-      <guid isPermaLink="false">51917</guid>
-      <pubDate>Tue, 10 Feb 2026 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6042/5149f79e-b469-4c84-a40f-012681cabc0e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Fighting Fantasy Quest - The Warlock of Firetop Mountain</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ffq_warlock</link>
-      <guid isPermaLink="false">51916</guid>
-      <pubDate>Tue, 10 Feb 2026 17:42:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4581/78625ba5-d663-431d-8eee-41365372a5fd.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] The Void Unveiled: Echoes of Arkham</title>
-      <link>https://gamefound.com:443/en/projects/dark-gate-games/echoes-of-arkham</link>
-      <guid isPermaLink="false">51915</guid>
-      <pubDate>Tue, 10 Feb 2026 17:23:31 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6043/46ba597b-1938-42fe-9a47-c84480329656.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] ERA TCG</title>
-      <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg</link>
-      <guid isPermaLink="false">51914</guid>
-      <pubDate>Tue, 10 Feb 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/e5906c6b-124b-42df-8989-339e2c8f7119.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] The Void Unveiled: Echoes of Arkham</title>
-      <link>https://gamefound.com:443/en/projects/dark-gate-games/echoes-of-arkham</link>
-      <guid isPermaLink="false">51913</guid>
-      <pubDate>Tue, 10 Feb 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6043/46ba597b-1938-42fe-9a47-c84480329656.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Fighting Fantasy Quest - The Warlock of Firetop Mountain</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/ffq_warlock</link>
-      <guid isPermaLink="false">51912</guid>
-      <pubDate>Tue, 10 Feb 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4581/78625ba5-d663-431d-8eee-41365372a5fd.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Sheol 2.0 - Midnight Odyssey</title>
-      <link>https://gamefound.com:443/en/projects/lunar-oak-studio/sheol-20---midnight-odyssey</link>
-      <guid isPermaLink="false">51911</guid>
-      <pubDate>Tue, 10 Feb 2026 17:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4995/b357c671-0f50-4950-8ea1-a81872a1cd60.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Astra Imperium [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
-      <guid isPermaLink="false">51910</guid>
-      <pubDate>Tue, 10 Feb 2026 16:26:58 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Rurik Second Edition</title>
-      <link>https://gamefound.com:443/en/projects/fantasia-games/rurik-2nd-edition</link>
-      <guid isPermaLink="false">51909</guid>
-      <pubDate>Tue, 10 Feb 2026 16:23:13 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6103/07bea3d9-0343-4e53-bb80-95ce3a7ba7a4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Jump Masters!</title>
-      <link>https://gamefound.com:443/en/projects/chip-theory-games/jump-masters</link>
-      <guid isPermaLink="false">51908</guid>
-      <pubDate>Tue, 10 Feb 2026 16:23:03 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Astra Imperium [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
-      <guid isPermaLink="false">51907</guid>
-      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Jump Masters!</title>
-      <link>https://gamefound.com:443/en/projects/chip-theory-games/jump-masters</link>
-      <guid isPermaLink="false">51906</guid>
-      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Rurik Second Edition</title>
-      <link>https://gamefound.com:443/en/projects/fantasia-games/rurik-2nd-edition</link>
-      <guid isPermaLink="false">51905</guid>
-      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6103/07bea3d9-0343-4e53-bb80-95ce3a7ba7a4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] The Stone of Madness - Dicefall</title>
-      <link>https://gamefound.com:443/en/projects/undigital/the-stone-of-madness-dicefall</link>
-      <guid isPermaLink="false">51904</guid>
-      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5631/e97da384-73b5-4f42-b314-c02caf7988a8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] STACKUP – startegy duel to stay on top</title>
-      <link>https://gamefound.com:443/en/projects/stackup/stackup---startegy-duel-to-stay-on-top</link>
-      <guid isPermaLink="false">51903</guid>
-      <pubDate>Tue, 10 Feb 2026 15:17:47 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8202/b8f8bce7-39b9-4bab-aa0c-36b4544bfcc3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] The Malice of Light Adventures has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/twin-tale-studios/the-malice-of-light-adventures</link>
-      <guid isPermaLink="false">51902</guid>
-      <pubDate>Tue, 10 Feb 2026 14:33:57 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6223/d366464b-8bc7-486d-934e-361355366ae9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Wyrmhunt</title>
-      <link>https://gamefound.com:443/en/projects/woodpecker/wyrmhunt</link>
-      <guid isPermaLink="false">51901</guid>
-      <pubDate>Tue, 10 Feb 2026 13:01:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8129/64d611d9-2bff-4460-8d23-65f98658d11a.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Scrapyard and Recycling Simulator: Make a Profit from Trash! has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/hugoferreira25/scrapyard--recycling-simulator</link>
-      <guid isPermaLink="false">51900</guid>
-      <pubDate>Tue, 10 Feb 2026 08:56:13 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8305/3d3783c2-f13f-4a65-9e71-ae3b3d71197f.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Scattered Nexus: Solis War has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/slim-studio/scattered-nexus25</link>
-      <guid isPermaLink="false">51899</guid>
-      <pubDate>Tue, 10 Feb 2026 07:15:15 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2023/21baf250-3f52-47fe-b3cb-7df4e16a62e4.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
