@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Feb 2026 11:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 12:42:44 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Late Pledge] Heroes of Might and Magic TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/lmpublishing/heroesttrpg</link>
+      <guid isPermaLink="false">51932</guid>
+      <pubDate>Thu, 12 Feb 2026 12:15:36 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7021/bfc24bce-5ef9-41ae-b324-210719a72d56.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Cloud War Tales: Nuvitrum has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/pif-games/nuvitrum</link>
+      <guid isPermaLink="false">51931</guid>
+      <pubDate>Thu, 12 Feb 2026 11:58:22 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6089/99fbe8a7-a24e-49a9-98ce-994f5ca8286f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Paws has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/wild-ventures/paws-game</link>
+      <guid isPermaLink="false">51930</guid>
+      <pubDate>Thu, 12 Feb 2026 11:40:55 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6365/966a28c5-47e1-481c-b81f-0f91b590f289.png" type="image/png" />
+    </item>
     <item>
       <title>[New blog post] [What's New] Express Crowdfunding</title>
       <link>https://gamefound.com/blog/post/express-crowdfunding</link>
