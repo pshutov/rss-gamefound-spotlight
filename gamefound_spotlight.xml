@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 13 Feb 2026 11:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 12:39:18 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Peppermint-Academy</title>
+      <link>https://gamefound.com:443/en/projects/neptune-verse/peppermint-academy</link>
+      <guid isPermaLink="false">51941</guid>
+      <pubDate>Fri, 13 Feb 2026 12:36:28 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8423/11ecd3ee-3b8c-491d-a515-433210bee442.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] DARK HORIZON</title>
       <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/dark-horizon</link>
