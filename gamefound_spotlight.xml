@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 13 Feb 2026 10:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 11:24:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] DARK HORIZON</title>
+      <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/dark-horizon</link>
+      <guid isPermaLink="false">51940</guid>
+      <pubDate>Fri, 13 Feb 2026 10:50:56 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8155/3f4ecc84-5d94-41f4-b2cf-f31ab38d5d90.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Hidden Realms: The Mummy's Tomb</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-for-world/hidden-realms-the-mummys-tomb</link>
+      <guid isPermaLink="false">51939</guid>
+      <pubDate>Fri, 13 Feb 2026 10:44:07 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8270/89acb0f8-0335-4541-bed5-e4c9dad20123.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] PANDORA CELESTE: Pirates &amp; Salvage has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/guntower-mike/pandora-celeste-pirates--salvage</link>
@@ -108,46 +124,6 @@
       <pubDate>Thu, 12 Feb 2026 04:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6895/2e4c077a-9997-4854-8a79-52152b659eb7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Labyrinth Chronicles has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/labyrinth</link>
-      <guid isPermaLink="false">51925</guid>
-      <pubDate>Wed, 11 Feb 2026 17:59:13 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5354/5226a7db-87a0-4258-895d-fb46d309c04c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Cysmic - Second Printing and New Expansions</title>
-      <link>https://gamefound.com:443/en/projects/star-reach-games/cysmic---second-printing-and-new-expansions</link>
-      <guid isPermaLink="false">51924</guid>
-      <pubDate>Wed, 11 Feb 2026 16:34:41 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8380/93e095d5-a00b-4996-b869-595e68707db4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Dicequest</title>
-      <link>https://gamefound.com:443/en/projects/skytear/dicequest</link>
-      <guid isPermaLink="false">51923</guid>
-      <pubDate>Wed, 11 Feb 2026 16:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6431/2bdda12b-e050-4ce6-81c5-811b850cd809.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Quakey's Adventure AR Board Game</title>
-      <link>https://gamefound.com:443/en/projects/quakeycollective/quakeys-adventure-ar-board-game</link>
-      <guid isPermaLink="false">51922</guid>
-      <pubDate>Wed, 11 Feb 2026 14:00:06 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8408/4849157c-1b60-4587-9575-1712a33dcd68.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Archmage's Gate: A Solo RPG Adventure Gamebook has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/arispen/archmages-gate</link>
-      <guid isPermaLink="false">51921</guid>
-      <pubDate>Wed, 11 Feb 2026 08:54:37 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5414/31767f9d-c234-47fd-8daf-a3cf633e442e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
