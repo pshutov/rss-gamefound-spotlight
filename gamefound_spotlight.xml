@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 14 Feb 2026 19:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 20:16:00 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Beetle Battle</title>
+      <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle</link>
+      <guid isPermaLink="false">53945</guid>
+      <pubDate>Sat, 14 Feb 2026 20:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5980/21bf4cd2-ccc4-414a-a938-a64f83cbf48d.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Gooooal!!!</title>
       <link>https://gamefound.com:443/en/projects/goooaaal/gooooal</link>
