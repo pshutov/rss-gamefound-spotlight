@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 14 Feb 2026 22:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 23:15:53 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Essentia 21</title>
+      <link>https://gamefound.com:443/en/projects/ko_games/essentia-21</link>
+      <guid isPermaLink="false">53946</guid>
+      <pubDate>Sat, 14 Feb 2026 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7001/926062cf-f933-44e6-b85d-9a4717157a19.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Beetle Battle</title>
       <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle</link>
