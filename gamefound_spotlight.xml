@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 14 Feb 2026 01:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 03:39:56 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] The Travel Bug Card Game</title>
@@ -39,7 +39,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8423/11ecd3ee-3b8c-491d-a515-433210bee442.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] DARK HORIZON</title>
+      <title>[New project] DARK HORIZONS</title>
       <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/dark-horizon</link>
       <guid isPermaLink="false">51940</guid>
       <pubDate>Fri, 13 Feb 2026 10:50:56 +0000</pubDate>
