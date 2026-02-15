@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 15 Feb 2026 21:45:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 22:15:44 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Pirouette: Figure Skating Solitaire Game</title>
+      <link>https://gamefound.com:443/en/projects/weighteddicegames/pirouette-figure-skating-solitaire-game</link>
+      <guid isPermaLink="false">53948</guid>
+      <pubDate>Sun, 15 Feb 2026 22:11:04 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8125/ce20e2dd-bd68-4bdb-857c-f98c0ee655f8.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Falcon's Formula Racing - Relaunch</title>
       <link>https://gamefound.com:443/en/projects/falcon-games/falcons-formula-racing-board-game</link>
