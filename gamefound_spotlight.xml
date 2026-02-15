@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 15 Feb 2026 16:54:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 17:18:34 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Falcon's Formula Racing - Relaunch</title>
+      <link>https://gamefound.com:443/en/projects/falcon-games/falcons-formula-racing-board-game</link>
+      <guid isPermaLink="false">53947</guid>
+      <pubDate>Sun, 15 Feb 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6381/046e2dcc-7e37-4681-8495-10f845b4610c.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Essentia 21</title>
       <link>https://gamefound.com:443/en/projects/ko_games/essentia-21</link>
