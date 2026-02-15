@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 15 Feb 2026 01:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 03:59:52 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] Essentia 21</title>
@@ -84,7 +84,7 @@
       <guid isPermaLink="false">51940</guid>
       <pubDate>Fri, 13 Feb 2026 10:50:56 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8155/3f4ecc84-5d94-41f4-b2cf-f31ab38d5d90.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8155/8edff2dc-9da6-4fe0-88c7-1eca68445d97.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[New project] Hidden Realms: The Mummy's Tomb</title>
