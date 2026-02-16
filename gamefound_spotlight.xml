@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 16 Feb 2026 21:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 22:18:48 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Vampire Survivors - The Board Game</title>
+      <link>https://gamefound.com:443/en/projects/grey-fox-games/vampire-survivors---the-board-game</link>
+      <guid isPermaLink="false">53956</guid>
+      <pubDate>Mon, 16 Feb 2026 22:05:08 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7014/f847ae11-3b1d-4caa-8401-81122060db5b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] RIVALS - 2nd Edition &amp; Expansion</title>
       <link>https://gamefound.com:443/en/projects/unkind-games/rivals-expansion</link>
@@ -117,54 +125,6 @@
       <pubDate>Sat, 14 Feb 2026 14:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5082/5ff57e7d-1984-4c2e-9622-92d8ce176d38.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Travel Bug Card Game</title>
-      <link>https://gamefound.com:443/en/projects/dominotracks/the-travel-bug-card-game</link>
-      <guid isPermaLink="false">52942</guid>
-      <pubDate>Fri, 13 Feb 2026 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8277/12c1c168-1b61-45f0-86f7-e1ab32f22dd5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Ransack! - The Nutty Card Game of Search and Steal</title>
-      <link>https://gamefound.com:443/en/projects/rival-spirit-games/ransack</link>
-      <guid isPermaLink="false">51943</guid>
-      <pubDate>Fri, 13 Feb 2026 19:13:48 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8314/0b4e1686-8a25-4f6f-90c0-7e98d154bb74.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Titanbound: Beyond The Rift</title>
-      <link>https://gamefound.com:443/en/projects/lms/bla-bla</link>
-      <guid isPermaLink="false">51942</guid>
-      <pubDate>Fri, 13 Feb 2026 18:10:42 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5934/d90b5fd5-3f84-4fd0-a522-b087b7c25dea.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Peppermint Academy, an LGBTQ RPG Visual Novel</title>
-      <link>https://gamefound.com:443/en/projects/neptune-verse/peppermint-academy</link>
-      <guid isPermaLink="false">51941</guid>
-      <pubDate>Fri, 13 Feb 2026 12:36:28 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8423/11ecd3ee-3b8c-491d-a515-433210bee442.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] DARK HORIZONS</title>
-      <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/dark-horizon</link>
-      <guid isPermaLink="false">51940</guid>
-      <pubDate>Fri, 13 Feb 2026 10:50:56 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8155/8edff2dc-9da6-4fe0-88c7-1eca68445d97.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Hidden Realms: The Mummy's Tomb</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-for-world/hidden-realms-the-mummys-tomb</link>
-      <guid isPermaLink="false">51939</guid>
-      <pubDate>Fri, 13 Feb 2026 10:44:07 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8270/89acb0f8-0335-4541-bed5-e4c9dad20123.png" type="image/png" />
     </item>
   </channel>
 </rss>
