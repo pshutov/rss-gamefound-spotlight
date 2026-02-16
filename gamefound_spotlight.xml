@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 16 Feb 2026 05:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 06:53:41 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Crossroads Wargame 'Principalities and Powers'</title>
+      <link>https://gamefound.com:443/en/projects/crossroads-wargame/principalities-and-powers</link>
+      <guid isPermaLink="false">53949</guid>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6773/a4943b9c-7482-4451-9a73-c83f40bf648f.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Pirouette: Figure Skating Solitaire Game</title>
       <link>https://gamefound.com:443/en/projects/weighteddicegames/pirouette-figure-skating-solitaire-game</link>
