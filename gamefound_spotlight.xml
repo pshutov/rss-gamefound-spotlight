@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 16 Feb 2026 15:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 16:33:05 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Balkanika: Safira's Escape</title>
@@ -127,7 +127,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8314/0b4e1686-8a25-4f6f-90c0-7e98d154bb74.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] Titanbound</title>
+      <title>[New project] Titanbound – Beyond The Rift</title>
       <link>https://gamefound.com:443/en/projects/lms/bla-bla</link>
       <guid isPermaLink="false">51942</guid>
       <pubDate>Fri, 13 Feb 2026 18:10:42 +0000</pubDate>
