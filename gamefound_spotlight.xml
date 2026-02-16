@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 16 Feb 2026 10:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 11:33:50 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Barbaric: Crown of the Frost</title>
+      <link>https://gamefound.com:443/en/projects/hexa-house/barbaric-crown-of-the-frost</link>
+      <guid isPermaLink="false">53950</guid>
+      <pubDate>Mon, 16 Feb 2026 11:27:57 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8391/07fcb63d-e487-45c5-881d-76f9698eefd0.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Crossroads Wargame 'Principalities and Powers'</title>
       <link>https://gamefound.com:443/en/projects/crossroads-wargame/principalities-and-powers</link>
@@ -117,109 +125,6 @@
       <pubDate>Fri, 13 Feb 2026 10:44:07 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8270/89acb0f8-0335-4541-bed5-e4c9dad20123.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] PANDORA CELESTE: Pirates &amp; Salvage has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/guntower-mike/pandora-celeste-pirates--salvage</link>
-      <guid isPermaLink="false">51938</guid>
-      <pubDate>Thu, 12 Feb 2026 22:46:00 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6415/c4b7d45f-2936-4ed3-b2e4-d96209bc5fe9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Savage Beastmasters by Rampage Miniatures</title>
-      <link>https://gamefound.com:443/en/projects/rampage-miniatures/savage-beastmasters</link>
-      <guid isPermaLink="false">51937</guid>
-      <pubDate>Thu, 12 Feb 2026 22:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8183/a9d9e04d-a8af-42fd-909e-506c2cbde41f.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Bloodwork: The Reckoning</title>
-      <link>https://gamefound.com:443/en/projects/i-demo-games/bloodwork-the-reckoning</link>
-      <guid isPermaLink="false">51936</guid>
-      <pubDate>Thu, 12 Feb 2026 16:12:46 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8094/b0ac4425-7728-435e-b1df-a0203d56a2b6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Pocket Picks – 7 Micro Games in Cartridge Cases</title>
-      <link>https://gamefound.com:443/en/projects/beaverlicious-games/pocket-picks--7-micro-games-in-cartridge-cases</link>
-      <guid isPermaLink="false">51935</guid>
-      <pubDate>Thu, 12 Feb 2026 16:09:57 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8421/8ac5c817-5cf0-4437-a283-60ca24d6b3e1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] BYTE:SHIFT – A Competitive Hacking Game [Dynamic PnP of the Month &amp; Gamebook]</title>
-      <link>https://gamefound.com:443/en/projects/beaverlicious-games/byte-shift-competitive-hacking-game-dpnp</link>
-      <guid isPermaLink="false">51934</guid>
-      <pubDate>Thu, 12 Feb 2026 16:07:54 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6146/39a34289-f269-4cb1-8062-f6273c388af5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Eqular: Allegiance</title>
-      <link>https://gamefound.com:443/en/projects/levesquebrothersgamesllc/eqular-allegiance</link>
-      <guid isPermaLink="false">51933</guid>
-      <pubDate>Thu, 12 Feb 2026 13:51:23 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7008/fb0893f2-3a24-4153-ae4a-2d4674d9cf54.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Late Pledge] Heroes of Might and Magic TTRPG</title>
-      <link>https://gamefound.com:443/en/projects/lmpublishing/heroesttrpg</link>
-      <guid isPermaLink="false">51932</guid>
-      <pubDate>Thu, 12 Feb 2026 12:15:36 +0000</pubDate>
-      <description>New Late Pledge</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7021/bfc24bce-5ef9-41ae-b324-210719a72d56.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Cloud War Tales: Nuvitrum has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/pif-games/nuvitrum</link>
-      <guid isPermaLink="false">51931</guid>
-      <pubDate>Thu, 12 Feb 2026 11:58:22 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6089/99fbe8a7-a24e-49a9-98ce-994f5ca8286f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Paws has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/wild-ventures/paws-game</link>
-      <guid isPermaLink="false">51930</guid>
-      <pubDate>Thu, 12 Feb 2026 11:40:55 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6365/966a28c5-47e1-481c-b81f-0f91b590f289.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New blog post] [What's New] Express Crowdfunding</title>
-      <link>https://gamefound.com/blog/post/express-crowdfunding</link>
-      <guid isPermaLink="false">51929</guid>
-      <pubDate>Thu, 12 Feb 2026 11:03:33 +0000</pubDate>
-      <description>New blog post</description>
-    </item>
-    <item>
-      <title>[Launch date] Crossroads Wargame 'Principalities and Powers' has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/crossroads-wargame/principalities-and-powers</link>
-      <guid isPermaLink="false">51928</guid>
-      <pubDate>Thu, 12 Feb 2026 08:55:11 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6773/a4943b9c-7482-4451-9a73-c83f40bf648f.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] The Realm of Silvanus has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/silvanus-metaverse/the-realm-of-silvanus</link>
-      <guid isPermaLink="false">51927</guid>
-      <pubDate>Thu, 12 Feb 2026 08:40:16 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6480/2e2d398c-bb7a-482d-b9a2-a53fbe4672ae.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] HEYtrace Battle Mat — Traceable Reusable Curl-Free D&amp;D Mat</title>
-      <link>https://gamefound.com:443/en/projects/heyii/heytrace-battle-mat</link>
-      <guid isPermaLink="false">51926</guid>
-      <pubDate>Thu, 12 Feb 2026 04:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6895/2e4c077a-9997-4854-8a79-52152b659eb7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
