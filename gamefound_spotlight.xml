@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 16 Feb 2026 22:53:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 23:21:03 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Elves' War</title>
+      <link>https://gamefound.com:443/en/projects/redclouds/elves-war</link>
+      <guid isPermaLink="false">53958</guid>
+      <pubDate>Mon, 16 Feb 2026 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6453/b5c9c626-d7bc-445f-88c4-b93d9db6bca7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Legendary Loot: Artisan Keycaps &amp; Desk Guardians</title>
+      <link>https://gamefound.com:443/en/projects/romatadesign/legendary-loot-artisan-keycaps--desk-guardians</link>
+      <guid isPermaLink="false">53957</guid>
+      <pubDate>Mon, 16 Feb 2026 22:50:13 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8079/57dd9ee4-e76a-416f-8b39-53318a87bc32.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] Vampire Survivors - The Board Game</title>
       <link>https://gamefound.com:443/en/projects/grey-fox-games/vampire-survivors---the-board-game</link>
