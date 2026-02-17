@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 17 Feb 2026 19:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 20:27:26 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Gateway</title>
+      <link>https://gamefound.com:443/en/projects/tentacula/gateway</link>
+      <guid isPermaLink="false">53965</guid>
+      <pubDate>Tue, 17 Feb 2026 20:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6327/2c5ec47c-3870-4e35-abe2-fd42bb884f32.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] Last Week of Summer</title>
       <link>https://gamefound.com:443/en/projects/alliesorenemies/last-week-of-summer</link>
