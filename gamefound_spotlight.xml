@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 17 Feb 2026 16:13:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 17:31:29 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Balkanika: Safira's Escape</title>
+      <link>https://gamefound.com:443/en/projects/running-children/balkanika</link>
+      <guid isPermaLink="false">53962</guid>
+      <pubDate>Tue, 17 Feb 2026 17:07:15 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4772/cc5a84fa-e271-4ab9-b885-4d077244c100.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Malice of Light Adventures</title>
+      <link>https://gamefound.com:443/en/projects/twin-tale-studios/the-malice-of-light-adventures</link>
+      <guid isPermaLink="false">53961</guid>
+      <pubDate>Tue, 17 Feb 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6223/d366464b-8bc7-486d-934e-361355366ae9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Essence: The Grim Expeditions [Print &amp; Play]</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/essence-the-grim-expeditions</link>
+      <guid isPermaLink="false">53960</guid>
+      <pubDate>Tue, 17 Feb 2026 16:31:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5923/a3fcdcfe-9861-498d-a9b8-376d074946bc.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Farwald: Fallen Gods has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/mr_luke82/farwald</link>
@@ -109,46 +133,6 @@
       <pubDate>Sun, 15 Feb 2026 17:00:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6381/046e2dcc-7e37-4681-8495-10f845b4610c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Essentia 21</title>
-      <link>https://gamefound.com:443/en/projects/ko_games/essentia-21</link>
-      <guid isPermaLink="false">53946</guid>
-      <pubDate>Sat, 14 Feb 2026 23:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7001/926062cf-f933-44e6-b85d-9a4717157a19.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Beetle Battle</title>
-      <link>https://gamefound.com:443/en/projects/wurmory/beetle-battle</link>
-      <guid isPermaLink="false">53945</guid>
-      <pubDate>Sat, 14 Feb 2026 20:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5980/21bf4cd2-ccc4-414a-a938-a64f83cbf48d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Gooooal!!!</title>
-      <link>https://gamefound.com:443/en/projects/goooaaal/gooooal</link>
-      <guid isPermaLink="false">53944</guid>
-      <pubDate>Sat, 14 Feb 2026 19:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4728/10d87c26-8499-42e6-b290-cf76664584b9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Blood Economy [A Solo Vampire Card Game]</title>
-      <link>https://gamefound.com:443/en/projects/mod-games/blood-economy</link>
-      <guid isPermaLink="false">53943</guid>
-      <pubDate>Sat, 14 Feb 2026 19:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6913/447eb036-70ce-468c-ab8e-7cf60fa0fbb6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Gond Dabar - The Age of War</title>
-      <link>https://gamefound.com:443/en/projects/pirata-games/gond-dabar---the-age-of-war</link>
-      <guid isPermaLink="false">53942</guid>
-      <pubDate>Sat, 14 Feb 2026 14:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5082/5ff57e7d-1984-4c2e-9622-92d8ce176d38.png" type="image/png" />
     </item>
   </channel>
 </rss>
