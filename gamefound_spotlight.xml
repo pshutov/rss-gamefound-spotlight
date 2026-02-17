@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 17 Feb 2026 22:55:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 23:20:59 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Gateway</title>
