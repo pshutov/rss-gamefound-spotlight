@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 18 Feb 2026 20:29:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 21:04:41 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Tinctura</title>
+      <link>https://gamefound.com:443/en/projects/skellig-games/tinctura</link>
+      <guid isPermaLink="false">53972</guid>
+      <pubDate>Wed, 18 Feb 2026 21:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6934/1cfccd4b-dcd8-46f0-87a4-a8b9784abb01.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Restart</title>
       <link>https://gamefound.com:443/en/projects/teetotum-game-studios/restart</link>
