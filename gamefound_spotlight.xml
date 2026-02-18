@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 18 Feb 2026 08:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 09:37:42 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Shattered Realmz has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/azarii-inani/shattered-realmz</link>
+      <guid isPermaLink="false">53968</guid>
+      <pubDate>Wed, 18 Feb 2026 09:33:01 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5409/4c65ff36-eb8b-4a5c-95f3-02ab09021c6b.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Gateway</title>
       <link>https://gamefound.com:443/en/projects/tentacula/gateway</link>
