@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 18 Feb 2026 10:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 11:32:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] The Glasgow Train Robbery has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/saltandpepper/the-glasgow-train-robbery</link>
+      <guid isPermaLink="false">53970</guid>
+      <pubDate>Wed, 18 Feb 2026 11:17:49 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6116/05e46afe-4b8f-483f-b08d-9058bf899515.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] VANEA: Guardians of the Eldertree (Relaunch) has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/forgotten-tales/vanea-guardians-of-the-eldertree-relaunch</link>
