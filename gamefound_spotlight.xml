@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 19 Feb 2026 06:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:42:58 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Kingdom Duels</title>
+      <link>https://gamefound.com:443/en/projects/edoardo-f-kingdom-duels-developer/kingdom-duels</link>
+      <guid isPermaLink="false">53973</guid>
+      <pubDate>Thu, 19 Feb 2026 06:55:21 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8411/c706d2c6-46cc-468d-a079-90be6dbfa587.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Tinctura</title>
       <link>https://gamefound.com:443/en/projects/skellig-games/tinctura</link>
@@ -117,86 +125,6 @@
       <pubDate>Tue, 17 Feb 2026 06:14:47 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8113/6a16555a-02ed-41d7-a0fd-6dbc549c66a3.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Elves' War</title>
-      <link>https://gamefound.com:443/en/projects/redclouds/elves-war</link>
-      <guid isPermaLink="false">53958</guid>
-      <pubDate>Mon, 16 Feb 2026 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6453/b5c9c626-d7bc-445f-88c4-b93d9db6bca7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Legendary Loot: Artisan Keycaps &amp; Desk Guardians</title>
-      <link>https://gamefound.com:443/en/projects/romatadesign/legendary-loot-artisan-keycaps--desk-guardians</link>
-      <guid isPermaLink="false">53957</guid>
-      <pubDate>Mon, 16 Feb 2026 22:50:13 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8079/57dd9ee4-e76a-416f-8b39-53318a87bc32.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Vampire Survivors - The Board Game</title>
-      <link>https://gamefound.com:443/en/projects/grey-fox-games/vampire-survivors---the-board-game</link>
-      <guid isPermaLink="false">53956</guid>
-      <pubDate>Mon, 16 Feb 2026 22:05:08 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7014/f847ae11-3b1d-4caa-8401-81122060db5b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] RIVALS - 2nd Edition &amp; Expansion</title>
-      <link>https://gamefound.com:443/en/projects/unkind-games/rivals-expansion</link>
-      <guid isPermaLink="false">53955</guid>
-      <pubDate>Mon, 16 Feb 2026 17:36:37 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8385/df06ea44-09dc-4912-8cc0-76d248118ff3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Balkanika: Safira's Escape</title>
-      <link>https://gamefound.com:443/en/projects/running-children/balkanika</link>
-      <guid isPermaLink="false">53954</guid>
-      <pubDate>Mon, 16 Feb 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4772/cc5a84fa-e271-4ab9-b885-4d077244c100.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Runewood Encounters – Wooden Miniatures for Tabletop Games has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/runewood-encounters/runewood-encounters--wooden-miniatures-for-tabletop-games</link>
-      <guid isPermaLink="false">53953</guid>
-      <pubDate>Mon, 16 Feb 2026 14:55:46 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6367/4df201e4-b523-48f4-92cc-55a96fd883d9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] DARK HORIZONS has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/brickbybrick-rpg-games/dark-horizon</link>
-      <guid isPermaLink="false">53952</guid>
-      <pubDate>Mon, 16 Feb 2026 13:52:43 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8155/8edff2dc-9da6-4fe0-88c7-1eca68445d97.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] The Hunters A. D. 1492 2 edycja i dodatek Borderlands (edycja polska) has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-i-dodatek-borderlands-edycja-polska</link>
-      <guid isPermaLink="false">53951</guid>
-      <pubDate>Mon, 16 Feb 2026 13:47:10 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8324/cf940147-e0e7-4e98-8d2e-f408a2a37e08.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Barbaric: Crown of the Frost</title>
-      <link>https://gamefound.com:443/en/projects/hexa-house/barbaric-crown-of-the-frost</link>
-      <guid isPermaLink="false">53950</guid>
-      <pubDate>Mon, 16 Feb 2026 11:27:57 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8391/07fcb63d-e487-45c5-881d-76f9698eefd0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Crossroads Wargame 'Principalities and Powers'</title>
-      <link>https://gamefound.com:443/en/projects/crossroads-wargame/principalities-and-powers</link>
-      <guid isPermaLink="false">53949</guid>
-      <pubDate>Mon, 16 Feb 2026 06:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6773/a4943b9c-7482-4451-9a73-c83f40bf648f.png" type="image/png" />
     </item>
   </channel>
 </rss>
