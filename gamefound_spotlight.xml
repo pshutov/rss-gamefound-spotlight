@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 19 Feb 2026 10:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 11:31:47 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Goldfield Medieval Peasants (STL files)</title>
+      <link>https://gamefound.com:443/en/projects/tiny-furniture/goldfield-medieval-peasants</link>
+      <guid isPermaLink="false">53975</guid>
+      <pubDate>Thu, 19 Feb 2026 11:30:32 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8389/d4febe88-3c9b-4d2d-9102-5f3710df5713.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Aurigae</title>
+      <link>https://gamefound.com:443/en/projects/ludarisgamesarena/aurigae</link>
+      <guid isPermaLink="false">53974</guid>
+      <pubDate>Thu, 19 Feb 2026 11:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6750/6c3ba298-fe0a-48b3-b2f8-cf50ff67e34a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Kingdom Duels</title>
       <link>https://gamefound.com:443/en/projects/edoardo-f-kingdom-duels-developer/kingdom-duels</link>
