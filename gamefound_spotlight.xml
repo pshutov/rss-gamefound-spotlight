@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 19 Feb 2026 08:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 09:36:12 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Kingdom Duels</title>
@@ -28,7 +28,7 @@
       <guid isPermaLink="false">53971</guid>
       <pubDate>Wed, 18 Feb 2026 14:30:09 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6324/19336c68-88ab-4fcb-bdaa-6edae86e181f.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6324/0478c720-cffa-410d-9bf7-c11de6e14a3d.png" type="image/png" />
     </item>
     <item>
       <title>[Launch date] The Glasgow Train Robbery has a starting date.</title>
