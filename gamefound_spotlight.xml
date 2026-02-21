@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 21 Feb 2026 18:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 19:22:22 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Elysium Encounters</title>
+      <link>https://gamefound.com:443/en/projects/elysium-dynasties/elysium-encounters</link>
+      <guid isPermaLink="false">53986</guid>
+      <pubDate>Sat, 21 Feb 2026 19:15:19 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6174/b25785f0-4d48-4e4d-b1fd-1e330d99cc3e.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] Monster Tomes</title>
       <link>https://gamefound.com:443/en/projects/artefact-games/monster-tomes</link>
