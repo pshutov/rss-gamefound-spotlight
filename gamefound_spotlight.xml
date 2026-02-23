@@ -4,8 +4,15 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 23 Feb 2026 14:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 15:11:20 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New blog post] [What's New] The NPC - Gamefound Chatbot &amp; GAMA Expo</title>
+      <link>https://gamefound.com/blog/post/the-npc</link>
+      <guid isPermaLink="false">53991</guid>
+      <pubDate>Mon, 23 Feb 2026 15:02:34 +0000</pubDate>
+      <description>New blog post</description>
+    </item>
     <item>
       <title>[New blog post] [SPECIAL] AR NEXT 2026: The Next Era of Epic Board Games</title>
       <link>https://gamefound.com/blog/post/special-ar-next-2026-the-next-era-of-epic-board-games</link>
