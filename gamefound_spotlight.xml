@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 23 Feb 2026 15:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 17:34:35 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] City of Chaos</title>
+      <link>https://gamefound.com:443/en/projects/ares-games/city-of-chaos</link>
+      <guid isPermaLink="false">53992</guid>
+      <pubDate>Mon, 23 Feb 2026 15:53:21 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8396/d055d41f-cd35-4539-bef3-b18955782520.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New blog post] [What's New] The NPC - Gamefound Chatbot &amp; GAMA Expo</title>
       <link>https://gamefound.com/blog/post/the-npc</link>
@@ -130,7 +138,7 @@
       <guid isPermaLink="false">53976</guid>
       <pubDate>Thu, 19 Feb 2026 12:56:22 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6341/2541c44a-c75a-4e47-8300-4fdb287178cf.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6341/cc1e5a8a-137f-4d8c-a112-2366d140a223.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Goldfield Medieval Peasants (STL files)</title>
