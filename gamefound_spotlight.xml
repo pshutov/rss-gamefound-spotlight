@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 23 Feb 2026 17:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 18:51:29 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] This year nobody dies</title>
+      <link>https://gamefound.com:443/en/projects/oh-shocking/cette-annee-personne-ne-meurt</link>
+      <guid isPermaLink="false">53993</guid>
+      <pubDate>Mon, 23 Feb 2026 17:51:49 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8398/674e0bc1-332b-4958-9ed9-16b42c533260.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] City of Chaos</title>
       <link>https://gamefound.com:443/en/projects/ares-games/city-of-chaos</link>
