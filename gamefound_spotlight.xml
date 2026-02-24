@@ -4,8 +4,48 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 24 Feb 2026 18:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 19:43:49 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Space Qubes Relaunch</title>
+      <link>https://gamefound.com:443/en/projects/kagu-spiele/space-qubes-relaunch</link>
+      <guid isPermaLink="false">54007</guid>
+      <pubDate>Tue, 24 Feb 2026 19:37:45 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6572/ece8fce7-f15f-4303-92a7-a9810f74265f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Bobsl(ay)eight</title>
+      <link>https://gamefound.com:443/en/projects/madoki/bobslayeight</link>
+      <guid isPermaLink="false">54006</guid>
+      <pubDate>Tue, 24 Feb 2026 19:20:02 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8267/05c79016-bbb0-4b64-8fb3-f39f2b594465.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] ASPIDA CIVIL PROTECTION BOARD GAME</title>
+      <link>https://gamefound.com:443/en/projects/stefanos-folinas/aspida</link>
+      <guid isPermaLink="false">54005</guid>
+      <pubDate>Tue, 24 Feb 2026 19:19:24 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8451/6b65eab9-3c52-4bd8-853f-b49c9b362366.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] PANDORA CELESTE: Pirates &amp; Salvage</title>
+      <link>https://gamefound.com:443/en/projects/guntower-mike/pandora-celeste-pirates--salvage</link>
+      <guid isPermaLink="false">54004</guid>
+      <pubDate>Tue, 24 Feb 2026 19:17:00 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6415/c4b7d45f-2936-4ed3-b2e4-d96209bc5fe9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Cloud War Tales: Nuvitrum</title>
+      <link>https://gamefound.com:443/en/projects/pif-games/nuvitrum</link>
+      <guid isPermaLink="false">54003</guid>
+      <pubDate>Tue, 24 Feb 2026 19:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6089/08ffcac0-62ff-4b2d-8898-07daeb597296.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Inferno 1348 Deluxe &amp; Inferno Deluxe Reprint</title>
       <link>https://gamefound.com:443/en/projects/red-mojo-games/inferno-1348-deluxe-edition</link>
@@ -52,7 +92,7 @@
       <guid isPermaLink="false">53997</guid>
       <pubDate>Tue, 24 Feb 2026 16:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6572/149c3469-6652-4830-8f93-229018497238.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6572/ece8fce7-f15f-4303-92a7-a9810f74265f.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign start] PANDORA CELESTE: Pirates &amp; Salvage</title>
@@ -115,38 +155,6 @@
       <pubDate>Mon, 23 Feb 2026 03:20:00 +0000</pubDate>
       <description>Campaign start</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8155/8edff2dc-9da6-4fe0-88c7-1eca68445d97.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Pirouette: Figure Skating Solitaire Game</title>
-      <link>https://gamefound.com:443/en/projects/weighteddicegames/pirouette-figure-skating-solitaire-game</link>
-      <guid isPermaLink="false">53988</guid>
-      <pubDate>Sat, 21 Feb 2026 22:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8125/ce20e2dd-bd68-4bdb-857c-f98c0ee655f8.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Shattered Realmz</title>
-      <link>https://gamefound.com:443/en/projects/azarii-inani/shattered-realmz</link>
-      <guid isPermaLink="false">53987</guid>
-      <pubDate>Sat, 21 Feb 2026 20:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5409/4c65ff36-eb8b-4a5c-95f3-02ab09021c6b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Elysium Encounters</title>
-      <link>https://gamefound.com:443/en/projects/elysium-dynasties/elysium-encounters</link>
-      <guid isPermaLink="false">53986</guid>
-      <pubDate>Sat, 21 Feb 2026 19:15:19 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6174/b25785f0-4d48-4e4d-b1fd-1e330d99cc3e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Monster Tomes</title>
-      <link>https://gamefound.com:443/en/projects/artefact-games/monster-tomes</link>
-      <guid isPermaLink="false">53985</guid>
-      <pubDate>Sat, 21 Feb 2026 11:04:07 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8201/5251c4e2-904c-484c-83b3-e5d83e53657a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
