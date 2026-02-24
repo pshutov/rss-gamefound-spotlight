@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 24 Feb 2026 22:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 23:32:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Colleagues</title>
+      <link>https://gamefound.com:443/en/projects/creardo/colleagues</link>
+      <guid isPermaLink="false">54013</guid>
+      <pubDate>Tue, 24 Feb 2026 23:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5539/2c5e2f66-15cb-4bd5-991a-4809717d7526.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] KINGLING: An Adventure Through Realms</title>
       <link>https://gamefound.com:443/en/projects/neverbreeze-studios/kingling-an-adventure-through-realms</link>
