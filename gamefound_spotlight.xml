@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 24 Feb 2026 15:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 16:33:31 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Pacific War Games</title>
+      <link>https://gamefound.com:443/en/projects/phalanx/pacificwar-games</link>
+      <guid isPermaLink="false">53998</guid>
+      <pubDate>Tue, 24 Feb 2026 16:00:57 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8574/95a8c458-ad90-4fe4-b026-c6f5542712ba.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Space Qubes Relaunch</title>
+      <link>https://gamefound.com:443/en/projects/kagu-spiele/space-qubes-relaunch</link>
+      <guid isPermaLink="false">53997</guid>
+      <pubDate>Tue, 24 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6572/149c3469-6652-4830-8f93-229018497238.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] PANDORA CELESTE: Pirates &amp; Salvage</title>
       <link>https://gamefound.com:443/en/projects/guntower-mike/pandora-celeste-pirates--salvage</link>
