@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 24 Feb 2026 08:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 10:39:44 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] The Dawnless Necropolis: A Dark Medieval Gamebook</title>
+      <link>https://gamefound.com:443/en/projects/last-dawn-press/the-dawnless-necropolis</link>
+      <guid isPermaLink="false">53995</guid>
+      <pubDate>Tue, 24 Feb 2026 09:37:45 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8151/0e57ca99-fc61-4a0d-94ab-fc7079214517.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Dawnless Necropolis: A Dark Medieval Gamebook</title>
+      <link>https://gamefound.com:443/en/projects/last-dawn-press/the-dawnless-necropolis</link>
+      <guid isPermaLink="false">53994</guid>
+      <pubDate>Tue, 24 Feb 2026 09:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8151/0e57ca99-fc61-4a0d-94ab-fc7079214517.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] This year nobody dies</title>
       <link>https://gamefound.com:443/en/projects/oh-shocking/cette-annee-personne-ne-meurt</link>
@@ -107,70 +123,6 @@
       <pubDate>Fri, 20 Feb 2026 13:17:20 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8493/0566e4f1-b90f-400c-8569-6f6384022916.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Quest &amp; Request</title>
-      <link>https://gamefound.com:443/en/projects/qdss/quest-and-request</link>
-      <guid isPermaLink="false">53980</guid>
-      <pubDate>Thu, 19 Feb 2026 18:21:57 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6168/58dad8cc-b90e-4097-bb1f-dd24a1039ccc.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Quest &amp; Request</title>
-      <link>https://gamefound.com:443/en/projects/qdss/quest-and-request</link>
-      <guid isPermaLink="false">53979</guid>
-      <pubDate>Thu, 19 Feb 2026 18:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6168/58dad8cc-b90e-4097-bb1f-dd24a1039ccc.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] CARNIVORE has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/buer-games/carnivore</link>
-      <guid isPermaLink="false">53978</guid>
-      <pubDate>Thu, 19 Feb 2026 16:02:47 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6481/5e49ef48-087a-43f8-89ae-83561c55ef90.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] QuantumZap has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/cowboycactusgames/quantumzap</link>
-      <guid isPermaLink="false">53977</guid>
-      <pubDate>Thu, 19 Feb 2026 13:02:43 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5862/5573a7d5-a5e2-4cc6-a983-4699597409fd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] BUTCHER &amp; BOLT has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/lasting-games/butcherandbolt</link>
-      <guid isPermaLink="false">53976</guid>
-      <pubDate>Thu, 19 Feb 2026 12:56:22 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6341/cc1e5a8a-137f-4d8c-a112-2366d140a223.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Goldfield Medieval Peasants (STL files)</title>
-      <link>https://gamefound.com:443/en/projects/tiny-furniture/goldfield-medieval-peasants</link>
-      <guid isPermaLink="false">53975</guid>
-      <pubDate>Thu, 19 Feb 2026 11:30:32 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8389/cf58d7fc-4754-4200-b53e-6061d2446769.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Aurigae</title>
-      <link>https://gamefound.com:443/en/projects/ludarisgamesarena/aurigae</link>
-      <guid isPermaLink="false">53974</guid>
-      <pubDate>Thu, 19 Feb 2026 11:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6750/6c3ba298-fe0a-48b3-b2f8-cf50ff67e34a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Kingdom Duels</title>
-      <link>https://gamefound.com:443/en/projects/edoardo-f-kingdom-duels-developer/kingdom-duels</link>
-      <guid isPermaLink="false">53973</guid>
-      <pubDate>Thu, 19 Feb 2026 06:55:21 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8411/c706d2c6-46cc-468d-a079-90be6dbfa587.png" type="image/png" />
     </item>
   </channel>
 </rss>
