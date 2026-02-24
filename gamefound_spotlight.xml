@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 24 Feb 2026 12:41:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 14:04:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] PANDORA CELESTE: Pirates &amp; Salvage</title>
+      <link>https://gamefound.com:443/en/projects/guntower-mike/pandora-celeste-pirates--salvage</link>
+      <guid isPermaLink="false">53996</guid>
+      <pubDate>Tue, 24 Feb 2026 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6415/c4b7d45f-2936-4ed3-b2e4-d96209bc5fe9.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] The Dawnless Necropolis: A Dark Medieval Gamebook</title>
       <link>https://gamefound.com:443/en/projects/last-dawn-press/the-dawnless-necropolis</link>
