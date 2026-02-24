@@ -4,8 +4,40 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 24 Feb 2026 16:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 17:51:37 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Inferno 1348 Deluxe &amp; Inferno Deluxe Reprint</title>
+      <link>https://gamefound.com:443/en/projects/red-mojo-games/inferno-1348-deluxe-edition</link>
+      <guid isPermaLink="false">54002</guid>
+      <pubDate>Tue, 24 Feb 2026 17:08:55 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6459/93e39d00-f495-4e38-b4e7-74c4e13fbc12.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Inferno 1348 Deluxe &amp; Inferno Deluxe Reprint</title>
+      <link>https://gamefound.com:443/en/projects/red-mojo-games/inferno-1348-deluxe-edition</link>
+      <guid isPermaLink="false">54001</guid>
+      <pubDate>Tue, 24 Feb 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6459/93e39d00-f495-4e38-b4e7-74c4e13fbc12.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Legends of the South: The Awakening of the Spirits</title>
+      <link>https://gamefound.com:443/en/projects/ancestral-games-studio/legends-of-the-south-the-awakening-of-the-spirits</link>
+      <guid isPermaLink="false">54000</guid>
+      <pubDate>Tue, 24 Feb 2026 16:44:46 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6797/47f8d71e-af33-474e-8585-8a0dbbdde069.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New Late Pledge] Dicey Devices: Mad Ambition</title>
+      <link>https://gamefound.com:443/en/projects/origami-whale-games/dicey-devices-mad-ambition</link>
+      <guid isPermaLink="false">53999</guid>
+      <pubDate>Tue, 24 Feb 2026 16:35:24 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6796/2f8ac9b1-4236-40b4-9cbe-e3ee361eb7ce.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] Pacific War Games</title>
       <link>https://gamefound.com:443/en/projects/phalanx/pacificwar-games</link>
@@ -115,38 +147,6 @@
       <pubDate>Sat, 21 Feb 2026 11:04:07 +0000</pubDate>
       <description>New Pledge Manager</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8201/5251c4e2-904c-484c-83b3-e5d83e53657a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] The Hunters A. D. 1492 2 edycja i dodatek Borderlands (edycja polska)</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-i-dodatek-borderlands-edycja-polska</link>
-      <guid isPermaLink="false">53984</guid>
-      <pubDate>Fri, 20 Feb 2026 20:16:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8324/cf940147-e0e7-4e98-8d2e-f408a2a37e08.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] The Hunters A. D. 1492 2 edycja i dodatek Borderlands (edycja polska)</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-i-dodatek-borderlands-edycja-polska</link>
-      <guid isPermaLink="false">53983</guid>
-      <pubDate>Fri, 20 Feb 2026 20:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8324/cf940147-e0e7-4e98-8d2e-f408a2a37e08.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Gond Dabar - The Age of War (relaunch)</title>
-      <link>https://gamefound.com:443/en/projects/pirata-games/gond-dabar-the-age-of-war</link>
-      <guid isPermaLink="false">53982</guid>
-      <pubDate>Fri, 20 Feb 2026 14:04:42 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8520/30d85d7c-dcda-4953-a3d7-20a345cc1089.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Abandon Orbiter</title>
-      <link>https://gamefound.com:443/en/projects/bockholm-games/abandon-orbiter</link>
-      <guid isPermaLink="false">53981</guid>
-      <pubDate>Fri, 20 Feb 2026 13:17:20 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8493/0566e4f1-b90f-400c-8569-6f6384022916.png" type="image/png" />
     </item>
   </channel>
 </rss>
