@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 25 Feb 2026 15:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 16:41:36 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Symphony Of Gods has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/sogteam/symphony-of-gods</link>
+      <guid isPermaLink="false">54023</guid>
+      <pubDate>Wed, 25 Feb 2026 16:37:20 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6967/cded5f20-a8c9-4567-a891-819bad53cb13.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] CARNIVORE</title>
+      <link>https://gamefound.com:443/en/projects/buer-games/carnivore</link>
+      <guid isPermaLink="false">54022</guid>
+      <pubDate>Wed, 25 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6481/5e49ef48-087a-43f8-89ae-83561c55ef90.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
       <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map</link>
