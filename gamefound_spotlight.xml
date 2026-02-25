@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 25 Feb 2026 12:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 14:03:52 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] PnP Bundle #1</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/pnp-bundle-1</link>
+      <guid isPermaLink="false">54020</guid>
+      <pubDate>Wed, 25 Feb 2026 13:00:26 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8519/854de687-0cdc-4023-9cc9-d8394724f830.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Banana Magnate</title>
+      <link>https://gamefound.com:443/en/projects/elusive-bananas/banana-tycoon</link>
+      <guid isPermaLink="false">54019</guid>
+      <pubDate>Wed, 25 Feb 2026 12:43:45 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5823/959bbded-7051-4cb3-a380-eea8bd1ec516.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Queen Alice has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/combo_games/queen-alice</link>
