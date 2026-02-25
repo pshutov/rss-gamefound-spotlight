@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 25 Feb 2026 16:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 17:51:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Labyrinth Chronicles</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/labyrinth</link>
+      <guid isPermaLink="false">54025</guid>
+      <pubDate>Wed, 25 Feb 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5354/5226a7db-87a0-4258-895d-fb46d309c04c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] CARNIVORE</title>
+      <link>https://gamefound.com:443/en/projects/buer-games/carnivore</link>
+      <guid isPermaLink="false">54024</guid>
+      <pubDate>Wed, 25 Feb 2026 16:45:16 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6481/ff70fe1a-370d-4d0a-911f-ebb30220fc96.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Symphony Of Gods has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/sogteam/symphony-of-gods</link>
@@ -20,7 +36,7 @@
       <guid isPermaLink="false">54022</guid>
       <pubDate>Wed, 25 Feb 2026 16:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6481/5e49ef48-087a-43f8-89ae-83561c55ef90.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6481/ff70fe1a-370d-4d0a-911f-ebb30220fc96.png" type="image/png" />
     </item>
     <item>
       <title>[24 hours left] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
