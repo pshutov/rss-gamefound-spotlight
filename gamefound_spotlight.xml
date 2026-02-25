@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 25 Feb 2026 21:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 21:53:46 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Erra - Resistance (2nd campaign)</title>
+      <link>https://gamefound.com:443/en/projects/oakgames/erra-resistance-2nd-campaign</link>
+      <guid isPermaLink="false">54029</guid>
+      <pubDate>Wed, 25 Feb 2026 21:48:47 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8318/891a3558-1f18-431e-a091-b3b1aa37f56d.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Hideouts: Legends of The Forest</title>
       <link>https://gamefound.com:443/en/projects/weasel--wolf/hideouts-legends-of-the-forest</link>
