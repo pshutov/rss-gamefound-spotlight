@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 25 Feb 2026 14:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 15:29:28 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
+      <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map</link>
+      <guid isPermaLink="false">54021</guid>
+      <pubDate>Wed, 25 Feb 2026 15:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/3ac881a7-57e8-4819-ad1a-1c06c1ec0163.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] PnP Bundle #1</title>
       <link>https://gamefound.com:443/en/projects/florianfiedler/pnp-bundle-1</link>
