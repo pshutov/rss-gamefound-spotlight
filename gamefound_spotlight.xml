@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 25 Feb 2026 08:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 09:43:22 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Earth Siege: Arrival has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/plague-island-games/earth-siege-arrival</link>
+      <guid isPermaLink="false">54017</guid>
+      <pubDate>Wed, 25 Feb 2026 09:14:57 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6389/10e88cc5-b3c0-4921-9ed5-7b0c5e5f664b.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Carpet Racing</title>
       <link>https://gamefound.com:443/en/projects/sun-rain-in-life/carpet-racing</link>
