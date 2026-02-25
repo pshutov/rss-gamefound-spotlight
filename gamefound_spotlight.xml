@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 25 Feb 2026 06:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:45:51 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Dribble 'n' Dice - Pro League</title>
+      <link>https://gamefound.com:443/en/projects/runner-games/dribble-n-dice-pro-league</link>
+      <guid isPermaLink="false">54014</guid>
+      <pubDate>Wed, 25 Feb 2026 07:37:26 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8569/5759469b-186d-4168-b2eb-157b7241525e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Colleagues</title>
       <link>https://gamefound.com:443/en/projects/creardo/colleagues</link>
