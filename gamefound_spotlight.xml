@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 25 Feb 2026 21:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 22:22:39 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Boktor: Explore, Fight, Evolve</title>
+      <link>https://gamefound.com:443/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest</link>
+      <guid isPermaLink="false">54030</guid>
+      <pubDate>Wed, 25 Feb 2026 22:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/51d36c37-6f18-497c-9ee0-d2033823cb3e.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Erra - Resistance (2nd campaign)</title>
       <link>https://gamefound.com:443/en/projects/oakgames/erra-resistance-2nd-campaign</link>
