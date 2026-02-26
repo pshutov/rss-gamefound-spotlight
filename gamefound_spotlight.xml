@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 26 Feb 2026 08:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 09:39:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] DIECATHLON has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/waterbear-workshop/diecathlon</link>
+      <guid isPermaLink="false">54033</guid>
+      <pubDate>Thu, 26 Feb 2026 08:58:47 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5573/070eed16-e86c-43d5-badd-fd2fb73b9c95.png" type="image/png" />
+    </item>
     <item>
       <title>[New Pledge Manager] Survive Nuclear Apocalypse: A 30-min Game of Brutal Survival</title>
       <link>https://gamefound.com:443/en/projects/board-collie-games/survive-nuclear-apocalypse</link>
