@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 26 Feb 2026 10:36:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 11:33:43 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign start] Symphony Of Gods</title>
@@ -44,7 +44,7 @@
       <guid isPermaLink="false">54030</guid>
       <pubDate>Wed, 25 Feb 2026 22:00:01 +0000</pubDate>
       <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/51d36c37-6f18-497c-9ee0-d2033823cb3e.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/d39be76d-cf64-4685-a25a-ca2cc47cfbbd.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Erra - Resistance (2nd campaign)</title>
