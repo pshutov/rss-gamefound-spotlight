@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 26 Feb 2026 09:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 10:36:35 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Symphony Of Gods</title>
+      <link>https://gamefound.com:443/en/projects/sogteam/symphony-of-gods</link>
+      <guid isPermaLink="false">54034</guid>
+      <pubDate>Thu, 26 Feb 2026 10:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6967/cded5f20-a8c9-4567-a891-819bad53cb13.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] DIECATHLON has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/waterbear-workshop/diecathlon</link>
