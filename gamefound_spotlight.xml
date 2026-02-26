@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 26 Feb 2026 01:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 03:45:11 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Survive Nuclear Apocalypse: A 30-min Game of Brutal Survival</title>
+      <link>https://gamefound.com:443/en/projects/board-collie-games/survive-nuclear-apocalypse</link>
+      <guid isPermaLink="false">54032</guid>
+      <pubDate>Thu, 26 Feb 2026 01:20:35 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8256/6527ab2d-e637-4079-99e1-56f3218a47ba.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] DeckHand: Race for Infamy</title>
       <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy</link>
