@@ -4,8 +4,48 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 26 Feb 2026 16:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 17:33:09 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Scoundrels</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/scoundrels</link>
+      <guid isPermaLink="false">54046</guid>
+      <pubDate>Thu, 26 Feb 2026 17:22:01 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8527/6724ca62-c2b7-4fb8-b823-617ecc5a9e76.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Concordia Special Edition</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/concordia-special-edition</link>
+      <guid isPermaLink="false">54045</guid>
+      <pubDate>Thu, 26 Feb 2026 17:15:49 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8525/2acd6cd0-4466-46a6-8897-0274919fdcd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Tamashii: The Final Amendment</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/tamashi2</link>
+      <guid isPermaLink="false">54044</guid>
+      <pubDate>Thu, 26 Feb 2026 17:11:18 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8526/30ef00ca-0bbb-4537-a72e-86a6617d9714.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] SYLT</title>
+      <link>https://gamefound.com:443/en/projects/pug-and-duck/sylt-the-island-the-game</link>
+      <guid isPermaLink="false">54043</guid>
+      <pubDate>Thu, 26 Feb 2026 16:57:46 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8271/ede86785-0cb4-4f0a-8575-ab8d907948c9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Battle of Souls</title>
+      <link>https://gamefound.com:443/en/projects/no-limits/battle-of-souls</link>
+      <guid isPermaLink="false">54042</guid>
+      <pubDate>Thu, 26 Feb 2026 16:25:25 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8506/02b37aa5-2b58-44fa-b85f-e5516c036711.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Astromythos</title>
       <link>https://gamefound.com:443/en/projects/jsideriadis/astromythos</link>
@@ -85,150 +125,6 @@
       <pubDate>Thu, 26 Feb 2026 01:20:35 +0000</pubDate>
       <description>New Pledge Manager</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8256/6527ab2d-e637-4079-99e1-56f3218a47ba.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] DeckHand: Race for Infamy</title>
-      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy</link>
-      <guid isPermaLink="false">54031</guid>
-      <pubDate>Wed, 25 Feb 2026 22:43:49 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5335/4e9afeb3-361e-4665-8288-518092002d2b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Boktor: Explore, Fight, Evolve</title>
-      <link>https://gamefound.com:443/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest</link>
-      <guid isPermaLink="false">54030</guid>
-      <pubDate>Wed, 25 Feb 2026 22:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/e2b40e1c-579a-416f-b6db-1387a166cd53.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Erra - Resistance (2nd campaign)</title>
-      <link>https://gamefound.com:443/en/projects/oakgames/erra-resistance-2nd-campaign</link>
-      <guid isPermaLink="false">54029</guid>
-      <pubDate>Wed, 25 Feb 2026 21:48:47 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8318/891a3558-1f18-431e-a091-b3b1aa37f56d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Hideouts: Legends of The Forest</title>
-      <link>https://gamefound.com:443/en/projects/weasel--wolf/hideouts-legends-of-the-forest</link>
-      <guid isPermaLink="false">54028</guid>
-      <pubDate>Wed, 25 Feb 2026 20:05:18 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8215/2db303d0-c7f7-4c75-8fec-66138891b703.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Go Viking</title>
-      <link>https://gamefound.com:443/en/projects/crackling-creations/go-viking</link>
-      <guid isPermaLink="false">54027</guid>
-      <pubDate>Wed, 25 Feb 2026 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6217/d55579aa-7f95-4e30-9815-3297f8504116.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Adventure &amp; Quest: The Ultimate Game Tables RETURN</title>
-      <link>https://gamefound.com:443/en/projects/woodencastle-gamingtables/adventure-quest-return</link>
-      <guid isPermaLink="false">54026</guid>
-      <pubDate>Wed, 25 Feb 2026 18:48:18 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8581/ccbec408-c077-4c7a-b785-baaf715b9682.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Labyrinth Chronicles</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/labyrinth</link>
-      <guid isPermaLink="false">54025</guid>
-      <pubDate>Wed, 25 Feb 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5354/5226a7db-87a0-4258-895d-fb46d309c04c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] CARNIVORE</title>
-      <link>https://gamefound.com:443/en/projects/buer-games/carnivore</link>
-      <guid isPermaLink="false">54024</guid>
-      <pubDate>Wed, 25 Feb 2026 16:45:16 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6481/ff70fe1a-370d-4d0a-911f-ebb30220fc96.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Symphony Of Gods has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/sogteam/symphony-of-gods</link>
-      <guid isPermaLink="false">54023</guid>
-      <pubDate>Wed, 25 Feb 2026 16:37:20 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6967/cded5f20-a8c9-4567-a891-819bad53cb13.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] CARNIVORE</title>
-      <link>https://gamefound.com:443/en/projects/buer-games/carnivore</link>
-      <guid isPermaLink="false">54022</guid>
-      <pubDate>Wed, 25 Feb 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6481/ff70fe1a-370d-4d0a-911f-ebb30220fc96.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Wandering Traveler: Foldable Alloy Combat Map for D&amp;D</title>
-      <link>https://gamefound.com:443/en/projects/thorns-tavern/portable--foldable-metal-battle-map</link>
-      <guid isPermaLink="false">54021</guid>
-      <pubDate>Wed, 25 Feb 2026 15:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6907/3ac881a7-57e8-4819-ad1a-1c06c1ec0163.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] PnP Bundle #1</title>
-      <link>https://gamefound.com:443/en/projects/florianfiedler/pnp-bundle-1</link>
-      <guid isPermaLink="false">54020</guid>
-      <pubDate>Wed, 25 Feb 2026 13:00:26 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8519/854de687-0cdc-4023-9cc9-d8394724f830.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Banana Magnate</title>
-      <link>https://gamefound.com:443/en/projects/elusive-bananas/banana-tycoon</link>
-      <guid isPermaLink="false">54019</guid>
-      <pubDate>Wed, 25 Feb 2026 12:43:45 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5823/40ed684f-8e22-44f0-8947-9457255db547.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Queen Alice has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/combo_games/queen-alice</link>
-      <guid isPermaLink="false">54018</guid>
-      <pubDate>Wed, 25 Feb 2026 10:06:37 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6475/c71b11e9-f71d-43db-9d9e-f8c02b12c6d0.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Earth Siege: Arrival has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/plague-island-games/earth-siege-arrival</link>
-      <guid isPermaLink="false">54017</guid>
-      <pubDate>Wed, 25 Feb 2026 09:14:57 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6389/10e88cc5-b3c0-4921-9ed5-7b0c5e5f664b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Carpet Racing</title>
-      <link>https://gamefound.com:443/en/projects/sun-rain-in-life/carpet-racing</link>
-      <guid isPermaLink="false">54016</guid>
-      <pubDate>Wed, 25 Feb 2026 08:30:11 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8133/97d3bc92-5c23-4995-888f-a29160e4bdca.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Sports Poker</title>
-      <link>https://gamefound.com:443/en/projects/sports-poker/sports-poker</link>
-      <guid isPermaLink="false">54015</guid>
-      <pubDate>Wed, 25 Feb 2026 08:01:38 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8420/36427d1a-6ef3-45c4-964d-f678c23ec650.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Dribble 'n' Dice - Pro League</title>
-      <link>https://gamefound.com:443/en/projects/runner-games/dribble-n-dice-pro-league</link>
-      <guid isPermaLink="false">54014</guid>
-      <pubDate>Wed, 25 Feb 2026 07:37:26 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8569/5759469b-186d-4168-b2eb-157b7241525e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
