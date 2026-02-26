@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 26 Feb 2026 18:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 19:37:25 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] DeckHand: Race for Infamy</title>
+      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy</link>
+      <guid isPermaLink="false">54049</guid>
+      <pubDate>Thu, 26 Feb 2026 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5335/4e9afeb3-361e-4665-8288-518092002d2b.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Nemesis: The Roleplaying Game</title>
       <link>https://gamefound.com:443/en/projects/studio-agate/nemesis-ttrpg</link>
