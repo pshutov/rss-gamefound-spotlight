@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 26 Feb 2026 14:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:11:14 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] The Pope of Naked City</title>
+      <link>https://gamefound.com:443/en/projects/the-pope-of-naked-city/the-pope-of-naked-city</link>
+      <guid isPermaLink="false">54040</guid>
+      <pubDate>Thu, 26 Feb 2026 14:57:58 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8522/e9e1f44e-de2e-49c9-951d-367b0d452c0b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Upzone - The Pop Up Wargaming &amp; RPG Terrain System Season 2</title>
+      <link>https://gamefound.com:443/en/projects/cbatarlis/upzone---the-pop-up-wargaming--rpg-terrain-system-season-2</link>
+      <guid isPermaLink="false">54039</guid>
+      <pubDate>Thu, 26 Feb 2026 14:47:09 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8553/ca6e5fbc-b344-407d-a406-947bb38f05cc.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Galactic Invaders has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/la-hoguerita-estudio/galactic-invaders</link>
@@ -76,7 +92,7 @@
       <guid isPermaLink="false">54030</guid>
       <pubDate>Wed, 25 Feb 2026 22:00:01 +0000</pubDate>
       <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/99be4644-c854-423d-8089-cd9b98419c1b.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5522/3ee44823-150a-4efa-a2ce-1f1954994a59.png" type="image/png" />
     </item>
     <item>
       <title>[New project] Erra - Resistance (2nd campaign)</title>
