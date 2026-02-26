@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 26 Feb 2026 17:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 18:39:23 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Nemesis: The Roleplaying Game</title>
+      <link>https://gamefound.com:443/en/projects/studio-agate/nemesis-ttrpg</link>
+      <guid isPermaLink="false">54048</guid>
+      <pubDate>Thu, 26 Feb 2026 17:30:54 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8499/c870eb18-fae6-471a-a91c-8dd42897f8c4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Nemesis Legacy</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/nemesis-legacy</link>
+      <guid isPermaLink="false">54047</guid>
+      <pubDate>Thu, 26 Feb 2026 17:30:02 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8524/b2de6bb7-c75f-45ba-9672-0803d1cd1333.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Scoundrels</title>
       <link>https://gamefound.com:443/en/projects/awaken-realms/scoundrels</link>
