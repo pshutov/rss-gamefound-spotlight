@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 27 Feb 2026 13:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 14:40:27 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Whistlewood Express has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/pihari-games/whistlewood-express</link>
+      <guid isPermaLink="false">54055</guid>
+      <pubDate>Fri, 27 Feb 2026 13:56:20 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6556/2fb34e15-2c32-49f1-837f-0f1244e97c13.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Jano - A Pawsome Adventure</title>
       <link>https://gamefound.com:443/en/projects/aszaki/jano---a-pawsome-adventure</link>
