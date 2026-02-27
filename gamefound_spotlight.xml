@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 27 Feb 2026 17:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 17:58:30 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Claws</title>
+      <link>https://gamefound.com:443/en/projects/dicecream/claws</link>
+      <guid isPermaLink="false">54058</guid>
+      <pubDate>Fri, 27 Feb 2026 17:33:58 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8544/32d3c356-ff04-42d4-adbf-a459d21b6c01.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Runewood Encounters – Wooden Miniatures for Tabletop Games</title>
       <link>https://gamefound.com:443/en/projects/runewood-encounters/runewood-encounters--wooden-miniatures-for-tabletop-games</link>
