@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 27 Feb 2026 07:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 08:02:03 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Tasuo World: Draconian Rise: V:1: Wyvern Ways</title>
+      <link>https://gamefound.com:443/en/projects/tasuo-showdown/wyvern-ways</link>
+      <guid isPermaLink="false">54052</guid>
+      <pubDate>Fri, 27 Feb 2026 07:25:43 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2726/81bb86db-9c0a-43d7-8c00-8c05ff6ccb99.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Astra Imperium [Solo Game of the Month]</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
