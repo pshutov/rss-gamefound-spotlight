@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 27 Feb 2026 18:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 19:27:20 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Tasuo World: Draconian Rise: V:1: Wyvern Ways</title>
+      <link>https://gamefound.com:443/en/projects/tasuo-showdown/wyvern-ways</link>
+      <guid isPermaLink="false">54059</guid>
+      <pubDate>Fri, 27 Feb 2026 19:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2726/81bb86db-9c0a-43d7-8c00-8c05ff6ccb99.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Claws</title>
       <link>https://gamefound.com:443/en/projects/dicecream/claws</link>
@@ -196,7 +204,7 @@
       <guid isPermaLink="false">54035</guid>
       <pubDate>Thu, 26 Feb 2026 12:08:06 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8147/157e84c4-f3e2-44b4-93dc-c956706f91d5.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8147/27adfcc7-cdc6-45f5-bcfc-efe354aed8cf.png" type="image/png" />
     </item>
     <item>
       <title>[Campaign start] Symphony Of Gods</title>
