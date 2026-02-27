@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 27 Feb 2026 11:51:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 12:38:16 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Jano - A Pawsome Adventure</title>
+      <link>https://gamefound.com:443/en/projects/aszaki/jano---a-pawsome-adventure</link>
+      <guid isPermaLink="false">54054</guid>
+      <pubDate>Fri, 27 Feb 2026 12:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5995/c2f43563-2716-43ca-87ec-7ec61d5b6410.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Gal4Xeon: A 4X roll and write game has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/eurydice-games-ltd/gal4xeon-a-4x-roll-and-write-game</link>
