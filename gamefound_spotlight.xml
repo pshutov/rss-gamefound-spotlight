@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 27 Feb 2026 08:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 09:03:45 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Gal4Xeon: A 4X roll and write game has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/eurydice-games-ltd/gal4xeon-a-4x-roll-and-write-game</link>
+      <guid isPermaLink="false">54053</guid>
+      <pubDate>Fri, 27 Feb 2026 08:50:02 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6946/363d7a98-9649-4dba-98be-89cb4085a5c6.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Tasuo World: Draconian Rise: V:1: Wyvern Ways</title>
       <link>https://gamefound.com:443/en/projects/tasuo-showdown/wyvern-ways</link>
