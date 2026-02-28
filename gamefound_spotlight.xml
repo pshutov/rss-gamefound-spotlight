@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 28 Feb 2026 01:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 03:24:19 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Deep Sky Ballad - For a Fistful of Seeds</title>
+      <link>https://gamefound.com:443/en/projects/a-game-of-nerds/for-a-fistful-of-seeds</link>
+      <guid isPermaLink="false">54062</guid>
+      <pubDate>Sat, 28 Feb 2026 03:06:57 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8372/52ff81d0-f5fb-400d-b618-9838e9b42b9c.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Table Buster: Reforge</title>
       <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge</link>
