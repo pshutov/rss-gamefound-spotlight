@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 28 Feb 2026 05:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:26:26 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Gry Bez Prądu | Czasopismo o planszówkach, bitewniakach i grach RPG</title>
+      <link>https://gamefound.com:443/en/projects/gametroll/gry-bez-pradu--czasopismo-o-planszowkach</link>
+      <guid isPermaLink="false">54063</guid>
+      <pubDate>Sat, 28 Feb 2026 06:19:11 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6438/03fcb825-fcfc-4b7f-98f1-697007ba6e96.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Deep Sky Ballad - For a Fistful of Seeds</title>
       <link>https://gamefound.com:443/en/projects/a-game-of-nerds/for-a-fistful-of-seeds</link>
