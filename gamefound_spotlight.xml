@@ -4,8 +4,48 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 28 Feb 2026 18:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 08:02:53 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] 1809: Talavera</title>
+      <link>https://gamefound.com:443/en/projects/tactical-workshop/1809-talavera</link>
+      <guid isPermaLink="false">54069</guid>
+      <pubDate>Sun, 01 Mar 2026 20:40:42 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8024/264c130a-3511-4060-b7d9-03406f32f7c8.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] THE FAMILY DECK — Indestructible Mafia-Themed Poker Playing Cards</title>
+      <link>https://gamefound.com:443/en/projects/papagaming/the-family-deck--indestructible-mafia-themed-poker-playing-cards</link>
+      <guid isPermaLink="false">54068</guid>
+      <pubDate>Sun, 01 Mar 2026 16:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8091/c8416f87-787a-4860-a09b-0fe4c78fe42b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] QuantumZap</title>
+      <link>https://gamefound.com:443/en/projects/cowboycactusgames/quantumzap</link>
+      <guid isPermaLink="false">54067</guid>
+      <pubDate>Sun, 01 Mar 2026 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5862/5573a7d5-a5e2-4cc6-a983-4699597409fd.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Comber Cat</title>
+      <link>https://gamefound.com:443/en/projects/gamedolflimited/comber-cat</link>
+      <guid isPermaLink="false">54066</guid>
+      <pubDate>Sun, 01 Mar 2026 13:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8225/15440acf-6210-4128-9450-799e0cac7b99.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] 1809: Talavera</title>
+      <link>https://gamefound.com:443/en/projects/tactical-workshop/1809-talavera</link>
+      <guid isPermaLink="false">54065</guid>
+      <pubDate>Sun, 01 Mar 2026 05:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8024/264c130a-3511-4060-b7d9-03406f32f7c8.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Crystallo [Solo Game of the Month]</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
@@ -117,158 +157,6 @@
       <pubDate>Fri, 27 Feb 2026 05:00:00 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Jump Masters!</title>
-      <link>https://gamefound.com:443/en/projects/chip-theory-games/jump-masters</link>
-      <guid isPermaLink="false">54050</guid>
-      <pubDate>Thu, 26 Feb 2026 22:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/7007/73c56d5c-e4ef-4194-bca6-001c4464ec98.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] DeckHand: Race for Infamy</title>
-      <link>https://gamefound.com:443/en/projects/batiste-bieler/deckhand-race-for-infamy</link>
-      <guid isPermaLink="false">54049</guid>
-      <pubDate>Thu, 26 Feb 2026 19:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5335/4e9afeb3-361e-4665-8288-518092002d2b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Nemesis: The Roleplaying Game</title>
-      <link>https://gamefound.com:443/en/projects/studio-agate/nemesis-ttrpg</link>
-      <guid isPermaLink="false">54048</guid>
-      <pubDate>Thu, 26 Feb 2026 17:30:54 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8499/c870eb18-fae6-471a-a91c-8dd42897f8c4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Nemesis Legacy</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/nemesis-legacy</link>
-      <guid isPermaLink="false">54047</guid>
-      <pubDate>Thu, 26 Feb 2026 17:30:02 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8524/b2de6bb7-c75f-45ba-9672-0803d1cd1333.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Scoundrels</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/scoundrels</link>
-      <guid isPermaLink="false">54046</guid>
-      <pubDate>Thu, 26 Feb 2026 17:22:01 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8527/6724ca62-c2b7-4fb8-b823-617ecc5a9e76.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Concordia Special Edition</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/concordia-special-edition</link>
-      <guid isPermaLink="false">54045</guid>
-      <pubDate>Thu, 26 Feb 2026 17:15:49 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8525/2acd6cd0-4466-46a6-8897-0274919fdcd5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Tamashii: The Final Amendment</title>
-      <link>https://gamefound.com:443/en/projects/awaken-realms/tamashi2</link>
-      <guid isPermaLink="false">54044</guid>
-      <pubDate>Thu, 26 Feb 2026 17:11:18 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8526/30ef00ca-0bbb-4537-a72e-86a6617d9714.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] SYLT</title>
-      <link>https://gamefound.com:443/en/projects/pug-and-duck/sylt-the-island-the-game</link>
-      <guid isPermaLink="false">54043</guid>
-      <pubDate>Thu, 26 Feb 2026 16:57:46 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8271/ede86785-0cb4-4f0a-8575-ab8d907948c9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Battle of Souls</title>
-      <link>https://gamefound.com:443/en/projects/no-limits/battle-of-souls</link>
-      <guid isPermaLink="false">54042</guid>
-      <pubDate>Thu, 26 Feb 2026 16:25:25 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8506/02b37aa5-2b58-44fa-b85f-e5516c036711.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Astromythos</title>
-      <link>https://gamefound.com:443/en/projects/jsideriadis/astromythos</link>
-      <guid isPermaLink="false">54041</guid>
-      <pubDate>Thu, 26 Feb 2026 15:51:10 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6227/0e2bf0aa-b19e-4c26-ac18-1f25c18c3a5b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] The Pope of Naked City</title>
-      <link>https://gamefound.com:443/en/projects/the-pope-of-naked-city/the-pope-of-naked-city</link>
-      <guid isPermaLink="false">54040</guid>
-      <pubDate>Thu, 26 Feb 2026 14:57:58 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8522/e9e1f44e-de2e-49c9-951d-367b0d452c0b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Upzone - The Pop Up Wargaming &amp; RPG Terrain System Season 2</title>
-      <link>https://gamefound.com:443/en/projects/cbatarlis/upzone---the-pop-up-wargaming--rpg-terrain-system-season-2</link>
-      <guid isPermaLink="false">54039</guid>
-      <pubDate>Thu, 26 Feb 2026 14:47:09 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8553/ca6e5fbc-b344-407d-a406-947bb38f05cc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Galactic Invaders has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/la-hoguerita-estudio/galactic-invaders</link>
-      <guid isPermaLink="false">54038</guid>
-      <pubDate>Thu, 26 Feb 2026 13:51:58 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5518/b19cbdab-1446-4a3e-a63e-277ba7771a9e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] STIN Playing Cards</title>
-      <link>https://gamefound.com:443/en/projects/stin_r/stin-playing-cards</link>
-      <guid isPermaLink="false">54037</guid>
-      <pubDate>Thu, 26 Feb 2026 12:41:46 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8482/2a825cf8-77e0-4746-b737-743ddaf0a5a5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Dusk Runners has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/dragonmount-press/duskrunners</link>
-      <guid isPermaLink="false">54036</guid>
-      <pubDate>Thu, 26 Feb 2026 12:09:19 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6419/be98557c-f36d-4e1b-87c5-fb27826ce2bd.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Dazzling Dungeon Decks has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/jason-anarchy/dazzling-dungeon-decks</link>
-      <guid isPermaLink="false">54035</guid>
-      <pubDate>Thu, 26 Feb 2026 12:08:06 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8147/27adfcc7-cdc6-45f5-bcfc-efe354aed8cf.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Symphony Of Gods</title>
-      <link>https://gamefound.com:443/en/projects/sogteam/symphony-of-gods</link>
-      <guid isPermaLink="false">54034</guid>
-      <pubDate>Thu, 26 Feb 2026 10:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6967/cded5f20-a8c9-4567-a891-819bad53cb13.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] DIECATHLON has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/waterbear-workshop/diecathlon</link>
-      <guid isPermaLink="false">54033</guid>
-      <pubDate>Thu, 26 Feb 2026 08:58:47 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5573/070eed16-e86c-43d5-badd-fd2fb73b9c95.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Survive Nuclear Apocalypse: A 30-min Game of Brutal Survival</title>
-      <link>https://gamefound.com:443/en/projects/board-collie-games/survive-nuclear-apocalypse</link>
-      <guid isPermaLink="false">54032</guid>
-      <pubDate>Thu, 26 Feb 2026 01:20:35 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8256/6527ab2d-e637-4079-99e1-56f3218a47ba.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
