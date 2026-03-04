@@ -12,9 +12,15 @@ services:
       - GIT_USER_EMAIL=${GIT_USER_EMAIL}
       - RSS_OUTPUT_PATH=${RSS_OUTPUT_PATH:-gamefound_spotlight.xml}
       - USE_DB=${USE_DB:-false}
-      - GH_PAT=${GH_PAT}
+      - GH_PAT=${GH_PAT:-}
       - CRON_TOKEN=${CRON_TOKEN}
       - GF_API=${GF_API:-}
+      - SUPABASE_URL=${SUPABASE_URL:-}
+      - SUPABASE_SERVICE_ROLE_KEY=${SUPABASE_SERVICE_ROLE_KEY:-}
+      - SUPABASE_KEY=${SUPABASE_KEY:-}
+      - SUPABASE_BUCKET=${SUPABASE_BUCKET:-rss}
+      - SUPABASE_STORAGE_PATH=${SUPABASE_STORAGE_PATH:-gamefound_spotlight.xml}
+      - SUPABASE_MAX_FILE_BYTES=${SUPABASE_MAX_FILE_BYTES:-1048576}
     networks:
       - dokploy-network
 

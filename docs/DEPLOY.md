@@ -4,16 +4,23 @@
 
 1. In Dokploy, create a new project and add a **Docker Compose** application.
 2. Set Compose path to `./docker-compose.yml`, connect your repo and branch (e.g. `main`).
-3. Configure environment variables from [../.env.example](../.env.example). Set them in Dokploy UI (or on the server in `.env`). Required:
-   - `REPO_SLUG` — e.g. `yourname/rss-gamefound-spotlight`
-   - `GH_PAT` — GitHub token with push access to the repo (secret)
-   - `CRON_TOKEN` — random secret used to protect the `/run` endpoint (secret)
-   - `GIT_USER_NAME`, `GIT_USER_EMAIL` — git identity for gh-pages commits
+3. Configure environment variables from [../.env.example](../.env.example). Set them in Dokploy UI (or on the server in `.env`).
+   - **Required:** `REPO_SLUG`, `CRON_TOKEN` (secret).
+   - **When using Supabase Storage (recommended, no git push):** `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` (or `SUPABASE_KEY`), and optionally `SUPABASE_BUCKET`, `SUPABASE_STORAGE_PATH`, `SUPABASE_MAX_FILE_BYTES`. You do **not** need `GH_PAT`.
+   - **When using gh-pages:** `GH_PAT` (secret), `GIT_USER_NAME`, `GIT_USER_EMAIL`.
 4. Optional: `RSS_OUTPUT_PATH`, `USE_DB`, `GF_API`, `PORT` (default `10000`).
 5. Deploy. Ensure the service is on the `dokploy-network` (the compose file attaches it).
-6. If you need a public URL, add a domain in Dokploy (Traefik) for this service and point it at the app port (e.g. `10000`).
+6. If you need a public URL for the app, add a domain in Dokploy (Traefik) for this service and point it at the app port (e.g. `10000`).
 
-## 2. Schedule Job (replace GitHub Actions cron)
+## 2. Supabase Storage (optional — store RSS in bucket instead of gh-pages)
+
+1. In [Supabase](https://supabase.com) → **Storage** → **New bucket** (e.g. name `rss`).
+2. Make the bucket **Public** so the RSS feed URL is readable without auth.
+3. Optionally set a **file size limit** for the bucket (Dashboard → Storage → bucket → Settings) to cap storage use; 1–5 MB is enough for an RSS file.
+4. Set env vars: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `SUPABASE_BUCKET` (e.g. `rss`). The app will upload the generated XML to this bucket and skip pushing to GitHub.
+5. Public feed URL: `https://<project-ref>.supabase.co/storage/v1/object/public/<bucket>/<SUPABASE_STORAGE_PATH>` (e.g. `.../rss/gamefound_spotlight.xml`).
+
+## 3. Schedule Job (replace GitHub Actions cron)
 
 1. In Dokploy, open **Schedule** and create a new job.
 2. Type: **Application** (runs inside the app container).
@@ -23,10 +30,11 @@
    ```bash
    curl -sS -X POST "http://localhost:${PORT:-10000}/run?token=$CRON_TOKEN" --max-time 300
    ```
-   The container has `PORT` and `CRON_TOKEN` in its environment, so this will trigger the RSS generation and push to gh-pages.
+   The container has `PORT` and `CRON_TOKEN` in its environment; this triggers RSS generation and upload (Supabase Storage or gh-pages).
 
-## 3. Verify
+## 4. Verify
 
 - Call `GET https://your-app-url/` — should return `OK`.
-- Call `POST https://your-app-url/run?token=YOUR_CRON_TOKEN` — should return `{"status":"ok"}` and update the gh-pages branch.
-- After the first scheduled run, check that the RSS file on gh-pages is updated.
+- Call `POST https://your-app-url/run?token=YOUR_CRON_TOKEN` — should return `{"status":"ok"}`.
+- If using Supabase: open the bucket’s public URL and confirm the RSS XML is updated.
+- If using gh-pages: confirm the branch and RSS file are updated.

@@ -12,6 +12,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY fetch_to_rss.py ./fetch_to_rss.py
 COPY run_cron.sh ./run_cron.sh
 COPY server.py ./server.py
+COPY upload_to_storage.py ./upload_to_storage.py
 
 RUN chmod +x /app/run_cron.sh
 

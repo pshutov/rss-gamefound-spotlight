@@ -7,9 +7,11 @@ set -euo pipefail
 : "${GIT_USER_NAME:=Render Bot}"
 : "${GIT_USER_EMAIL:=noreplay@renderbot.com}"
 : "${USE_DB:=false}"
-: "${GH_PAT:?GH_PAT (GitHub token) is required}"
 
-REPO_HTTPS="https://${GH_PAT}@github.com/${REPO_SLUG}.git"
+if [[ -z "${SUPABASE_URL:-}" ]]; then
+  : "${GH_PAT:?GH_PAT (GitHub token) is required when not using Supabase Storage}"
+fi
+REPO_HTTPS="https://${GH_PAT:-x}@github.com/${REPO_SLUG}.git"
 
 WORKDIR="$(mktemp -d)"
 CODE_DIR="${WORKDIR}/code"
@@ -18,10 +20,13 @@ DB_DIR="${WORKDIR}/db"
 
 mkdir -p "$OUTPUT_DIR" "$DB_DIR"
 
-git config --global user.name "$GIT_USER_NAME"
-git config --global user.email "$GIT_USER_EMAIL"
-
-git clone --depth 1 --branch "$CODE_BRANCH" "https://github.com/${REPO_SLUG}.git" "$CODE_DIR"
+if [[ -n "${SUPABASE_URL:-}" ]]; then
+  git clone --depth 1 --branch "$CODE_BRANCH" "https://github.com/${REPO_SLUG}.git" "$CODE_DIR"
+else
+  git config --global user.name "$GIT_USER_NAME"
+  git config --global user.email "$GIT_USER_EMAIL"
+  git clone --depth 1 --branch "$CODE_BRANCH" "$REPO_HTTPS" "$CODE_DIR"
+fi
 cd "$CODE_DIR"
 
 API_ARG=()
@@ -32,30 +37,34 @@ fi
 python3 -V
 python3 fetch_to_rss.py "${API_ARG[@]}" --out "$OUTPUT_DIR/$(basename "$RSS_OUTPUT_PATH")"
 
-GH_PAGES_DIR="${WORKDIR}/gh-pages"
-git clone --no-checkout "$REPO_HTTPS" "$GH_PAGES_DIR"
-cd "$GH_PAGES_DIR"
-
-if git ls-remote --exit-code --heads origin gh-pages >/dev/null 2>&1; then
-  git fetch origin gh-pages:gh-pages
-  git checkout gh-pages
+if [[ -n "${SUPABASE_URL:-}" ]]; then
+  python3 upload_to_storage.py "$OUTPUT_DIR/$(basename "$RSS_OUTPUT_PATH")"
 else
-  git checkout --orphan gh-pages
-  rm -rf .
+  GH_PAGES_DIR="${WORKDIR}/gh-pages"
+  git clone --no-checkout "$REPO_HTTPS" "$GH_PAGES_DIR"
+  cd "$GH_PAGES_DIR"
+
+  if git ls-remote --exit-code --heads origin gh-pages >/dev/null 2>&1; then
+    git fetch origin gh-pages:gh-pages
+    git checkout gh-pages
+  else
+    git checkout --orphan gh-pages
+    rm -rf .
+  fi
+
+  mkdir -p "$(dirname "$RSS_OUTPUT_PATH")"
+  cp -f "$OUTPUT_DIR/$(basename "$RSS_OUTPUT_PATH")" "$RSS_OUTPUT_PATH"
+
+  git add "$RSS_OUTPUT_PATH"
+  if git diff --cached --quiet; then
+    echo "No RSS changes to commit for gh-pages."
+  else
+    git commit -m "update RSS: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+    git push origin gh-pages
+  fi
 fi
 
-mkdir -p "$(dirname "$RSS_OUTPUT_PATH")"
-cp -f "$OUTPUT_DIR/$(basename "$RSS_OUTPUT_PATH")" "$RSS_OUTPUT_PATH"
-
-git add "$RSS_OUTPUT_PATH"
-if git diff --cached --quiet; then
-  echo "No RSS changes to commit for gh-pages."
-else
-  git commit -m "update RSS: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-  git push origin gh-pages
-fi
-
-if [[ "$USE_DB" == "true" ]]; then
+if [[ "$USE_DB" == "true" ]] && [[ -z "${SUPABASE_URL:-}" ]]; then
   DB_SOURCE="${CODE_DIR}/data/runtime.sqlite"
   if [[ -f "$DB_SOURCE" ]]; then
     RUNTIME_DB_DIR="${WORKDIR}/runtime-db"
