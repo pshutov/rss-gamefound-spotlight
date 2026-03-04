@@ -4,175 +4,135 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 02 Mar 2026 12:36:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:28:45 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
-      <title>[Campaign is funded] Comber Cat</title>
-      <link>https://gamefound.com:443/en/projects/gamedolflimited/comber-cat</link>
-      <guid isPermaLink="false">54071</guid>
-      <pubDate>Mon, 02 Mar 2026 10:20:27 +0000</pubDate>
+      <title>[New project] Slay The Foul Undead!</title>
+      <link>https://gamefound.com:443/en/projects/rezthefoulundeadltd/stfu</link>
+      <guid isPermaLink="false">54090</guid>
+      <pubDate>Wed, 04 Mar 2026 01:16:25 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8592/c680a86b-55c8-4a9a-a662-b407dafb065b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] The Quest Kids: Giant Adventure</title>
+      <link>https://gamefound.com:443/en/projects/treasure-falls-games/the-quest-kids-giant-adventure</link>
+      <guid isPermaLink="false">54089</guid>
+      <pubDate>Tue, 03 Mar 2026 18:19:17 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8515/bed68866-00e7-4450-ab57-de0adb39d57d.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Queen Alice</title>
+      <link>https://gamefound.com:443/en/projects/combo_games/queen-alice</link>
+      <guid isPermaLink="false">54088</guid>
+      <pubDate>Tue, 03 Mar 2026 17:43:43 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8225/15440acf-6210-4128-9450-799e0cac7b99.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6475/285cde0e-e303-4dd7-bfd9-eb471aff320d.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[Launch date] Vora Gamefound Edition has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/bluebird/vora</link>
-      <guid isPermaLink="false">54070</guid>
-      <pubDate>Mon, 02 Mar 2026 09:27:41 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4947/8cf2f3c0-a54d-4f0e-a9ba-2b2817d502af.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] 1809: Talavera</title>
-      <link>https://gamefound.com:443/en/projects/tactical-workshop/1809-talavera</link>
-      <guid isPermaLink="false">54069</guid>
-      <pubDate>Sun, 01 Mar 2026 20:40:42 +0000</pubDate>
+      <title>[Campaign is funded] Sky Empire - New Dawn</title>
+      <link>https://gamefound.com:443/en/projects/greymarsh-games-preben/sky-empire-reloaded</link>
+      <guid isPermaLink="false">54087</guid>
+      <pubDate>Tue, 03 Mar 2026 16:44:01 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8024/264c130a-3511-4060-b7d9-03406f32f7c8.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6079/fe6432ed-7278-4a09-85ff-119d747c4495.png" type="image/png" />
     </item>
     <item>
-      <title>[24 hours left] THE FAMILY DECK — Indestructible Mafia-Themed Poker Playing Cards</title>
-      <link>https://gamefound.com:443/en/projects/papagaming/the-family-deck--indestructible-mafia-themed-poker-playing-cards</link>
-      <guid isPermaLink="false">54068</guid>
-      <pubDate>Sun, 01 Mar 2026 16:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8091/c8416f87-787a-4860-a09b-0fe4c78fe42b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] QuantumZap</title>
-      <link>https://gamefound.com:443/en/projects/cowboycactusgames/quantumzap</link>
-      <guid isPermaLink="false">54067</guid>
-      <pubDate>Sun, 01 Mar 2026 13:00:00 +0000</pubDate>
+      <title>[Campaign start] Queen Alice</title>
+      <link>https://gamefound.com:443/en/projects/combo_games/queen-alice</link>
+      <guid isPermaLink="false">54086</guid>
+      <pubDate>Tue, 03 Mar 2026 16:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5862/5573a7d5-a5e2-4cc6-a983-4699597409fd.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6475/285cde0e-e303-4dd7-bfd9-eb471aff320d.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[24 hours left] Comber Cat</title>
-      <link>https://gamefound.com:443/en/projects/gamedolflimited/comber-cat</link>
-      <guid isPermaLink="false">54066</guid>
-      <pubDate>Sun, 01 Mar 2026 13:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8225/15440acf-6210-4128-9450-799e0cac7b99.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] 1809: Talavera</title>
-      <link>https://gamefound.com:443/en/projects/tactical-workshop/1809-talavera</link>
-      <guid isPermaLink="false">54065</guid>
-      <pubDate>Sun, 01 Mar 2026 05:00:00 +0000</pubDate>
+      <title>[Campaign start] BUTCHER &amp; BOLT</title>
+      <link>https://gamefound.com:443/en/projects/lasting-games/butcherandbolt</link>
+      <guid isPermaLink="false">54085</guid>
+      <pubDate>Tue, 03 Mar 2026 16:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8024/264c130a-3511-4060-b7d9-03406f32f7c8.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6341/06715b17-8c7c-46b6-8bde-395c6d241f8b.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] Crystallo [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
-      <guid isPermaLink="false">54064</guid>
-      <pubDate>Sat, 28 Feb 2026 08:33:13 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8505/5b31cda7-2908-4eb9-bd62-ed904404567e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Gry Bez Prądu | Czasopismo o planszówkach, bitewniakach i grach RPG</title>
-      <link>https://gamefound.com:443/en/projects/gametroll/gry-bez-pradu--czasopismo-o-planszowkach</link>
-      <guid isPermaLink="false">54063</guid>
-      <pubDate>Sat, 28 Feb 2026 06:19:11 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6438/03fcb825-fcfc-4b7f-98f1-697007ba6e96.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Deep Sky Ballad - For a Fistful of Seeds</title>
-      <link>https://gamefound.com:443/en/projects/a-game-of-nerds/for-a-fistful-of-seeds</link>
-      <guid isPermaLink="false">54062</guid>
-      <pubDate>Sat, 28 Feb 2026 03:06:57 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8372/52ff81d0-f5fb-400d-b618-9838e9b42b9c.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Table Buster: Reforge</title>
-      <link>https://gamefound.com:443/en/projects/willowsandjaws/table-buster-reforge</link>
-      <guid isPermaLink="false">54061</guid>
-      <pubDate>Fri, 27 Feb 2026 21:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6608/931c5e8d-08b9-4dea-aa8f-ef6eaf573542.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Nuclear Detonation Simulator</title>
-      <link>https://gamefound.com:443/en/projects/luvaci-interactive-/nuclear-detonation-simulator</link>
-      <guid isPermaLink="false">54060</guid>
-      <pubDate>Fri, 27 Feb 2026 19:43:33 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8543/cbafdab8-5dd9-4f0c-9785-110a0d661c64.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] Tasuo World: Draconian Rise: V:1: Wyvern Ways</title>
-      <link>https://gamefound.com:443/en/projects/tasuo-showdown/wyvern-ways</link>
-      <guid isPermaLink="false">54059</guid>
-      <pubDate>Fri, 27 Feb 2026 19:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2726/81bb86db-9c0a-43d7-8c00-8c05ff6ccb99.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Claws</title>
-      <link>https://gamefound.com:443/en/projects/dicecream/claws</link>
-      <guid isPermaLink="false">54058</guid>
-      <pubDate>Fri, 27 Feb 2026 17:33:58 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8544/32d3c356-ff04-42d4-adbf-a459d21b6c01.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Runewood Encounters – Wooden Miniatures for Tabletop Games</title>
-      <link>https://gamefound.com:443/en/projects/runewood-encounters/runewood-encounters--wooden-miniatures-for-tabletop-games</link>
-      <guid isPermaLink="false">54057</guid>
-      <pubDate>Fri, 27 Feb 2026 17:00:00 +0000</pubDate>
+      <title>[Campaign start] Sky Empire - New Dawn</title>
+      <link>https://gamefound.com:443/en/projects/greymarsh-games-preben/sky-empire-reloaded</link>
+      <guid isPermaLink="false">54084</guid>
+      <pubDate>Tue, 03 Mar 2026 16:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6367/4df201e4-b523-48f4-92cc-55a96fd883d9.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6079/fe6432ed-7278-4a09-85ff-119d747c4495.png" type="image/png" />
     </item>
     <item>
-      <title>[24 hours left] Astromythos</title>
-      <link>https://gamefound.com:443/en/projects/jsideriadis/astromythos</link>
-      <guid isPermaLink="false">54056</guid>
-      <pubDate>Fri, 27 Feb 2026 17:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6227/0e2bf0aa-b19e-4c26-ac18-1f25c18c3a5b.jpg" type="image/jpeg" />
+      <title>[Campaign start] Dazzling Dungeon Decks</title>
+      <link>https://gamefound.com:443/en/projects/jason-anarchy/dazzling-dungeon-decks</link>
+      <guid isPermaLink="false">54083</guid>
+      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8147/0a14d0a4-55e8-456c-b462-7dbbd555c126.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[Launch date] Whistlewood Express has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/pihari-games/whistlewood-express</link>
-      <guid isPermaLink="false">54055</guid>
-      <pubDate>Fri, 27 Feb 2026 13:56:20 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6556/2fb34e15-2c32-49f1-837f-0f1244e97c13.png" type="image/png" />
+      <title>[Campaign start] World of Dabado</title>
+      <link>https://gamefound.com:443/en/projects/viktor-mazhlekov/world-of-dabado</link>
+      <guid isPermaLink="false">54082</guid>
+      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6987/2b9de929-82fd-4a02-ad3a-7af0051245a5.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[24 hours left] Jano - A Pawsome Adventure</title>
-      <link>https://gamefound.com:443/en/projects/aszaki/jano---a-pawsome-adventure</link>
-      <guid isPermaLink="false">54054</guid>
-      <pubDate>Fri, 27 Feb 2026 12:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5995/c2f43563-2716-43ca-87ec-7ec61d5b6410.jpg" type="image/jpeg" />
+      <title>[Campaign start] Paws</title>
+      <link>https://gamefound.com:443/en/projects/wild-ventures/paws-game</link>
+      <guid isPermaLink="false">54081</guid>
+      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6365/23636d58-afb8-4682-82a0-fdaa2a513257.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>[Launch date] Gal4Xeon: A 4X roll and write game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/eurydice-games-ltd/gal4xeon-a-4x-roll-and-write-game</link>
-      <guid isPermaLink="false">54053</guid>
-      <pubDate>Fri, 27 Feb 2026 08:50:02 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6946/363d7a98-9649-4dba-98be-89cb4085a5c6.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Tasuo World: Draconian Rise: V:1: Wyvern Ways</title>
-      <link>https://gamefound.com:443/en/projects/tasuo-showdown/wyvern-ways</link>
-      <guid isPermaLink="false">54052</guid>
-      <pubDate>Fri, 27 Feb 2026 07:25:43 +0000</pubDate>
+      <title>[Campaign is funded] Heroes of the Shire: Light &amp; Shadow</title>
+      <link>https://gamefound.com:443/en/projects/senior-games/heroes-of-the-shire-light-shadow</link>
+      <guid isPermaLink="false">54080</guid>
+      <pubDate>Tue, 03 Mar 2026 14:53:00 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2726/81bb86db-9c0a-43d7-8c00-8c05ff6ccb99.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5128/57041d51-d2a8-4981-942c-0a771977cebc.png" type="image/png" />
     </item>
     <item>
-      <title>[24 hours left] Astra Imperium [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/astra-imperium-solo-game-of-the-month</link>
-      <guid isPermaLink="false">54051</guid>
-      <pubDate>Fri, 27 Feb 2026 05:00:00 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8296/76fab33e-cba7-4b8a-8de9-8a9a10032a5e.png" type="image/png" />
+      <title>[Campaign start] Heroes of the Shire: Light &amp; Shadow</title>
+      <link>https://gamefound.com:443/en/projects/senior-games/heroes-of-the-shire-light-shadow</link>
+      <guid isPermaLink="false">54079</guid>
+      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5128/57041d51-d2a8-4981-942c-0a771977cebc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] The Old King's Crown Second Printing &amp; New Songs of Home Expansion</title>
+      <link>https://gamefound.com:443/en/projects/eerie-idol-games/the-old-kings-crown</link>
+      <guid isPermaLink="false">54078</guid>
+      <pubDate>Tue, 03 Mar 2026 13:05:12 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2895/5475aaf1-152f-4f28-87a2-991c497a9677.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] The Old King's Crown Second Printing &amp; New Songs of Home Expansion</title>
+      <link>https://gamefound.com:443/en/projects/eerie-idol-games/the-old-kings-crown</link>
+      <guid isPermaLink="false">54077</guid>
+      <pubDate>Tue, 03 Mar 2026 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2895/5475aaf1-152f-4f28-87a2-991c497a9677.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Hidden Realms: The Mummy's Tomb has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-for-world/hidden-realms-the-mummys-tomb</link>
+      <guid isPermaLink="false">54076</guid>
+      <pubDate>Tue, 03 Mar 2026 12:10:28 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8270/89acb0f8-0335-4541-bed5-e4c9dad20123.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] CAPITOLIUM</title>
+      <link>https://gamefound.com:443/en/projects/yevgenart/capitolium</link>
+      <guid isPermaLink="false">54075</guid>
+      <pubDate>Tue, 03 Mar 2026 12:08:04 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8508/2c86506f-ee34-4679-89dd-ccf3faf0f45d.png" type="image/png" />
     </item>
   </channel>
 </rss>
