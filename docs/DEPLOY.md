@@ -5,7 +5,7 @@
 1. In Dokploy, create a new project and add a **Docker Compose** application.
 2. Set Compose path to `./docker-compose.yml`, connect your repo and branch (e.g. `main`).
 3. Configure environment variables from [../.env.example](../.env.example). Set them in Dokploy UI (or on the server in `.env`).
-   - **Required:** `REPO_SLUG`, `CRON_TOKEN` (secret).
+   - **Required:** `REPO_SLUG`. `CRON_TOKEN` only if you trigger `/run` manually or via webhook (not needed when Schedule Job runs the script directly).
    - **When using Supabase Storage (recommended, no git push):** `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` (or `SUPABASE_KEY`), and optionally `SUPABASE_BUCKET`, `SUPABASE_STORAGE_PATH`, `SUPABASE_MAX_FILE_BYTES`. You do **not** need `GH_PAT`.
    - **When using gh-pages:** `GH_PAT` (secret), `GIT_USER_NAME`, `GIT_USER_EMAIL`.
 4. Optional: `RSS_OUTPUT_PATH`, `USE_DB`, `GF_API`, `PORT` (default `10000`).
@@ -26,11 +26,14 @@
 2. Type: **Application** (runs inside the app container).
 3. Select the application (the service from step 1).
 4. **Cron expression:** `*/30 * * * *` (every 30 minutes).
-5. **Command:**
+5. **Command** — run the script directly (no URL, no token):
    ```bash
-   curl -sS -X POST "http://localhost:${PORT:-10000}/run?token=$CRON_TOKEN" --max-time 300
+   bash /app/run_cron.sh
    ```
-   The container has `PORT` and `CRON_TOKEN` in its environment; this triggers RSS generation and upload (Supabase Storage or gh-pages).
+   Required env vars (e.g. `REPO_SLUG`, Supabase or `GH_PAT`) must be set in the application's Environment in Dokploy so the container has them at startup; the entrypoint saves them for the Schedule Job. If you see "REPO_SLUG is required", add `REPO_SLUG=yourname/rss-gamefound-spotlight` (and other vars) in the app's Environment.
+
+   Alternatively, to trigger via HTTP (e.g. from another service):  
+   `curl -sS -X POST "http://localhost:${PORT:-10000}/run?token=$CRON_TOKEN" --max-time 300`
 
 ## 4. Verify
 

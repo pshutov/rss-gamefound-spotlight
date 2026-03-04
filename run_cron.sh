@@ -1,6 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+if [[ -f /app/.env.cron ]]; then
+  set -a
+  # shellcheck source=/dev/null
+  . /app/.env.cron
+  set +a
+fi
+
 : "${REPO_SLUG:?REPO_SLUG is required, e.g. yourname/yourrepo}"
 : "${CODE_BRANCH:=main}"
 : "${RSS_OUTPUT_PATH:=gamefound_spotlight.xml}"

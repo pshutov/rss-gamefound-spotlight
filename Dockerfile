@@ -13,7 +13,9 @@ COPY fetch_to_rss.py ./fetch_to_rss.py
 COPY run_cron.sh ./run_cron.sh
 COPY server.py ./server.py
 COPY upload_to_storage.py ./upload_to_storage.py
+COPY entrypoint.sh ./entrypoint.sh
 
-RUN chmod +x /app/run_cron.sh
+RUN chmod +x /app/run_cron.sh /app/entrypoint.sh
 
+ENTRYPOINT ["/app/entrypoint.sh"]
 CMD ["python", "server.py"]
