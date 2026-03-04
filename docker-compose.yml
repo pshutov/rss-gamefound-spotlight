@@ -1,0 +1,23 @@
+services:
+  app:
+    build: .
+    env_file: .env
+    ports:
+      - "${PORT:-10000}:${PORT:-10000}"
+    environment:
+      - PORT=${PORT:-10000}
+      - REPO_SLUG=${REPO_SLUG}
+      - CODE_BRANCH=${CODE_BRANCH:-main}
+      - GIT_USER_NAME=${GIT_USER_NAME}
+      - GIT_USER_EMAIL=${GIT_USER_EMAIL}
+      - RSS_OUTPUT_PATH=${RSS_OUTPUT_PATH:-gamefound_spotlight.xml}
+      - USE_DB=${USE_DB:-false}
+      - GH_PAT=${GH_PAT}
+      - CRON_TOKEN=${CRON_TOKEN}
+      - GF_API=${GF_API:-}
+    networks:
+      - dokploy-network
+
+networks:
+  dokploy-network:
+    external: true

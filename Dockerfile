@@ -1,7 +1,7 @@
 FROM python:3.12-slim
 
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
-    git ca-certificates tzdata && \
+    curl git ca-certificates tzdata && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
