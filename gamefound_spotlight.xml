@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 05 Mar 2026 13:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 14:00:01 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[24 hours left] The Void Unveiled: Echoes of Arkham</title>
