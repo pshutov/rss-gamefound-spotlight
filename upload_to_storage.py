@@ -33,6 +33,14 @@ def main():
     with open(local_path, "rb") as f:
         data = f.read()
 
+    try:
+        existing = client.storage.from_(bucket).download(storage_path)
+        if existing == data:
+            print("No RSS changes, skip upload.")
+            return
+    except Exception:
+        pass
+
     client.storage.from_(bucket).upload(
         storage_path,
         data,
