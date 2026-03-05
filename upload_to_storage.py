@@ -2,7 +2,14 @@
 """Upload a file to Supabase Storage. Used when SUPABASE_* env vars are set instead of pushing to gh-pages."""
 
 import os
+import re
 import sys
+
+
+def normalize_rss_for_compare(xml_bytes: bytes) -> str:
+    """Strip lastBuildDate so comparison ignores timestamp-only changes."""
+    text = xml_bytes.decode("utf-8", errors="replace")
+    return re.sub(r"<lastBuildDate>[^<]*</lastBuildDate>", "<lastBuildDate></lastBuildDate>", text)
 
 def main():
     url = os.getenv("SUPABASE_URL")
@@ -35,7 +42,7 @@ def main():
 
     try:
         existing = client.storage.from_(bucket).download(storage_path)
-        if existing == data:
+        if normalize_rss_for_compare(existing) == normalize_rss_for_compare(data):
             print("No RSS changes, skip upload.")
             return
     except Exception:
