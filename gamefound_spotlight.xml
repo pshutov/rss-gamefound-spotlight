@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 06 Mar 2026 10:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 10:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] All Cats are Beautiful</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="false">54099</guid>
       <pubDate>Fri, 06 Mar 2026 08:33:50 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8304/1c56792b-c597-4486-955c-e7996bf5a2c6.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8304/ad544e7c-8d97-40ad-aa43-fd3e89c10498.png" type="image/png" />
     </item>
     <item>
       <title>[24 hours left] The Hunters A. D. 1492 2 edycja i dodatek Borderlands (edycja polska)</title>
