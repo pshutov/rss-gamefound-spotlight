@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 06 Mar 2026 15:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 15:30:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Tiberpunk: Streets of Rome</title>
+      <link>https://gamefound.com:443/en/projects/idventure-puzzles/tiberpunk-streets-of-rome</link>
+      <guid isPermaLink="false">54104</guid>
+      <pubDate>Fri, 06 Mar 2026 15:19:49 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8468/93b705b2-afa0-4cc8-92db-b3fe97bf4d8a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Pleesheez</title>
       <link>https://gamefound.com:443/en/projects/snovid/pleesheez</link>
@@ -109,126 +117,6 @@
       <pubDate>Wed, 04 Mar 2026 01:16:25 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8592/c680a86b-55c8-4a9a-a662-b407dafb065b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Quest Kids: Giant Adventure</title>
-      <link>https://gamefound.com:443/en/projects/treasure-falls-games/the-quest-kids-giant-adventure</link>
-      <guid isPermaLink="false">54089</guid>
-      <pubDate>Tue, 03 Mar 2026 18:19:17 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8515/bed68866-00e7-4450-ab57-de0adb39d57d.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Queen Alice</title>
-      <link>https://gamefound.com:443/en/projects/combo_games/queen-alice</link>
-      <guid isPermaLink="false">54088</guid>
-      <pubDate>Tue, 03 Mar 2026 17:43:43 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6475/285cde0e-e303-4dd7-bfd9-eb471aff320d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Sky Empire - New Dawn</title>
-      <link>https://gamefound.com:443/en/projects/greymarsh-games-preben/sky-empire-reloaded</link>
-      <guid isPermaLink="false">54087</guid>
-      <pubDate>Tue, 03 Mar 2026 16:44:01 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6079/fe6432ed-7278-4a09-85ff-119d747c4495.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Queen Alice</title>
-      <link>https://gamefound.com:443/en/projects/combo_games/queen-alice</link>
-      <guid isPermaLink="false">54086</guid>
-      <pubDate>Tue, 03 Mar 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6475/285cde0e-e303-4dd7-bfd9-eb471aff320d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] BUTCHER &amp; BOLT</title>
-      <link>https://gamefound.com:443/en/projects/lasting-games/butcherandbolt</link>
-      <guid isPermaLink="false">54085</guid>
-      <pubDate>Tue, 03 Mar 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6341/06715b17-8c7c-46b6-8bde-395c6d241f8b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Sky Empire - New Dawn</title>
-      <link>https://gamefound.com:443/en/projects/greymarsh-games-preben/sky-empire-reloaded</link>
-      <guid isPermaLink="false">54084</guid>
-      <pubDate>Tue, 03 Mar 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6079/fe6432ed-7278-4a09-85ff-119d747c4495.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Dazzling Dungeon Decks</title>
-      <link>https://gamefound.com:443/en/projects/jason-anarchy/dazzling-dungeon-decks</link>
-      <guid isPermaLink="false">54083</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8147/0a14d0a4-55e8-456c-b462-7dbbd555c126.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] World of Dabado</title>
-      <link>https://gamefound.com:443/en/projects/viktor-mazhlekov/world-of-dabado</link>
-      <guid isPermaLink="false">54082</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6987/2b9de929-82fd-4a02-ad3a-7af0051245a5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Paws</title>
-      <link>https://gamefound.com:443/en/projects/wild-ventures/paws-game</link>
-      <guid isPermaLink="false">54081</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6365/6c32f703-a5bd-4b18-b2be-f548d16ec70d.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Heroes of the Shire: Light &amp; Shadow</title>
-      <link>https://gamefound.com:443/en/projects/senior-games/heroes-of-the-shire-light-shadow</link>
-      <guid isPermaLink="false">54080</guid>
-      <pubDate>Tue, 03 Mar 2026 14:53:00 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5128/57041d51-d2a8-4981-942c-0a771977cebc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Heroes of the Shire: Light &amp; Shadow</title>
-      <link>https://gamefound.com:443/en/projects/senior-games/heroes-of-the-shire-light-shadow</link>
-      <guid isPermaLink="false">54079</guid>
-      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5128/57041d51-d2a8-4981-942c-0a771977cebc.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] The Old King's Crown Second Printing &amp; New Songs of Home Expansion</title>
-      <link>https://gamefound.com:443/en/projects/eerie-idol-games/the-old-kings-crown</link>
-      <guid isPermaLink="false">54078</guid>
-      <pubDate>Tue, 03 Mar 2026 13:05:12 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2895/5475aaf1-152f-4f28-87a2-991c497a9677.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] The Old King's Crown Second Printing &amp; New Songs of Home Expansion</title>
-      <link>https://gamefound.com:443/en/projects/eerie-idol-games/the-old-kings-crown</link>
-      <guid isPermaLink="false">54077</guid>
-      <pubDate>Tue, 03 Mar 2026 13:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/2895/5475aaf1-152f-4f28-87a2-991c497a9677.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Hidden Realms: The Mummy's Tomb has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/tabletop-for-world/hidden-realms-the-mummys-tomb</link>
-      <guid isPermaLink="false">54076</guid>
-      <pubDate>Tue, 03 Mar 2026 12:10:28 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8270/89acb0f8-0335-4541-bed5-e4c9dad20123.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] CAPITOLIUM</title>
-      <link>https://gamefound.com:443/en/projects/yevgenart/capitolium</link>
-      <guid isPermaLink="false">54075</guid>
-      <pubDate>Tue, 03 Mar 2026 12:08:04 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8508/2c86506f-ee34-4679-89dd-ccf3faf0f45d.png" type="image/png" />
     </item>
   </channel>
 </rss>
