@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 09 Mar 2026 09:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 09:45:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Akolyta has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/pterosoft-studio/akolyta</link>
+      <guid isPermaLink="false">55105</guid>
+      <pubDate>Mon, 09 Mar 2026 09:32:58 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8584/60b38e94-8600-4112-893f-63adf7694c49.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Altered - Roots of Corruption has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/altered/altered-roots-of-corruption</link>
