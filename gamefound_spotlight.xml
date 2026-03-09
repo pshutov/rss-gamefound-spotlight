@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 09 Mar 2026 08:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Altered - Roots of Corruption has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/altered/altered-roots-of-corruption</link>
+      <guid isPermaLink="false">55104</guid>
+      <pubDate>Mon, 09 Mar 2026 08:01:06 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/89166631-4cb9-49f9-8b05-9344637d1135.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Islands of Ikaria</title>
       <link>https://gamefound.com:443/en/projects/hellfire-games/ioi</link>
@@ -109,22 +117,6 @@
       <pubDate>Fri, 06 Mar 2026 08:33:50 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8304/ad544e7c-8d97-40ad-aa43-fd3e89c10498.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] The Hunters A. D. 1492 2 edycja i dodatek Borderlands (edycja polska)</title>
-      <link>https://gamefound.com:443/en/projects/officina-monstrorum/the-hunters-a-d-1492-2nd-edition-i-dodatek-borderlands-edycja-polska</link>
-      <guid isPermaLink="false">54098</guid>
-      <pubDate>Thu, 05 Mar 2026 20:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8324/cf940147-e0e7-4e98-8d2e-f408a2a37e08.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Apex: Carnivore has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/onestone-studios/apex-carnivore</link>
-      <guid isPermaLink="false">54097</guid>
-      <pubDate>Thu, 05 Mar 2026 14:19:12 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5743/cff583eb-b4eb-4e90-a21a-0ec36cdb7e17.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
