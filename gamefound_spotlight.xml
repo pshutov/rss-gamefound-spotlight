@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 09 Mar 2026 20:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:30:01 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[New project] Mïnomancer - The Roll &amp; Write Dungeon Crawler [Dynamic PnP of the Month &amp; Gamebook]</title>
@@ -76,7 +76,7 @@
       <guid isPermaLink="false">55102</guid>
       <pubDate>Sun, 08 Mar 2026 08:59:49 +0000</pubDate>
       <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6344/dc63edc8-4045-4fd5-b657-87b232cb39a6.png" type="image/png" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6344/84164b5c-0884-4c02-a3c5-c4c540884f58.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign start] KINGLING: An Adventure Through Realms</title>
