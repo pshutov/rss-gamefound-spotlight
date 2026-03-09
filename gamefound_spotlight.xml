@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Mon, 09 Mar 2026 12:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 12:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Vora Gamefound edition</title>
+      <link>https://gamefound.com:443/en/projects/bluebird/vora</link>
+      <guid isPermaLink="false">55108</guid>
+      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4947/8cf2f3c0-a54d-4f0e-a9ba-2b2817d502af.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] Crystallo [Solo Game of the Month] has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
