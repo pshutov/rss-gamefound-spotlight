@@ -4,8 +4,32 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Mar 2026 16:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 16:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Lords of the South Slavs - Roll &amp; Write</title>
+      <link>https://gamefound.com:443/en/projects/stoj-games/lords-of-the-south-slavs</link>
+      <guid isPermaLink="false">55121</guid>
+      <pubDate>Tue, 10 Mar 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6510/1004bd46-d8b6-4884-a31b-4558dfd1d9ec.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] MegaGame Library</title>
+      <link>https://gamefound.com:443/en/projects/level-99-games/megagame-library</link>
+      <guid isPermaLink="false">55120</guid>
+      <pubDate>Tue, 10 Mar 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6290/226d7254-55a0-47af-bbfb-05ec5f440ed5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Crystallo [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
+      <guid isPermaLink="false">55119</guid>
+      <pubDate>Tue, 10 Mar 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8505/5b31cda7-2908-4eb9-bd62-ed904404567e.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Whistlewood Express</title>
       <link>https://gamefound.com:443/en/projects/pihari-games/whistlewood-express</link>
@@ -124,7 +148,7 @@
       <guid isPermaLink="false">55104</guid>
       <pubDate>Mon, 09 Mar 2026 08:01:06 +0000</pubDate>
       <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/89166631-4cb9-49f9-8b05-9344637d1135.jpg" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/b8524dfc-a5dd-4a7e-8730-2c711fae7a0d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
