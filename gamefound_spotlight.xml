@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Mar 2026 15:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 15:45:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Whistlewood Express</title>
+      <link>https://gamefound.com:443/en/projects/pihari-games/whistlewood-express</link>
+      <guid isPermaLink="false">55118</guid>
+      <pubDate>Tue, 10 Mar 2026 15:30:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6556/2fb34e15-2c32-49f1-837f-0f1244e97c13.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Arcanixia: The Ultimate Wizard Wagering Card Game</title>
       <link>https://gamefound.com:443/en/projects/arcanixia/arcanixia</link>
@@ -117,30 +125,6 @@
       <pubDate>Mon, 09 Mar 2026 08:01:06 +0000</pubDate>
       <description>Launch date</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/89166631-4cb9-49f9-8b05-9344637d1135.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Islands of Ikaria</title>
-      <link>https://gamefound.com:443/en/projects/hellfire-games/ioi</link>
-      <guid isPermaLink="false">55103</guid>
-      <pubDate>Sun, 08 Mar 2026 15:06:31 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8157/ccf81dac-83d0-4be2-9364-ff648ebd272b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Avian Realms Card Game</title>
-      <link>https://gamefound.com:443/en/projects/stonechat-games/avian-realms-card-game</link>
-      <guid isPermaLink="false">55102</guid>
-      <pubDate>Sun, 08 Mar 2026 08:59:49 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6344/84164b5c-0884-4c02-a3c5-c4c540884f58.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] KINGLING: An Adventure Through Realms</title>
-      <link>https://gamefound.com:443/en/projects/neverbreeze-studios/kingling-an-adventure-through-realms</link>
-      <guid isPermaLink="false">55101</guid>
-      <pubDate>Sun, 08 Mar 2026 06:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8501/317516e0-ddfb-4d07-ad85-65ce4f797796.png" type="image/png" />
     </item>
   </channel>
 </rss>
