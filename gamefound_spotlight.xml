@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Mar 2026 20:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 20:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Hexblem: Beating the Unbeatable</title>
+      <link>https://gamefound.com:443/en/projects/hexblem-board-games/hexblem-beating-the-unbeatable</link>
+      <guid isPermaLink="false">55125</guid>
+      <pubDate>Tue, 10 Mar 2026 20:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/6cea2632-367b-4007-97ae-348a1fbac078.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Altered - Roots of Corruption</title>
       <link>https://gamefound.com:443/en/projects/altered/altered-roots-of-corruption</link>
@@ -117,62 +125,6 @@
       <pubDate>Tue, 10 Mar 2026 00:14:02 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8607/64c2f1b9-3a09-4b76-89c7-5e3c23aadb21.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Mïnomancer - The Roll &amp; Write Dungeon Crawler [Dynamic PnP of the Month &amp; Gamebook]</title>
-      <link>https://gamefound.com:443/en/projects/beaverlicious-games/minomancer---the-roll--write-dungeon-crawler-dynamic-pnp-of-the-month--gamebook</link>
-      <guid isPermaLink="false">55110</guid>
-      <pubDate>Mon, 09 Mar 2026 16:23:59 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8517/8bf364d8-c4bc-48bc-aabf-3d047bafd88f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Mercurial: Alchemia</title>
-      <link>https://gamefound.com:443/en/projects/hyperlixir/mercurial-alchemia</link>
-      <guid isPermaLink="false">55109</guid>
-      <pubDate>Mon, 09 Mar 2026 12:17:15 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6799/33775a27-0c97-417d-a2f1-90c1aa6aa6b5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Vora Gamefound edition</title>
-      <link>https://gamefound.com:443/en/projects/bluebird/vora</link>
-      <guid isPermaLink="false">55108</guid>
-      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4947/8cf2f3c0-a54d-4f0e-a9ba-2b2817d502af.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Crystallo [Solo Game of the Month] has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
-      <guid isPermaLink="false">55107</guid>
-      <pubDate>Mon, 09 Mar 2026 11:33:24 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8505/5b31cda7-2908-4eb9-bd62-ed904404567e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Pathfinder 2 - Rache der Runenherrscher</title>
-      <link>https://gamefound.com:443/en/projects/ulisses-spiele/pathfinder-2-runenherrscher</link>
-      <guid isPermaLink="false">55106</guid>
-      <pubDate>Mon, 09 Mar 2026 11:27:30 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8460/b7e8c65b-3e26-4286-b252-2d26841a0a64.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Akolyta has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/pterosoft-studio/akolyta</link>
-      <guid isPermaLink="false">55105</guid>
-      <pubDate>Mon, 09 Mar 2026 09:32:58 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8584/60b38e94-8600-4112-893f-63adf7694c49.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Altered - Roots of Corruption has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/altered/altered-roots-of-corruption</link>
-      <guid isPermaLink="false">55104</guid>
-      <pubDate>Mon, 09 Mar 2026 08:01:06 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/b8524dfc-a5dd-4a7e-8730-2c711fae7a0d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
