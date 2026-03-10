@@ -4,8 +4,24 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Mar 2026 15:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 15:30:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Arcanixia: The Ultimate Wizard Wagering Card Game</title>
+      <link>https://gamefound.com:443/en/projects/arcanixia/arcanixia</link>
+      <guid isPermaLink="false">55117</guid>
+      <pubDate>Tue, 10 Mar 2026 15:15:20 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8503/9cf53052-754b-490b-88c8-e78e54647d9d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Earth Siege: Arrival</title>
+      <link>https://gamefound.com:443/en/projects/plague-island-games/earth-siege-arrival</link>
+      <guid isPermaLink="false">55116</guid>
+      <pubDate>Tue, 10 Mar 2026 15:14:30 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6389/10e88cc5-b3c0-4921-9ed5-7b0c5e5f664b.png" type="image/png" />
+    </item>
     <item>
       <title>[Launch date] MegaGame Library has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/level-99-games/megagame-library</link>
