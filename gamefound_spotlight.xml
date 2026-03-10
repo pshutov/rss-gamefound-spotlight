@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Mar 2026 16:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 16:45:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Crystallo [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
+      <guid isPermaLink="false">55122</guid>
+      <pubDate>Tue, 10 Mar 2026 16:39:05 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8505/5b31cda7-2908-4eb9-bd62-ed904404567e.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] Lords of the South Slavs - Roll &amp; Write</title>
       <link>https://gamefound.com:443/en/projects/stoj-games/lords-of-the-south-slavs</link>
