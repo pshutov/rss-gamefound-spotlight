@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Tue, 10 Mar 2026 17:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 17:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Altered - Roots of Corruption</title>
+      <link>https://gamefound.com:443/en/projects/altered/altered-roots-of-corruption</link>
+      <guid isPermaLink="false">55123</guid>
+      <pubDate>Tue, 10 Mar 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/b8524dfc-a5dd-4a7e-8730-2c711fae7a0d.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign is funded] Crystallo [Solo Game of the Month]</title>
       <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
