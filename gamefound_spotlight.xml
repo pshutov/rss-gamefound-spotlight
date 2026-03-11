@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 11 Mar 2026 22:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 22:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Hexblem: Beating the Unbeatable</title>
+      <link>https://gamefound.com:443/en/projects/hexblem-board-games/hexblem-beating-the-unbeatable</link>
+      <guid isPermaLink="false">55135</guid>
+      <pubDate>Wed, 11 Mar 2026 22:09:30 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/6cea2632-367b-4007-97ae-348a1fbac078.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Ancient Empires</title>
       <link>https://gamefound.com:443/en/projects/archona-games/small-ancient-empires</link>
