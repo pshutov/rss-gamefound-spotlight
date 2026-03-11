@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Wed, 11 Mar 2026 13:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:45:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Company of Heroes - Desert Warfare Expansion + Reprint has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/companyofheroes/dak</link>
+      <guid isPermaLink="false">55130</guid>
+      <pubDate>Wed, 11 Mar 2026 13:35:07 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6611/b13d6896-f6b6-44bc-8be9-d8f288d22d76.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] SUPER has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/square-moon/super</link>
