@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Mar 2026 09:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:00:01 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Whistlewood Express</title>
@@ -15,7 +15,7 @@
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6556/2fb34e15-2c32-49f1-837f-0f1244e97c13.png" type="image/png" />
     </item>
     <item>
-      <title>[New project] Today-ji</title>
+      <title>[New project] Todai-ji</title>
       <link>https://gamefound.com:443/en/projects/giochix/today-ji</link>
       <guid isPermaLink="false">55138</guid>
       <pubDate>Thu, 12 Mar 2026 06:45:36 +0000</pubDate>
