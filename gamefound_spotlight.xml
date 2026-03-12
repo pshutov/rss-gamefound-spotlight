@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Mar 2026 15:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 15:30:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Croquetalipsis Board Game</title>
+      <link>https://gamefound.com:443/en/projects/croquetagames/croquetalipsisboardgame</link>
+      <guid isPermaLink="false">55143</guid>
+      <pubDate>Thu, 12 Mar 2026 15:14:53 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8628/5f9ee4d9-53ea-44a1-a0af-d0260b83b0ac.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign start] The Glasgow Train Robbery</title>
       <link>https://gamefound.com:443/en/projects/saltandpepper/the-glasgow-train-robbery</link>
