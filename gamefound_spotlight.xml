@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Mar 2026 13:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Mythic Battles: The Roleplaying Games has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/monolith-board-games-sarl/mythic-battles---the-roleplaying-game</link>
+      <guid isPermaLink="false">55140</guid>
+      <pubDate>Thu, 12 Mar 2026 13:11:41 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5314/881d33f2-5ee2-4f5c-b3c2-87549f7ea4f7.png" type="image/png" />
+    </item>
     <item>
       <title>[Campaign is funded] Whistlewood Express</title>
       <link>https://gamefound.com:443/en/projects/pihari-games/whistlewood-express</link>
@@ -117,126 +125,6 @@
       <pubDate>Wed, 11 Mar 2026 00:00:01 +0000</pubDate>
       <description>24 hours left</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6415/c4b7d45f-2936-4ed3-b2e4-d96209bc5fe9.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Hexblem: Beating the Unbeatable</title>
-      <link>https://gamefound.com:443/en/projects/hexblem-board-games/hexblem-beating-the-unbeatable</link>
-      <guid isPermaLink="false">55125</guid>
-      <pubDate>Tue, 10 Mar 2026 20:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/23879d95-3e37-48b5-bd93-0169c0774524.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Altered - Roots of Corruption</title>
-      <link>https://gamefound.com:443/en/projects/altered/altered-roots-of-corruption</link>
-      <guid isPermaLink="false">55124</guid>
-      <pubDate>Tue, 10 Mar 2026 17:18:49 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/b8524dfc-a5dd-4a7e-8730-2c711fae7a0d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Altered - Roots of Corruption</title>
-      <link>https://gamefound.com:443/en/projects/altered/altered-roots-of-corruption</link>
-      <guid isPermaLink="false">55123</guid>
-      <pubDate>Tue, 10 Mar 2026 17:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8228/b8524dfc-a5dd-4a7e-8730-2c711fae7a0d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Crystallo [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
-      <guid isPermaLink="false">55122</guid>
-      <pubDate>Tue, 10 Mar 2026 16:39:05 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8505/5b31cda7-2908-4eb9-bd62-ed904404567e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Lords of the South Slavs - Roll &amp; Write</title>
-      <link>https://gamefound.com:443/en/projects/stoj-games/lords-of-the-south-slavs</link>
-      <guid isPermaLink="false">55121</guid>
-      <pubDate>Tue, 10 Mar 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6510/1004bd46-d8b6-4884-a31b-4558dfd1d9ec.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] MegaGame Library</title>
-      <link>https://gamefound.com:443/en/projects/level-99-games/megagame-library</link>
-      <guid isPermaLink="false">55120</guid>
-      <pubDate>Tue, 10 Mar 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6290/226d7254-55a0-47af-bbfb-05ec5f440ed5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Crystallo [Solo Game of the Month]</title>
-      <link>https://gamefound.com:443/en/projects/gabe-barrett/crystallo-solo-game-of-the-month</link>
-      <guid isPermaLink="false">55119</guid>
-      <pubDate>Tue, 10 Mar 2026 16:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8505/5b31cda7-2908-4eb9-bd62-ed904404567e.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Whistlewood Express</title>
-      <link>https://gamefound.com:443/en/projects/pihari-games/whistlewood-express</link>
-      <guid isPermaLink="false">55118</guid>
-      <pubDate>Tue, 10 Mar 2026 15:30:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6556/2fb34e15-2c32-49f1-837f-0f1244e97c13.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] Arcanixia: The Ultimate Wizard Wagering Card Game</title>
-      <link>https://gamefound.com:443/en/projects/arcanixia/arcanixia</link>
-      <guid isPermaLink="false">55117</guid>
-      <pubDate>Tue, 10 Mar 2026 15:15:20 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8503/9cf53052-754b-490b-88c8-e78e54647d9d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Earth Siege: Arrival</title>
-      <link>https://gamefound.com:443/en/projects/plague-island-games/earth-siege-arrival</link>
-      <guid isPermaLink="false">55116</guid>
-      <pubDate>Tue, 10 Mar 2026 15:14:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6389/10e88cc5-b3c0-4921-9ed5-7b0c5e5f664b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] MegaGame Library has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/level-99-games/megagame-library</link>
-      <guid isPermaLink="false">55115</guid>
-      <pubDate>Tue, 10 Mar 2026 14:11:35 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6290/226d7254-55a0-47af-bbfb-05ec5f440ed5.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] Earth Siege: Arrival</title>
-      <link>https://gamefound.com:443/en/projects/plague-island-games/earth-siege-arrival</link>
-      <guid isPermaLink="false">55114</guid>
-      <pubDate>Tue, 10 Mar 2026 14:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6389/10e88cc5-b3c0-4921-9ed5-7b0c5e5f664b.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] FOOLS' FUEL - vehicular mayhem miniatures game has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/slavdom-studio/fools-fuel---a-post-soviet-semi-fantasy-racing-adventure</link>
-      <guid isPermaLink="false">55113</guid>
-      <pubDate>Tue, 10 Mar 2026 13:39:17 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4526/008c5687-2378-45a4-912b-bd57047a58c4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New project] The Crucible</title>
-      <link>https://gamefound.com:443/en/projects/nocturna-models/the-crucible</link>
-      <guid isPermaLink="false">55112</guid>
-      <pubDate>Tue, 10 Mar 2026 10:54:46 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8583/26200313-4e8c-4f5a-b0b1-49c94eae5113.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[New project] Arctic Shift: Fuel Station</title>
-      <link>https://gamefound.com:443/en/projects/wildbyte/arctic-shift-fuel-station</link>
-      <guid isPermaLink="false">55111</guid>
-      <pubDate>Tue, 10 Mar 2026 00:14:02 +0000</pubDate>
-      <description>New project</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8607/64c2f1b9-3a09-4b76-89c7-5e3c23aadb21.png" type="image/png" />
     </item>
   </channel>
 </rss>
