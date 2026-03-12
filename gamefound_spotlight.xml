@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Mar 2026 14:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 14:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Pledge Manager] Cassette Crush</title>
+      <link>https://gamefound.com:443/en/projects/talon-strikes/cassette-crush</link>
+      <guid isPermaLink="false">55141</guid>
+      <pubDate>Thu, 12 Mar 2026 14:09:06 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5154/b1e5e45b-bed6-47d0-b643-b4281bdd7465.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Mythic Battles: The Roleplaying Games has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/monolith-board-games-sarl/mythic-battles---the-roleplaying-game</link>
