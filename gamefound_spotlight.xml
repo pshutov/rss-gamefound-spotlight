@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Mar 2026 16:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 16:30:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] The Glasgow Train Robbery</title>
+      <link>https://gamefound.com:443/en/projects/saltandpepper/the-glasgow-train-robbery</link>
+      <guid isPermaLink="false">55145</guid>
+      <pubDate>Thu, 12 Mar 2026 16:20:58 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6116/05e46afe-4b8f-483f-b08d-9058bf899515.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New blog post] [What's new] 你好, Co-creating projects &amp; the Next Feast</title>
       <link>https://gamefound.com/blog/post/co-creators</link>
