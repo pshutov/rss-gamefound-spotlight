@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Mar 2026 06:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:00:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Today-ji</title>
+      <link>https://gamefound.com:443/en/projects/giochix/today-ji</link>
+      <guid isPermaLink="false">55138</guid>
+      <pubDate>Thu, 12 Mar 2026 06:45:36 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8568/26e33007-d003-4155-b0d2-8c577f2c6e46.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[24 hours left] Live or Di(c)e</title>
       <link>https://gamefound.com:443/en/projects/bromagineboardgame/live-or-dice</link>
