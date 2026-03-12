@@ -4,7 +4,7 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Thu, 12 Mar 2026 10:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
     <item>
       <title>[Campaign is funded] Whistlewood Express</title>
@@ -44,7 +44,7 @@
       <guid isPermaLink="false">55135</guid>
       <pubDate>Wed, 11 Mar 2026 22:09:30 +0000</pubDate>
       <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/6cea2632-367b-4007-97ae-348a1fbac078.webp" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/1b0812e9-bef9-4a6f-ae83-cae241b6904c.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[24 hours left] Ancient Empires</title>
@@ -124,7 +124,7 @@
       <guid isPermaLink="false">55125</guid>
       <pubDate>Tue, 10 Mar 2026 20:00:00 +0000</pubDate>
       <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/6cea2632-367b-4007-97ae-348a1fbac078.webp" type="image/jpeg" />
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/1b0812e9-bef9-4a6f-ae83-cae241b6904c.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>[Campaign is funded] Altered - Roots of Corruption</title>
