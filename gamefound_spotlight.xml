@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 13 Mar 2026 14:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 14:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Duck off</title>
+      <link>https://gamefound.com:443/en/projects/bramblewoodgames/duck-off</link>
+      <guid isPermaLink="false">55149</guid>
+      <pubDate>Fri, 13 Mar 2026 14:05:43 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8387/784596d9-fbcb-4076-9d30-b864e1910da0.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Launch date] Here to Slay DUNGEONS has a starting date.</title>
       <link>https://gamefound.com:443/en/projects/unstable-games/here-to-slay-dungeons</link>
