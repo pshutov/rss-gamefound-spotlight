@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 13 Mar 2026 15:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 15:45:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Bloodmantle: Legions &amp; Wolves</title>
+      <link>https://gamefound.com:443/en/projects/eduardmirica/bloodmantle</link>
+      <guid isPermaLink="false">55150</guid>
+      <pubDate>Fri, 13 Mar 2026 15:31:10 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8498/ce48a90b-02ab-4c30-a227-b4cad1e9e1e9.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Duck off</title>
       <link>https://gamefound.com:443/en/projects/bramblewoodgames/duck-off</link>
