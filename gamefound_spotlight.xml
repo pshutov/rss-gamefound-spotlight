@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 13 Mar 2026 16:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 16:30:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New project] Dead by Daylight: The Board Game - 10th Anniversary Auris Storage Box</title>
+      <link>https://gamefound.com:443/en/projects/level-99-games/dbd</link>
+      <guid isPermaLink="false">55151</guid>
+      <pubDate>Fri, 13 Mar 2026 16:24:46 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5297/46ebf577-0045-48fb-919a-1ee4a2489685.png" type="image/png" />
+    </item>
     <item>
       <title>[New project] Bloodmantle: Legions &amp; Wolves</title>
       <link>https://gamefound.com:443/en/projects/eduardmirica/bloodmantle</link>
