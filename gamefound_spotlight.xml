@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Fri, 13 Mar 2026 13:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 14:00:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Launch date] Here to Slay DUNGEONS has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/unstable-games/here-to-slay-dungeons</link>
+      <guid isPermaLink="false">55148</guid>
+      <pubDate>Fri, 13 Mar 2026 13:53:06 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6025/9ec6b5a2-201d-4c9b-a176-c6424919cf53.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[Campaign start] Galactic Invaders</title>
       <link>https://gamefound.com:443/en/projects/la-hoguerita-estudio/galactic-invaders</link>
