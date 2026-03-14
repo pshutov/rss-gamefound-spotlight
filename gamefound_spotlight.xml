@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 14 Mar 2026 23:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 23:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] Akolyta</title>
+      <link>https://gamefound.com:443/en/projects/pterosoft-studio/akolyta</link>
+      <guid isPermaLink="false">55153</guid>
+      <pubDate>Sat, 14 Mar 2026 23:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8584/60b38e94-8600-4112-893f-63adf7694c49.png" type="image/png" />
+    </item>
     <item>
       <title>[New Late Pledge] Dunkelstein - An AR Tabletop Murder Mystery | Escape Game</title>
       <link>https://gamefound.com:443/en/projects/make-a-break/dunkelstein---an-ar-tabletop-murder-mystery--escape-game</link>
