@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sat, 14 Mar 2026 17:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 17:30:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[New Late Pledge] Dunkelstein - An AR Tabletop Murder Mystery | Escape Game</title>
+      <link>https://gamefound.com:443/en/projects/make-a-break/dunkelstein---an-ar-tabletop-murder-mystery--escape-game</link>
+      <guid isPermaLink="false">55152</guid>
+      <pubDate>Sat, 14 Mar 2026 17:15:17 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8414/858df713-2ac1-40fd-8c6d-fdf59be7060b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>[New project] Dead by Daylight: The Board Game - 10th Anniversary Auris Storage Box</title>
       <link>https://gamefound.com:443/en/projects/level-99-games/dbd</link>
@@ -116,102 +124,6 @@
       <pubDate>Thu, 12 Mar 2026 06:45:36 +0000</pubDate>
       <description>New project</description>
       <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8568/26e33007-d003-4155-b0d2-8c577f2c6e46.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Live or Di(c)e</title>
-      <link>https://gamefound.com:443/en/projects/bromagineboardgame/live-or-dice</link>
-      <guid isPermaLink="false">55137</guid>
-      <pubDate>Wed, 11 Mar 2026 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8130/85bd4968-1793-496e-9f9a-637d08edacad.png" type="image/png" />
-    </item>
-    <item>
-      <title>[24 hours left] ERA TCG</title>
-      <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg</link>
-      <guid isPermaLink="false">55136</guid>
-      <pubDate>Wed, 11 Mar 2026 23:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/e5906c6b-124b-42df-8989-339e2c8f7119.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign is funded] Hexblem: Beating the Unbeatable</title>
-      <link>https://gamefound.com:443/en/projects/hexblem-board-games/hexblem-beating-the-unbeatable</link>
-      <guid isPermaLink="false">55135</guid>
-      <pubDate>Wed, 11 Mar 2026 22:09:30 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5224/23879d95-3e37-48b5-bd93-0169c0774524.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] Ancient Empires</title>
-      <link>https://gamefound.com:443/en/projects/archona-games/small-ancient-empires</link>
-      <guid isPermaLink="false">55134</guid>
-      <pubDate>Wed, 11 Mar 2026 18:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6042/5149f79e-b469-4c84-a40f-012681cabc0e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Campaign start] Peppermint Academy, an LGBTQ RPG Visual Novel</title>
-      <link>https://gamefound.com:443/en/projects/neptune-verse/peppermint-academy</link>
-      <guid isPermaLink="false">55133</guid>
-      <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8423/11ecd3ee-3b8c-491d-a515-433210bee442.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign start] FOOLS' FUEL - vehicular mayhem miniatures game</title>
-      <link>https://gamefound.com:443/en/projects/slavdom-studio/fools-fuel---a-post-soviet-semi-fantasy-racing-adventure</link>
-      <guid isPermaLink="false">55132</guid>
-      <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
-      <description>Campaign start</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4526/008c5687-2378-45a4-912b-bd57047a58c4.png" type="image/png" />
-    </item>
-    <item>
-      <title>[New Pledge Manager] Timeless Journeys: The Italian Grand Tour</title>
-      <link>https://gamefound.com:443/en/projects/liriusgames/timeless-journeys-the-italian-grand-tour</link>
-      <guid isPermaLink="false">55131</guid>
-      <pubDate>Wed, 11 Mar 2026 14:41:20 +0000</pubDate>
-      <description>New Pledge Manager</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6763/234ffd18-0cb0-4ed5-82a7-9d53cceb5f16.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Launch date] Company of Heroes - Desert Warfare Expansion + Reprint has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/companyofheroes/dak</link>
-      <guid isPermaLink="false">55130</guid>
-      <pubDate>Wed, 11 Mar 2026 13:35:07 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6611/b13d6896-f6b6-44bc-8be9-d8f288d22d76.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] SUPER has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/square-moon/super</link>
-      <guid isPermaLink="false">55129</guid>
-      <pubDate>Wed, 11 Mar 2026 13:07:41 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4371/98c5994c-c02d-4d96-b7f8-a9164691860c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[Launch date] Arctic Shift: Fuel Station has a starting date.</title>
-      <link>https://gamefound.com:443/en/projects/wildbyte/arctic-shift-fuel-station</link>
-      <guid isPermaLink="false">55128</guid>
-      <pubDate>Wed, 11 Mar 2026 08:10:45 +0000</pubDate>
-      <description>Launch date</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8607/64c2f1b9-3a09-4b76-89c7-5e3c23aadb21.png" type="image/png" />
-    </item>
-    <item>
-      <title>[Campaign is funded] ERA TCG</title>
-      <link>https://gamefound.com:443/en/projects/era-tcg/era-tcg</link>
-      <guid isPermaLink="false">55127</guid>
-      <pubDate>Wed, 11 Mar 2026 07:58:27 +0000</pubDate>
-      <description>Campaign is funded</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8070/e5906c6b-124b-42df-8989-339e2c8f7119.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>[24 hours left] PANDORA CELESTE: Pirates &amp; Salvage</title>
-      <link>https://gamefound.com:443/en/projects/guntower-mike/pandora-celeste-pirates--salvage</link>
-      <guid isPermaLink="false">55126</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:01 +0000</pubDate>
-      <description>24 hours left</description>
-      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6415/c4b7d45f-2936-4ed3-b2e4-d96209bc5fe9.png" type="image/png" />
     </item>
   </channel>
 </rss>
