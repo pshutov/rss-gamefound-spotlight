@@ -4,8 +4,16 @@
     <title>Gamefound Spotlight (unofficial)</title>
     <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
     <description>RSS feed generated from Gamefound Spotlight API</description>
-    <lastBuildDate>Sun, 15 Mar 2026 14:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 14:15:01 +0000</lastBuildDate>
     <ttl>15</ttl>
+    <item>
+      <title>[Campaign start] The Realm of Silvanus</title>
+      <link>https://gamefound.com:443/en/projects/silvanus-metaverse/the-realm-of-silvanus</link>
+      <guid isPermaLink="false">55155</guid>
+      <pubDate>Sun, 15 Mar 2026 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6480/0b1466d0-c98e-479f-b62c-fd68e7db8bb2.png" type="image/png" />
+    </item>
     <item>
       <title>[24 hours left] Crossroads Wargame 'Principalities and Powers'</title>
       <link>https://gamefound.com:443/en/projects/crossroads-wargame/principalities-and-powers</link>
