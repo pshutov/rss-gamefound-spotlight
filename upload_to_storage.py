@@ -4,6 +4,10 @@
 import os
 import re
 import sys
+import logging
+
+logging.basicConfig(format="%(asctime)s %(levelname)s %(message)s", level=logging.INFO)
+log = logging.getLogger(__name__)
 
 
 def normalize_rss_for_compare(xml_bytes: bytes) -> str:
@@ -19,21 +23,23 @@ def main():
     max_bytes = int(os.getenv("SUPABASE_MAX_FILE_BYTES", "1048576"))
 
     if not url or not key:
-        print("SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY (or SUPABASE_KEY) are required.", file=sys.stderr)
+        log.error("SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY (or SUPABASE_KEY) are required.")
         sys.exit(1)
 
     if len(sys.argv) < 2:
-        print("Usage: upload_to_storage.py <local_file_path>", file=sys.stderr)
+        log.error("Usage: upload_to_storage.py <local_file_path>")
         sys.exit(1)
     local_path = sys.argv[1]
     if not os.path.isfile(local_path):
-        print(f"File not found: {local_path}", file=sys.stderr)
+        log.error("File not found: %s", local_path)
         sys.exit(1)
 
     size = os.path.getsize(local_path)
     if size > max_bytes:
-        print(f"File size {size} exceeds limit {max_bytes} (SUPABASE_MAX_FILE_BYTES).", file=sys.stderr)
+        log.error("File size %d exceeds limit %d (SUPABASE_MAX_FILE_BYTES).", size, max_bytes)
         sys.exit(1)
+
+    log.info("Preparing upload: %s (%d bytes) -> %s/%s", local_path, size, bucket, storage_path)
 
     from supabase import create_client
     client = create_client(url, key)
@@ -43,17 +49,18 @@ def main():
     try:
         existing = client.storage.from_(bucket).download(storage_path)
         if normalize_rss_for_compare(existing) == normalize_rss_for_compare(data):
-            print("No RSS changes, skip upload.")
+            log.info("No RSS changes, skip upload.")
             return
-    except Exception:
-        pass
+        log.info("RSS content changed, will upload.")
+    except Exception as e:
+        log.warning("Could not download existing file for comparison: %s. Will upload new file.", e)
 
     client.storage.from_(bucket).upload(
         storage_path,
         data,
         file_options={"content-type": "application/rss+xml", "upsert": True},
     )
-    print(f"Uploaded to {bucket}/{storage_path} ({size} bytes).")
+    log.info("Uploaded to %s/%s (%d bytes).", bucket, storage_path, size)
 
 
 if __name__ == "__main__":

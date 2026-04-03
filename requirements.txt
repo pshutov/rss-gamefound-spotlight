@@ -1,3 +1,5 @@
 flask
 requests
 supabase
+cloudscraper
+curl_cffi
