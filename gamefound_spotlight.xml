@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Thu, 07 May 2026 19:00:00 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Jersey New Jersey &amp; A Strong War</title>
+      <link>https://gamefound.com:443/en/projects/form-square-games/jersey-new-jersey--a-strong-war</link>
+      <guid isPermaLink="false">57577</guid>
+      <pubDate>Thu, 07 May 2026 19:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5688/6863e019-7db6-4334-90fa-201e30d5cdab.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Roll 4 MORE Rum!</title>
+      <link>https://gamefound.com:443/en/projects/florianfiedler/roll-4-more-rum</link>
+      <guid isPermaLink="false">57576</guid>
+      <pubDate>Thu, 07 May 2026 17:07:22 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10065/89c84397-60f2-4487-884e-72029e4c7e52.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] The Grand Cathedral: Sanctum of the Cursed</title>
+      <link>https://gamefound.com:443/en/projects/makerman3d/the-grand-cathedral-sanctum-of-the-cursed</link>
+      <guid isPermaLink="false">57575</guid>
+      <pubDate>Thu, 07 May 2026 16:02:19 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9876/4466080b-2349-474d-abeb-4235a4b9f8cc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] From The Grid</title>
+      <link>https://gamefound.com:443/en/projects/magetcg/fromthegrid</link>
+      <guid isPermaLink="false">57574</guid>
+      <pubDate>Thu, 07 May 2026 15:27:34 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10138/f75597d5-8139-4939-a6fd-ddb16cf4172e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Wydanie ilustrowanej powieści fantasy "Ścieżki zwątpienia"</title>
+      <link>https://gamefound.com:443/en/projects/krasnoludek/wydanie-ilustrowanej-powiesci-fantasy-sciezki-zwatpienia</link>
+      <guid isPermaLink="false">57573</guid>
+      <pubDate>Thu, 07 May 2026 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10053/76f9d702-83df-498b-a0f6-670a6eb64f9f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] SZKELETAL on STEAM - Launching the estrogen-fueled Dracul's potato game on Gaben's platform</title>
+      <link>https://gamefound.com:443/en/projects/wypok-games/umieszczenie-gry-szkeletal-na-platformie-steam</link>
+      <guid isPermaLink="false">57572</guid>
+      <pubDate>Thu, 07 May 2026 11:17:51 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9939/63bc0c95-029e-473d-9808-7d362fa281a9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] They Own The Night has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/nightcitygames/they-own-the-night</link>
+      <guid isPermaLink="false">57571</guid>
+      <pubDate>Thu, 07 May 2026 11:01:46 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9945/de7589ca-5ee1-4f74-9a72-f6dfec61662d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New blog post] [SPECIAL] Teburu Direct 2026</title>
+      <link>https://gamefound.com/blog/post/special-teburu-direct-2026</link>
+      <guid isPermaLink="false">57570</guid>
+      <pubDate>Thu, 07 May 2026 10:56:48 +0000</pubDate>
+      <description>New blog post</description>
+    </item>
+    <item>
+      <title>[Launch date] Bullet Galaxy: Two New Expansions for Bullet! has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/level-99-games/bullet-galaxy</link>
+      <guid isPermaLink="false">57569</guid>
+      <pubDate>Thu, 07 May 2026 10:49:28 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6292/c50560df-e6b2-44d5-a09f-4fd0cca15085.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Greedy Merchants from the Jagiellonian Trade Route</title>
+      <link>https://gamefound.com:443/en/projects/lukasz_kurlit/chciwi_kupcy</link>
+      <guid isPermaLink="false">57568</guid>
+      <pubDate>Thu, 07 May 2026 07:57:21 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8274/c5e6215f-418a-458c-bf69-77b0ba2a10a3.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Bloodwork: The Reckoning</title>
+      <link>https://gamefound.com:443/en/projects/i-demo-games/bloodwork-the-reckoning</link>
+      <guid isPermaLink="false">57567</guid>
+      <pubDate>Wed, 06 May 2026 21:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8094/4139f623-ce4e-4cb9-96e7-036818f8d699.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Brand Battles TCG has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/davet9713/brand-battles-tcg</link>
+      <guid isPermaLink="false">57566</guid>
+      <pubDate>Wed, 06 May 2026 19:29:21 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9731/9dcf77a7-77fe-4edf-93cb-f33b029640a1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Shadows of the 1930s: 450+ RPG Battle Maps</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/shadows-of-the-1930s-450-rpg-battle-maps</link>
+      <guid isPermaLink="false">57565</guid>
+      <pubDate>Wed, 06 May 2026 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9993/c0090490-fafd-4290-b118-3aca000b0582.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Core Space: Evolution</title>
+      <link>https://gamefound.com:443/en/projects/battle-systems/core-space-evolution</link>
+      <guid isPermaLink="false">57564</guid>
+      <pubDate>Wed, 06 May 2026 16:36:15 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10159/4f289c2e-cfcc-4b0e-bc7c-207d819b336b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Possess Me, Satan has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/dukes-of-nukes-gaming/possess-me-satan</link>
+      <guid isPermaLink="false">57563</guid>
+      <pubDate>Wed, 06 May 2026 13:26:36 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8342/6bdb3b31-ff62-495d-ba86-72d22608927e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Iron Quest: The First Ember [Print &amp; Play] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/giza-games/iron-quest-the-first-ember</link>
+      <guid isPermaLink="false">57562</guid>
+      <pubDate>Wed, 06 May 2026 13:02:00 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9870/4f925bec-e8b4-4e3c-bd4c-94ac3a6fcf30.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Ludicurrus has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/iconiq-studios/ludicurrus</link>
+      <guid isPermaLink="false">57561</guid>
+      <pubDate>Wed, 06 May 2026 10:06:45 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6850/401a9431-54ce-45ef-bd7f-2a156f6035cf.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Disfida</title>
+      <link>https://gamefound.com:443/en/projects/giochix/the-challenge-of-barletta</link>
+      <guid isPermaLink="false">57560</guid>
+      <pubDate>Wed, 06 May 2026 09:08:19 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6595/3a04c98b-b25e-499b-b2ed-7887ad964321.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Mïnomancer - The Roll &amp; Write Dungeon Crawler [Dynamic PnP of the Month &amp; Gamebook] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/beaverlicious-games/minomancer---the-roll--write-dungeon-crawler-dynamic-pnp-of-the-month--gamebook</link>
+      <guid isPermaLink="false">57559</guid>
+      <pubDate>Wed, 06 May 2026 08:03:40 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8517/8bf364d8-c4bc-48bc-aabf-3d047bafd88f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Weasel Wars has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/dartfrog-games/weasel-wars</link>
+      <guid isPermaLink="false">57558</guid>
+      <pubDate>Wed, 06 May 2026 07:38:11 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8635/ba3adf50-069a-49f5-a1b2-e6139228ca0a.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Hideouts: Legends of The Forest has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/weasel--wolf/hideouts-legends-of-the-forest</link>
+      <guid isPermaLink="false">57557</guid>
+      <pubDate>Wed, 06 May 2026 07:34:02 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8215/fd88d4ef-bf46-46de-9b19-bdf06004226f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] DIE Ball - A Button Shy Modular Game</title>
+      <link>https://gamefound.com:443/en/projects/button-shy-games/dieball</link>
+      <guid isPermaLink="false">57556</guid>
+      <pubDate>Wed, 06 May 2026 00:44:46 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10134/771cce4d-4b4b-44d7-bb38-e2c33e59ce97.png" type="image/png" />
+    </item>
+  </channel>
+</rss>
