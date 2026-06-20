@@ -2,6 +2,7 @@ services:
   app:
     build: .
     env_file: .env
+    restart: unless-stopped
     ports:
       - "${PORT:-10000}:${PORT:-10000}"
     environment:
@@ -21,6 +22,12 @@ services:
       - SUPABASE_BUCKET=${SUPABASE_BUCKET:-rss}
       - SUPABASE_STORAGE_PATH=${SUPABASE_STORAGE_PATH:-gamefound_spotlight.xml}
       - SUPABASE_MAX_FILE_BYTES=${SUPABASE_MAX_FILE_BYTES:-1048576}
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://localhost:${PORT:-10000}/"]
+      interval: 60s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
     networks:
       - dokploy-network
 

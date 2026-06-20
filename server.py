@@ -21,6 +21,7 @@ def run():
         result = subprocess.run(
             ["bash", "run_cron.sh"],
             capture_output=True, text=True, check=True,
+            timeout=600,
         )
         if result.stdout:
             log.info("cron stdout:\n%s", result.stdout)
@@ -28,6 +29,9 @@ def run():
             log.warning("cron stderr:\n%s", result.stderr)
         log.info("Cron job finished successfully")
         return jsonify({"status": "ok"}), 200
+    except subprocess.TimeoutExpired as e:
+        log.error("Cron job timed out after %ss", e.timeout)
+        return jsonify({"error": "timeout"}), 504
     except subprocess.CalledProcessError as e:
         log.error("Cron job failed (code %d)", e.returncode)
         if e.stdout:
