@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Thu, 02 Jul 2026 21:21:22 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[New project] The Long Watch</title>
+      <link>https://gamefound.com:443/en/projects/studiosquidink/the-long-watch</link>
+      <guid isPermaLink="false">59062</guid>
+      <pubDate>Thu, 02 Jul 2026 21:21:22 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11505/78406b4d-eeb8-4aa1-89d3-3d5407bd80eb.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Diables</title>
+      <link>https://gamefound.com:443/en/projects/saltandpepper/diables</link>
+      <guid isPermaLink="false">59061</guid>
+      <pubDate>Thu, 02 Jul 2026 15:09:30 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9706/e78bc9ff-cdd4-4792-9ab5-4ed33224a2bc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] GRIDSHOCK Zero Edition</title>
+      <link>https://gamefound.com:443/en/projects/paul-vermeren--vx2/gridshock-zero-edition</link>
+      <guid isPermaLink="false">59060</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:06 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11510/f58d7db7-04ca-47ef-9c38-d3ea73da9c3c.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Diables</title>
+      <link>https://gamefound.com:443/en/projects/saltandpepper/diables</link>
+      <guid isPermaLink="false">59059</guid>
+      <pubDate>Thu, 02 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9706/e78bc9ff-cdd4-4792-9ab5-4ed33224a2bc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Mythic Realms – 1800 Fantasy Battle Maps</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/mythic-realms--1800-fantasy-battle-maps</link>
+      <guid isPermaLink="false">59058</guid>
+      <pubDate>Thu, 02 Jul 2026 13:23:12 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11535/6fe939ad-5741-4fe6-860a-86d6daa12e63.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Wreck - A New Game in the Wroth Universe has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/chip-theory-games/wroth-reprint--wreck-expansion</link>
+      <guid isPermaLink="false">59057</guid>
+      <pubDate>Thu, 02 Jul 2026 13:21:57 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11207/951fd3ff-396c-483b-9a55-6cfc66bbe639.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Heroes of a Thousand Tales</title>
+      <link>https://gamefound.com:443/en/projects/adventure_horizon/heroes-of-a-thousand</link>
+      <guid isPermaLink="false">59056</guid>
+      <pubDate>Thu, 02 Jul 2026 12:51:57 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11575/f1bd6bcc-0971-4bc4-a922-2be9489d067b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Mythic Realms – 1800 Fantasy Battle Maps</title>
+      <link>https://gamefound.com:443/en/projects/agnesagraphic/mythic-realms--1800-fantasy-battle-maps</link>
+      <guid isPermaLink="false">59055</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11535/6fe939ad-5741-4fe6-860a-86d6daa12e63.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Hero's Guild d10 Table Top RPG Launch has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/theherosguild/herosguildd10</link>
+      <guid isPermaLink="false">59054</guid>
+      <pubDate>Thu, 02 Jul 2026 08:33:30 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8268/33e065e1-1e07-4b03-895e-feccf1ae49bd.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Alexandria has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/meeple-pug/alexandria</link>
+      <guid isPermaLink="false">59053</guid>
+      <pubDate>Thu, 02 Jul 2026 08:14:11 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9715/1e159e93-862b-4da4-85ed-9d277dde8411.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Touristes temporels</title>
+      <link>https://gamefound.com:443/en/projects/lutra-games/touristes-temporels</link>
+      <guid isPermaLink="false">59052</guid>
+      <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9868/cacc7b20-6ce0-433c-9bd6-cf13083f56a5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Children Card Game Crazy Horse</title>
+      <link>https://gamefound.com:443/en/projects/nikiseizov/children-card-game</link>
+      <guid isPermaLink="false">59051</guid>
+      <pubDate>Thu, 02 Jul 2026 07:21:52 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10037/41d58a2d-291f-4ca4-96a0-22eab8b6a69b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Miniature Painting Bag</title>
+      <link>https://gamefound.com:443/en/projects/doctorfrikistein/miniature-painting-bag</link>
+      <guid isPermaLink="false">59050</guid>
+      <pubDate>Thu, 02 Jul 2026 05:52:39 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10002/8d971990-c56b-48cd-852f-0e7d2c169dc8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Chomper</title>
+      <link>https://gamefound.com:443/en/projects/michael-phipps-art/chomper</link>
+      <guid isPermaLink="false">59049</guid>
+      <pubDate>Wed, 01 Jul 2026 22:18:51 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11358/82e2cf92-863f-4e4d-b02d-55e0b8eafa62.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New Late Pledge] Zeit Heist</title>
+      <link>https://gamefound.com:443/en/projects/blue-rondo-games/zeit-heist</link>
+      <guid isPermaLink="false">59048</guid>
+      <pubDate>Wed, 01 Jul 2026 17:44:16 +0000</pubDate>
+      <description>New Late Pledge</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8546/60d2766d-24c2-4c8c-b8dc-70dcffefbf24.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] System Overkill</title>
+      <link>https://gamefound.com:443/en/projects/skillva-studios/system-overkill</link>
+      <guid isPermaLink="false">59047</guid>
+      <pubDate>Wed, 01 Jul 2026 17:10:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10115/ecc76efc-3aa8-4c86-bb0f-f45303cc026e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Miniature Painting Bag</title>
+      <link>https://gamefound.com:443/en/projects/doctorfrikistein/miniature-painting-bag</link>
+      <guid isPermaLink="false">59046</guid>
+      <pubDate>Wed, 01 Jul 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10002/8d971990-c56b-48cd-852f-0e7d2c169dc8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Wolfenstein: The Roleplaying Game</title>
+      <link>https://gamefound.com:443/en/projects/modiphius/wolfenstein-the-roleplaying-game</link>
+      <guid isPermaLink="false">59045</guid>
+      <pubDate>Wed, 01 Jul 2026 15:06:47 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11430/b79ee04c-dce3-4f50-b8e7-6a7b4b854ca8.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Whispers of the Deep + New Solo Expansion has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/black-site-studios/whispers-of-the-deep</link>
+      <guid isPermaLink="false">59044</guid>
+      <pubDate>Wed, 01 Jul 2026 14:23:11 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10052/60fe59ac-a3bc-432b-a8ab-b7bdbe11072e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] From The Grid</title>
+      <link>https://gamefound.com:443/en/projects/magetcg/fromthegrid</link>
+      <guid isPermaLink="false">59043</guid>
+      <pubDate>Wed, 01 Jul 2026 14:14:15 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10138/f75597d5-8139-4939-a6fd-ddb16cf4172e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] From The Grid</title>
+      <link>https://gamefound.com:443/en/projects/magetcg/fromthegrid</link>
+      <guid isPermaLink="false">59042</guid>
+      <pubDate>Wed, 01 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10138/f75597d5-8139-4939-a6fd-ddb16cf4172e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New blog post] [What's new] Retailer Offers coming soon &amp; Gamefound Feast application</title>
+      <link>https://gamefound.com/blog/post/retail-offers-soon</link>
+      <guid isPermaLink="false">59041</guid>
+      <pubDate>Wed, 01 Jul 2026 12:47:20 +0000</pubDate>
+      <description>New blog post</description>
+    </item>
+    <item>
+      <title>[New project] Révol'temps : Le jeu du siècle</title>
+      <link>https://gamefound.com:443/en/projects/le_revoltemps/le-jeu-du-siecle</link>
+      <guid isPermaLink="false">59040</guid>
+      <pubDate>Wed, 01 Jul 2026 08:35:06 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11599/ef38d4d0-58f7-4eed-badb-6dc97337bb63.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Bundle: Angel´s Share DE and Raising Chicago DE</title>
+      <link>https://gamefound.com:443/en/projects/spielworxx/bundle-angels-share-de-and-raising-chicago-de</link>
+      <guid isPermaLink="false">59039</guid>
+      <pubDate>Wed, 01 Jul 2026 07:14:20 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11475/ac392b83-7078-4115-a782-e3e189d7d643.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Feud Fight</title>
+      <link>https://gamefound.com:443/en/projects/blobspike/feud-fight</link>
+      <guid isPermaLink="false">59038</guid>
+      <pubDate>Wed, 01 Jul 2026 06:38:42 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9826/d0bdc59c-9fa3-4527-80c4-cab261e634ec.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Politik</title>
+      <link>https://gamefound.com:443/en/projects/black-yeti-games/politik</link>
+      <guid isPermaLink="false">59037</guid>
+      <pubDate>Wed, 01 Jul 2026 00:23:11 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4021/8e1286e7-1cc5-42b9-971c-c72191e1b1b7.jpg" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
