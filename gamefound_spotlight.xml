@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Mon, 03 Aug 2026 11:00:09 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[New project] Archaic Realms TCG</title>
+      <link>https://gamefound.com:443/en/projects/archaic-realms/archaic-realms-tcg</link>
+      <guid isPermaLink="false">61325</guid>
+      <pubDate>Mon, 03 Aug 2026 11:00:09 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9708/b8050954-8acf-444b-a92e-ef4794782e5b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Realm Brew: Into The Depths [Production Run #2] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2</link>
+      <guid isPermaLink="false">61324</guid>
+      <pubDate>Mon, 03 Aug 2026 10:39:47 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8294/5b44b81a-8489-408e-8f7c-6300cd8b7e3e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] The Sun the Rain and the Appleseed</title>
+      <link>https://gamefound.com:443/en/projects/open-door-games-llc/the-sun-the-rain-and-the-appleseed</link>
+      <guid isPermaLink="false">61323</guid>
+      <pubDate>Sun, 02 Aug 2026 22:49:21 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11387/a068fda5-0e22-4702-9c6d-3343a91d4726.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Saloon Shootout</title>
+      <link>https://gamefound.com:443/en/projects/mid-level-meeple/saloon-shootout</link>
+      <guid isPermaLink="false">60331</guid>
+      <pubDate>Sun, 02 Aug 2026 15:13:09 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8540/f246f0d7-4cb7-4599-a2b1-cff8c7950e82.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Saloon Shootout</title>
+      <link>https://gamefound.com:443/en/projects/mid-level-meeple/saloon-shootout</link>
+      <guid isPermaLink="false">60330</guid>
+      <pubDate>Sun, 02 Aug 2026 04:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8540/f246f0d7-4cb7-4599-a2b1-cff8c7950e82.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Quicksand Potion Bottle Dice Set</title>
+      <link>https://gamefound.com:443/en/projects/acgo/quicksand-potion-bottle-dice-set</link>
+      <guid isPermaLink="false">60329</guid>
+      <pubDate>Sun, 02 Aug 2026 01:29:36 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10067/6755b26d-12b1-4867-9478-4fb3af8a056e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Board Game Battle of the Seas</title>
+      <link>https://gamefound.com:443/en/projects/chris-malcharek/battle-of-the-seas</link>
+      <guid isPermaLink="false">60328</guid>
+      <pubDate>Sun, 02 Aug 2026 00:40:13 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5166/6232836f-ff69-48d0-ad99-0aca81e5f3a3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] 5 deck card set for DnD and RPG games!</title>
+      <link>https://gamefound.com:443/en/projects/awa-board-games/5-deck-card-set-for-dnd-and-rpg-games</link>
+      <guid isPermaLink="false">60327</guid>
+      <pubDate>Sat, 01 Aug 2026 23:54:27 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6532/14d4be24-e41c-4b58-9c1a-214ea1984219.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Paladin Sleeves - Season 11</title>
+      <link>https://gamefound.com:443/en/projects/board-and-dice/paladin-season11</link>
+      <guid isPermaLink="false">60326</guid>
+      <pubDate>Sat, 01 Aug 2026 15:48:24 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11589/f587e6f6-8d6e-4574-9de4-b01d0d4d5639.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Cirque</title>
+      <link>https://gamefound.com:443/en/projects/lithic-studios/cirque</link>
+      <guid isPermaLink="false">60325</guid>
+      <pubDate>Sat, 01 Aug 2026 13:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10059/cbc50c34-ed5b-4a2f-841c-fe8dd7ef847a.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] A Dangerous Peace: The Cold War</title>
+      <link>https://gamefound.com:443/en/projects/plague-island-games/a-dangerous-peace-the-cold-war</link>
+      <guid isPermaLink="false">60324</guid>
+      <pubDate>Sat, 01 Aug 2026 12:45:31 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6269/eb1dc172-d077-4fa8-9a12-4a1fef0d09de.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Speed-Fold Ruins: Modular &amp; Foldable Wargame Scenery</title>
+      <link>https://gamefound.com:443/en/projects/rayu/speed-fold-w40k-ruins</link>
+      <guid isPermaLink="false">60323</guid>
+      <pubDate>Fri, 31 Jul 2026 22:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6590/018c3e40-01fd-48e3-97e6-7ebd4fae3648.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Azurehold - Vol II Legends has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/azurehold/azurehold---act-ii-legends</link>
+      <guid isPermaLink="false">60322</guid>
+      <pubDate>Fri, 31 Jul 2026 12:36:48 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11443/d31a2eb6-adb6-478b-be4e-d7a727fbbcff.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Swords and Stones has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/swordandstonestudios/swords-and-stones</link>
+      <guid isPermaLink="false">60321</guid>
+      <pubDate>Fri, 31 Jul 2026 11:20:58 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5377/964dfc42-4f84-4278-bf9d-4b24995a76ea.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Modular card organisation system</title>
+      <link>https://gamefound.com:443/en/projects/boarcard/modular-card-organisation-system</link>
+      <guid isPermaLink="false">60320</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6550/ba3cdb3d-3fe7-473d-86aa-3443a29b856a.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Showrunner [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/showrunner-solo-game-of-the-month</link>
+      <guid isPermaLink="false">60319</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11662/5cf01631-589a-4dc4-81eb-948dc23a09d3.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] From The Grid</title>
+      <link>https://gamefound.com:443/en/projects/magetcg/fromthegrid</link>
+      <guid isPermaLink="false">60318</guid>
+      <pubDate>Fri, 31 Jul 2026 02:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10138/f75597d5-8139-4939-a6fd-ddb16cf4172e.jpg" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
