@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Sat, 17 Oct 2026 16:13:17 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Gry Bez Prądu | Czasopismo o planszówkach, bitewniakach i grach RPG</title>
+      <link>https://gamefound.com:443/en/projects/gametroll/gry-bez-pradu--czasopismo-o-planszowkach</link>
+      <guid isPermaLink="false">69021</guid>
+      <pubDate>Sat, 17 Oct 2026 16:13:17 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6438/101592d0-ebe5-40e2-8731-6b47bbe09aff.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Dungeon Draw - A Rogue-Like Crawl You Can Customize</title>
+      <link>https://gamefound.com:443/en/projects/fangehullgames/dungeon-draw</link>
+      <guid isPermaLink="false">69020</guid>
+      <pubDate>Sat, 17 Oct 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9656/7b97f1ab-ee1c-4727-89c4-91bdb24f2109.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Gry Bez Prądu | Czasopismo o planszówkach, bitewniakach i grach RPG</title>
+      <link>https://gamefound.com:443/en/projects/gametroll/gry-bez-pradu--czasopismo-o-planszowkach</link>
+      <guid isPermaLink="false">69019</guid>
+      <pubDate>Sat, 17 Oct 2026 08:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6438/101592d0-ebe5-40e2-8731-6b47bbe09aff.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] PROJECT: WAFFLE IRON - Tabletop Terrain and Accessories (STL Files)</title>
+      <link>https://gamefound.com:443/en/projects/epic-duck-studios/project-waffle-iron</link>
+      <guid isPermaLink="false">69018</guid>
+      <pubDate>Fri, 16 Oct 2026 18:25:10 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13403/77efdd2d-1c12-4e98-8fdf-2ad3db759486.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Realm Brew: Into The Depths [Production Run #2]</title>
+      <link>https://gamefound.com:443/en/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2</link>
+      <guid isPermaLink="false">69017</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Schrott - The Boardgame</title>
+      <link>https://gamefound.com:443/en/projects/squink/schrott-the-boardgame</link>
+      <guid isPermaLink="false">69016</guid>
+      <pubDate>Fri, 16 Oct 2026 15:58:36 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13332/a669f2b6-3bea-4be4-b6e3-cd89b885a139.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Watergate &amp; Public Enemy</title>
+      <link>https://gamefound.com:443/en/projects/francois-gilles-ricard/watergate-public-enemy</link>
+      <guid isPermaLink="false">69015</guid>
+      <pubDate>Fri, 16 Oct 2026 13:02:06 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13412/ddf22f01-6344-446f-baf5-ff58f2b6c2ed.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] GeekTogether.gg has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/geektogethergg/platform</link>
+      <guid isPermaLink="false">69014</guid>
+      <pubDate>Fri, 16 Oct 2026 12:14:28 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11776/7c5f6305-d37d-4acf-8e3b-3574f8a355be.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Universal Board Game Component Holder has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/e-raptor/universal-board-game-component-holder</link>
+      <guid isPermaLink="false">69013</guid>
+      <pubDate>Fri, 16 Oct 2026 12:13:58 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13303/a24aba0e-32c9-4e5a-8717-0d72d40a83f9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Dragons Den Playing Card</title>
+      <link>https://gamefound.com:443/en/projects/bluemist0305/dragons-den-playing-card</link>
+      <guid isPermaLink="false">69012</guid>
+      <pubDate>Fri, 16 Oct 2026 10:28:03 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13396/0e559ac3-7d99-45aa-ac44-d09223cbf523.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] DRAMA: Cosplay Card Game has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/norman-lenda-game-arts/drama-ccg</link>
+      <guid isPermaLink="false">69011</guid>
+      <pubDate>Fri, 16 Oct 2026 10:19:34 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11745/79ddf6dd-de22-4363-a77a-ee032a322852.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Agoro Road and Agoro Camp</title>
+      <link>https://gamefound.com:443/en/projects/agoro-games/agoro-road-and-agoro-camp</link>
+      <guid isPermaLink="false">69010</guid>
+      <pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13285/66003bec-5cc2-4f8c-9b71-c71aeee5b080.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] PAWN POW - acrylic replacements for board games components</title>
+      <link>https://gamefound.com:443/en/projects/e-raptor/pawn-pow---acrylic-replacements-for-board-games-components</link>
+      <guid isPermaLink="false">69009</guid>
+      <pubDate>Fri, 16 Oct 2026 09:56:35 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13344/23b92203-455f-49b2-8f2b-a553998a0a21.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Spooky Triple Feature [Solo Game of the Month] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/spooky-triple-feature-solo-game-of-the-month</link>
+      <guid isPermaLink="false">69008</guid>
+      <pubDate>Fri, 16 Oct 2026 08:50:08 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13312/f27b0e03-61e5-4edc-bbf7-4a4e60125b80.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] 1806: Auerstädt</title>
+      <link>https://gamefound.com:443/en/projects/tactical-workshop/1806-auerstadt</link>
+      <guid isPermaLink="false">69007</guid>
+      <pubDate>Fri, 16 Oct 2026 08:20:24 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/12939/348957c2-24ae-4756-8683-25ab972caaee.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Against the Darkmaster: Los Secretos del Trono Dorado has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/other-selves/against-the-darkmaster-los-secretos-del-trono-dorado</link>
+      <guid isPermaLink="false">69006</guid>
+      <pubDate>Fri, 16 Oct 2026 06:57:34 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/12935/7cacf7b4-1d58-40fa-8c68-e632e96573db.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Junk 'n Gems has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/helsinki-hub/junk-n-gems</link>
+      <guid isPermaLink="false">69005</guid>
+      <pubDate>Fri, 16 Oct 2026 06:55:11 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6301/e3e911b0-1dbe-4129-b73a-f1c7ccb42dd0.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Too Little Time has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/chip-theory-games/too-little-time</link>
+      <guid isPermaLink="false">69004</guid>
+      <pubDate>Fri, 16 Oct 2026 06:54:17 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/12995/ee2ff19d-cb0b-4d7c-abb6-b38c9473b713.png" type="image/png" />
+    </item>
+  </channel>
+</rss>
