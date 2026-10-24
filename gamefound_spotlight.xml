@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Sat, 24 Oct 2026 09:24:09 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[New project] Ankharas</title>
+      <link>https://gamefound.com:443/en/projects/sprama-game-labs/ankharas</link>
+      <guid isPermaLink="false">70111</guid>
+      <pubDate>Sat, 24 Oct 2026 09:24:09 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13379/1c9a33f1-79fe-4b41-8c9e-e231b5dba80b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Sylvan's Curse - Reanimated</title>
+      <link>https://gamefound.com:443/en/projects/dhachy/sylvans-curse</link>
+      <guid isPermaLink="false">70110</guid>
+      <pubDate>Sat, 24 Oct 2026 03:46:47 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11323/dc9bd861-29ad-4eba-88c7-0b472f775cfe.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Six Sided Summoner</title>
+      <link>https://gamefound.com:443/en/projects/ply-games/six-sided-summoner</link>
+      <guid isPermaLink="false">70109</guid>
+      <pubDate>Fri, 23 Oct 2026 19:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8531/69aa3c5b-cccf-4623-865b-dd55a565480a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Erune - Echoes of Hollow Woods has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/arkada-studio/erune---echoes-of-hollow-woods</link>
+      <guid isPermaLink="false">70108</guid>
+      <pubDate>Fri, 23 Oct 2026 18:13:57 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/12950/3287ed71-b3a6-4a07-bf18-e390b123ba4a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] DNOWHERE: The Industrial Nightmare</title>
+      <link>https://gamefound.com:443/en/projects/nettopear/dnowhere</link>
+      <guid isPermaLink="false">70107</guid>
+      <pubDate>Fri, 23 Oct 2026 15:11:07 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13145/982d231c-d584-40fa-88c8-8a5fc56c26eb.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Sunlit's Eulogy has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/dear-euthyphro-studio/sunlits-eulogy</link>
+      <guid isPermaLink="false">70106</guid>
+      <pubDate>Fri, 23 Oct 2026 12:32:54 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8578/47cc1521-6624-4f6b-b439-10e071b7fa3e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Dragons Den Playing Card</title>
+      <link>https://gamefound.com:443/en/projects/bluemist0305/dragons-den-playing-card</link>
+      <guid isPermaLink="false">70105</guid>
+      <pubDate>Fri, 23 Oct 2026 12:28:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13396/e6d33e8d-af82-407a-b10d-6f2842598eff.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] The Guardians of the Elements - Die Wächter der Elemente has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/sebocki89/die-wachter-der-elemente</link>
+      <guid isPermaLink="false">70104</guid>
+      <pubDate>Fri, 23 Oct 2026 10:22:06 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13217/cf9a6f2c-36b9-497e-82ad-11fe0713c58c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Heroes of Havokk Card Game</title>
+      <link>https://gamefound.com:443/en/projects/weirddadgames/heroes-of-havokk-card-game</link>
+      <guid isPermaLink="false">70103</guid>
+      <pubDate>Fri, 23 Oct 2026 08:47:30 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13393/47df9f83-f157-40c1-abc0-29519ed2c9bc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Heroes of Havokk Card Game</title>
+      <link>https://gamefound.com:443/en/projects/weirddadgames/heroes-of-havokk-card-game</link>
+      <guid isPermaLink="false">70102</guid>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13393/47df9f83-f157-40c1-abc0-29519ed2c9bc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] THE DEPÔT</title>
+      <link>https://gamefound.com:443/en/projects/durdens-game/the-depot</link>
+      <guid isPermaLink="false">70101</guid>
+      <pubDate>Fri, 23 Oct 2026 05:24:45 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11438/e1a3a725-27ce-4fc9-b85e-caae0ec7e5af.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] True Wind: The Sailing Sim Where the Boat Is Computed</title>
+      <link>https://gamefound.com:443/en/projects/hclivess/true-wind-the-sailing-sim-where-the-boat-is-computed</link>
+      <guid isPermaLink="false">70100</guid>
+      <pubDate>Thu, 22 Oct 2026 18:11:26 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13474/8afdc38f-75fd-4e6b-bee2-737554e214f8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Panopticon</title>
+      <link>https://gamefound.com:443/en/projects/pick-n-roll-games-lab-srl/panopticon</link>
+      <guid isPermaLink="false">70099</guid>
+      <pubDate>Thu, 22 Oct 2026 17:14:29 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4640/d2b7b255-9147-4543-88a9-08582661c0d4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Panopticon</title>
+      <link>https://gamefound.com:443/en/projects/pick-n-roll-games-lab-srl/panopticon</link>
+      <guid isPermaLink="false">70098</guid>
+      <pubDate>Thu, 22 Oct 2026 16:30:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4640/d2b7b255-9147-4543-88a9-08582661c0d4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New post · Platform news] 2,000,000 Backers on Gamefound – Thank You!</title>
+      <link>https://gamefound.com/blog/post/2000000-backers-on-gamefound</link>
+      <guid isPermaLink="false">70097</guid>
+      <pubDate>Thu, 22 Oct 2026 15:56:30 +0000</pubDate>
+      <description>New post · Platform news</description>
+      <enclosure url="https://imgcdn.gamefound.com/blogpostthumbnail/blogposts/1b1f6dc5-6bec-4a77-9e9d-50c7e2291fd9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Dark Blood: Anathema - Reprint and Expansion has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/meeple-pug/dark-blood-anathema</link>
+      <guid isPermaLink="false">70096</guid>
+      <pubDate>Thu, 22 Oct 2026 13:30:24 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13240/27b83a1d-9197-4b4c-b1e0-cf73372e87fc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Gothic - A Shadow's Quest</title>
+      <link>https://gamefound.com:443/en/projects/thq-nordic/gothic---a-shadows-quest</link>
+      <guid isPermaLink="false">70095</guid>
+      <pubDate>Thu, 22 Oct 2026 13:00:02 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5749/c7773060-2b26-40ef-84df-8fc643e70237.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Elysium: Pantheon Edition</title>
+      <link>https://gamefound.com:443/en/projects/lucky-duck-games/elysium-pantheon-edition</link>
+      <guid isPermaLink="false">70094</guid>
+      <pubDate>Thu, 22 Oct 2026 12:38:14 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13448/6ae0beb6-9871-495b-aece-2928283f75c8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] History Series - Roman Republic Miniatures (STL)</title>
+      <link>https://gamefound.com:443/en/projects/ks---historia/historical-series---roman-republic-collection-printable-miniatures</link>
+      <guid isPermaLink="false">70093</guid>
+      <pubDate>Thu, 22 Oct 2026 10:10:13 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13108/4fdffd24-4d03-44a2-a872-05edae6d0db5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] FALLEN: A Dark Fantasy Action RPG has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/aretaestudios/ashen-verge</link>
+      <guid isPermaLink="false">70092</guid>
+      <pubDate>Thu, 22 Oct 2026 09:46:46 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/12932/72d36abe-ddad-481a-a514-9b7acccf2c3a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] The French and Indian War 1754-1760 has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/chrisbelli-games/the-french-and-indian-war-1754-1760</link>
+      <guid isPermaLink="false">70091</guid>
+      <pubDate>Thu, 22 Oct 2026 09:40:00 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13017/09c75781-9d2f-484c-a086-b1d400fa50bc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] History Series - Roman Republic Miniatures (STL)</title>
+      <link>https://gamefound.com:443/en/projects/ks---historia/historical-series---roman-republic-collection-printable-miniatures</link>
+      <guid isPermaLink="false">70090</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13108/4fdffd24-4d03-44a2-a872-05edae6d0db5.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Paleogon</title>
+      <link>https://gamefound.com:443/en/projects/gaiagames/paleogon</link>
+      <guid isPermaLink="false">70089</guid>
+      <pubDate>Thu, 22 Oct 2026 08:15:09 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13427/1bbb040c-ee9a-4b79-a794-742e583571de.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Somnonautas</title>
+      <link>https://gamefound.com:443/en/projects/sugaar/somnonautas</link>
+      <guid isPermaLink="false">70088</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11573/417f2a4a-96ff-4e1a-8fa7-3794afed8a02.png" type="image/png" />
+    </item>
+  </channel>
+</rss>
