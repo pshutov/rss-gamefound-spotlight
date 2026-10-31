@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Sat, 31 Oct 2026 15:00:00 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Board Control Terrain Sets</title>
+      <link>https://gamefound.com:443/en/projects/board-control/board-control-grimdark-terrains</link>
+      <guid isPermaLink="false">70189</guid>
+      <pubDate>Sat, 31 Oct 2026 15:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/12968/e67c0587-b49f-42fb-a845-81f6e1172c08.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Haunted</title>
+      <link>https://gamefound.com:443/en/projects/burzerkerr-studios/haunted</link>
+      <guid isPermaLink="false">70188</guid>
+      <pubDate>Sat, 31 Oct 2026 07:00:02 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11627/edd4fd15-bfc9-40f0-ae21-4ae6b25f766e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Legends of the South: The Awakening of the Spirits</title>
+      <link>https://gamefound.com:443/en/projects/ancestral-games-studio/legends-of-the-south-the-awakening-of-the-spirits</link>
+      <guid isPermaLink="false">70187</guid>
+      <pubDate>Sat, 31 Oct 2026 02:00:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6797/47f8d71e-af33-474e-8585-8a0dbbdde069.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Eternal Nightmare: The Deluxe Edition</title>
+      <link>https://gamefound.com:443/en/projects/darkest-day-studios/eternal-nightmare-deluxe-edition</link>
+      <guid isPermaLink="false">70186</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13338/0790cf0e-5e5a-4412-8d36-f82ba74f8c0e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Cybernekro</title>
+      <link>https://gamefound.com:443/en/projects/m-p-pawlowski/cybernekro</link>
+      <guid isPermaLink="false">70185</guid>
+      <pubDate>Fri, 30 Oct 2026 23:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/12948/e956a78e-db8f-4a87-8964-ca8c9bad595d.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Gift Rush</title>
+      <link>https://gamefound.com:443/en/projects/bebravestudio/gift-rush</link>
+      <guid isPermaLink="false">70184</guid>
+      <pubDate>Fri, 30 Oct 2026 17:30:01 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13452/66899eb3-7981-4b76-abcc-665e1ced22a4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] THE DEPÔT</title>
+      <link>https://gamefound.com:443/en/projects/durdens-game/the-depot-boardgame</link>
+      <guid isPermaLink="false">70183</guid>
+      <pubDate>Fri, 30 Oct 2026 13:51:35 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13576/f9f73794-097b-4506-8ba6-88370e0cddee.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Citizens 3 Hand-Sculpted Miniatures by Scibor</title>
+      <link>https://gamefound.com:443/en/projects/scibor/citizens-3-hand-sculpted-miniatures-by-scibor</link>
+      <guid isPermaLink="false">70182</guid>
+      <pubDate>Fri, 30 Oct 2026 11:38:23 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13544/35f1dc9f-6d5d-4b26-b14c-beabc751bf28.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] PRIMORDIALS</title>
+      <link>https://gamefound.com:443/en/projects/masterforge-games/primordials</link>
+      <guid isPermaLink="false">70181</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9871/3009731a-a3ae-43e5-90e4-eb8dfc836f43.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Aether Summon</title>
+      <link>https://gamefound.com:443/en/projects/aether-summon/aether-summon</link>
+      <guid isPermaLink="false">70180</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:02 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13057/afd67ea2-ff0c-4d4d-b8b0-3ae2b0b07b42.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] WarBonds: Battle For Vitoria</title>
+      <link>https://gamefound.com:443/en/projects/punk-this-studios/warbonds-battle-for-vitoria</link>
+      <guid isPermaLink="false">70179</guid>
+      <pubDate>Thu, 29 Oct 2026 19:00:02 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4046/4f7fa630-0998-4515-98f2-add5168454b1.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Heroes of Gravehold</title>
+      <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/heroes-of-gravehold</link>
+      <guid isPermaLink="false">70178</guid>
+      <pubDate>Thu, 29 Oct 2026 17:16:14 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13133/96e97002-2388-42ff-8c51-4280f995296b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Heroes of Gravehold</title>
+      <link>https://gamefound.com:443/en/projects/indie-boards-and-cards/heroes-of-gravehold</link>
+      <guid isPermaLink="false">70177</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13133/96e97002-2388-42ff-8c51-4280f995296b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New Pledge Manager] Révol'temps : Le jeu du siècle</title>
+      <link>https://gamefound.com:443/en/projects/le_revoltemps/le_jeu_du_siecle</link>
+      <guid isPermaLink="false">70176</guid>
+      <pubDate>Thu, 29 Oct 2026 15:23:28 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11773/5aae33db-593d-4a78-9c5b-81f05ccba02b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Microcosm</title>
+      <link>https://gamefound.com:443/en/projects/microcosm-games/microcosm</link>
+      <guid isPermaLink="false">70175</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/5999/27706b71-426a-4688-bab2-52621acda87c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Game Master's Companion: The Legend of Aang +</title>
+      <link>https://gamefound.com:443/en/projects/ex-regnum-publishing/game-masters-companion-avatar-the-last-airbender</link>
+      <guid isPermaLink="false">70174</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10084/2e42c5de-a1bc-4b0c-9d72-d3c834854287.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Lorenzo il Magnifico - A New Renaissance</title>
+      <link>https://gamefound.com:443/en/projects/cranio-creations/lorenzo-il-magnifico-a-new-renaissance</link>
+      <guid isPermaLink="false">70173</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11629/55cc3c12-8da0-4730-a151-233050d766ae.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Terry Pratchett's Discworld RPG Adventures in Lancre and Überwald has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald</link>
+      <guid isPermaLink="false">70172</guid>
+      <pubDate>Thu, 29 Oct 2026 12:39:28 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Mortal Ground: A Survival-Horror TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/yb-workshop/mortal-ground</link>
+      <guid isPermaLink="false">70171</guid>
+      <pubDate>Thu, 29 Oct 2026 09:52:34 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13525/bf3123b1-44e1-44ca-9171-e911f95648ea.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] NATATERRA: An Epic Fantasy Strategy Board Game</title>
+      <link>https://gamefound.com:443/en/projects/game-tribe/nataterra-an-epic-fantasy-strategy-board--video-game</link>
+      <guid isPermaLink="false">70170</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:02 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11445/fcfb3713-f142-428a-a5e6-d41f009ed6d7.png" type="image/png" />
+    </item>
+  </channel>
+</rss>
