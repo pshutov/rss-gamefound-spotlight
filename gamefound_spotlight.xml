@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Sat, 07 Nov 2026 14:48:13 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[Campaign is funded] Ultimate TCG &amp; Miniature Storage</title>
+      <link>https://gamefound.com:443/en/projects/e-raptor/ultimate-tcg-and-miniature-storage</link>
+      <guid isPermaLink="false">70263</guid>
+      <pubDate>Sat, 07 Nov 2026 14:48:13 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13320/d31b88a7-d71d-4423-9c43-d107a4623fe0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Who Am I: 404</title>
+      <link>https://gamefound.com:443/en/projects/artist3xd/whoami</link>
+      <guid isPermaLink="false">70262</guid>
+      <pubDate>Sat, 07 Nov 2026 13:17:23 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6764/da50711c-0aa9-4339-a1b3-5ae9fb76007f.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Game Master's Companion: The Legend of Aang +</title>
+      <link>https://gamefound.com:443/en/projects/ex-regnum-publishing/game-masters-companion-avatar-the-last-airbender</link>
+      <guid isPermaLink="false">70261</guid>
+      <pubDate>Fri, 06 Nov 2026 14:38:42 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/10084/2e42c5de-a1bc-4b0c-9d72-d3c834854287.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Croquetalipsis Board Game has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/croquetagames/croquetalipsisboardgame</link>
+      <guid isPermaLink="false">70260</guid>
+      <pubDate>Fri, 06 Nov 2026 14:08:42 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8628/5f9ee4d9-53ea-44a1-a0af-d0260b83b0ac.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Somewhere Else: A Co-op Adventure</title>
+      <link>https://gamefound.com:443/en/projects/milecode/somewhere-else</link>
+      <guid isPermaLink="false">70259</guid>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13212/79ac13b0-f5ce-4e44-bbed-c45b874b6bb8.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Dice Quest: The Tower of the Elephant + The Dunwich Horror has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/juegorama/dice-quest</link>
+      <guid isPermaLink="false">70258</guid>
+      <pubDate>Fri, 06 Nov 2026 13:53:00 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6570/fb23a3a1-eadc-4d81-ade9-7100d38795bc.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Scoundrels has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/awaken-realms/scoundrels</link>
+      <guid isPermaLink="false">70257</guid>
+      <pubDate>Fri, 06 Nov 2026 13:14:50 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8527/838a499c-176e-4c29-818d-490692c7d8b4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New Pledge Manager] Printed Storage Boxes For Trading Cards Games Collection!</title>
+      <link>https://gamefound.com:443/en/projects/polandgames/printed-storage-boxes-for-trading-cards-games-collection</link>
+      <guid isPermaLink="false">70256</guid>
+      <pubDate>Fri, 06 Nov 2026 11:40:16 +0000</pubDate>
+      <description>New Pledge Manager</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13491/c651e5ef-6445-4353-9eab-94a4890f5348.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Dragons Den Playing Card</title>
+      <link>https://gamefound.com:443/en/projects/bluemist0305/dragons-den-playing-card</link>
+      <guid isPermaLink="false">70255</guid>
+      <pubDate>Fri, 06 Nov 2026 11:30:00 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13396/e6d33e8d-af82-407a-b10d-6f2842598eff.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Gry Bez Prądu | Czasopismo o planszówkach, bitewniakach i grach RPG</title>
+      <link>https://gamefound.com:443/en/projects/gametroll/gry-bez-pradu--czasopismo-o-planszowkach</link>
+      <guid isPermaLink="false">70254</guid>
+      <pubDate>Fri, 06 Nov 2026 10:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6438/fda09e44-c79e-4f43-ac75-c6c9c817d34f.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] The Wine Dark Sea</title>
+      <link>https://gamefound.com:443/en/projects/abyssal-raven-games/the-wine-dark-sea</link>
+      <guid isPermaLink="false">70253</guid>
+      <pubDate>Fri, 06 Nov 2026 06:31:13 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11491/4779df9a-8eec-4c24-a4fb-8d9953eeb396.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Spooky Triple Feature [Solo Game of the Month]</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/spooky-triple-feature-solo-game-of-the-month</link>
+      <guid isPermaLink="false">70252</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13312/f27b0e03-61e5-4edc-bbf7-4a4e60125b80.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Grimdark Future: Jade &amp; Claw</title>
+      <link>https://gamefound.com:443/en/projects/onepagerules/grimdark-future-jade-claw</link>
+      <guid isPermaLink="false">70251</guid>
+      <pubDate>Thu, 05 Nov 2026 22:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11645/74c54261-08dc-436b-85d8-bbda1944dd46.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Dark Order</title>
+      <link>https://gamefound.com:443/en/projects/czacha-games/dark-order</link>
+      <guid isPermaLink="false">70250</guid>
+      <pubDate>Thu, 05 Nov 2026 18:06:16 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6908/c89f40c9-0f23-4c6a-9d37-5e9b072b624a.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Dead City of V - Paradise Lost -</title>
+      <link>https://gamefound.com:443/en/projects/studio-clandestin/dead-city-of-v---paradise-lost--</link>
+      <guid isPermaLink="false">70249</guid>
+      <pubDate>Thu, 05 Nov 2026 14:35:31 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13552/f6be45c8-b5a6-47c2-9724-92532308888f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] HPTC - The Very Special Memory Game</title>
+      <link>https://gamefound.com:443/en/projects/art-is/hptc</link>
+      <guid isPermaLink="false">70248</guid>
+      <pubDate>Thu, 05 Nov 2026 07:59:27 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13507/88399910-8456-4d19-9d1e-2afde232aa0d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Junk 'n Gems</title>
+      <link>https://gamefound.com:443/en/projects/helsinki-hub/junk-n-gems</link>
+      <guid isPermaLink="false">70247</guid>
+      <pubDate>Thu, 05 Nov 2026 07:38:01 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6301/e4f06470-b02a-471c-98de-359eb8cc1516.png" type="image/png" />
+    </item>
+  </channel>
+</rss>
