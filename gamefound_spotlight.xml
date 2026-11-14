@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Fri, 13 Nov 2026 16:00:01 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[New post · Platform news] New Editor Functions, Disabling Bonus Amount &amp; More</title>
+      <link>https://gamefound.com/blog/post/new-editor-functions</link>
+      <guid isPermaLink="false">71309</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:01 +0000</pubDate>
+      <description>New post · Platform news</description>
+    </item>
+    <item>
+      <title>[Launch date] Low Orbit Online has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/aluzinov/low-orbit-online</link>
+      <guid isPermaLink="false">71308</guid>
+      <pubDate>Fri, 13 Nov 2026 08:32:14 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6372/bfc7923e-e2a3-4407-8853-56261d0c1e95.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Krampus and the Stolen Bell [D&amp;D 5e] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/fenn-the-stray/krampus-and-the-stolen-bell</link>
+      <guid isPermaLink="false">71307</guid>
+      <pubDate>Fri, 13 Nov 2026 08:03:09 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13596/97aa53c8-db50-4a69-b479-23572fabfe06.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Too Little Time</title>
+      <link>https://gamefound.com:443/en/projects/chip-theory-games/too-little-time</link>
+      <guid isPermaLink="false">71306</guid>
+      <pubDate>Thu, 12 Nov 2026 22:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/12995/ee2ff19d-cb0b-4d7c-abb6-b38c9473b713.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Joe Klipfel Presents [Solo Game of the Month] has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/gabe-barrett/joe-klipfel-presents-solo-game-of-the-month</link>
+      <guid isPermaLink="false">71305</guid>
+      <pubDate>Thu, 12 Nov 2026 17:10:23 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13316/4296a6c6-2b46-46dd-b590-d27c07102281.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] The Narrowing Coast: A CARNIVORE 2 Player Starter Set</title>
+      <link>https://gamefound.com:443/en/projects/buer-games/the-narrowing-coast</link>
+      <guid isPermaLink="false">71304</guid>
+      <pubDate>Thu, 12 Nov 2026 17:01:10 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13658/dedd76f5-f098-493f-9628-ca90ed3f634e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] AfrikaKorpse '41 and U-Boot Z has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/rayboxgames/afrikakorpse-41</link>
+      <guid isPermaLink="false">71303</guid>
+      <pubDate>Thu, 12 Nov 2026 16:52:42 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11715/2b9413e3-8acd-439e-b77a-e3e66005c6d9.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] The Moonwell Bell – A Dark Fantasy Sandbox for Shadowdark RPG has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/black-hand-publishing/the-moonwell-bell</link>
+      <guid isPermaLink="false">71302</guid>
+      <pubDate>Thu, 12 Nov 2026 15:17:05 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13029/47c74ac7-3717-4fed-9c9b-4494d4cb9d8b.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] KeyForge Online</title>
+      <link>https://gamefound.com:443/en/projects/yellow-king/keyforge-online</link>
+      <guid isPermaLink="false">71301</guid>
+      <pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11690/f49eade6-1cff-4878-9a5f-f6834b4fc21e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Mindbug - Dinopunk has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/marvin-hegen/mindbug-dinopunk</link>
+      <guid isPermaLink="false">71300</guid>
+      <pubDate>Thu, 12 Nov 2026 13:59:48 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9874/96e7089a-b185-424c-91db-d284230a01c0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] DICE VALLEY has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/smart-flamingo/dice-valley</link>
+      <guid isPermaLink="false">71299</guid>
+      <pubDate>Thu, 12 Nov 2026 11:47:27 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13010/063be88c-bd9f-4c1a-823c-71b5fee84a65.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Spell Tyrants: A Fantasy Miniatures Skirmish Game</title>
+      <link>https://gamefound.com:443/en/projects/dread-lantern/spell-tyrants</link>
+      <guid isPermaLink="false">71298</guid>
+      <pubDate>Thu, 12 Nov 2026 07:15:54 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13341/b4d3641c-8e72-4c45-941d-72de273fa2f0.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Sealed Stories: A Tactical Fantasy TTRPG</title>
+      <link>https://gamefound.com:443/en/projects/sealed-stories/sealed-stories</link>
+      <guid isPermaLink="false">71297</guid>
+      <pubDate>Wed, 11 Nov 2026 21:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8297/0915bc23-7989-47b2-9412-810fd73bd4ec.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Croquetalipsis Board Game</title>
+      <link>https://gamefound.com:443/en/projects/croquetagames/croquetalipsisboardgame</link>
+      <guid isPermaLink="false">71296</guid>
+      <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8628/5f9ee4d9-53ea-44a1-a0af-d0260b83b0ac.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign is funded] Marco Polo Deluxe Master Set</title>
+      <link>https://gamefound.com:443/en/projects/board-and-dice/marco-polo-deluxe-master-set</link>
+      <guid isPermaLink="false">71295</guid>
+      <pubDate>Wed, 11 Nov 2026 14:49:30 +0000</pubDate>
+      <description>Campaign is funded</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Campaign start] Marco Polo Deluxe Master Set</title>
+      <link>https://gamefound.com:443/en/projects/board-and-dice/marco-polo-deluxe-master-set</link>
+      <guid isPermaLink="false">71294</guid>
+      <pubDate>Wed, 11 Nov 2026 14:30:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png" type="image/png" />
+    </item>
+    <item>
+      <title>[24 hours left] Wholesome Adventure</title>
+      <link>https://gamefound.com:443/en/projects/jason-anarchy/wholesome-adventure</link>
+      <guid isPermaLink="false">71293</guid>
+      <pubDate>Wed, 11 Nov 2026 05:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11416/bb58bccc-5a1e-4a8e-9b53-d455299e1c5a.png" type="image/png" />
+    </item>
+  </channel>
+</rss>
