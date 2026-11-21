@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gamefound Spotlight (unofficial)</title>
+    <link>https://gamefound.com/api/platformEvents/getSpotlightPlatformEvents?eventCount=15&amp;olderThanEventId=&amp;excludeDemotedProjects=true</link>
+    <description>RSS feed generated from Gamefound Spotlight API</description>
+    <lastBuildDate>Sat, 21 Nov 2026 17:30:01 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>[24 hours left] Panopticon</title>
+      <link>https://gamefound.com:443/en/projects/pick-n-roll-games-lab-srl/panopticon</link>
+      <guid isPermaLink="false">71365</guid>
+      <pubDate>Sat, 21 Nov 2026 17:30:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/4640/d2b7b255-9147-4543-88a9-08582661c0d4.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Breakaway Football Dynasty</title>
+      <link>https://gamefound.com:443/en/projects/uplink-underground-games/breakaway-football-dynasty</link>
+      <guid isPermaLink="false">71364</guid>
+      <pubDate>Fri, 20 Nov 2026 22:13:52 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/3198/43752a1b-baf1-413a-a324-fcc3b93f6fbc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] 5 Ancient Games - Royal Game of UR, Bagh Chal, Yut Nori</title>
+      <link>https://gamefound.com:443/en/projects/queensell/5-ancient-games</link>
+      <guid isPermaLink="false">71363</guid>
+      <pubDate>Fri, 20 Nov 2026 20:12:12 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13616/11aebed3-899c-457f-a5c0-dd8c4f61d77c.png" type="image/png" />
+    </item>
+    <item>
+      <title>[Launch date] Watergate &amp; Public Enemy has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/francois-gilles-ricard/watergate-public-enemy</link>
+      <guid isPermaLink="false">71362</guid>
+      <pubDate>Fri, 20 Nov 2026 14:03:21 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13412/e2a89ebc-e0c0-4639-b9de-d325742576d0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] CLAN Keepers</title>
+      <link>https://gamefound.com:443/en/projects/massicotgames/clankeepers</link>
+      <guid isPermaLink="false">71361</guid>
+      <pubDate>Fri, 20 Nov 2026 14:02:22 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/6334/f91746d7-cd88-4d20-9db9-b547cfc3bd9e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] ORCHESTRA</title>
+      <link>https://gamefound.com:443/en/projects/bgbureau/orchestra</link>
+      <guid isPermaLink="false">71360</guid>
+      <pubDate>Fri, 20 Nov 2026 13:46:36 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/11770/f2092f8c-c75c-40f7-9c47-d4c4e961c3f3.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] D100 NPC Workbook – Create Compelling NPCs &amp; Side Quests, No Screens Required!</title>
+      <link>https://gamefound.com:443/en/projects/tabletopupgrades/d100-npc-workbook--create-compelling-characters-with-ease</link>
+      <guid isPermaLink="false">71359</guid>
+      <pubDate>Fri, 20 Nov 2026 11:52:07 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13267/6013c5bf-460b-450e-be37-f24ea206aec9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] The Narrowing Coast: A CARNIVORE 2 Player Starter Set has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/buer-games/the-narrowing-coast</link>
+      <guid isPermaLink="false">71358</guid>
+      <pubDate>Fri, 20 Nov 2026 11:22:10 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13658/dedd76f5-f098-493f-9628-ca90ed3f634e.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] World of Eight</title>
+      <link>https://gamefound.com:443/en/projects/techno-games/world-of-eight</link>
+      <guid isPermaLink="false">71357</guid>
+      <pubDate>Fri, 20 Nov 2026 04:55:58 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13684/db9ed4eb-6f67-4315-814e-80b15706dcc0.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Lone Panzer</title>
+      <link>https://gamefound.com:443/en/projects/yaoback/loned-panzer</link>
+      <guid isPermaLink="false">71356</guid>
+      <pubDate>Fri, 20 Nov 2026 02:24:32 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13711/c61f82b1-8404-403c-8fc2-9aa87be4138e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Campaign start] Ennemis Publics Premières Extensions</title>
+      <link>https://gamefound.com:443/en/projects/ennemis-publics/ennemis-publics-premieres-extensions</link>
+      <guid isPermaLink="false">71355</guid>
+      <pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Campaign start</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13103/b09e229d-17bf-44ef-84f1-90efd265dd0e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[Launch date] Coreward has a starting date.</title>
+      <link>https://gamefound.com:443/en/projects/donsanchezzz/coreward</link>
+      <guid isPermaLink="false">71354</guid>
+      <pubDate>Thu, 19 Nov 2026 15:07:50 +0000</pubDate>
+      <description>Launch date</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13580/87379672-bb0e-4a4d-9e61-d871e68e5144.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Quests of Drakana</title>
+      <link>https://gamefound.com:443/en/projects/boardvideogames/quests-of-drakana</link>
+      <guid isPermaLink="false">71353</guid>
+      <pubDate>Thu, 19 Nov 2026 14:36:35 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13462/8f0efa08-30ae-4150-ac05-7e804c53e9e8.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] Universe of Cards TCG: Dragonrealm</title>
+      <link>https://gamefound.com:443/en/projects/brumble-games/uoc-dragonrealm</link>
+      <guid isPermaLink="false">71352</guid>
+      <pubDate>Thu, 19 Nov 2026 13:11:02 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13115/db3a2d4f-541a-45aa-8d23-6310fd3ffc9d.png" type="image/png" />
+    </item>
+    <item>
+      <title>[New project] The Games We Played</title>
+      <link>https://gamefound.com:443/en/projects/pretty-weird-games/the-games-we-played</link>
+      <guid isPermaLink="false">71351</guid>
+      <pubDate>Thu, 19 Nov 2026 08:45:58 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13536/2c6832c7-f2fc-46e4-b05d-406dd8ac03d9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[New project] Dotcom</title>
+      <link>https://gamefound.com:443/en/projects/saltandpepper/dotcom</link>
+      <guid isPermaLink="false">71350</guid>
+      <pubDate>Thu, 19 Nov 2026 07:21:59 +0000</pubDate>
+      <description>New project</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/13650/4c5fe4b1-1e8d-488f-9d52-497111d8ffce.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>[24 hours left] Fable Quest</title>
+      <link>https://gamefound.com:443/en/projects/tabletop-tycoon/fable-quest</link>
+      <guid isPermaLink="false">71349</guid>
+      <pubDate>Thu, 19 Nov 2026 01:00:01 +0000</pubDate>
+      <description>24 hours left</description>
+      <enclosure url="https://imgcdn.gamefound.com/projectimage/projects/9823/979f9c73-aa4e-4ecc-91bb-8e34eb843603.png" type="image/png" />
+    </item>
+  </channel>
+</rss>
